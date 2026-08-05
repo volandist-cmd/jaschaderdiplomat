@@ -1,0 +1,14 @@
+{
+  "short": "DGP",
+  "title": "DGP – Ergebnisse schätzen",
+  "desc": "Überschlagsrechnen statt exaktem Rechnen – 20 Aufgaben unter sehr hohem Zeitdruck. Teil des kognitiven Leistungstests (numerische Verarbeitungskapazität).",
+  "count": 20,
+  "totalSec": 300,
+  "icon": "estimate",
+  "schwellePct": 60,
+  "example": {
+    "q": "38 × 21 ≈ ?",
+    "e": "Runden: 40·20 = 800 – die nächstgelegene Option ist richtig, exaktes Rechnen ist im Zeitbudget nicht nötig."
+  },
+  "intro": "Die Rechenausdrücke sind bewusst so aufwendig, dass exaktes Rechnen im Zeitbudget unmöglich ist. Runden Sie die Zahlen geschickt und schätzen Sie die Größenordnung; wählen Sie den Wert, der dem exakten Ergebnis am nächsten liegt. Die Distraktoren unterscheiden sich vor allem in der Zehnerpotenz und um Faktoren wie 2 oder 3. In jedem Versuch werden 20 neue, einzigartige Aufgaben erzeugt."
+}

@@ -1,0 +1,573 @@
+{
+  "short": "Recht",
+  "title": "Völker-, Europa- & Staatsrecht",
+  "desc": "Völkerrecht, Europarecht und Staatsrecht – 25 Fragen, 10 Minuten.",
+  "durationMin": 10,
+  "icon": "scale",
+  "sets": {
+    "2019": {
+      "label": "Auswahlverfahren 2019",
+      "note": "Lösungen mit dem offiziellen AA-Antwortraster abgeglichen (100 % Übereinstimmung).",
+      "items": [
+        {
+          "q": "„Gemischte Verträge“ sind Verträge,",
+          "o": [
+            "die sowohl Kompetenzen des Bundes als auch der Länder betreffen.",
+            "die Zuständigkeiten verschiedener Bundesministerien betreffen.",
+            "die in verschiedenen Ausschüssen des Bundestags beraten werden.",
+            "an denen sowohl die EU als auch deren Mitgliedsstaaten beteiligt sind."
+          ],
+          "a": 3,
+          "e": "Gemischte Abkommen werden von EU und Mitgliedstaaten gemeinsam geschlossen, weil sie sowohl Unions- als auch mitgliedstaatliche Kompetenzen berühren."
+        },
+        {
+          "q": "Eine gemeinsame Absichtserklärung",
+          "o": [
+            "ist ein völkerrechtlicher Vertrag.",
+            "entfaltet lediglich politische Bindungswirkung.",
+            "darf nur vom Auswärtigen Amt geschlossen werden.",
+            "bedarf einer Vollmacht zur Unterzeichnung."
+          ],
+          "a": 1,
+          "e": "Eine Absichtserklärung (MoU) soll gerade keinen Rechtsbindungswillen begründen und wirkt nur politisch."
+        },
+        {
+          "q": "Wie viele Kommissarinnen und Kommissare hat die EU?",
+          "o": [
+            "17",
+            "23",
+            "28",
+            "31"
+          ],
+          "a": 2,
+          "e": "Vor dem Brexit galt: eine Kommissarin/ein Kommissar je Mitgliedstaat – 28 (inkl. Präsident)."
+        },
+        {
+          "q": "Mit welchen rechtlichen Fragen beschäftigte sich der Internationale Strafgerichtshof für das ehemalige Jugoslawien?",
+          "o": [
+            "Staatennachfolge, Privatisierung und Eigentum",
+            "Verstöße gegen Grenzabkommen der Nachfolgestaaten",
+            "Völkermord, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen während der Auflösung Jugoslawiens",
+            "Korruption und Organisierte Kriminalität"
+          ],
+          "a": 2,
+          "e": "Der ICTY (ad-hoc-Tribunal des Sicherheitsrats) verfolgte schwerste Völkerrechtsverbrechen aus den Jugoslawienkriegen."
+        },
+        {
+          "q": "Das Wiener Übereinkommen vom 23.05.1969 über das Recht der Verträge",
+          "o": [
+            "bestimmt, dass Vorbehalte nur ausdrücklich angenommen werden können.",
+            "ordnet an, dass Vorbehalte nur bei bilateralen Verträgen angebracht werden können.",
+            "sagt, dass ein Vertrag Vorbehalte verbieten kann.",
+            "legt fest, dass Vorbehalte nicht zurückgezogen werden können."
+          ],
+          "a": 2,
+          "e": "Art. 19 WVK: Vorbehalte sind grundsätzlich möglich, sofern der Vertrag sie nicht verbietet; Vorbehalte gibt es nur bei multilateralen Verträgen und sie sind rücknehmbar."
+        },
+        {
+          "q": "In einem völkerrechtlichen Vertrag bestimmt die Ratifikationsklausel,",
+          "o": [
+            "ob die Bundesländer bei der Ratifikation beteiligt werden müssen.",
+            "ob der Vertrag veröffentlicht werden muss.",
+            "ob die Zustimmung der Vertragsstaaten, gebunden zu sein, durch Ratifikation erfolgt.",
+            "ob der Bundesrat bei der Ratifikation beteiligt werden muss."
+          ],
+          "a": 2,
+          "e": "Die Ratifikationsklausel regelt, dass die endgültige Bindung erst durch Ratifikation (nicht schon mit Unterzeichnung) eintritt."
+        },
+        {
+          "q": "Beim Dezember 2018 in Marrakesch angenommenen „Globalen Pakt für sichere, geordnete und reguläre Migration“ handelt es sich um",
+          "o": [
+            "einen völkerrechtlich verbindlichen Vertrag.",
+            "eine politische Absichtserklärung der Staaten ohne völkerrechtliche Verpflichtungen.",
+            "ein nationales, deutsches Gesetz.",
+            "eine bindende Rahmenvereinbarung, die national konkretisiert werden muss."
+          ],
+          "a": 1,
+          "e": "Der Migrationspakt ist rechtlich unverbindlich („soft law“) und begründet keine völkerrechtlichen Pflichten."
+        },
+        {
+          "q": "Der Internationale Gerichtshof (IGH) in Den Haag ist",
+          "o": [
+            "das Hauptrechtsprechungsorgan der Vereinten Nationen für Streitigkeiten zwischen Staaten.",
+            "ein ständiges Strafgericht auf Grundlage des Römischen Statuts.",
+            "ein Sondertribunal zur Verfolgung schwerer Völkerrechtsverbrechen.",
+            "ein internes Gremium der VN für administrative Streitigkeiten."
+          ],
+          "a": 0,
+          "e": "Der IGH ist das Hauptrechtsprechungsorgan der UN für zwischenstaatliche Streitigkeiten (nicht zu verwechseln mit dem IStGH)."
+        },
+        {
+          "q": "Das völkergewohnheitsrechtliche Institut des „Diplomatischen Schutzes“ bezeichnet",
+          "o": [
+            "die Immunität von Botschaften vor Strafverfolgung im Gaststaat.",
+            "den Grundsatz besonderer Schutzwürdigkeit diplomatischer Beziehungen.",
+            "das Recht eines Staates, seine Staatsangehörigen gegenüber anderen Staaten zu schützen.",
+            "den polizeilichen Objektschutz von Botschaften im Ausland."
+          ],
+          "a": 2,
+          "e": "Diplomatischer Schutz = ein Staat nimmt sich der Rechte eigener Staatsangehöriger gegenüber einem anderen Staat an."
+        },
+        {
+          "q": "Das Vier-Genfer-Abkommen und seine Zusatzprotokolle",
+          "o": [
+            "regeln Teile des humanitären Völkerrechts.",
+            "regeln das Welthandelsrecht.",
+            "regeln das Seevölkerrecht.",
+            "regeln das internationale Luftrecht."
+          ],
+          "a": 0,
+          "e": "Die Genfer Abkommen bilden den Kern des humanitären Völkerrechts (Schutz im bewaffneten Konflikt)."
+        },
+        {
+          "q": "Wenn ein amtierender Staats- oder Regierungschef eines anderen Staates Deutschland besucht …",
+          "o": [
+            "hat er Anspruch darauf, von der Regierung empfangen zu werden.",
+            "gelten für ihn die Gesetze seines Heimatlandes auch in Deutschland.",
+            "genießt er vollumfängliche Immunität vor der deutschen Strafgerichtsbarkeit.",
+            "Alle drei vorgenannten Antworten sind korrekt."
+          ],
+          "a": 2,
+          "e": "Amtierende Staatsoberhäupter genießen umfassende persönliche Immunität (ratione personae) vor fremder Strafgerichtsbarkeit."
+        },
+        {
+          "q": "Bei wie vielen bi- und multilateralen völkerrechtlichen Verträgen ist Deutschland aktuell Vertragspartei?",
+          "o": [
+            "ca. 60",
+            "ca. 660",
+            "ca. 6.600",
+            "ca. 660.000"
+          ],
+          "a": 2,
+          "e": "Deutschland ist Partei von rund 6.600 völkerrechtlichen Verträgen.",
+          "flag": true
+        },
+        {
+          "q": "Welche Verfassungen gelten in der Bundesrepublik Deutschland?",
+          "o": [
+            "Bayerische Verfassung, EU-Vertrag",
+            "Abgeordnetengesetz, Grundgesetz",
+            "Grundgesetz des Bundes, Landesverfassungen",
+            "Magna Charta, Grundgesetz"
+          ],
+          "a": 2,
+          "e": "Es gelten das Grundgesetz des Bundes und die Verfassungen der 16 Länder nebeneinander."
+        },
+        {
+          "q": "Was ist der MICT (United Nations Mechanism for International Criminal Tribunals)?",
+          "o": [
+            "Nachfolgetribunal von ICTR (Ruanda) und ICTY (Jugoslawien)",
+            "Nachfolgetribunal allein des ICTY",
+            "VN-Sonderorganisation für Strafgerichtshöfe",
+            "Beratungsorgan des IStGH"
+          ],
+          "a": 0,
+          "e": "Der MICT (heute IRMCT) führt die Restaufgaben der ad-hoc-Tribunale für Ruanda und Jugoslawien fort."
+        },
+        {
+          "q": "Was ist nicht Teil der konsularischen Betreuung durch eine deutsche Auslandsvertretung?",
+          "o": [
+            "Überprüfung ausreichender Verpflegung des Inhaftierten",
+            "Haftbesuche, soweit gewünscht",
+            "Verständigung der Angehörigen",
+            "Vertretung des Inhaftierten in seinem Strafverfahren"
+          ],
+          "a": 3,
+          "e": "Konsularische Betreuung umfasst Beistand, aber keine anwaltliche Vertretung vor Gericht."
+        },
+        {
+          "q": "Nach ständiger Staatspraxis kann der Bundespräsident die Ausfertigung eines Gesetzes verweigern,",
+          "o": [
+            "wenn er es für politisch nicht opportun hält (politisches Prüfungsrecht).",
+            "nur bei durchgreifenden Zweifeln am formell korrekten Zustandekommen (formelles Prüfungsrecht).",
+            "immer bei durchgreifenden Zweifeln an einem materiellen Verfassungsverstoß (materielles Prüfungsrecht).",
+            "immer bei durchgreifenden Zweifeln an einem formellen oder materiellen Verfassungsverstoß (formelles und materielles Prüfungsrecht)."
+          ],
+          "a": 3,
+          "e": "Nach herrschender Staatspraxis prüft der Bundespräsident formelle und – bei evidenten Verstößen – auch materielle Verfassungsmäßigkeit; ein politisches Veto hat er nicht."
+        },
+        {
+          "q": "In welchem Grundgesetzartikel ist die Übertragung von Kompetenzen auf die EU geregelt?",
+          "o": [
+            "Art. 1",
+            "Art. 23",
+            "Art. 32",
+            "Art. 59"
+          ],
+          "a": 1,
+          "e": "Art. 23 GG ist der „Europaartikel“ und regelt die Mitwirkung an und Kompetenzübertragung auf die EU."
+        },
+        {
+          "q": "Welcher Schutz kann Anfragen nach dem Informationsfreiheitsgesetz entgegengehalten werden?",
+          "o": [
+            "Schutz besonderer öffentlicher Belange und personenbezogener Daten",
+            "nur Schutz besonderer öffentlicher Belange",
+            "nur Schutz personenbezogener Daten",
+            "nur der Geheimschutz"
+          ],
+          "a": 0,
+          "e": "Das IFG kennt Ausnahmen sowohl zum Schutz öffentlicher Belange als auch personenbezogener Daten."
+        },
+        {
+          "q": "Im Sicherheitsrat bedeutet das sogenannte „double veto“,",
+          "o": [
+            "dass das Veto auf Nachfrage erneut bestätigt werden muss.",
+            "dass mindestens zwei ständige Mitglieder mit Nein stimmen müssen.",
+            "dass auch die Vorfrage, ob es sich um eine materielle oder Verfahrensfrage handelt, dem Veto unterliegt.",
+            "dass ein einmal gescheiterter Entwurf nicht erneut zur Abstimmung gestellt werden darf."
+          ],
+          "a": 2,
+          "e": "Das „Doppelveto“: ein Ständiges Mitglied kann zuerst die Einstufung als materielle Frage erzwingen und dann diese inhaltlich blockieren."
+        },
+        {
+          "q": "Ein Staat kann einen Vorbehalt zu einem multilateralen Vertrag bis spätestens zu folgendem Zeitpunkt einlegen:",
+          "o": [
+            "nur bis zur Unterschrift",
+            "jederzeit",
+            "bis zu dem Zeitpunkt, in dem der Vertrag für ihn Bindungswirkung entfaltet",
+            "nur bis zur Abstimmung über den Vertragstext"
+          ],
+          "a": 2,
+          "e": "Ein Vorbehalt ist bei Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt möglich – also bis zur Erklärung, gebunden sein zu wollen."
+        },
+        {
+          "q": "Welchen der folgenden Verträge hat die Bundesrepublik Deutschland ratifiziert?",
+          "o": [
+            "UN-Konvention über die Nichtanwendbarkeit der Verjährung auf Kriegsverbrechen",
+            "UN-Rassendiskriminierungskonvention (ICERD)",
+            "UN-Konvention gegen Apartheid",
+            "UN-Wanderarbeitnehmerkonvention"
+          ],
+          "a": 1,
+          "e": "Deutschland hat die Rassendiskriminierungskonvention (ICERD, 1969) ratifiziert, die übrigen genannten dagegen nicht."
+        },
+        {
+          "q": "Welcher der folgenden Staaten ist Vertragspartei der Europäischen Menschenrechtskonvention (EMRK)?",
+          "o": [
+            "Kosovo",
+            "Weißrussland",
+            "Aserbaidschan",
+            "Vatikan"
+          ],
+          "a": 2,
+          "e": "EMRK-Partei sind die Mitglieder des Europarats; davon ist hier nur Aserbaidschan Mitglied."
+        },
+        {
+          "q": "Das „Lindauer Abkommen“",
+          "o": [
+            "regelt die Schifffahrt auf dem Bodensee.",
+            "regelte den Rechtsstatus des Sudetenlandes.",
+            "regelt die Aufteilung der Vertragsschlusskompetenzen zwischen Bund und Ländern.",
+            "regelt das Grenzregime zwischen Deutschland und der Schweiz."
+          ],
+          "a": 2,
+          "e": "Das Lindauer Abkommen (1957) regelt die Beteiligung der Länder beim Abschluss von Bundesverträgen in Länderkompetenzbereichen."
+        },
+        {
+          "q": "Ein „radizierter Vertrag“ meint",
+          "o": [
+            "einen Vertrag, dem das nationale Parlament durch formelles Gesetz zugestimmt hat.",
+            "einen Vertrag, bei dem dem Depositar eine Urkunde hinterlegt wurde.",
+            "einen gebietsbezogenen Vertrag, der im Fall der Staatennachfolge automatisch weiter gilt.",
+            "einen Vertrag, der bereits mit der Unterschrift in Kraft tritt."
+          ],
+          "a": 2,
+          "e": "Ein radizierter (lokalisierter) Vertrag ist an ein Gebiet gebunden und besteht bei Staatennachfolge fort."
+        },
+        {
+          "q": "Der Europäische Gerichtshof für Menschenrechte (EGMR) ist für Klagen von Einzelpersonen zuständig,",
+          "o": [
+            "bereits, wenn der verklagte Staat Vertragspartei der EMRK ist.",
+            "wenn verklagter Staat und Heimatstaat des Klägers Vertragspartei sind.",
+            "wenn beide Vertragspartei sind und die Zuständigkeit gesondert anerkannt haben.",
+            "wenn der verklagte Staat Vertragspartei ist und die Zuständigkeit gesondert anerkannt hat."
+          ],
+          "a": 0,
+          "e": "Seit Protokoll Nr. 11 (1998) ist die Individualbeschwerde obligatorisch – die Zuständigkeit besteht automatisch, sobald der Staat EMRK-Partei ist."
+        }
+      ]
+    },
+    "2023": {
+      "label": "Auswahlverfahren 2023",
+      "note": "Lösungen vom Auswärtigen Amt offiziell angegeben.",
+      "items": [
+        {
+          "q": "In welcher Norm werden nach allgemeiner Auffassung die wichtigsten Rechtsquellen des Völkerrechts aufgezählt?",
+          "o": [
+            "Art. 5 S. 2 Römisches Statut",
+            "Art. 38 Abs. 1 IGH-Statut",
+            "Art. 92 VN-Charta",
+            "Art. 2 Abs. 1 Wiener Vertragsrechtskonvention"
+          ],
+          "a": 1,
+          "e": "Art. 38 Abs. 1 IGH-Statut nennt Verträge, Gewohnheitsrecht und allgemeine Rechtsgrundsätze als Hauptrechtsquellen."
+        },
+        {
+          "q": "Was beschreibt – kein – Vorrangverhältnis im internationalen Recht?",
+          "o": [
+            "VN-Charta gegenüber sonstigen Verpflichtungen der Mitgliedstaaten",
+            "ius cogens gegenüber sonstigem Völkerrecht",
+            "Vertragliches Völkerrecht gegenüber Völkergewohnheitsrecht",
+            "EU-Recht gegenüber nationalem Recht"
+          ],
+          "a": 2,
+          "e": "Vertrag und Gewohnheitsrecht stehen grundsätzlich gleichrangig (lex posterior/specialis), es besteht kein genereller Vorrang."
+        },
+        {
+          "q": "Welches Hauptorgan der VN trägt nach Art. 24 VN-Charta die „Hauptverantwortung“ für Weltfrieden und internationale Sicherheit?",
+          "o": [
+            "Sicherheitsrat",
+            "Internationaler Gerichtshof",
+            "Generalversammlung",
+            "Sekretariat"
+          ],
+          "a": 0,
+          "e": "Art. 24 VN-Charta überträgt dem Sicherheitsrat die Hauptverantwortung für Frieden und Sicherheit."
+        },
+        {
+          "q": "Die „Articles on State Responsibility“ (2001) zur Staatenverantwortlichkeit sind",
+          "o": [
+            "als völkerrechtlicher Vertrag für alle Vertragsparteien verbindlich.",
+            "als Resolution der VN-Generalversammlung für alle Mitglieder verbindlich.",
+            "völkerrechtlich verbindlich, soweit sie geltendes Gewohnheitsrecht wiedergeben.",
+            "völkerrechtlich unverbindlich."
+          ],
+          "a": 2,
+          "e": "Die ILC-Artikel sind kein Vertrag; sie binden nur, soweit sie geltendes Völkergewohnheitsrecht kodifizieren."
+        },
+        {
+          "q": "Welche Organe üben im ordentlichen Gesetzgebungsverfahren der EU weitgehend gleichberechtigt eine zentrale Rolle aus?",
+          "o": [
+            "Europäischer Rat und Europäische Kommission",
+            "Europäisches Parlament und Rat der Europäischen Union",
+            "Europäische Zentralbank und Wirtschafts- und Sozialausschuss",
+            "Ausschuss der Regionen und Europäischer Gerichtshof"
+          ],
+          "a": 1,
+          "e": "Im ordentlichen Gesetzgebungsverfahren entscheiden Parlament und Rat der EU gleichberechtigt (Mitentscheidung)."
+        },
+        {
+          "q": "Wer ist amtierende(r) Hohe(r) Vertreter(in) der EU für Außen- und Sicherheitspolitik (Stand 2023)?",
+          "o": [
+            "Federica Mogherini",
+            "Roberta Metsola",
+            "Josep Borrell",
+            "Charles Michel"
+          ],
+          "a": 2,
+          "e": "Josep Borrell war 2019–2024 Hoher Vertreter der EU für Außen- und Sicherheitspolitik.",
+          "flag": true
+        },
+        {
+          "q": "Unter welchen Voraussetzungen kommt die Aussetzung von Rechten nach Art. 7 EUV in Betracht?",
+          "o": [
+            "Nichtbeachtung eines EuGH-Urteils",
+            "Verletzung der Maastricht-Konvergenzkriterien",
+            "Verspätete Richtlinienumsetzung",
+            "Schwerwiegende und anhaltende Verletzung der Werte der Union"
+          ],
+          "a": 3,
+          "e": "Art. 7 EUV greift bei schwerwiegender, anhaltender Verletzung der Grundwerte (Demokratie, Rechtsstaatlichkeit)."
+        },
+        {
+          "q": "Wann darf der Empfangsstaat einen ausländischen Diplomaten zur persona non grata erklären?",
+          "o": [
+            "Jederzeit ohne Angabe von Gründen",
+            "Nur als Gegenmaßnahme auf Rechtsverstöße des Entsendestaats",
+            "Nur bei Straftaten des Diplomaten",
+            "Nur nach vorheriger Stellungnahme des Entsendestaats"
+          ],
+          "a": 0,
+          "e": "Nach Art. 9 WÜD kann der Empfangsstaat jederzeit und ohne Begründung eine persona non grata erklären."
+        },
+        {
+          "q": "Was versteht man unter einem „radizierten“ völkerrechtlichen Vertrag?",
+          "o": [
+            "Dem Vertrag wurde durch das zuständige nationale Organ verbindlich zugestimmt.",
+            "Der Vertrag ist untrennbar mit einem bestimmten Gebiet verbunden und gilt bei Staatennachfolge weiter.",
+            "Der Vertrag errichtet eine Internationale Organisation.",
+            "Der Vertrag hat objektive Drittwirkung."
+          ],
+          "a": 1,
+          "e": "Radizierte (gebietsbezogene) Verträge bleiben bei Staatennachfolge mit dem Gebiet verbunden."
+        },
+        {
+          "q": "Die Ausschließliche Wirtschaftszone (AWZ) im Seevölkerrecht",
+          "o": [
+            "ist Teil des Staatsgebiets des Küstenstaats.",
+            "dient der Sicherung von Zoll-, Steuer- und Einwanderungsvorschriften.",
+            "steht jedem Küstenstaat mit bis zu 24 Seemeilen zu.",
+            "gewährt dem Küstenstaat Sonderrechte und kann vor Festland und Inseln bestehen."
+          ],
+          "a": 3,
+          "e": "Die AWZ (bis 200 sm) verleiht dem Küstenstaat souveräne Nutzungsrechte (Ressourcen), ist aber kein Staatsgebiet."
+        },
+        {
+          "q": "Welche Institution ist für die schiedsgerichtliche Beilegung von Streitigkeiten zwischen Investoren und Staaten zuständig?",
+          "o": [
+            "UNHCR",
+            "ICSID",
+            "IBRD",
+            "IWF"
+          ],
+          "a": 1,
+          "e": "ICSID (Weltbankgruppe) ist das zentrale Forum für Investor-Staat-Schiedsverfahren."
+        },
+        {
+          "q": "Welche Normen sind nach Art. 25 GG Bestandteil des Bundesrechts und gehen den Gesetzen vor?",
+          "o": [
+            "Die Normen der VN-Charta",
+            "Von der Bundesrepublik ratifizierte Verträge",
+            "Die allgemeinen Regeln des Völkerrechts (insb. Gewohnheitsrecht)",
+            "Entscheidungen internationaler Gerichte"
+          ],
+          "a": 2,
+          "e": "Art. 25 GG verleiht den allgemeinen Regeln des Völkerrechts Vorrang vor den Gesetzen."
+        },
+        {
+          "q": "Muss der Bundestag dem bewaffneten Einsatz der Bundeswehr im Vorhinein zustimmen?",
+          "o": [
+            "Grundsätzlich ja, außer bei Gefahr im Verzug",
+            "Grundsätzlich ja, außer bei Geheimhaltungsinteressen",
+            "Grundsätzlich nein, außer die Regierung legt es vor",
+            "Nein"
+          ],
+          "a": 0,
+          "e": "Parlamentsvorbehalt: grundsätzlich vorherige Zustimmung; bei Gefahr im Verzug ist nachträgliche Befassung möglich."
+        },
+        {
+          "q": "Wobei handelt es sich – nicht – um ein der Ewigkeitsgarantie unterliegendes Staatsstrukturprinzip des Grundgesetzes?",
+          "o": [
+            "Bundesstaatsprinzip",
+            "Demokratieprinzip",
+            "Friedlichkeitsprinzip",
+            "Republikprinzip"
+          ],
+          "a": 2,
+          "e": "Art. 79 III i.V.m. Art. 20 GG schützt u.a. Bundesstaat, Demokratie, Republik und Sozialstaat – ein „Friedlichkeitsprinzip“ zählt nicht dazu."
+        },
+        {
+          "q": "In welcher Verfahrensart verzeichnet das BVerfG jährlich die mit Abstand meisten Eingänge?",
+          "o": [
+            "Organstreitverfahren",
+            "(Individual-)Verfassungsbeschwerde",
+            "Revision",
+            "Normenkontrollverfahren"
+          ],
+          "a": 1,
+          "e": "Die Verfassungsbeschwerde macht den weit überwiegenden Teil der BVerfG-Eingänge aus."
+        },
+        {
+          "q": "Welche Zuordnung einer VN-Peacekeeping-Mission zum Einsatzgebiet ist – nicht – korrekt?",
+          "o": [
+            "MINURSO – Südsudan",
+            "UNMIK – Kosovo",
+            "UNTSO – Naher Osten",
+            "UNIFIL – Libanon"
+          ],
+          "a": 0,
+          "e": "MINURSO ist die Mission für die Westsahara, nicht für den Südsudan."
+        },
+        {
+          "q": "Was ist Gegenstand des 2023 von Russland ausgesetzten New-START-Vertrags?",
+          "o": [
+            "Verzicht auf Handelshemmnisse",
+            "Freie Navigation durch die Beringstraße",
+            "Verbot der Auslieferung an den IStGH",
+            "Beschränkung und Verringerung nuklearer Sprengköpfe und Trägersysteme"
+          ],
+          "a": 3,
+          "e": "New START begrenzt strategische Nuklearwaffen (Sprengköpfe und Trägersysteme) der USA und Russlands."
+        },
+        {
+          "q": "In welchem Bereich besitzt die EU nur eine unterstützende Zuständigkeit?",
+          "o": [
+            "Umweltpolitik",
+            "Kulturpolitik",
+            "Verbraucherschutz",
+            "Energiepolitik"
+          ],
+          "a": 1,
+          "e": "Kultur zählt zu den unterstützenden Zuständigkeiten (Art. 6 AEUV); die anderen sind geteilte Zuständigkeiten."
+        },
+        {
+          "q": "In welchem Verfahren entschied der EuGH, dass Mitgliedstaaten bei Verstößen gegen Gemeinschaftsrecht schadensersatzpflichtig sein können?",
+          "o": [
+            "Dassonville",
+            "Van Gend en Loos",
+            "Foto Frost",
+            "Francovich"
+          ],
+          "a": 3,
+          "e": "Die Rechtssache Francovich begründete die Staatshaftung für die Nichtumsetzung von Richtlinien."
+        },
+        {
+          "q": "Welche EU-Agentur unterstützt die Mitgliedstaaten beim Schutz ihrer Außengrenzen?",
+          "o": [
+            "EDA",
+            "Europol",
+            "Frontex",
+            "OLAF"
+          ],
+          "a": 2,
+          "e": "Frontex ist die Europäische Agentur für die Grenz- und Küstenwache."
+        },
+        {
+          "q": "2009 wurde erstmals ein IStGH-Haftbefehl gegen ein amtierendes Staatsoberhaupt erlassen. Gegen wen?",
+          "o": [
+            "Slobodan Milošević",
+            "Augusto Pinochet",
+            "Omar al-Bashir",
+            "Charles Taylor"
+          ],
+          "a": 2,
+          "e": "Gegen den sudanesischen Präsidenten Omar al-Bashir (Darfur) erging 2009 der erste Haftbefehl gegen einen amtierenden Präsidenten."
+        },
+        {
+          "q": "Wie viele Botschaften unterhält die Bundesrepublik Deutschland (Stand 2022)?",
+          "o": [
+            "111",
+            "152",
+            "193",
+            "234"
+          ],
+          "a": 1,
+          "e": "Deutschland unterhielt 2022 rund 152 Botschaften (Teil eines Netzes von über 200 Auslandsvertretungen)."
+        },
+        {
+          "q": "Welcher „Gruppe“ von Menschenrechten sind die Rechte der EMRK weit überwiegend zuzuordnen?",
+          "o": [
+            "Bürgerliche und politische Rechte",
+            "Wirtschaftliche, soziale und kulturelle Rechte",
+            "Kollektive Gruppenrechte",
+            "Gleichheitsrechte"
+          ],
+          "a": 0,
+          "e": "Die EMRK schützt überwiegend klassische bürgerliche und politische Rechte (erste Generation)."
+        },
+        {
+          "q": "Welcher völkerrechtliche Vertrag (1951) regelt bis heute den Umgang mit Flüchtlingen?",
+          "o": [
+            "Genfer Flüchtlingskonvention",
+            "Wiener Flüchtlingskonvention",
+            "Haager Flüchtlingskonvention",
+            "Marrakesch-Flüchtlingspakt"
+          ],
+          "a": 0,
+          "e": "Die Genfer Flüchtlingskonvention von 1951 ist die zentrale Grundlage des internationalen Flüchtlingsschutzes."
+        },
+        {
+          "q": "Welche Möglichkeit gegen verfassungsfeindliche Parteien sieht Art. 21 GG neben dem Parteiverbot seit 2017 vor?",
+          "o": [
+            "IT-Überwachung von Parteieinrichtungen",
+            "Ausschluss von Landtags- und Kommunalwahlen",
+            "Ausschluss von Mitgliedern von öffentlichen Ämtern",
+            "Ausschluss von der staatlichen Finanzierung und Entfall steuerlicher Begünstigung"
+          ],
+          "a": 3,
+          "e": "Seit 2017 kann verfassungsfeindlichen Parteien die staatliche Finanzierung entzogen werden (Art. 21 Abs. 3 GG)."
+        }
+      ]
+    }
+  }
+}

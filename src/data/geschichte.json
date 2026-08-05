@@ -1,0 +1,574 @@
+{
+  "short": "Geschichte",
+  "title": "Geschichte & Politik",
+  "desc": "Deutsche und internationale Geschichte, Außenpolitik, Institutionen – 25 Fragen, 10 Minuten.",
+  "durationMin": 10,
+  "icon": "book",
+  "sets": {
+    "2019": {
+      "label": "Auswahlverfahren 2019",
+      "note": "23/25 Lösungen mit dem AA-Raster 2016 deckungsgleich; Frage 8 und 13 sind 2019-spezifisch und von dieser Anwendung ermittelt.",
+      "items": [
+        {
+          "q": "In welcher humanitären Krise sind nach Angaben der VN die meisten Menschen auf humanitäre Hilfe angewiesen?",
+          "o": [
+            "Syrien",
+            "Südsudan",
+            "Jemen",
+            "DR Kongo"
+          ],
+          "a": 2,
+          "e": "Der Jemen galt zum Zeitpunkt der Prüfung als größte humanitäre Krise der Welt."
+        },
+        {
+          "q": "Welches Kernanliegen verfolgt der Globale Pakt für Flüchtlinge?",
+          "o": [
+            "Bekämpfung von Fluchtursachen",
+            "Verbessertes Migrationsmanagement",
+            "Gerechtere internationale Lasten- und Verantwortungsteilung",
+            "Ausweitung regulärer Migrationswege"
+          ],
+          "a": 2,
+          "e": "Zentrales Ziel ist die fairere internationale Teilung von Lasten und Verantwortung im Flüchtlingsschutz."
+        },
+        {
+          "q": "Wie heißt das ukrainische Parlament?",
+          "o": [
+            "Werchowna Rada",
+            "Sejm",
+            "Duma",
+            "Folketing"
+          ],
+          "a": 0,
+          "e": "Das ukrainische Parlament ist die Werchowna Rada (Sejm = Polen, Duma = Russland, Folketing = Dänemark)."
+        },
+        {
+          "q": "Wie nennt man die Volksbewegung, die 2004–2005 zum Machtwechsel in der Ukraine führte?",
+          "o": [
+            "Samtene Revolution",
+            "Orange Revolution",
+            "Nelkenrevolution",
+            "Euromaidan"
+          ],
+          "a": 1,
+          "e": "Die Orange Revolution 2004/05 führte zur Wiederholung der Präsidentenwahl und zum Sieg Juschtschenkos."
+        },
+        {
+          "q": "In welchem heutigen afrikanischen Staat hat Deutschland keine Kolonialvergangenheit?",
+          "o": [
+            "Benin",
+            "Burundi",
+            "Kamerun",
+            "Togo"
+          ],
+          "a": 0,
+          "e": "Benin (Dahomey) war französisch; Burundi gehörte zu Deutsch-Ostafrika, Kamerun und Togo waren deutsche Kolonien."
+        },
+        {
+          "q": "Welche Gruppe enthält ausschließlich zugangsstarke Asyl-Staatsangehörigkeiten in Deutschland (2018)?",
+          "o": [
+            "Syrien, Afghanistan, Pakistan, Russische Föderation",
+            "Iran, Irak, Eritrea, Türkei",
+            "Nigeria, Albanien, Somalia, Afghanistan",
+            "Kosovo, Serbien, Somalia, Syrien"
+          ],
+          "a": 1,
+          "e": "Iran, Irak, Eritrea und Türkei zählten 2018 sämtlich zu den zehn zugangsstärksten Herkunftsländern."
+        },
+        {
+          "q": "Aus welcher Gruppe sind alle Staaten Mitglied des Schengen-Raums?",
+          "o": [
+            "Island, Norwegen, Slowenien, Liechtenstein",
+            "Frankreich, Slowakei, Andorra, Österreich",
+            "Malta, Schweiz, Schweden, Irland",
+            "Deutschland, Irland, Großbritannien, Slowenien"
+          ],
+          "a": 0,
+          "e": "Island, Norwegen und Liechtenstein sind assoziiert, Slowenien ist Mitglied; Andorra, Irland und Großbritannien gehören nicht dazu."
+        },
+        {
+          "q": "An den Sitzungen welches Gremiums wird Charles Michel ab 1. Dezember 2019 in der Regel beteiligt sein?",
+          "o": [
+            "Europäischer Rat",
+            "Rat der Europäischen Union",
+            "Europarat",
+            "Europäisches Parlament"
+          ],
+          "a": 0,
+          "e": "Charles Michel wurde zum 1.12.2019 Präsident des Europäischen Rates und leitet dessen Tagungen.",
+          "flag": true
+        },
+        {
+          "q": "Deutschland übernimmt im Juli 2020 die EU-Ratspräsidentschaft. Wann hatte es zuletzt den Vorsitz?",
+          "o": [
+            "2005",
+            "2006",
+            "2007",
+            "2008"
+          ],
+          "a": 2,
+          "e": "Deutschland führte den Ratsvorsitz zuletzt in der ersten Jahreshälfte 2007."
+        },
+        {
+          "q": "Die Befreiungsbewegung „Polisario“ kämpft für die Eigenständigkeit welcher Region?",
+          "o": [
+            "Ogaden",
+            "Sansibar",
+            "Südsudan",
+            "Westsahara"
+          ],
+          "a": 3,
+          "e": "Die Polisario kämpft für die Unabhängigkeit der Westsahara."
+        },
+        {
+          "q": "Wann wurde die allgemeine Wehrpflicht in der Bundesrepublik eingeführt?",
+          "o": [
+            "Oktober 1949",
+            "November 1955",
+            "Juli 1956",
+            "Januar 1961"
+          ],
+          "a": 2,
+          "e": "Das Wehrpflichtgesetz trat im Juli 1956 in Kraft (die Bundeswehr selbst wurde 1955 gegründet)."
+        },
+        {
+          "q": "Welcher dieser Bundeskanzler war zu keinem Zeitpunkt Bundesaußenminister?",
+          "o": [
+            "Konrad Adenauer",
+            "Willy Brandt",
+            "Helmut Schmidt",
+            "Ludwig Erhard"
+          ],
+          "a": 3,
+          "e": "Erhard war nie Außenminister; Adenauer und Brandt führten das Amt, Schmidt übernahm es 1982 kurzzeitig kommissarisch."
+        },
+        {
+          "q": "An welcher Stelle steht der Außenminister (2019: Heiko Maas) in der protokollarischen Rangfolge der Bundesminister?",
+          "o": [
+            "an 1. Stelle",
+            "an 2. Stelle",
+            "an 3. Stelle",
+            "an 4. Stelle"
+          ],
+          "a": 0,
+          "e": "Traditionell rangiert der Außenminister an erster Stelle unter den Bundesministern. Hinweis: Lösung 2019-spezifisch und ggf. zu verifizieren.",
+          "flag": true
+        },
+        {
+          "q": "Welche Aufgabe übernimmt der BND?",
+          "o": [
+            "Sicherung der IT-Netze der Bundesregierung",
+            "Erkenntnisse über verfassungsfeindliche Bestrebungen in der Bundeswehr",
+            "Spionageabwehr",
+            "Auslandsaufklärung"
+          ],
+          "a": 3,
+          "e": "Der Bundesnachrichtendienst ist der Auslandsnachrichtendienst Deutschlands."
+        },
+        {
+          "q": "Nach welchem Prinzip verteilen sich die Sitze im Europäischen Parlament?",
+          "o": [
+            "Progressive Proportionalität",
+            "Degressive Proportionalität",
+            "Direkte Proportionalität",
+            "Indirekte Proportionalität"
+          ],
+          "a": 1,
+          "e": "Degressive Proportionalität: kleinere Staaten erhalten je Einwohner mehr Sitze als große."
+        },
+        {
+          "q": "Mit welchem Staat schloss das Deutsche Reich 1922 den Vertrag von Rapallo?",
+          "o": [
+            "Italien",
+            "Sowjetrussland",
+            "Frankreich",
+            "Schweden"
+          ],
+          "a": 1,
+          "e": "Rapallo (1922) normalisierte die Beziehungen zwischen dem Deutschen Reich und Sowjetrussland."
+        },
+        {
+          "q": "Wer war der letzte Staatsratsvorsitzende der DDR?",
+          "o": [
+            "Willi Stoph",
+            "Egon Krenz",
+            "Erich Honecker",
+            "Manfred Gerlach"
+          ],
+          "a": 3,
+          "e": "Manfred Gerlach (LDPD) war von Dezember 1989 bis April 1990 der letzte Staatsratsvorsitzende der DDR."
+        },
+        {
+          "q": "Wann wurde das sogenannte Atomteststoppabkommen unterzeichnet?",
+          "o": [
+            "1955",
+            "1963",
+            "1971",
+            "1989"
+          ],
+          "a": 1,
+          "e": "Der partielle Teststoppvertrag (PTBT) wurde 1963 unterzeichnet."
+        },
+        {
+          "q": "Wann wurden diplomatische Beziehungen zwischen der Bundesrepublik und der VR China aufgenommen?",
+          "o": [
+            "1949",
+            "1955",
+            "1972",
+            "1991"
+          ],
+          "a": 2,
+          "e": "Die Bundesrepublik und die Volksrepublik China nahmen 1972 diplomatische Beziehungen auf."
+        },
+        {
+          "q": "Welcher Staat nahm an der dritten Runde der Zwei-plus-Vier-Verhandlungen 1990 teil?",
+          "o": [
+            "China",
+            "Österreich",
+            "Polen",
+            "Tschechoslowakei"
+          ],
+          "a": 2,
+          "e": "Polen wurde wegen der Grenzfrage (Oder-Neiße) zur dritten Runde hinzugezogen."
+        },
+        {
+          "q": "In welche Kanzlerschaft fällt der Entschluss zur Teilnahme an der Operation „Enduring Freedom“?",
+          "o": [
+            "Helmut Schmidt",
+            "Helmut Kohl",
+            "Gerhard Schröder",
+            "Angela Merkel"
+          ],
+          "a": 2,
+          "e": "Der Beschluss fiel Ende 2001 unter Bundeskanzler Gerhard Schröder."
+        },
+        {
+          "q": "Wie ist die gesetzliche Rentenversicherung in Deutschland organisiert?",
+          "o": [
+            "Beiträge sind freiwillig",
+            "Als Kapitaldeckungssystem",
+            "Als Umlagesystem",
+            "Als Mischung aus Exporten und Importen"
+          ],
+          "a": 2,
+          "e": "Die gesetzliche Rente folgt dem Umlageverfahren: laufende Beiträge finanzieren laufende Renten."
+        },
+        {
+          "q": "Welches Staatsoberhaupt besuchte als erstes offiziell die Bundesrepublik Deutschland?",
+          "o": [
+            "Kaiser Haile Selassie von Äthiopien",
+            "US-Präsident John F. Kennedy",
+            "Frankreichs Präsident Charles de Gaulle",
+            "Kaiser Hirohito von Japan"
+          ],
+          "a": 0,
+          "e": "Kaiser Haile Selassie von Äthiopien war 1954 der erste Staatsgast der Bundesrepublik."
+        },
+        {
+          "q": "Welches Land war Gegenstand des geheimen Zusatzprotokolls zum Hitler-Stalin-Pakt vom 23. August 1939?",
+          "o": [
+            "Litauen",
+            "Frankreich",
+            "Österreich",
+            "Tschechoslowakei"
+          ],
+          "a": 0,
+          "e": "Das geheime Zusatzprotokoll teilte u.a. die baltischen Staaten – darunter Litauen – in Interessensphären auf."
+        },
+        {
+          "q": "Was versteht man unter dem „Normandie-Format“?",
+          "o": [
+            "Vorschriften zu Gedenkveranstaltungen der Landung 1944",
+            "Format der deutsch-französischen Regierungskonsultationen",
+            "Gesprächsformat mit deutschen, französischen, russischen und ukrainischen Vertretern zum Ukraine-Konflikt",
+            "Britisch-französische Konsultationen zu VN-Fragen"
+          ],
+          "a": 2,
+          "e": "Das Normandie-Format (D, F, RU, UA) diente der Bearbeitung des Ukraine-Konflikts seit 2014."
+        }
+      ]
+    },
+    "2023": {
+      "label": "Auswahlverfahren 2023 (Akademie Auswärtiger Dienst)",
+      "note": "Fragen offiziell vom AA; je Aufgabe ist genau eine Aussage korrekt. Die Lösungen wurden von dieser Anwendung historisch begründet ermittelt (kein offizieller Schlüssel).",
+      "statement": true,
+      "items": [
+        {
+          "q": "Napoleonische Kriege",
+          "o": [
+            "Der deutsche Nationalstaat war ein Ergebnis der Napoleonischen Kriege.",
+            "Die Kriege 1792–1815 wurden von Frankreichs Nachbarn als Befreiung begriffen.",
+            "Napoleon und Preußen entwickelten die Idee eines deutschen Nationalstaates.",
+            "Der Kampf gegen Napoleon stimulierte die Entwicklung der deutschen Nationalbewegung."
+          ],
+          "a": 3,
+          "e": "Die Befreiungskriege gegen Napoleon förderten das deutsche Nationalbewusstsein – der Nationalstaat kam aber erst 1871."
+        },
+        {
+          "q": "Wiener Kongress",
+          "o": [
+            "begründete ein Gleichgewicht ohne Beteiligung Großbritanniens.",
+            "Alle Teilnehmer einigten sich auf die Heilige Allianz.",
+            "bahnte den Weg zum Deutschen Bund.",
+            "beruhte auf einer anti-deutschen Koalition GB–Russland."
+          ],
+          "a": 2,
+          "e": "Der Wiener Kongress schuf 1815 den Deutschen Bund; Großbritannien war zentral beteiligt, die Heilige Allianz trug nicht GB."
+        },
+        {
+          "q": "Deutscher Bund nach 1815",
+          "o": [
+            "war ein Bundesstaat im Umfang des Reichs von 1871.",
+            "Preußen dominierte die süddeutschen Staaten und die Habsburgermonarchie.",
+            "war ein Staatenbund mit prinzipieller Souveränität der Mitglieder.",
+            "Über den Zollverein gewann die Habsburgermonarchie Einfluss."
+          ],
+          "a": 2,
+          "e": "Der Deutsche Bund war ein Staatenbund souveräner Mitglieder; Österreich blieb vom Zollverein ausgeschlossen."
+        },
+        {
+          "q": "Die Revolutionen von 1848/49",
+          "o": [
+            "schufen im März 1848 einen demokratischen Nationalstaat.",
+            "Die Herausforderung lag in der Doppelaufgabe: freiheitlicher Staat und Definition nationaler Grenzen.",
+            "Die großdeutsche Lösung setzte sich nach Zustimmung der Nachbarn durch.",
+            "Interventionen Großbritanniens und Russlands erklären das Scheitern."
+          ],
+          "a": 1,
+          "e": "Kennzeichnend war die Doppelaufgabe von Freiheit und nationaler Einigung – die großdeutsche Lösung setzte sich gerade nicht durch."
+        },
+        {
+          "q": "Bismarck",
+          "o": [
+            "leitete ab, dass ein Nationalstaat nur gegen Russland durchzusetzen sei.",
+            "Der Dualismus Preußen–Österreich im Bund war grundlegend für seine Entwicklung.",
+            "war 1866 ein in ganz Deutschland unumstrittener Politiker.",
+            "setzte allein auf militärische Stärke."
+          ],
+          "a": 1,
+          "e": "Der preußisch-österreichische Gegensatz prägte Bismarcks Politik; er suchte russisches Wohlwollen und war 1866 hoch umstritten."
+        },
+        {
+          "q": "Der deutsche Nationalstaat von 1871",
+          "o": [
+            "war ein Staatenbund mit parlamentarischer Monarchie.",
+            "war ein föderaler Bundesstaat mit allgemeinem Männerwahlrecht zum Reichstag.",
+            "war zentralstaatlich von Berlin organisiert.",
+            "entsprach der großdeutschen Lösung von 1848."
+          ],
+          "a": 1,
+          "e": "Das Kaiserreich war ein föderaler Bundesstaat mit allgemeinem (gleichem) Männerwahlrecht zum Reichstag (das Wahlalter lag bei 25 Jahren)."
+        },
+        {
+          "q": "Das Auswärtige Amt",
+          "o": [
+            "entsprach seit 1810 dem preußischen Außenministerium.",
+            "war im Kaiserreich ein Reichsamt unter Leitung eines Staatssekretärs.",
+            "sollte seit 1867 Außenministerium heißen.",
+            "wurde nach 1871 von Diplomaten und Militärs geleitet."
+          ],
+          "a": 1,
+          "e": "Das AA war ein Reichsamt, das ein Staatssekretär leitete (der Reichskanzler war formal Außenminister)."
+        },
+        {
+          "q": "Das Deutsche Kaiserreich in den internationalen Beziehungen seit 1871",
+          "o": [
+            "setzte von Anfang an auf Eskalation gegen Frankreich und Russland.",
+            "setzte ab 1878 auf Expansion in Osteuropa.",
+            "betrieb ab 1890 eine defensive Politik des friedlichen Handelsstaates.",
+            "betrieb seit den 1890ern als „imperialisierender Nationalstaat“ eine Weltpolitik, die seine Spielräume vor 1914 einschränkte."
+          ],
+          "a": 3,
+          "e": "Die „Weltpolitik“ nach 1890 (Flottenbau, Imperialismus) verengte Deutschlands außenpolitische Handlungsspielräume."
+        },
+        {
+          "q": "Die Kolonialpolitik des Deutschen Kaiserreichs",
+          "o": [
+            "hatte vor allem ökonomische Motive und war bis 1900 ein wirtschaftlicher Erfolg.",
+            "verzichtete auf formale Territorialherrschaft, sodass Bismarck „ehrlicher Makler“ sein konnte.",
+            "versöhnte die Arbeiterbewegung mit dem Nationalstaat.",
+            "Bismarck fürchtete, Kolonialpolitik führe zu mehr internationalen Spannungen."
+          ],
+          "a": 3,
+          "e": "Bismarck stand der Kolonialpolitik skeptisch gegenüber, weil er internationale Konflikte befürchtete."
+        },
+        {
+          "q": "Ausbruch des Ersten Weltkrieges",
+          "o": [
+            "war bereits 1871 absehbar.",
+            "Großbritannien trug die Hauptschuld wegen seiner Flottenrüstung.",
+            "Hauptgrund war die französisch-russische Einkreisung Deutschlands.",
+            "Die Julikrise erwies den Misserfolg der Abschreckung der Bündnisse Triple Entente und Dreibund."
+          ],
+          "a": 3,
+          "e": "Die Julikrise zeigte das Versagen der wechselseitigen Abschreckung der Bündnissysteme."
+        },
+        {
+          "q": "Der Erste Weltkrieg",
+          "o": [
+            "bedeutete das Ende aller Imperien und Kolonialreiche bis 1918.",
+            "Mit Brest-Litowsk setzten sich die Bolschewiki endgültig durch.",
+            "Auf das Selbstbestimmungsrecht (Lenin/Wilson ab 1917) beriefen sich auch Menschen in Nahost, Asien und Afrika.",
+            "Deutschland verlor nicht militärisch, sondern wegen der Revolution 1918."
+          ],
+          "a": 2,
+          "e": "Das Prinzip nationaler Selbstbestimmung wirkte weltweit – die „Dolchstoßlegende“ (d) ist historisch falsch."
+        },
+        {
+          "q": "Die Pariser Vorortverträge 1919/20",
+          "o": [
+            "Der Versailler Vertrag stabilisierte langfristig die Weimarer Republik.",
+            "Durch Ratifizierung wurden die USA zum entscheidenden Akteur der 1920/30er.",
+            "Die Völkerbundakte nahm das Prinzip rassischer Nichtdiskriminierung auf.",
+            "Der Ausschluss der „Verliererstaaten“ aus dem Völkerbund belastete die neue Friedensordnung."
+          ],
+          "a": 3,
+          "e": "Der Ausschluss der Besiegten schwächte die Glaubwürdigkeit des Völkerbundes; die USA traten ihm gar nicht erst bei."
+        },
+        {
+          "q": "Außenpolitik der Weimarer Republik",
+          "o": [
+            "Rapallo nahm den Hitler-Stalin-Pakt von 1939 vorweg.",
+            "Locarnos Stärke lag in der Garantie der Grenzen in West- und Osteuropa.",
+            "Stresemann setzte auf allmähliche Integration in ein System kollektiver Sicherheit, um Ostgrenzen friedlich zu revidieren.",
+            "Die deutsch-österreichische Zollunion beruhigte die Lage Ende der 1920er."
+          ],
+          "a": 2,
+          "e": "Stresemanns Verständigungspolitik (Locarno garantierte nur die Westgrenzen) zielte auf friedliche Revision durch Einbindung."
+        },
+        {
+          "q": "Reparationen",
+          "o": [
+            "Mit der Konferenz von Lausanne 1932 gelang die Lösung der Reparationsfrage.",
+            "Die Reparationen erzwangen die Rückkehr zum Goldstandard.",
+            "Der Dawes-Plan beendete die Reparationszahlungen.",
+            "Der Young-Plan war ein großzügiger US-Kredit."
+          ],
+          "a": 0,
+          "e": "Lausanne 1932 beendete faktisch die deutschen Reparationen; Dawes und Young regelten sie nur neu."
+        },
+        {
+          "q": "Internationale Beziehungen ab Anfang der 1930er Jahre",
+          "o": [
+            "Die japanische Aggression gegen die Mandschurei 1931 stärkte den Völkerbund.",
+            "Japans Austritt begründete die Achse Rom-Berlin-Tokio.",
+            "Hitler setzte nach 1933 im AA zunächst auf personelle Kontinuität, um das Ausland zu beruhigen.",
+            "Hitlers Politik bewies, dass er einen Seekrieg gegen Großbritannien plante."
+          ],
+          "a": 2,
+          "e": "Neurath blieb zunächst Außenminister – personelle Kontinuität sollte das Ausland beruhigen."
+        },
+        {
+          "q": "Vorgeschichte des Zweiten Weltkriegs",
+          "o": [
+            "In München 1938 stärkte die Sowjetunion ihre Vermittlerrolle.",
+            "Mit „Anschluss“, Sudetenkrise und Zerschlagung der Tschechoslowakei ging die Politik zur offenen Aggression über.",
+            "Großbritannien und Frankreich garantierten weiter die Integrität der osteuropäischen Staaten.",
+            "Der Angriff auf Polen war durch westliche Zurückhaltung provoziert."
+          ],
+          "a": 1,
+          "e": "Anschluss, Sudetenkrise und die Zerschlagung der Resttschechei markierten den Übergang zur offenen Aggression; die UdSSR war in München ausgeschlossen."
+        },
+        {
+          "q": "Das Ende des Zweiten Weltkrieges",
+          "o": [
+            "endete mit einem Friedensvertrag in Jalta.",
+            "endete mit einem Friedensvertrag in Potsdam.",
+            "endete in Europa mit der bedingungslosen Kapitulation Deutschlands im Mai 1945.",
+            "wurde offiziell mit der Stalin-Note 1952 beendet."
+          ],
+          "a": 2,
+          "e": "Der Krieg in Europa endete mit der bedingungslosen Kapitulation im Mai 1945 – einen Friedensvertrag gab es nicht."
+        },
+        {
+          "q": "Außenpolitik in der Frühphase der Bundesrepublik",
+          "o": [
+            "Adenauer erreichte 1949 die uneingeschränkte Souveränität.",
+            "Der Kalte Krieg polarisierte außenpolitische Fragen stark in der westdeutschen Innenpolitik.",
+            "Mit der Note 1952 erkannte Stalin die Souveränität der Bundesrepublik an.",
+            "Im Godesberger Programm bekannte sich die SPD zur Anerkennung der DDR."
+          ],
+          "a": 1,
+          "e": "Außenpolitik (Westbindung vs. Einheit) war innenpolitisch hoch umstritten; volle Souveränität kam erst 1955."
+        },
+        {
+          "q": "Hallstein-Doktrin",
+          "o": [
+            "Mit ihr beginnt die „Neue Ostpolitik“.",
+            "Sie basierte auf dem Alleinvertretungsanspruch der Bundesrepublik.",
+            "Sie ebnete den Weg zu Adenauers Moskaubesuch 1955.",
+            "Sie war eine Reaktion auf die Ulbricht-Doktrin."
+          ],
+          "a": 1,
+          "e": "Die Hallstein-Doktrin stützte den Alleinvertretungsanspruch der Bundesrepublik gegenüber der DDR."
+        },
+        {
+          "q": "Dekolonisierung",
+          "o": [
+            "GB und Frankreich erreichten nach 1945 über Mandate ihre maximale Ausdehnung.",
+            "Die französische Dekolonisierung verlief blutiger, weil GB die „pax Britannica“ konsequent umsetzte.",
+            "Bis Suez und Algerienkrieg hielt die Vierte Republik am Kolonialreich fest, um Frankreichs Weltmachtstatus zu betonen.",
+            "Die frühe Aufgabe spanischer/portugiesischer Kolonien sicherte die EG-Aufnahme."
+          ],
+          "a": 2,
+          "e": "Frankreich klammerte sich bis zu Suez und Algerien an sein Kolonialreich; Portugal hielt seine Kolonien sogar bis 1974/75."
+        },
+        {
+          "q": "Europäische Integration",
+          "o": [
+            "Die Römischen Verträge nahmen die NATO-Gründung vorweg.",
+            "Der Schuman-Plan von 1950 (Kohle und Stahl) war ein entscheidender Integrationsschritt.",
+            "Frankreich instrumentalisierte die EVG gegen die USA.",
+            "In den 1960/70ern wurde die EU zu einem demokratisch legitimierten Bundesstaat."
+          ],
+          "a": 1,
+          "e": "Der Schuman-Plan führte zur Montanunion (EGKS) – dem Ausgangspunkt der europäischen Integration."
+        },
+        {
+          "q": "Kalter Krieg",
+          "o": [
+            "machte die Welt 1945–1989/91 durch erfolgreiche Abschreckung friedlich.",
+            "eskalierte außerhalb Europas in blutige Stellvertreterkriege (Korea, Vietnam, Afghanistan).",
+            "Der KSZE-Prozess bedeutete faktisch das Ende des Kalten Krieges.",
+            "spaltete die VN in zwei Lager, denen alle Staaten beitreten mussten."
+          ],
+          "a": 1,
+          "e": "Der Kalte Krieg eskalierte vor allem an der Peripherie in Stellvertreterkriege; die Blockfreien standen außerhalb."
+        },
+        {
+          "q": "„Neue Ostpolitik“",
+          "o": [
+            "Im Deutschlandvertrag erkannte Ost-Berlin die Oder-Neiße-Grenze an.",
+            "bezeichnet das Tauwetter nach Stalins Tod 1953.",
+            "Brandt betrieb eine Politik der kleinen Schritte gegenüber dem Ostblock.",
+            "Die Gaullisten setzten sich gegen die Atlantiker durch."
+          ],
+          "a": 2,
+          "e": "Brandts Ostpolitik war eine Politik der „kleinen Schritte“ und des „Wandels durch Annäherung“."
+        },
+        {
+          "q": "KSZE",
+          "o": [
+            "war direkte Folge der Kuba-Krise.",
+            "Die Schlussakte war Voraussetzung für deutsch-deutsche Botschaften.",
+            "drängte auf wirtschaftliche Integration Ost- und Westeuropas.",
+            "Auf die Menschenrechtsanliegen aus „Korb 3“ beriefen sich viele Oppositionsbewegungen in Ostmitteleuropa."
+          ],
+          "a": 3,
+          "e": "„Korb 3“ (Menschenrechte) der KSZE-Schlussakte wurde zum Bezugspunkt für Dissidenten und Bürgerrechtsbewegungen."
+        },
+        {
+          "q": "Der Umbruch von 1989/91",
+          "o": [
+            "Der Zwei-plus-Vier-Vertrag definierte die NATO-Grenzen in Osteuropa.",
+            "Am 3. Oktober 1990 entstand die Bundesrepublik als Zusammenschluss zweier unabhängiger Staaten.",
+            "Die Grenzen der Bundesrepublik wurden 1990 als endgültig und unwiderruflich definiert.",
+            "Trotz des Vertrags gelten bis heute Reservatrechte der Siegermächte."
+          ],
+          "a": 2,
+          "e": "Der Zwei-plus-Vier-Vertrag bestätigte die endgültigen Grenzen (Oder-Neiße) und beendete alliierte Vorbehaltsrechte; rechtlich trat die DDR der Bundesrepublik bei."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "short": "Wirtschaft",
+  "title": "Wirtschaft & VWL",
+  "desc": "Volkswirtschaft, Finanzen, internationale Wirtschaftsordnung – 25 Fragen, 10 Minuten.",
+  "durationMin": 10,
+  "icon": "chart",
+  "sets": {
+    "2019": {
+      "label": "Auswahlverfahren 2019",
+      "note": "Lösungen mit dem offiziellen AA-Antwortraster abgeglichen (100 % Übereinstimmung).",
+      "items": [
+        {
+          "q": "Das Zuwendungsrecht kennt verschiedene Finanzierungsarten. Welche sollte nur in Ausnahmefällen gewählt werden?",
+          "o": [
+            "Vollfinanzierung",
+            "Anteilfinanzierung",
+            "Fehlbedarfsfinanzierung",
+            "Festbetragsfinanzierung"
+          ],
+          "a": 0,
+          "e": "Die Vollfinanzierung ist nachrangig, weil der Zuwendungsempfänger grundsätzlich einen Eigenanteil tragen soll."
+        },
+        {
+          "q": "Welches Volumen umfasst der Bundeshaushalt 2019?",
+          "o": [
+            "356,4 Mrd. Euro",
+            "503,4 Mrd. Euro",
+            "671,4 Mrd. Euro",
+            "870,4 Mrd. Euro"
+          ],
+          "a": 0,
+          "e": "Der Bundeshaushalt 2019 hatte ein Volumen von rund 356,4 Mrd. Euro."
+        },
+        {
+          "q": "Was beschreibt das Bruttoinlandsprodukt?",
+          "o": [
+            "Die Summe aus Exporten und Importen",
+            "Den Wert der inländischen Produktion aller Güter und Dienstleistungen",
+            "Die gesamte Wertschöpfung plus Abschreibungen",
+            "Das Einkommen aller Personen mit der jeweiligen Staatsangehörigkeit"
+          ],
+          "a": 1,
+          "e": "Das BIP misst den Wert aller im Inland produzierten Güter und Dienstleistungen (Inlandskonzept)."
+        },
+        {
+          "q": "Wie hoch war das BIP 2018 in Deutschland in jeweiligen Preisen?",
+          "o": [
+            "ca. 2.600 Mrd. Euro",
+            "ca. 3.100 Mrd. Euro",
+            "ca. 3.400 Mrd. Euro",
+            "ca. 3.800 Mrd. Euro"
+          ],
+          "a": 2,
+          "e": "Das nominale BIP 2018 lag bei rund 3.400 Mrd. Euro."
+        },
+        {
+          "q": "Welche Aussage zur Leistungsbilanz ist ceteris paribus falsch?",
+          "o": [
+            "Ein Defizit erhöht die Verschuldung gegenüber dem Ausland.",
+            "Erfolgreiche Wirtschaftspolitik erkennt man an einem Überschuss.",
+            "Ein Überschuss setzt die Währung unter Aufwertungsdruck.",
+            "Ein japanischer Tourist zahlt 100 € im Berliner Hotel – der Überschuss steigt um diesen Betrag."
+          ],
+          "a": 1,
+          "e": "Ein Leistungsbilanzüberschuss ist kein Gütezeichen erfolgreicher Politik – diese normative Aussage ist falsch."
+        },
+        {
+          "q": "Was ist ein Oligopol?",
+          "o": [
+            "Marktform mit vielen Unternehmen",
+            "Marktform mit einem Unternehmen",
+            "Marktform mit wenigen Unternehmen",
+            "Marktform mit genau 20 Unternehmen"
+          ],
+          "a": 2,
+          "e": "Ein Oligopol ist eine Marktform mit wenigen Anbietern."
+        },
+        {
+          "q": "Wer genehmigt die Fusion von Unternehmen in Deutschland bei national begrenzten Auswirkungen?",
+          "o": [
+            "Monopolkommission",
+            "Bundeskanzleramt",
+            "Bundeskartellamt",
+            "Europäische Wettbewerbsbehörde"
+          ],
+          "a": 2,
+          "e": "Bei nationaler Bedeutung prüft das Bundeskartellamt die Fusionskontrolle."
+        },
+        {
+          "q": "Was regelt das Basel-III-Abkommen?",
+          "o": [
+            "Bankenfusionen",
+            "die Regulierung von Banken, z. B. Eigenkapitalquoten",
+            "die Bankenrettung in der Euro-Zone",
+            "in welchen Märkten Banken aktiv sein dürfen"
+          ],
+          "a": 1,
+          "e": "Basel III verschärft die Bankenregulierung, insbesondere Eigenkapital- und Liquiditätsanforderungen."
+        },
+        {
+          "q": "Welche Aufgabe übernimmt die Bank für Internationalen Zahlungsausgleich (BIZ)?",
+          "o": [
+            "Überweisungen von Privathaushalten ins Ausland",
+            "Verwaltung der Währungsreserven der Zentralbanken ihrer Mitglieder",
+            "Zahlungsabwicklung international tätiger Firmen",
+            "Geschäftsbank für multinationale Firmen"
+          ],
+          "a": 1,
+          "e": "Die BIZ ist die „Bank der Zentralbanken“ und verwaltet u. a. deren Reserven."
+        },
+        {
+          "q": "Was gibt der Geldschöpfungsmultiplikator an?",
+          "o": [
+            "Veränderung des BIP infolge erhöhter Geldmenge",
+            "Veränderung der Geldmenge infolge erhöhten Zentralbankgeldes",
+            "Veränderung der Investitionsnachfrage infolge erhöhten Zentralbankgeldes",
+            "Keine der Antworten ist korrekt"
+          ],
+          "a": 1,
+          "e": "Der Multiplikator gibt an, um wie viel die Geldmenge bei zusätzlicher Zentralbankgeldmenge steigt."
+        },
+        {
+          "q": "Was sind Eurobonds?",
+          "o": [
+            "in Euro denominierte Unternehmenswertpapiere",
+            "Staatsanleihen eines einzelnen Euro-Mitgliedstaats",
+            "gemeinsam ausgegebene Staatsanleihen der Euro-Länder",
+            "Schuldverschreibungen der EU-Kommission"
+          ],
+          "a": 2,
+          "e": "Eurobonds sind gemeinschaftlich von Euro-Staaten begebene und gehaftete Anleihen."
+        },
+        {
+          "q": "Ein Leistungsbilanzdefizit gibt an,",
+          "o": [
+            "dass ein Land mehr exportiert als importiert.",
+            "dass ein Land Nettogläubiger gegenüber dem Ausland ist.",
+            "dass ein Land Nettoschuldner gegenüber dem Ausland ist.",
+            "Keine der Antworten ist korrekt."
+          ],
+          "a": 2,
+          "e": "Ein Defizit bedeutet Kapitalimport – das Land wird per saldo Nettoschuldner gegenüber dem Ausland."
+        },
+        {
+          "q": "Die Gründung der Währungsunion wurde beschlossen mit",
+          "o": [
+            "dem Lissabon-Vertrag",
+            "dem Vertrag von Maastricht",
+            "dem Euro-Vertrag",
+            "der Einheitlichen Europäischen Akte"
+          ],
+          "a": 1,
+          "e": "Der Vertrag von Maastricht (1992) legte die Wirtschafts- und Währungsunion fest."
+        },
+        {
+          "q": "Wie hoch ist 2019 der Mindestlohn in Deutschland?",
+          "o": [
+            "8,50 EUR",
+            "8,83 EUR",
+            "9,19 EUR",
+            "9,35 EUR"
+          ],
+          "a": 2,
+          "e": "Der gesetzliche Mindestlohn betrug 2019 9,19 EUR."
+        },
+        {
+          "q": "Wer bestimmt über die Höhe der Einkommensteuer in Deutschland?",
+          "o": [
+            "Der Bundestag",
+            "Der Bundesrat",
+            "Bundestag und Bundesrat",
+            "Das Finanzministerium"
+          ],
+          "a": 2,
+          "e": "Die Einkommensteuer ist eine Gemeinschaftsteuer; Änderungen bedürfen der Zustimmung von Bundestag und Bundesrat."
+        },
+        {
+          "q": "Auf welcher Ebene wird die Höhe der Gewerbesteuer festgelegt?",
+          "o": [
+            "Land",
+            "Regierungsbezirk",
+            "Bund",
+            "Gemeinde"
+          ],
+          "a": 3,
+          "e": "Die Gemeinden bestimmen über den Hebesatz die Höhe der Gewerbesteuer."
+        },
+        {
+          "q": "Was versteht man unter Seigniorage?",
+          "o": [
+            "den Nutzen von Geld",
+            "die Kosten der Geldhaltung",
+            "die Kosten der Geldproduktion",
+            "den Gewinn der Zentralbank"
+          ],
+          "a": 3,
+          "e": "Seigniorage ist der Gewinn aus der Geldschöpfung, der der Zentralbank zufließt."
+        },
+        {
+          "q": "Das Kürzel „ESVG“ steht für",
+          "o": [
+            "Europäische Stiftung zur Vereinheitlichung des Gemeinwesens",
+            "Europäisches System Volkswirtschaftlicher Gesamtrechnungen",
+            "Europäische Sozial- und Vereinigungsgemeinschaft",
+            "Einheitliche Sozial- und Versorgungsgemeinschaft"
+          ],
+          "a": 1,
+          "e": "Das ESVG ist das harmonisierte statistische Rahmenwerk der volkswirtschaftlichen Gesamtrechnungen der EU."
+        },
+        {
+          "q": "Wer bestimmt die Handelspolitik in Deutschland?",
+          "o": [
+            "Die Bundesregierung",
+            "Jedes Bundesland",
+            "Die Europäische Kommission",
+            "Die WTO"
+          ],
+          "a": 2,
+          "e": "Die Handelspolitik ist ausschließliche EU-Kompetenz; die Kommission verhandelt und gestaltet sie."
+        },
+        {
+          "q": "Was ist unter „Dirty Floating“ zu verstehen?",
+          "o": [
+            "Einlagerung fauler Kredite in „Bad Banks“",
+            "Interventionen der EU am Agrarmarkt",
+            "Begrenzung internationaler Kapitalmobilität",
+            "diskretionäre Devisenmarktinterventionen der Zentralbank bei flexiblen Wechselkursen"
+          ],
+          "a": 3,
+          "e": "Dirty (managed) Floating: grundsätzlich flexible Kurse, in die die Zentralbank fallweise eingreift."
+        },
+        {
+          "q": "Der Kauf ausländischer Währung am Devisenmarkt durch die inländische Zentralbank bewirkt ceteris paribus …",
+          "o": [
+            "eine Erhöhung der umlaufenden inländischen Geldmenge",
+            "eine Verminderung der umlaufenden inländischen Geldmenge",
+            "keine Änderung der Geldmenge",
+            "eine Verminderung der Währungsreserven"
+          ],
+          "a": 0,
+          "e": "Beim Kauf von Devisen gibt die Zentralbank inländisches Geld aus – die Geldmenge steigt."
+        },
+        {
+          "q": "Ein Anstieg des öffentlichen Schuldenstands bedeutet, dass …",
+          "o": [
+            "die Schuldenquote zwingend steigt.",
+            "die Neuverschuldungsquote zwingend sinkt.",
+            "die Neuverschuldungsquote zwingend steigt.",
+            "Keine der Alternativen A bis C zutrifft."
+          ],
+          "a": 3,
+          "e": "Steigt der Schuldenstand, kann die Schuldenquote dennoch sinken (wenn das BIP stärker wächst) – keine der Aussagen ist zwingend."
+        },
+        {
+          "q": "Ein zentrales Prinzip der WTO ist …",
+          "o": [
+            "uneingeschränkte Meinungsfreiheit",
+            "Ausschluss von Entwicklungsländern",
+            "die unbedingte Meistbegünstigung",
+            "Konfliktfreiheit"
+          ],
+          "a": 2,
+          "e": "Das Meistbegünstigungsprinzip (MFN) verlangt, Handelsvorteile allen Mitgliedern gleichermaßen zu gewähren."
+        },
+        {
+          "q": "Protektionistische Maßnahmen werden üblicherweise unterteilt in …",
+          "o": [
+            "Steuern und Subventionen",
+            "tarifäre und nicht-tarifäre Maßnahmen",
+            "direkte und indirekte Maßnahmen",
+            "wirksame und unwirksame Maßnahmen"
+          ],
+          "a": 1,
+          "e": "Man unterscheidet tarifäre (Zölle) von nicht-tarifären Handelshemmnissen (Quoten, Normen u. a.)."
+        },
+        {
+          "q": "Das „Bretton-Woods-System“ …",
+          "o": [
+            "geht auf den Nobelpreisträger Paul Bretton-Woods zurück.",
+            "wird in Kürze zwischen EU, USA und Japan installiert.",
+            "war ein System fester Wechselkurse mit asymmetrischen Devisenmarktinterventionen.",
+            "bekämpft internationales Sozialdumping."
+          ],
+          "a": 2,
+          "e": "Bretton Woods (1944) war ein System fester, an den US-Dollar gekoppelter Wechselkurse."
+        }
+      ]
+    },
+    "2023": {
+      "label": "VWL-Fragen Auswahlverfahren 2023",
+      "note": "Fragen offiziell; Lösungen von dieser Anwendung ermittelt. Einzelne wirtschaftstheoretisch oder durch die Antwortformulierung mehrdeutige Fragen sind als „zu prüfen“ markiert.",
+      "items": [
+        {
+          "q": "Wie hoch war der gesetzliche Mindestlohn in Deutschland bei seiner Einführung?",
+          "o": [
+            "7,50 EUR",
+            "8,00 EUR",
+            "8,50 EUR",
+            "9,00 EUR"
+          ],
+          "a": 2,
+          "e": "Der Mindestlohn startete im Januar 2015 bei 8,50 EUR."
+        },
+        {
+          "q": "Welche Steuer hat in Deutschland 2022 die höchsten Einnahmen generiert?",
+          "o": [
+            "Einkommensteuer",
+            "Umsatzsteuer",
+            "Gewerbesteuer",
+            "Grunderwerbsteuer"
+          ],
+          "a": 1,
+          "e": "Die Umsatzsteuer war 2022 die aufkommensstärkste einzelne Steuerart."
+        },
+        {
+          "q": "Der Leistungsbilanzsaldo Deutschlands 2022 relativ zum nominalen BIP betrug ungefähr",
+          "o": [
+            "plus 2 %",
+            "minus 3 %",
+            "plus 7 %",
+            "plus 4 %"
+          ],
+          "a": 3,
+          "e": "2022 sank der Überschuss energiepreisbedingt auf rund 4 % des BIP (von zuvor ~7 %)."
+        },
+        {
+          "q": "Welche Steuerart zählt zu den Gemeindesteuern?",
+          "o": [
+            "Grundsteuer",
+            "Umsatzsteuer",
+            "Einkommensteuer",
+            "Kapitalertragsteuer"
+          ],
+          "a": 0,
+          "e": "Grundsteuer und Gewerbesteuer sind klassische Gemeindesteuern."
+        },
+        {
+          "q": "Was versteht man unter einem Monopson?",
+          "o": [
+            "Marktform mit mehreren Nachfragern",
+            "Marktform, bei der ein Nachfrager vielen Anbietern gegenübersteht",
+            "Marktform, bei der ein Anbieter vielen Nachfragern gegenübersteht",
+            "Marktform mit mehreren Anbietern"
+          ],
+          "a": 1,
+          "e": "Ein Monopson ist ein Nachfragemonopol: ein Käufer, viele Anbieter."
+        },
+        {
+          "q": "Gemessen an den Importen – welches war 2022 der wichtigste Handelspartner Deutschlands (unter den genannten)?",
+          "o": [
+            "Frankreich",
+            "Spanien",
+            "USA",
+            "Italien"
+          ],
+          "a": 2,
+          "e": "Unter den genannten Optionen lagen die USA bei den Importen vorn (insgesamt war China Importpartner Nr. 1). Lösung unter den Optionen plausibel, ggf. zu prüfen.",
+          "flag": true
+        },
+        {
+          "q": "Wer bestimmt über die Höhe der Umsatzsteuer in Deutschland?",
+          "o": [
+            "Der Bundestag",
+            "Der Bundesrat",
+            "Bundestag und Bundesrat",
+            "Das Finanzministerium"
+          ],
+          "a": 2,
+          "e": "Die Umsatzsteuer ist eine Gemeinschaftsteuer; ihre Änderung bedarf der Zustimmung von Bundestag und Bundesrat."
+        },
+        {
+          "q": "Wer genehmigt die Fusion von Unternehmen bei national begrenzten Auswirkungen?",
+          "o": [
+            "Monopolkommission",
+            "Bundeskanzleramt",
+            "Bundeskartellamt",
+            "Europäische Wettbewerbsbehörde"
+          ],
+          "a": 2,
+          "e": "Das Bundeskartellamt ist national zuständig für die Fusionskontrolle."
+        },
+        {
+          "q": "Ein Leistungsbilanzüberschuss des Inlands …",
+          "o": [
+            "bedeutet höheres Wachstum im Inland als im Ausland.",
+            "bedeutet, dass das Inland mehr exportiert als importiert.",
+            "erhöht die Verschuldung des Auslands gegenüber dem Inland.",
+            "erhöht die Verschuldung des Inlands gegenüber dem Ausland."
+          ],
+          "a": 1,
+          "e": "Ein Überschuss bedeutet, dass mehr aus- als eingeführt wird; das Inland baut Nettoforderungen auf."
+        },
+        {
+          "q": "Wie viele Länder haben ihre nationalen Währungen bisher durch den Euro ersetzt?",
+          "o": [
+            "18",
+            "19",
+            "20",
+            "21"
+          ],
+          "a": 2,
+          "e": "Mit dem Beitritt Kroatiens zum 1.1.2023 nutzen 20 Länder den Euro."
+        },
+        {
+          "q": "Was beschreibt das Bruttoinlandsprodukt?",
+          "o": [
+            "Summe aus Exporten und Importen",
+            "Wert der inländischen Produktion aller Güter und Dienstleistungen",
+            "gesamte Wertschöpfung plus Abschreibungen",
+            "Einkommen aller Personen mit der jeweiligen Staatsangehörigkeit"
+          ],
+          "a": 1,
+          "e": "Das BIP misst den Wert der im Inland erbrachten Produktion (Inlandskonzept)."
+        },
+        {
+          "q": "Wie ist die gesetzliche Rentenversicherung in Deutschland organisiert?",
+          "o": [
+            "Beiträge sind freiwillig",
+            "als Kapitaldeckungssystem",
+            "als Umlagesystem",
+            "als Mischung aus Kapitaldeckung und Umlage"
+          ],
+          "a": 2,
+          "e": "Die gesetzliche Rente ist umlagefinanziert (Generationenvertrag)."
+        },
+        {
+          "q": "Was versteht man unter einem Dual-Use-Gut?",
+          "o": [
+            "ein Gut für Industrie und Dienstleistung",
+            "ein Gut für In- und Ausland",
+            "ein recycelbares, mehrfach verwendbares Gut",
+            "ein Gut für zivile wie militärische Zwecke"
+          ],
+          "a": 3,
+          "e": "Dual-Use-Güter sind sowohl zivil als auch militärisch nutzbar (exportkontrollrelevant)."
+        },
+        {
+          "q": "Wie hoch war die Staatsverschuldung Deutschlands relativ zum BIP 2022?",
+          "o": [
+            "ca. 65 %",
+            "ca. 75 %",
+            "ca. 85 %",
+            "ca. 95 %"
+          ],
+          "a": 0,
+          "e": "Die Schuldenquote lag Ende 2022 bei rund 66 %."
+        },
+        {
+          "q": "Wenn die ausländische Währung gegenüber der inländischen abwertet, gilt aus inländischer Sicht:",
+          "o": [
+            "Der Wechselkurs in Basisnotierung bleibt konstant.",
+            "Der Wechselkurs in Mengennotierung steigt.",
+            "Der Wechselkurs in Preisnotierung sinkt.",
+            "Der Wechselkurs in Mengennotierung sinkt."
+          ],
+          "a": 2,
+          "e": "Wertet die ausländische Währung ab, sinkt der Preis je Auslandseinheit (Preisnotierung sinkt). Hinweis: Antwort B beschreibt denselben Vorgang in Mengennotierung – die Frage ist insoweit mehrdeutig.",
+          "flag": true
+        },
+        {
+          "q": "Welche Aussage ist korrekt? Relativ zu einem Monopolmarkt …",
+          "o": [
+            "setzt ein Unternehmen im Wettbewerbsmarkt höhere Preise.",
+            "verknappt ein Monopolist die Menge.",
+            "ändert sich die Gütermenge im Wettbewerbsmarkt nicht.",
+            "steigt die angebotene Gütermenge im Wettbewerbsmarkt."
+          ],
+          "a": 3,
+          "e": "Im Wettbewerb wird – relativ zum Monopol – mehr Menge zu niedrigeren Preisen angeboten. Hinweis: Aussage B ist für sich ebenfalls richtig; zu prüfen.",
+          "flag": true
+        },
+        {
+          "q": "Welche Aussage zur Schuldenbremse in Deutschland ist korrekt?",
+          "o": [
+            "Sie gilt nur für den Bund.",
+            "Sie gilt für Bund und Länder.",
+            "Sie gilt nur für die 16 Länder.",
+            "Sie wird jährlich neu vom Bundestag festgelegt."
+          ],
+          "a": 1,
+          "e": "Die grundgesetzliche Schuldenbremse bindet Bund und Länder (mit unterschiedlichen Vorgaben)."
+        },
+        {
+          "q": "Wie viele Menschen waren 2022 mit Arbeitsort in Deutschland ungefähr beschäftigt?",
+          "o": [
+            "ca. 38 Mio.",
+            "ca. 42 Mio.",
+            "ca. 46 Mio.",
+            "ca. 50 Mio."
+          ],
+          "a": 2,
+          "e": "Die Zahl der Erwerbstätigen lag 2022 bei rund 45,6 Mio."
+        },
+        {
+          "q": "Wie wird gemäß Bundesagentur für Arbeit die Arbeitslosenquote berechnet?",
+          "o": [
+            "Arbeitslose / Erwerbstätige",
+            "Arbeitslose / Arbeitssuchende",
+            "Arbeitslose / Bevölkerung",
+            "Arbeitslose / (Erwerbstätige + Arbeitslose)"
+          ],
+          "a": 3,
+          "e": "Die Quote bezieht Arbeitslose auf alle Erwerbspersonen (Erwerbstätige plus Arbeitslose)."
+        },
+        {
+          "q": "Welche Aufgabe hat der Internationale Währungsfonds?",
+          "o": [
+            "Finanzierung von Leistungsbilanzungleichgewichten",
+            "Überwachung des internationalen Wettbewerbs",
+            "Überwachung von Devisenmärkten",
+            "Unterstützung seiner Mitglieder in Währungs- und Finanzkrisen"
+          ],
+          "a": 3,
+          "e": "Kernaufgabe des IWF ist die Stützung von Mitgliedern in Zahlungsbilanz- und Finanzkrisen. Hinweis: Antwort A trifft die klassische Zahlungsbilanzfunktion ebenfalls – zu prüfen.",
+          "flag": true
+        },
+        {
+          "q": "Welche Aufgabe übernimmt die Bank für Internationalen Zahlungsausgleich?",
+          "o": [
+            "Überweisungen von Privathaushalten ins Ausland",
+            "Verwaltung der Währungsreserven der Zentralbanken ihrer Mitglieder",
+            "Zahlungsabwicklung international tätiger Firmen",
+            "Geschäftsbank für multinationale Firmen"
+          ],
+          "a": 1,
+          "e": "Die BIZ ist die Bank der Zentralbanken und verwaltet u. a. deren Reserven."
+        },
+        {
+          "q": "Das Trilemma des Wechselkursregimes besagt, dass ein Land nur zwei der drei Ziele erreichen kann. Welche Aussage ist richtig?",
+          "o": [
+            "Hohe Beschäftigung, niedrige Inflation, flexibler Wechselkurs",
+            "hohes Wachstum, freier Kapitalverkehr, flexibler Wechselkurs",
+            "flexibler Wechselkurs, freier Kapitalverkehr, niedrige Inflation",
+            "feste Wechselkursbindung, freier Kapitalverkehr, autonome Geldpolitik"
+          ],
+          "a": 3,
+          "e": "Das „unmögliche Dreieck“: feste Wechselkurse, freier Kapitalverkehr und autonome Geldpolitik sind nicht gleichzeitig erreichbar. Hinweis: Im Original ist Antwort D mit „flexibler Wechselkurs“ formuliert – sachlich gemeint ist die Wechselkursbindung; zu prüfen.",
+          "flag": true
+        },
+        {
+          "q": "Wann wurde der Europäische Binnenmarkt eingeführt?",
+          "o": [
+            "1. Januar 1990",
+            "1. Januar 1993",
+            "1. Juli 1998",
+            "1. Januar 2001"
+          ],
+          "a": 1,
+          "e": "Der Binnenmarkt trat zum 1. Januar 1993 in Kraft."
+        },
+        {
+          "q": "Was versteht man unter „Arbeitsangebot“?",
+          "o": [
+            "Anzahl der von Unternehmen angebotenen Arbeitsplätze",
+            "Zahl der beschäftigten Personen",
+            "Zahl der aktuell Arbeitsuchenden",
+            "Zahl der Beschäftigten plus der Arbeitsuchenden"
+          ],
+          "a": 3,
+          "e": "Das Arbeitsangebot der Haushalte = Erwerbspersonen = Beschäftigte plus Arbeitsuchende."
+        },
+        {
+          "q": "Welche Aussage ist korrekt?",
+          "o": [
+            "Die EU ist eine Zollunion.",
+            "Die EU ist eine Freihandelszone.",
+            "Jedes EU-Land verfolgt seine eigene Handelspolitik.",
+            "Die Kommission hat für jedes Land individuelle Zölle festgelegt."
+          ],
+          "a": 0,
+          "e": "Die EU ist eine Zollunion mit gemeinsamem Außenzoll und gemeinsamer Handelspolitik."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "short": "Politische Analyse",
+  "title": "Politische Analyse",
+  "desc": "Freitextklausur, 60 Minuten: außenpolitische Herausforderungen analysieren und Handlungsempfehlungen entwickeln.",
+  "durationMin": 60,
+  "icon": "pen",
+  "topics": [
+    {
+      "cat": "Klima",
+      "t": "COP29 und globale Klimapolitik",
+      "prompt": "Bei der Weltklimakonferenz in Dubai wurde Ende 2023 u. a. eine Abkehr von fossilen Energieträgern beschlossen und ein Fonds für Klimaschäden und -verluste vereinbart. Ein Fokus der COP29 in Baku ist die Erstellung neuer, ehrgeiziger Klimapläne aller Länder sowie die Finanzierung der globalen Klimawende.\n\nIdentifizieren Sie mit Blick auf die Ziele der COP29 prägende außenpolitische Herausforderungen und skizzieren Sie Handlungsempfehlungen für Deutschland und die EU. Erläutern Sie auch die Rolle des Auswärtigen Amts bei den jährlichen COP-Verhandlungen und gehen Sie auf Formate wie den Petersberger Klimadialog ein."
+    },
+    {
+      "cat": "China",
+      "t": "China als Partner, Wettbewerber und systemischer Rivale",
+      "prompt": "Die Bundesregierung hat sich erstmals eine umfassende China-Strategie gegeben und charakterisiert China als „Partner, Wettbewerber und systemischen Rivalen“. China tritt außenpolitisch zunehmend mit eigenem Gestaltungsanspruch auf; Spannungen in der Straße von Taiwan und im Südchinesischen Meer nehmen zu. Zugleich ist China für viele Länder wichtigster Handelspartner.\n\nBeleuchten Sie die aktuelle Rolle Chinas in der Region und geben Sie eine Einschätzung ab, wie sich die Situation in den kommenden Jahren entwickeln könnte. Welche Prioritäten sehen Sie für die deutsche Außenpolitik?"
+    },
+    {
+      "cat": "USA / Transatlantik",
+      "t": "US-Wahlen und die transatlantischen Beziehungen",
+      "prompt": "Die transatlantische Partnerschaft in der Sicherheits- und Verteidigungspolitik ist seit Beginn des russischen Angriffskriegs gegen die Ukraine noch wichtiger geworden; die NATO hat an Bedeutung gewonnen. Deutschland und die USA stimmen sich eng zu aktuellen Krisen ab.\n\nSkizzieren Sie mögliche Auswirkungen des Ausgangs der US-Präsidentschaftswahlen auf die transatlantischen Beziehungen. Beleuchten Sie dabei insbesondere aktuelle sicherheitspolitische Herausforderungen. Welche Auswirkungen sehen Sie für die deutsche Außenpolitik?"
+    },
+    {
+      "cat": "BRICS+",
+      "t": "Bedeutung und Handlungsfähigkeit der BRICS+",
+      "prompt": "Anfang 2024 wurde das BRICS-Format um mehrere Staaten erweitert. Argentiniens Präsident Javier Milei sagte den Beitritt seines Landes jedoch wieder ab.\n\nBewerten Sie die außenpolitische Bedeutung und Handlungsfähigkeit der BRICS+, auch mit Blick auf die Entscheidung Argentiniens. Gehen Sie auf mögliche Auswirkungen auf die Rolle der G7 und der EU im globalen Kontext ein und entwerfen Sie Handlungsempfehlungen für die deutsche Außenpolitik."
+    },
+    {
+      "cat": "Iran / Nahost",
+      "t": "Iran und der Nahe und Mittlere Osten",
+      "prompt": "Bei den Präsidentschaftswahlen in Iran hat sich der als eher gemäßigt geltende Massud Peseschkian durchgesetzt. Beobachter sehen das Land innen- wie außenpolitisch in einer schwierigen Phase.\n\nBewerten Sie die politische Situation und beleuchten Sie die Hintergründe. Skizzieren Sie die regionalpolitische Rolle Irans und die Handlungsmöglichkeiten Deutschlands und der EU."
+    },
+    {
+      "cat": "Europäische Union",
+      "t": "Herausforderungen und Reform der EU",
+      "prompt": "Die Wahlen zum Europäischen Parlament Anfang Juni 2024 brachten Verluste vor allem für liberale und grüne Parteien sowie Zugewinne für konservative und rechtspopulistische bzw. rechtsextreme Kräfte. Ursula von der Leyen wurde als Kommissionspräsidentin wiedergewählt.\n\nSkizzieren Sie die Herausforderungen der EU in den kommenden Jahren und gehen Sie dabei auch auf eine mögliche Erweiterung und die Debatte über eine Reform der Union ein. Welche Rolle sollte bzw. kann Deutschland übernehmen?"
+    }
+  ]
+}

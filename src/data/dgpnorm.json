@@ -1,0 +1,14 @@
+{
+  "short": "DGP",
+  "title": "DGP – Normen-Diktum (Subsumtion)",
+  "desc": "Einen Einzelfall unter ein fiktives Regelwerk mit Grundsatz, Ausnahme, Rückausnahme und zwingendem Ausschluss subsumieren – 20 Aufgaben. Teil des kognitiven Leistungstests (verbale Verarbeitungskapazität).",
+  "count": 20,
+  "totalSec": 1200,
+  "icon": "norm",
+  "schwellePct": 60,
+  "example": {
+    "q": "§1 Grundsatz, §2 Ausnahme, §3 Rückausnahme, §4 zwingender Ausschluss – welche Norm entscheidet zuerst?",
+    "e": "Immer zuerst §4 prüfen: Er verdrängt alle anderen Normen, unabhängig vom Sachverhalt."
+  },
+  "intro": "Vorgegeben ist ein fiktives, in Paragraphen gegliedertes Regelwerk (§1 Grundsatz, §2 Ausnahme, §3 Rückausnahme, §4 zwingender Ausschluss) und ein Sachverhalt. Bestimmen Sie das Ergebnis und – entscheidend – die maßgebliche Norm. Genau eine der fünf Antworten nennt Ergebnis und Rechtsgrundlage korrekt. Die Fallen liegen in der Prüfungsreihenfolge: §4 verdrängt alles; ohne erfüllte Grundvoraussetzung (§1) gibt es keine Genehmigung; die Rückausnahme (§3) hebt die Ausnahme (§2) wieder auf. In jedem Versuch werden 20 neue Fälle erzeugt."
+}

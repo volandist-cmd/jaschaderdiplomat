@@ -1,0 +1,14 @@
+{
+  "short": "DGP",
+  "title": "DGP – Tabellen & Diagramme",
+  "desc": "Datenentnahme und Interpretation aus Tabellen und Diagrammen (Balken-, Linien-, Kreis-, Streu- und Verbunddiagramme, Histogramme) – 20 Aufgaben. Teil des kognitiven Leistungstests (numerische Verarbeitungskapazität).",
+  "count": 20,
+  "totalSec": 240,
+  "icon": "table",
+  "schwellePct": 60,
+  "example": {
+    "q": "Balkendiagramm: 2020 = 120, 2021 = 150 – Steigerung in %?",
+    "e": "(150−120)/120·100 = 25 % – Werte immer direkt aus der Grafik ablesen, nicht schätzen."
+  },
+  "intro": "Jede Aufgabe zeigt entweder eine Datentabelle oder ein Diagramm (Balken, gestapelte Balken, Linien, Kreis, Streudiagramm, Histogramm oder eine Verbundgrafik aus Balken und Linie). Beantworten Sie die Frage ausschließlich anhand der dargestellten Werte: prozentuale Veränderung, Anteil an der Gesamtsumme, Differenz, Durchschnitt, Rangfolge oder Trend. Achten Sie besonders auf typische Fallen wie abgeschnittene Achsen, Anteil versus Absolutwert, Ablenkspalten und Korrelation versus Kausalität. Genau eine der angebotenen Lösungen ist richtig. In jedem Versuch werden 20 neue, einzigartige Aufgaben erzeugt."
+}

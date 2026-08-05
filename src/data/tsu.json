@@ -1,0 +1,1638 @@
+{
+  "short": "Situatives Urteilen",
+  "title": "Test situationsbezogenen Urteilens",
+  "desc": "Kooperations- und Führungskompetenz: Reaktionen auf Szenarien bewerten.",
+  "durationMin": 30,
+  "attemptN": 25,
+  "fullrunN": 5,
+  "fullrunMin": 6,
+  "icon": "users",
+  "scale": [
+    "sehr ineffektiv",
+    "ineffektiv",
+    "effektiv",
+    "sehr effektiv"
+  ],
+  "scenarios": [
+    {
+      "official": true,
+      "title": "Gestaltungsspielräume eines Mitarbeiters",
+      "context": "Ein Mitarbeiter bittet um ein Gespräch: Er bekomme zwar regelmäßig Wertschätzung für seine Arbeit, es fehle ihm aber an eigenen Gestaltungsspielräumen. Er habe den Eindruck, für die Abteilungsleitung – Ihren Vorgesetzten – zu wenig sichtbar zu sein, und sorgt sich um seine nächste Beurteilung. Tatsächlich hat der Mitarbeiter bei der Abteilungsleitung einen ausgezeichneten Ruf. Bei seiner Arbeit beteiligt er Sie häufig auch bei Detailfragen, obwohl Sie ihm bereits erklärt haben, dass er solche selbst entscheiden kann und Sie seiner Einschätzung vertrauen.",
+      "statements": [
+        {
+          "t": "Ich versichere ihm, dass alles in Ordnung sei und er sich wegen seiner guten Arbeit keine Sorgen machen müsse.",
+          "a": 1,
+          "e": "Beschwichtigend, aber es greift das eigentliche Anliegen (Sichtbarkeit, Eigenverantwortung) nicht auf."
+        },
+        {
+          "t": "Ich erläutere ihm anhand von Beispielen, wie ich seine Arbeit auch gegenüber der Abteilungsleitung würdigend erwähne, und bitte meine Vorgesetzten, ihm auch direktes Feedback zu geben.",
+          "a": 2,
+          "e": "Macht Leistung sichtbar und eröffnet direkte Anerkennung durch die Leitung."
+        },
+        {
+          "t": "Ich ermuntere ihn, häufiger in den Abteilungsrunden das Wort zu ergreifen und dort Beiträge für das Referat vorzustellen.",
+          "a": 2,
+          "e": "Fördert Sichtbarkeit und Eigenverantwortung des Mitarbeiters."
+        },
+        {
+          "t": "Ich weise ihn erneut auf den vorhandenen Gestaltungsspielraum hin und kritisiere, dass er diesen nicht nutzt.",
+          "a": 0,
+          "e": "Kritik statt Unterstützung – verkennt das Anliegen und wirkt entmutigend."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Wiederholt verspätete Zulieferungen",
+      "context": "Ein Teammitglied liefert seit einigen Wochen wiederholt Beiträge verspätet ab, wodurch sich Termine des gesamten Referats verschieben. In Gesprächen wirkt die Person engagiert, scheint aber mit der Priorisierung mehrerer paralleler Aufgaben überfordert.",
+      "statements": [
+        {
+          "t": "Ich spreche die Person unter vier Augen an, schildere die konkreten Auswirkungen der Verzögerungen und erarbeite gemeinsam mit ihr eine realistische Priorisierung.",
+          "a": 3,
+          "e": "Sachlich, vertraulich, lösungsorientiert – adressiert die eigentliche Ursache (Priorisierung)."
+        },
+        {
+          "t": "Ich weise die Person in der nächsten Teamsitzung vor allen auf die Verspätungen hin, damit der Gruppendruck für Verbindlichkeit sorgt.",
+          "a": 0,
+          "e": "Bloßstellung vor dem Team beschädigt Vertrauen und Zusammenarbeit."
+        },
+        {
+          "t": "Ich entziehe der Person kommentarlos die betroffenen Aufgaben und verteile sie neu.",
+          "a": 1,
+          "e": "Beseitigt kurzfristig das Symptom, ohne Dialog, Entwicklung oder Ursachenklärung."
+        },
+        {
+          "t": "Ich frage nach den Ursachen, biete Unterstützung bei der Arbeitsorganisation an und vereinbare klare Zwischenfristen.",
+          "a": 2,
+          "e": "Unterstützend und strukturierend; etwas allgemeiner als die gemeinsame Priorisierung."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Konflikt zwischen zwei Mitarbeitenden",
+      "context": "Zwei Mitarbeitende in Ihrem Referat geraten zunehmend in Konflikt; ihre Zusammenarbeit an einem gemeinsamen Dossier stockt. Beide schildern Ihnen getrennt voneinander ihre Sicht und erwarten, dass Sie Partei ergreifen.",
+      "statements": [
+        {
+          "t": "Ich gebe einer der beiden Seiten recht, um den Konflikt schnell zu beenden.",
+          "a": 0,
+          "e": "Einseitige Parteinahme verschärft den Konflikt und untergräbt Ihre Neutralität."
+        },
+        {
+          "t": "Ich führe ein gemeinsames Gespräch, lasse beide Perspektiven darlegen und moderiere eine Verständigung über das weitere Vorgehen.",
+          "a": 3,
+          "e": "Allparteiliche Moderation ist der Kern guter Konfliktklärung."
+        },
+        {
+          "t": "Ich ignoriere den Konflikt zunächst in der Erwartung, dass er sich von selbst löst.",
+          "a": 1,
+          "e": "Nichtstun lässt den Konflikt meist eskalieren und die Arbeit weiter stocken."
+        },
+        {
+          "t": "Ich kläre mit beiden die sachlichen Streitpunkte am Dossier und definiere klare Zuständigkeiten und Schnittstellen.",
+          "a": 2,
+          "e": "Sachebene und klare Rollen helfen; die Beziehungsebene bleibt aber unbearbeitet."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Fauxpas beim Empfang im Gastland",
+      "context": "Bei einem Empfang in Ihrem Gastland lehnt ein hochrangiger einheimischer Gast eine von Ihnen gereichte Speise sichtlich irritiert ab; Ihnen wird bewusst, dass das Gericht aus religiösen Gründen für ihn problematisch ist.",
+      "statements": [
+        {
+          "t": "Ich entschuldige mich knapp und aufrichtig, lasse unauffällig eine geeignete Alternative reichen und führe das Gespräch ruhig weiter.",
+          "a": 3,
+          "e": "Souverän, respektvoll und gesichtswahrend für beide Seiten."
+        },
+        {
+          "t": "Ich bitte das Servicepersonal diskret, auf die Speisevorschriften zu achten, und merke mir die Präferenz für künftige Anlässe.",
+          "a": 2,
+          "e": "Vorausschauend und diskret, etwas weniger unmittelbar."
+        },
+        {
+          "t": "Ich entschuldige mich wortreich und komme mehrfach auf mein Versäumnis zurück.",
+          "a": 1,
+          "e": "Das lange Verweilen auf dem Fehler vergrößert die Peinlichkeit."
+        },
+        {
+          "t": "Ich mache einen Scherz über die Situation, um die Stimmung aufzulockern.",
+          "a": 0,
+          "e": "Humor über religiöse Empfindlichkeiten wirkt respektlos."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Bürgertelefon während einer Krise",
+      "context": "Nach einem schweren Erdbeben im Gastland klingelt im Krisenstab ununterbrochen das Bürgertelefon. Eine aufgelöste Angehörige verlangt sofortige, verbindliche Auskunft über einen vermissten Deutschen, die Sie zu diesem Zeitpunkt nicht geben können.",
+      "statements": [
+        {
+          "t": "Ich höre ruhig zu, schildere ehrlich, was bekannt ist und was nicht, nenne die nächsten Schritte und einen konkreten Rückrufzeitpunkt.",
+          "a": 3,
+          "e": "Empathisch, ehrlich und handlungsleitend – auch unter Druck."
+        },
+        {
+          "t": "Ich nehme die Daten strukturiert auf, verweise auf den Krisenstab und sichere zu, mich zu melden, sobald gesicherte Informationen vorliegen.",
+          "a": 2,
+          "e": "Korrekt und beruhigend, aber etwas distanzierter."
+        },
+        {
+          "t": "Ich bitte die Anruferin, sich später erneut zu melden, da die Leitung dringend frei bleiben muss.",
+          "a": 1,
+          "e": "Nachvollziehbar, lässt die Angehörige aber allein."
+        },
+        {
+          "t": "Ich gebe die beruhigende Auskunft, die Person sei sicher wohlauf, um sie zu entlasten.",
+          "a": 0,
+          "e": "Unbelegte Zusagen sind im Krisenfall gefährlich und unzulässig."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Großzügiges Geschenk eines Kontakts",
+      "context": "Ein einflussreicher lokaler Geschäftsmann, der ein Interesse an einer anstehenden Vergabeentscheidung hat, überreicht Ihnen nach einem Gespräch ein auffällig wertvolles Geschenk.",
+      "statements": [
+        {
+          "t": "Ich lehne das Geschenk höflich, aber bestimmt ab, verweise auf die geltenden Regeln und informiere meine Vorgesetzten.",
+          "a": 3,
+          "e": "Klar, transparent und regelkonform."
+        },
+        {
+          "t": "Ich nehme es zunächst an, um ihn nicht zu brüskieren, melde es aber umgehend und gebe es vorschriftsgemäß ab.",
+          "a": 2,
+          "e": "Im Ergebnis regelkonform, aber riskanter und missverständlicher."
+        },
+        {
+          "t": "Ich lehne ab, dokumentiere oder melde den Vorgang aber nicht weiter.",
+          "a": 1,
+          "e": "Richtig abgelehnt, doch die unterlassene Meldung schwächt die Transparenz."
+        },
+        {
+          "t": "Ich nehme das Geschenk als Zeichen der Höflichkeit an und behalte es.",
+          "a": 0,
+          "e": "Annahme schafft Abhängigkeit und verstößt gegen die Integritätsregeln."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Anfrage einer Journalistin",
+      "context": "Eine Ihnen bekannte Journalistin bittet Sie „unter der Hand“ um Einschätzungen zu einer noch vertraulichen Verhandlungsposition der Bundesregierung.",
+      "statements": [
+        {
+          "t": "Ich erläutere freundlich, dass ich vertrauliche Inhalte nicht weitergeben kann, und verweise auf die zuständige Pressestelle.",
+          "a": 3,
+          "e": "Klar, kooperativ und regelkonform."
+        },
+        {
+          "t": "Ich gebe nur bereits öffentlich bekannte, abgestimmte Informationen weiter und mache die Grenze deutlich.",
+          "a": 2,
+          "e": "Hilfreich und transparent über die Grenze des Sagbaren."
+        },
+        {
+          "t": "Ich weiche aus und beende das Gespräch rasch, ohne die Lage zu erklären.",
+          "a": 1,
+          "e": "Wahrt die Vertraulichkeit, wirkt aber unkooperativ und nährt Spekulationen."
+        },
+        {
+          "t": "Ich gebe ihr „im Vertrauen“ einige Hintergründe, damit die Berichterstattung ausgewogen wird.",
+          "a": 0,
+          "e": "Die Weitergabe vertraulicher Inhalte ist ein klarer Verstoß."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Vertreten einer Position, die Sie nicht teilen",
+      "context": "Sie sollen in einer Arbeitsgruppe eine Weisungslage der Leitung vertreten, von der Sie fachlich nicht überzeugt sind.",
+      "statements": [
+        {
+          "t": "Ich vertrete die Position nach außen loyal und professionell und bringe meine Bedenken zuvor auf dem Dienstweg sachlich ein.",
+          "a": 3,
+          "e": "Trennt korrekt zwischen interner Willensbildung und loyaler Außenvertretung."
+        },
+        {
+          "t": "Ich vertrete die Position und dokumentiere meine abweichende fachliche Einschätzung intern für die Akten.",
+          "a": 2,
+          "e": "Loyal in der Außenwirkung, sichert die fachliche Position für die Akten."
+        },
+        {
+          "t": "Ich vertrete die Position nur halbherzig und lasse meine Zweifel durchblicken.",
+          "a": 1,
+          "e": "Untergräbt die Verhandlungslinie und die Geschlossenheit."
+        },
+        {
+          "t": "Ich weiche von der Weisung ab und vertrete meine eigene Auffassung.",
+          "a": 0,
+          "e": "Eigenmächtiges Abweichen verletzt Loyalität und Weisungsbindung."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Dringende Entscheidung, Vorgesetzte nicht erreichbar",
+      "context": "Kurz vor Fristablauf muss eine Stellungnahme abgegeben werden; Ihre Referatsleitung ist nicht erreichbar, und die Sache duldet keinen Aufschub.",
+      "statements": [
+        {
+          "t": "Ich treffe die naheliegende, fristwahrende Entscheidung im Rahmen meiner Zuständigkeit, dokumentiere sie und informiere die Leitung unverzüglich nachträglich.",
+          "a": 3,
+          "e": "Verantwortungsvoll und fristwahrend, mit unverzüglicher Nachinformation."
+        },
+        {
+          "t": "Ich versuche, die Vertretung der Leitung oder eine übergeordnete Stelle einzubinden, bevor ich entscheide.",
+          "a": 2,
+          "e": "Bindet eine zuständige Vertretung ein – sorgfältig, aber zeitkritisch."
+        },
+        {
+          "t": "Ich lasse die Frist verstreichen, da ohne Rücksprache nicht entschieden werden soll.",
+          "a": 1,
+          "e": "Vermeidet Verantwortung, schadet dem Anliegen aber erheblich."
+        },
+        {
+          "t": "Ich treffe eine weitreichende Festlegung weit über meine Zuständigkeit hinaus.",
+          "a": 0,
+          "e": "Kompetenzüberschreitung ohne Not schafft neue Risiken."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Neue Leitung eines eingespielten Teams",
+      "context": "Sie übernehmen die Leitung eines Referats mit langjährigen, erfahrenen Mitarbeitenden, die ihre Abläufe gut eingespielt haben.",
+      "statements": [
+        {
+          "t": "Ich verschaffe mir zunächst einen Überblick, höre den Mitarbeitenden zu und ändere Bewährtes nur dort, wo es nötig ist.",
+          "a": 3,
+          "e": "Umsichtig, baut Vertrauen auf und schont Bewährtes."
+        },
+        {
+          "t": "Ich führe Einzelgespräche, um Stärken und Erwartungen kennenzulernen, und stelle meine Arbeitsweise transparent vor.",
+          "a": 2,
+          "e": "Lernt das Team kennen und schafft Transparenz."
+        },
+        {
+          "t": "Ich setze früh eigene Akzente und ordne mehrere Änderungen an, um Führung zu zeigen.",
+          "a": 1,
+          "e": "Vorschnelle Eingriffe ohne Kenntnis der Abläufe erzeugen Widerstand."
+        },
+        {
+          "t": "Ich überlasse die Abläufe vollständig dem Team und halte mich heraus.",
+          "a": 0,
+          "e": "Führungsverzicht lässt Orientierung und Verantwortung vermissen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Mittelloser Reisender im Konsulat",
+      "context": "Ein deutscher Tourist erscheint im Konsulat: Pass und Geld wurden gestohlen, sein Rückflug geht in wenigen Stunden, und er ist sichtlich verzweifelt.",
+      "statements": [
+        {
+          "t": "Ich kläre ruhig die Fakten, erläutere die Möglichkeiten (Reiseausweis, Kontakt zu Angehörigen, Nothilfe) und leite das Nötige zügig ein.",
+          "a": 3,
+          "e": "Ruhig, lösungsorientiert und auf die Notlage ausgerichtet."
+        },
+        {
+          "t": "Ich nehme die Anzeige auf und stelle ein Ersatzdokument aus, weise aber darauf hin, dass der ursprüngliche Flug wohl nicht zu halten ist.",
+          "a": 2,
+          "e": "Korrekt und hilfreich, benennt die Grenze aber realistisch."
+        },
+        {
+          "t": "Ich erkläre, dass die Bearbeitung Zeit braucht, und bitte ihn, am nächsten Tag wiederzukommen.",
+          "a": 1,
+          "e": "Formal korrekt, ignoriert aber Dringlichkeit und Notlage."
+        },
+        {
+          "t": "Ich verweise ihn an die örtliche Polizei, da das Konsulat nicht zuständig sei.",
+          "a": 0,
+          "e": "Falsch – konsularische Hilfe in Notlagen ist eine Kernaufgabe."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Rede bei einer heiklen Gedenkveranstaltung",
+      "context": "Sie sollen das Amt bei einer Gedenkveranstaltung im Gastland vertreten, deren historische Deutung zwischen beiden Ländern sensibel ist.",
+      "statements": [
+        {
+          "t": "Ich stimme die Rede sorgfältig mit der Zentrale ab, würdige die Opfer respektvoll und wahre die offizielle Sprachregelung.",
+          "a": 3,
+          "e": "Abgestimmt, würdevoll und sprachregelungskonform."
+        },
+        {
+          "t": "Ich halte mich eng an bewährte Formulierungen früherer Anlässe und vermeide eigene historische Wertungen.",
+          "a": 2,
+          "e": "Sicher durch bewährte Formulierungen, etwas defensiv."
+        },
+        {
+          "t": "Ich formuliere spontan und persönlich, um authentisch zu wirken.",
+          "a": 1,
+          "e": "Ohne Abstimmung drohen ungewollte außenpolitische Missverständnisse."
+        },
+        {
+          "t": "Ich nutze die Gelegenheit, die deutsche Sichtweise pointiert herauszustellen.",
+          "a": 0,
+          "e": "Einseitige Zuspitzung bei einem Gedenken ist diplomatisch unangemessen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Fehler in einer Verbalnote",
+      "context": "Sie bemerken, dass in einer bereits übermittelten Verbalnote ein inhaltlicher Fehler enthalten ist, der zu Missverständnissen führen kann.",
+      "statements": [
+        {
+          "t": "Ich informiere umgehend meine Leitung, schlage eine Berichtigung vor und sorge für die zügige Richtigstellung gegenüber dem Empfänger.",
+          "a": 3,
+          "e": "Transparent, schnell und schadensbegrenzend."
+        },
+        {
+          "t": "Ich bereite eine korrigierte Fassung vor und lege sie der Leitung mit Erläuterung des Fehlers vor.",
+          "a": 2,
+          "e": "Konstruktiv und nachvollziehbar dokumentiert."
+        },
+        {
+          "t": "Ich warte ab, ob der Fehler überhaupt auffällt, um keine Unruhe zu erzeugen.",
+          "a": 1,
+          "e": "Verzögerung vergrößert den möglichen Schaden."
+        },
+        {
+          "t": "Ich korrigiere die Note eigenmächtig und ohne Information an Vorgesetzte neu.",
+          "a": 0,
+          "e": "Der Alleingang verschleiert den Vorgang und verletzt den Dienstweg."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Unangemessene Bemerkung einer Kollegin",
+      "context": "In einer Besprechung macht eine Kollegin eine abwertende Bemerkung über die Herkunft einer Ortskraft; mehrere Anwesende wirken betreten.",
+      "statements": [
+        {
+          "t": "Ich widerspreche sachlich und unmissverständlich, stelle eine respektvolle Norm klar und suche danach das Einzelgespräch.",
+          "a": 3,
+          "e": "Klar, normsetzend und zugleich um Klärung bemüht."
+        },
+        {
+          "t": "Ich greife im Moment kurz korrigierend ein und spreche die Kollegin später unter vier Augen an.",
+          "a": 2,
+          "e": "Korrigiert wirksam und sucht das klärende Gespräch."
+        },
+        {
+          "t": "Ich gehe nicht darauf ein, um die Sitzung nicht zu stören, und spreche es vielleicht später an.",
+          "a": 1,
+          "e": "Schweigen wirkt wie Zustimmung und lässt Betroffene allein."
+        },
+        {
+          "t": "Ich stimme zur Auflockerung scheinbar zu, um die Kollegin nicht zu brüskieren.",
+          "a": 0,
+          "e": "Mitmachen verstärkt die Diskriminierung."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Festgefahrene Verhandlung",
+      "context": "In einer mehrtägigen multilateralen Verhandlung blockiert eine Delegation jeden Kompromiss; die Stimmung ist gereizt, die Zeit drängt.",
+      "statements": [
+        {
+          "t": "Ich suche das vertrauliche Gespräch am Rande, ergründe die eigentlichen Interessen der Delegation und entwickle eine gesichtswahrende Brücke.",
+          "a": 3,
+          "e": "Interessenorientiert und gesichtswahrend – der Kern guter Verhandlung."
+        },
+        {
+          "t": "Ich schlage eine kurze Pause und kleinere Arbeitsformate vor, um die Fronten zu entspannen.",
+          "a": 2,
+          "e": "Deeskaliert und schafft Raum für Bewegung."
+        },
+        {
+          "t": "Ich übe in der Runde öffentlich Druck auf die blockierende Delegation aus.",
+          "a": 1,
+          "e": "Öffentlicher Druck verhärtet die Position meist weiter."
+        },
+        {
+          "t": "Ich dränge auf eine sofortige Abstimmung, um die Blockade zu überstimmen.",
+          "a": 0,
+          "e": "Erzwingen ohne Konsens gefährdet Tragfähigkeit und Beziehungen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Auffällige Kontaktaufnahme",
+      "context": "Eine neue Bekanntschaft im Gastland zeigt auffälliges Interesse an Ihrer Arbeit, lädt Sie wiederholt großzügig ein und stellt gezielt Fragen zu internen Abläufen.",
+      "statements": [
+        {
+          "t": "Ich bleibe höflich, gebe nichts Dienstliches preis und melde die Auffälligkeiten dem Sicherheitsbeauftragten.",
+          "a": 3,
+          "e": "Wachsam, korrekt und meldepflichtgerecht."
+        },
+        {
+          "t": "Ich halte Abstand, reduziere die Kontakte und beobachte die Situation aufmerksam.",
+          "a": 2,
+          "e": "Vorsichtig und distanzwahrend, ohne aktive Meldung."
+        },
+        {
+          "t": "Ich pflege den Kontakt weiter, achte aber selbst darauf, nichts Wichtiges zu sagen.",
+          "a": 1,
+          "e": "Unterschätzt das Risiko einer gezielten Anbahnung; die Meldung fehlt."
+        },
+        {
+          "t": "Ich nutze die Einladungen und teile Unverfängliches aus dem Arbeitsalltag, um den Kontakt zu pflegen.",
+          "a": 0,
+          "e": "Schon scheinbar Belangloses kann nachrichtendienstlich wertvoll sein."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Anzeichen von Überlastung im Team",
+      "context": "Ein sonst sehr zuverlässiges Teammitglied wirkt seit Wochen erschöpft, macht ungewohnte Flüchtigkeitsfehler und bleibt abends regelmäßig sehr lange.",
+      "statements": [
+        {
+          "t": "Ich suche das vertrauliche Gespräch, frage nach dem Befinden, prüfe gemeinsam die Arbeitslast und vereinbare Entlastung.",
+          "a": 3,
+          "e": "Fürsorglich, ursachenorientiert und entlastend."
+        },
+        {
+          "t": "Ich verteile vorsorglich einige Aufgaben um und signalisiere Gesprächsbereitschaft.",
+          "a": 2,
+          "e": "Entlastet vorsorglich und signalisiert Offenheit."
+        },
+        {
+          "t": "Ich lobe das große Engagement und hoffe, dass sich die Lage von selbst bessert.",
+          "a": 1,
+          "e": "Verkennt die Warnzeichen; Lob kann den Druck sogar erhöhen."
+        },
+        {
+          "t": "Ich weise auf die Fehler hin und mahne mehr Sorgfalt an.",
+          "a": 0,
+          "e": "Reine Leistungskritik bei Überlastung verschärft die Situation."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Widersprüchliche Aufträge",
+      "context": "Zwei übergeordnete Stellen erteilen Ihnen zur selben Sache kurzfristig widersprüchliche Weisungen; beide bestehen auf Vorrang.",
+      "statements": [
+        {
+          "t": "Ich mache den Widerspruch transparent, hole zeitnah eine klärende Entscheidung der gemeinsamen Leitungsebene ein und dokumentiere dies.",
+          "a": 3,
+          "e": "Transparent und auf zügige, zuständige Klärung gerichtet."
+        },
+        {
+          "t": "Ich kläre mit beiden Stellen Inhalt und Priorität und versuche, eine abgestimmte Linie herbeizuführen.",
+          "a": 2,
+          "e": "Sucht aktiv eine abgestimmte Linie."
+        },
+        {
+          "t": "Ich folge der zuletzt eingegangenen Weisung, ohne den Konflikt anzusprechen.",
+          "a": 1,
+          "e": "Löst die Unklarheit nicht und kann die andere Stelle übergehen."
+        },
+        {
+          "t": "Ich entscheide nach eigenem Gutdünken, welche Weisung mir sinnvoller erscheint.",
+          "a": 0,
+          "e": "Eigenmächtige Auswahl ohne Klärung ist intransparent und riskant."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Lokale Praxis trifft auf Vorschriften",
+      "context": "Eine langjährige Ortskraft schlägt vor, eine Beschaffung über einen befreundeten Anbieter „wie immer“ ohne förmliches Verfahren abzuwickeln, weil das vor Ort üblich und schneller sei.",
+      "statements": [
+        {
+          "t": "Ich erläutere wertschätzend, warum das vorgeschriebene Verfahren einzuhalten ist, und entwickle mit ihr einen regelkonformen, praktikablen Weg.",
+          "a": 3,
+          "e": "Wertschätzend, regelkonform und praktikabel."
+        },
+        {
+          "t": "Ich bestehe auf dem ordnungsgemäßen Verfahren und erkläre die Gründe.",
+          "a": 2,
+          "e": "Klar regelkonform, etwas weniger einbindend."
+        },
+        {
+          "t": "Ich stimme ausnahmsweise zu, da es nur um einen kleinen Betrag geht.",
+          "a": 1,
+          "e": "Auch kleine Ausnahmen untergraben Vergaberegeln und Integrität."
+        },
+        {
+          "t": "Ich überlasse der Ortskraft die Abwicklung, ohne nachzufragen.",
+          "a": 0,
+          "e": "Kontrollverzicht öffnet die Tür für Regelverstöße und Haftungsrisiken."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Gerücht und Presseanfragen",
+      "context": "In den sozialen Medien verbreitet sich ein unbestätigtes Gerücht über einen angeblichen Vorfall in der Botschaft; erste Presseanfragen treffen ein.",
+      "statements": [
+        {
+          "t": "Ich kläre intern zügig den Sachverhalt, stimme mich mit Pressestelle und Zentrale ab und sorge für eine zeitnahe, faktenbasierte Reaktion.",
+          "a": 3,
+          "e": "Schnell, abgestimmt und faktenbasiert."
+        },
+        {
+          "t": "Ich verweise Anfragen zunächst an die Pressestelle und sammle parallel belastbare Informationen.",
+          "a": 2,
+          "e": "Korrekt kanalisiert und informationsorientiert."
+        },
+        {
+          "t": "Ich warte ab, in der Hoffnung, dass sich das Gerücht von selbst legt.",
+          "a": 1,
+          "e": "Schweigen überlässt anderen die Deutungshoheit."
+        },
+        {
+          "t": "Ich dementiere sofort öffentlich, bevor der Sachverhalt geklärt ist.",
+          "a": 0,
+          "e": "Unabgestimmte Schnellschüsse können sich als falsch erweisen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Streit um die Sitzordnung",
+      "context": "Kurz vor einem offiziellen Essen beschwert sich ein ranghoher Gast lautstark über seinen Platz in der Sitzordnung und droht, die Veranstaltung zu verlassen.",
+      "statements": [
+        {
+          "t": "Ich höre die Beschwerde ruhig an, prüfe diskret eine protokollarisch vertretbare Lösung und wahre dabei das Gesicht aller Beteiligten.",
+          "a": 3,
+          "e": "Deeskalierend, protokollkundig und gesichtswahrend."
+        },
+        {
+          "t": "Ich erläutere knapp die protokollarische Logik und biete eine kleine, vertretbare Anpassung an.",
+          "a": 2,
+          "e": "Erklärt nachvollziehbar und bietet eine vertretbare Lösung."
+        },
+        {
+          "t": "Ich beharre strikt auf der festgelegten Ordnung ohne weitere Erklärung.",
+          "a": 1,
+          "e": "Protokoll ist wichtig, doch starre Unnachgiebigkeit eskaliert unnötig."
+        },
+        {
+          "t": "Ich gebe dem Druck sofort nach und stelle die gesamte Ordnung spontan um.",
+          "a": 0,
+          "e": "Vorschnelles Nachgeben brüskiert andere Gäste und schafft Folgekonflikte."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Kollege umgeht Beschaffungsregeln",
+      "context": "Sie bemerken, dass ein geschätzter Kollege regelmäßig Beschaffungen aufteilt, um Schwellenwerte zu umgehen und das Vergabeverfahren zu vermeiden.",
+      "statements": [
+        {
+          "t": "Ich spreche den Kollegen direkt an, weise auf den Verstoß hin und kläre, ob er die Praxis korrigiert; andernfalls informiere ich die zuständige Stelle.",
+          "a": 3,
+          "e": "Direkt, fair und am Ende compliancegerecht."
+        },
+        {
+          "t": "Ich erkundige mich nach den Gründen und mache deutlich, dass das Vorgehen so nicht zulässig ist.",
+          "a": 2,
+          "e": "Sucht Klärung und benennt die Unzulässigkeit."
+        },
+        {
+          "t": "Ich sage nichts, da der Kollege erfahren ist und es gut meint.",
+          "a": 1,
+          "e": "Wegsehen macht zum Mitwisser und schwächt die Compliance."
+        },
+        {
+          "t": "Ich übernehme die Praxis für meine eigenen Vorgänge, weil sie effizient ist.",
+          "a": 0,
+          "e": "Bewusster Regelverstoß ist eine eigene Pflichtverletzung."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Aggressiver Antragsteller am Schalter",
+      "context": "Am Schalter wird ein Visumantragsteller zunehmend laut und aggressiv, weil sein Antrag nicht sofort bewilligt werden kann; andere Wartende werden unruhig.",
+      "statements": [
+        {
+          "t": "Ich bleibe ruhig und sachlich, erkläre verständlich das Verfahren und die nächsten Schritte und biete bei Bedarf ein Gespräch abseits des Schalters an.",
+          "a": 3,
+          "e": "Ruhig, sachlich und deeskalierend."
+        },
+        {
+          "t": "Ich verweise freundlich-bestimmt auf die geltenden Regeln und ziehe bei Eskalation den Sicherheitsdienst hinzu.",
+          "a": 2,
+          "e": "Bestimmt und sicherheitsbewusst."
+        },
+        {
+          "t": "Ich breche den Kontakt ab und bitte ihn, später wiederzukommen.",
+          "a": 1,
+          "e": "Beendet die Situation, klärt aber nichts und kann eskalieren."
+        },
+        {
+          "t": "Ich reagiere mit gleicher Schärfe, um mich nicht einschüchtern zu lassen.",
+          "a": 0,
+          "e": "Konfrontation gießt Öl ins Feuer und ist unprofessionell."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Frage nach Ihrer privaten Meinung",
+      "context": "Bei einem privaten gesellschaftlichen Anlass im Gastland werden Sie offen nach Ihrer persönlichen Meinung zu einer innenpolitisch umstrittenen Frage des Gastlandes gefragt.",
+      "statements": [
+        {
+          "t": "Ich antworte freundlich-zurückhaltend, verweise auf meine Rolle und vermeide eine Einmischung in innere Angelegenheiten.",
+          "a": 3,
+          "e": "Zurückhaltend und nichteinmischend – diplomatisch souverän."
+        },
+        {
+          "t": "Ich lenke das Gespräch höflich auf allgemeine, unverfängliche Aspekte.",
+          "a": 2,
+          "e": "Höflich ausweichend, wahrt die Neutralität."
+        },
+        {
+          "t": "Ich gebe meine persönliche Meinung ausdrücklich als private kund.",
+          "a": 1,
+          "e": "Auch als „privat“ gekennzeichnete Wertungen können amtlich zugerechnet werden."
+        },
+        {
+          "t": "Ich beziehe klar Stellung, um Aufrichtigkeit zu zeigen.",
+          "a": 0,
+          "e": "Einmischung in innere Angelegenheiten ist diplomatisch heikel."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Sensible Daten auf Reisen",
+      "context": "Sie müssen kurzfristig mit einem Dienst-Laptop reisen, auf dem vertrauliche Unterlagen liegen, und übernachten in einem Hotel im Gastland.",
+      "statements": [
+        {
+          "t": "Ich nehme nur die nötigen, verschlüsselten Daten mit, befolge die Sicherheitsvorgaben und lasse das Gerät nie ungesichert.",
+          "a": 3,
+          "e": "Datensparsam, vorschriftenkonform und wachsam."
+        },
+        {
+          "t": "Ich verschlüssele das Gerät, bewahre es im Hotelsafe auf und trenne es vom Netz, wenn ich es nicht brauche.",
+          "a": 2,
+          "e": "Technisch und organisatorisch gut abgesichert."
+        },
+        {
+          "t": "Ich nehme die Unterlagen mit und achte „nach bestem Wissen“ auf Vorsicht, ohne die Vorgaben im Einzelnen zu prüfen.",
+          "a": 1,
+          "e": "Unklare Eigenpraxis genügt den Schutzanforderungen nicht."
+        },
+        {
+          "t": "Ich lasse den Laptop zur Bequemlichkeit angemeldet und unverschlossen im Zimmer.",
+          "a": 0,
+          "e": "Grobe Verletzung der Informationssicherheit."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Wiederholte Formfehler einer Berufsanfängerin",
+      "context": "Eine engagierte Berufsanfängerin in Ihrem Referat macht wiederholt vermeidbare Formfehler, reagiert auf knappe Hinweise aber zunehmend verunsichert.",
+      "statements": [
+        {
+          "t": "Ich gebe strukturiertes, wohlwollendes Feedback, zeige konkret an Beispielen, worauf es ankommt, und biete Begleitung an.",
+          "a": 3,
+          "e": "Wohlwollend, konkret und entwicklungsorientiert."
+        },
+        {
+          "t": "Ich erstelle eine kurze Checkliste für die typischen Fehler und bespreche sie mit ihr.",
+          "a": 2,
+          "e": "Strukturierte Hilfe zur Selbsthilfe."
+        },
+        {
+          "t": "Ich korrigiere die Fehler künftig stillschweigend selbst, um sie zu schonen.",
+          "a": 1,
+          "e": "Nimmt ihr die Lernchance und bindet dauerhaft Ihre Kapazität."
+        },
+        {
+          "t": "Ich weise sie vor dem Team auf die wiederkehrenden Fehler hin, damit es sich einprägt.",
+          "a": 0,
+          "e": "Bloßstellung verstärkt die Verunsicherung."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Sachlich falsche Weisung der Leitung",
+      "context": "Ihre Referatsleitung erteilt eine Weisung, die auf einer erkennbar falschen Tatsachenannahme beruht und so zu einem fehlerhaften Schreiben führen würde.",
+      "statements": [
+        {
+          "t": "Ich weise die Leitung respektvoll und belegt auf den Irrtum hin, bevor das Schreiben hinausgeht, und schlage eine korrekte Fassung vor.",
+          "a": 3,
+          "e": "Respektvoll, belegt und fehlerverhütend."
+        },
+        {
+          "t": "Ich frage sachlich nach, um die Annahme zu überprüfen, und lege die zutreffenden Fakten dar.",
+          "a": 2,
+          "e": "Klärt die Tatsachenbasis sachlich vor der Umsetzung."
+        },
+        {
+          "t": "Ich führe die Weisung aus, vermerke meine Bedenken aber nur intern.",
+          "a": 1,
+          "e": "Wahrt formal die Weisung, lässt aber einen vermeidbaren Fehler zu."
+        },
+        {
+          "t": "Ich führe die Weisung kommentarlos aus, weil die Leitung entscheidet.",
+          "a": 0,
+          "e": "Einen erkennbaren Fehler ohne Hinweis umzusetzen verletzt die Sorgfaltspflicht."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Zu viele parallele Anforderungen",
+      "context": "An einem Tag treffen mehrere dringende Aufgaben zusammen: eine Zuarbeit für die Leitung, eine Bürgeranfrage mit Frist und eine kurzfristige Bitte einer Partnerbotschaft – alle erscheinen vorrangig.",
+      "statements": [
+        {
+          "t": "Ich verschaffe mir rasch einen Überblick, priorisiere nach Frist und Bedeutung, kommuniziere realistische Zeiten und hole bei Bedarf Unterstützung.",
+          "a": 3,
+          "e": "Überlegt priorisiert, kommuniziert und holt Unterstützung."
+        },
+        {
+          "t": "Ich kläre mit der Leitung die Reihenfolge und arbeite die Aufgaben dann strukturiert ab.",
+          "a": 2,
+          "e": "Klärt die Reihenfolge mit der Leitung und arbeitet strukturiert."
+        },
+        {
+          "t": "Ich arbeite die Aufgaben in der Reihenfolge ihres Eingangs ab.",
+          "a": 1,
+          "e": "Ignoriert unterschiedliche Dringlichkeit und Bedeutung."
+        },
+        {
+          "t": "Ich versuche, alles gleichzeitig zu erledigen, um niemanden warten zu lassen.",
+          "a": 0,
+          "e": "Paralleles Verzetteln gefährdet Qualität und Fristen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Eigenmächtig veränderte Textpassage",
+      "context": "Ein Mitarbeiter hat eine mit Ihnen abgestimmte Passage in einem wichtigen Schreiben eigenmächtig umformuliert, ohne Rücksprache – gut gemeint, aber inhaltlich leicht von der vereinbarten Linie abweichend.",
+      "statements": [
+        {
+          "t": "Ich spreche ihn ruhig auf die Abweichung an, erkläre den Grund für die ursprüngliche Formulierung und vereinbare, Änderungen künftig vorab abzustimmen.",
+          "a": 3,
+          "e": "Klärt Ursache und Wirkung sachlich und sichert das künftige Vorgehen ab."
+        },
+        {
+          "t": "Ich würdige den Verbesserungsversuch, mache aber deutlich, dass die abgestimmte Linie einzuhalten ist, und kläre den Abstimmungsweg.",
+          "a": 2,
+          "e": "Sachlich und wertschätzend, etwas weniger konkret als die gemeinsame Vereinbarung."
+        },
+        {
+          "t": "Ich lasse es diesmal durchgehen und hoffe, dass er es beim nächsten Mal von selbst besser macht.",
+          "a": 1,
+          "e": "Vermeidet das klärende Gespräch und lässt die Ursache ungeklärt."
+        },
+        {
+          "t": "Ich mache ihm vor dem gesamten Team deutlich, dass eigenmächtige Änderungen nicht toleriert werden.",
+          "a": 0,
+          "e": "Öffentliche Zurechtweisung beschädigt Vertrauen und Eigeninitiative."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Praktikantin kurz vor Praktikumsende",
+      "context": "Eine bemühte, aber erkennbar überforderte Praktikantin liefert wiederholt Arbeiten unterhalb des erwarteten Niveaus ab. Das Praktikum endet in zwei Wochen.",
+      "statements": [
+        {
+          "t": "Ich gebe ihr konkretes, konstruktives Feedback zu den Schwachstellen und arbeite mit ihr gemeinsam an einer letzten Aufgabe, damit sie noch etwas mitnimmt.",
+          "a": 3,
+          "e": "Konkret, entwicklungsorientiert und nutzt die verbleibende Zeit sinnvoll."
+        },
+        {
+          "t": "Ich bespreche im Abschlussgespräch offen die größten Schwachstellen anhand konkreter Beispiele und gebe Hinweise für die weitere Ausbildung.",
+          "a": 2,
+          "e": "Ehrlich und konkret, kommt aber erst am Ende statt begleitend."
+        },
+        {
+          "t": "Ich sage ihr nichts Kritisches, da das Praktikum ohnehin bald endet.",
+          "a": 0,
+          "e": "Verschenkt eine wichtige Lernchance und ist nicht ehrlich."
+        },
+        {
+          "t": "Ich erwähne allgemein, dass mehr Anstrengung nötig gewesen wäre, ohne auf Einzelheiten einzugehen.",
+          "a": 1,
+          "e": "Zu unkonkret, um wirklich zu helfen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Kulturell gemischtes Projektteam",
+      "context": "In einem gemeinsamen Projekt mit Kolleginnen aus dem Gastland kommt es wiederholt zu Reibungen, weil Zeitvorstellungen und Kommunikationsstile spürbar unterschiedlich sind; die Zusammenarbeit stockt.",
+      "statements": [
+        {
+          "t": "Ich spreche die unterschiedlichen Arbeitsweisen offen an, kläre gemeinsam realistische Erwartungen und vereinbare klare, für beide Seiten akzeptable Abläufe.",
+          "a": 3,
+          "e": "Macht Unterschiede besprechbar und schafft eine gemeinsam getragene Lösung."
+        },
+        {
+          "t": "Ich passe meinen eigenen Stil flexibel an die Gepflogenheiten der Partnerseite an, ohne das offen zu thematisieren.",
+          "a": 2,
+          "e": "Zeigt Anpassungsbereitschaft, klärt aber die gegenseitigen Erwartungen nicht."
+        },
+        {
+          "t": "Ich bestehe auf den in meiner Dienststelle üblichen Abläufen, da diese sich bewährt haben.",
+          "a": 1,
+          "e": "Ignoriert die Unterschiede und riskiert weitere Reibung."
+        },
+        {
+          "t": "Ich vermeide das Thema aus Sorge, unhöflich zu wirken, und arbeite mit den Reibungen weiter.",
+          "a": 0,
+          "e": "Unausgesprochene Spannungen belasten die Zusammenarbeit dauerhaft."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Verdächtiges Paket im Empfangsbereich",
+      "context": "Am Empfang der Auslandsvertretung wird ein unbeaufsichtigtes, nicht angekündigtes Paket entdeckt; es ist unklar, wer es abgestellt hat.",
+      "statements": [
+        {
+          "t": "Ich sichere den Bereich, halte Personen fern, informiere umgehend den Sicherheitsdienst und folge dem festgelegten Notfallverfahren.",
+          "a": 3,
+          "e": "Korrektes, vorschriftengemäßes Vorgehen ohne unnötiges Risiko."
+        },
+        {
+          "t": "Ich frage vorsichtig im Empfangsbereich herum, ob jemand das Paket kennt, bevor ich weitere Schritte einleite.",
+          "a": 1,
+          "e": "Verzögert die gebotene Sicherheitsreaktion und erhöht das Risiko."
+        },
+        {
+          "t": "Ich informiere meine Vorgesetzten und bleibe in sicherem Abstand, bis Anweisungen vorliegen.",
+          "a": 2,
+          "e": "Grundsätzlich richtig, aber weniger zügig als das sofortige Sicherheitsverfahren."
+        },
+        {
+          "t": "Ich öffne das Paket vorsichtig, um zu prüfen, ob wirklich Gefahr besteht.",
+          "a": 0,
+          "e": "Grober Verstoß gegen jede Sicherheitsregel bei unbekannten Gegenständen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Rückkehr aus der Elternzeit",
+      "context": "Eine erfahrene Kollegin kehrt nach längerer Elternzeit zurück; Abläufe und Zuständigkeiten im Referat haben sich in der Zwischenzeit deutlich verändert, sie wirkt unsicher.",
+      "statements": [
+        {
+          "t": "Ich nehme mir gezielt Zeit für ein Einarbeitungsgespräch, erkläre die Veränderungen verständlich und biete ihr eine Ansprechperson für Rückfragen an.",
+          "a": 3,
+          "e": "Strukturiert, unterstützend und erleichtert den Wiedereinstieg spürbar."
+        },
+        {
+          "t": "Ich gebe ihr die aktuellen Unterlagen zum Selbststudium und stehe bei konkreten Fragen zur Verfügung.",
+          "a": 2,
+          "e": "Hilfreich, aber weniger aktiv begleitend als ein persönliches Einarbeitungsgespräch."
+        },
+        {
+          "t": "Ich gehe davon aus, dass sie sich als erfahrene Kollegin schnell selbst zurechtfindet.",
+          "a": 1,
+          "e": "Unterschätzt den tatsächlichen Einarbeitungsbedarf nach längerer Abwesenheit."
+        },
+        {
+          "t": "Ich weise sie in der ersten Teambesprechung öffentlich auf die vielen Neuerungen hin, die sie noch nicht kennt.",
+          "a": 0,
+          "e": "Wirkt bloßstellend und verstärkt die Unsicherheit."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Wunsch nach vorzeitiger Beförderung",
+      "context": "Ein engagierter Mitarbeiter bittet Sie um eine höherwertige Verwendung; fachlich ist er noch nicht so weit, formal sind die Voraussetzungen aktuell nicht erfüllt.",
+      "statements": [
+        {
+          "t": "Ich erkläre offen und nachvollziehbar, welche Voraussetzungen noch fehlen, und vereinbare mit ihm konkrete Entwicklungsschritte dorthin.",
+          "a": 3,
+          "e": "Ehrlich, motivierend und gibt eine klare Perspektive."
+        },
+        {
+          "t": "Ich sage ihm freundlich zu, seinen Wunsch „im Blick zu behalten“, ohne konkrete Schritte zu benennen.",
+          "a": 1,
+          "e": "Vage Zusage ohne Substanz hilft ihm nicht weiter."
+        },
+        {
+          "t": "Ich erkläre knapp, dass die Voraussetzungen fehlen, ohne auf einen möglichen Weg dorthin einzugehen.",
+          "a": 2,
+          "e": "Ehrlich, aber weniger entwicklungsorientiert als mit konkretem Plan."
+        },
+        {
+          "t": "Ich lehne die Bitte ab und rate ihm, geduldig abzuwarten.",
+          "a": 0,
+          "e": "Demotivierend und ohne jede konstruktive Perspektive."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Hinweis auf Fehlverhalten eines Kollegen",
+      "context": "Eine Mitarbeiterin vertraut Ihnen unter vier Augen an, dass ein Kollege wiederholt dienstliche Ressourcen für private Zwecke nutzt; sie bittet Sie, die Sache vertraulich zu behandeln.",
+      "statements": [
+        {
+          "t": "Ich bedanke mich für das Vertrauen, kläre den Sachverhalt sorgfältig und gehe entsprechend den geltenden Regeln weiter vor, ohne die Mitarbeiterin unnötig bloßzustellen.",
+          "a": 3,
+          "e": "Nimmt den Hinweis ernst, handelt regelkonform und schützt die Hinweisgeberin."
+        },
+        {
+          "t": "Ich spreche zunächst vertraulich mit dem betroffenen Kollegen, um seine Sicht zu hören, bevor ich weitere Schritte einleite.",
+          "a": 2,
+          "e": "Fair gegenüber dem Kollegen, verzögert aber die notwendige Klärung etwas."
+        },
+        {
+          "t": "Ich sichere vollständiges Stillschweigen zu und unternehme nichts weiter.",
+          "a": 0,
+          "e": "Ignoriert eine mögliche Pflichtverletzung und schafft Mitwisserschaft."
+        },
+        {
+          "t": "Ich gebe den Hinweis ungeprüft und ohne Rücksprache sofort an die nächsthöhere Ebene weiter.",
+          "a": 1,
+          "e": "Überstürzt und ohne eigene Prüfung – kann unnötig eskalieren."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Verhandlung mit Dolmetscher",
+      "context": "Bei einer wichtigen Verhandlung mit Dolmetscher haben Sie den Eindruck, dass die Übersetzung eine zentrale Nuance Ihrer Aussage nicht korrekt wiedergibt.",
+      "statements": [
+        {
+          "t": "Ich unterbreche höflich, bitte um eine präzisere Übersetzung der betreffenden Stelle und stelle sicher, dass die Nuance ankommt.",
+          "a": 3,
+          "e": "Sichert die Verständigung, ohne den Dolmetscher bloßzustellen."
+        },
+        {
+          "t": "Ich formuliere meine Aussage im weiteren Gesprächsverlauf noch einmal anders, um die Nuance auf einem anderen Weg deutlich zu machen.",
+          "a": 2,
+          "e": "Funktioniert oft, ist aber weniger direkt als die sofortige Klärung."
+        },
+        {
+          "t": "Ich spreche den Dolmetscher erst nach dem Gespräch auf die mögliche Ungenauigkeit an.",
+          "a": 1,
+          "e": "Zu spät, um ein mögliches Missverständnis in der Verhandlung selbst zu vermeiden."
+        },
+        {
+          "t": "Ich gehe davon aus, dass die Übersetzung schon passen wird, und spreche das Thema nicht an.",
+          "a": 0,
+          "e": "Riskiert ein folgenreiches Missverständnis in einer wichtigen Verhandlung."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Protokollarischer Fehler bei der Anrede",
+      "context": "Bei der Begrüßung eines hochrangigen Gastes verwenden Sie versehentlich die falsche Amtsbezeichnung; der Gast reagiert sichtlich reserviert.",
+      "statements": [
+        {
+          "t": "Ich korrigiere mich sofort knapp und höflich und setze das Gespräch dann souverän fort.",
+          "a": 3,
+          "e": "Schnelle, unaufgeregte Korrektur wirkt professionell."
+        },
+        {
+          "t": "Ich entschuldige mich später im Gesprächsverlauf noch einmal ausführlich für den Fehler.",
+          "a": 1,
+          "e": "Das erneute Aufgreifen verlängert die Peinlichkeit unnötig."
+        },
+        {
+          "t": "Ich lasse es unkommentiert und hoffe, dass der Fehler nicht weiter auffällt.",
+          "a": 1,
+          "e": "Unkorrigierte protokollarische Fehler können als Respektlosigkeit gedeutet werden."
+        },
+        {
+          "t": "Ich mache einen entschuldigenden Scherz über meinen Fehler, um die Situation aufzulockern.",
+          "a": 0,
+          "e": "Humor über einen protokollarischen Fehler wirkt bei ranghohen Gästen unpassend."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Zwei wichtige Termine überschneiden sich",
+      "context": "Ihnen wird kurzfristig bewusst, dass zwei bedeutende Termine – ein Treffen mit einer Partnerbehörde und eine Ministerbesprechung – zeitlich kollidieren.",
+      "statements": [
+        {
+          "t": "Ich prüfe rasch die jeweilige Bedeutung, kläre mit beiden Seiten frühzeitig eine Lösung (Vertretung, Verschiebung) und informiere transparent über die Gründe.",
+          "a": 3,
+          "e": "Frühzeitig, transparent und lösungsorientiert."
+        },
+        {
+          "t": "Ich bitte eine fachlich geeignete Vertretung, einen der Termine wahrzunehmen, und stimme mich vorab kurz mit ihr ab.",
+          "a": 2,
+          "e": "Praktikable Lösung, etwas weniger persönlich eingebunden als die eigene Klärung."
+        },
+        {
+          "t": "Ich sage einen der Termine kurzfristig ohne nähere Begründung ab.",
+          "a": 1,
+          "e": "Wirkt unprofessionell und kann als Geringschätzung verstanden werden."
+        },
+        {
+          "t": "Ich versuche, kurz bei beiden Terminen persönlich zu erscheinen.",
+          "a": 0,
+          "e": "Führt meist dazu, keinem Termin gerecht zu werden."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Unzufriedenheit unter Ortskräften",
+      "context": "Mehrere langjährige Ortskräfte äußern wachsenden Unmut über die Vergütung im Vergleich zu vergleichbaren Stellen vor Ort; die Stimmung im Team leidet spürbar.",
+      "statements": [
+        {
+          "t": "Ich höre die Anliegen ernsthaft an, prüfe die Sachlage sorgfältig und kläre transparent, was innerhalb der Vorgaben möglich ist und was nicht.",
+          "a": 3,
+          "e": "Ernst genommen, sachlich geprüft und transparent kommuniziert."
+        },
+        {
+          "t": "Ich leite die Anliegen an die zuständige Stelle weiter und informiere das Team über den weiteren Ablauf.",
+          "a": 2,
+          "e": "Korrekt kanalisiert, aber ohne eigene erkennbare Auseinandersetzung mit dem Anliegen."
+        },
+        {
+          "t": "Ich vertröste das Team mit dem Hinweis, dass sich die Situation sicher bald bessern werde.",
+          "a": 1,
+          "e": "Unverbindliche Vertröstung ohne echte Klärung."
+        },
+        {
+          "t": "Ich weise die Beschwerden zurück, da die Vergütung vertraglich klar geregelt sei.",
+          "a": 0,
+          "e": "Ignoriert das eigentliche Anliegen und verstärkt den Unmut."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Kritik am eigenen Führungsstil",
+      "context": "In einer anonymen Rückmeldung äußern mehrere Teammitglieder, Ihr Führungsstil sei zu wenig einbindend; Entscheidungen kämen oft überraschend.",
+      "statements": [
+        {
+          "t": "Ich nehme die Rückmeldung ernst, spreche offen im Team darüber und vereinbare konkrete Schritte für mehr Einbindung.",
+          "a": 3,
+          "e": "Offen, selbstkritisch und konkret handlungsleitend."
+        },
+        {
+          "t": "Ich reflektiere die Rückmeldung für mich und achte künftig bewusster auf frühzeitige Information des Teams.",
+          "a": 2,
+          "e": "Konstruktive Selbstreflexion, aber ohne die Rückmeldung offen anzusprechen."
+        },
+        {
+          "t": "Ich nehme die Kritik zur Kenntnis, ändere aber vorerst nichts an meiner Vorgehensweise.",
+          "a": 1,
+          "e": "Lässt ein ernstzunehmendes Signal ungenutzt verstreichen."
+        },
+        {
+          "t": "Ich weise die Kritik als unbegründet zurück, da Entscheidungen schließlich in meiner Verantwortung liegen.",
+          "a": 0,
+          "e": "Verschließt sich berechtigtem Feedback und verstärkt die Distanz zum Team."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Unangemessenes Verhalten in einer Delegation",
+      "context": "Während einer Auslandsreise verhält sich ein Mitglied Ihrer Delegation bei einem offiziellen Termin wiederholt unpassend laut und respektlos gegenüber der Gastseite.",
+      "statements": [
+        {
+          "t": "Ich spreche die Person diskret in einer Pause an, mache die Erwartungen klar und bitte um angepasstes Verhalten für den Rest der Reise.",
+          "a": 3,
+          "e": "Diskret, klar und wahrt das Gesicht aller Beteiligten."
+        },
+        {
+          "t": "Ich weise die Person nach dem Termin unter vier Augen auf ihr Verhalten hin und erläutere die Wirkung auf die Gastseite.",
+          "a": 2,
+          "e": "Klärend, aber erst nach dem Termin statt unmittelbar."
+        },
+        {
+          "t": "Ich ignoriere das Verhalten, um während des laufenden Termins keine Unruhe zu erzeugen.",
+          "a": 1,
+          "e": "Lässt ein schädliches Verhalten unkommentiert weiterlaufen."
+        },
+        {
+          "t": "Ich weise die Person vor der Gastseite unmittelbar öffentlich zurecht.",
+          "a": 0,
+          "e": "Öffentliche Zurechtweisung vor der Gastseite schadet dem Ansehen beider Seiten."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Versehentlich falscher E-Mail-Verteiler",
+      "context": "Sie bemerken kurz nach dem Versand, dass eine vertrauliche interne E-Mail versehentlich an einen zu großen, teils externen Verteiler gegangen ist.",
+      "statements": [
+        {
+          "t": "Ich informiere umgehend meine Vorgesetzten, bitte die Empfänger um Löschung und Vertraulichkeit und leite die vorgesehenen Schritte zur Schadensbegrenzung ein.",
+          "a": 3,
+          "e": "Schnell, transparent und schadensbegrenzend."
+        },
+        {
+          "t": "Ich verschicke sofort eine Rückrufnachricht mit der Bitte, die E-Mail zu löschen, und informiere anschließend meine Leitung.",
+          "a": 2,
+          "e": "Richtige Sofortmaßnahme, informiert die Leitung aber erst danach."
+        },
+        {
+          "t": "Ich warte ab, ob jemand reagiert, bevor ich weitere Schritte einleite.",
+          "a": 1,
+          "e": "Verlorene Zeit vergrößert das Risiko der Weiterverbreitung."
+        },
+        {
+          "t": "Ich unternehme nichts, da eine Rückholung ohnehin nicht mehr möglich sei.",
+          "a": 0,
+          "e": "Untätigkeit bei einem Vertraulichkeitsverstoß ist keine Option."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Vermittlung zwischen zerstrittenen Partnerorganisationen",
+      "context": "Zwei Partnerorganisationen, mit denen Ihre Dienststelle eng zusammenarbeitet, sind wegen einer Kompetenzfrage zerstritten; beide erwarten von Ihnen Unterstützung ihrer jeweiligen Position.",
+      "statements": [
+        {
+          "t": "Ich lade beide Seiten zu einem gemeinsamen, moderierten Gespräch ein und arbeite auf eine für beide tragfähige Klärung der Zuständigkeiten hin.",
+          "a": 3,
+          "e": "Allparteilich und auf eine tragfähige gemeinsame Lösung ausgerichtet."
+        },
+        {
+          "t": "Ich höre beide Seiten getrennt an und schlage anschließend einen Kompromissvorschlag vor.",
+          "a": 2,
+          "e": "Sorgfältig, aber ohne den direkten klärenden Austausch beider Seiten."
+        },
+        {
+          "t": "Ich halte mich aus dem Streit heraus, da es sich um eine interne Angelegenheit der beiden Organisationen handelt.",
+          "a": 1,
+          "e": "Verpasst die Chance, als neutrale Stelle zu einer Klärung beizutragen."
+        },
+        {
+          "t": "Ich positioniere mich klar auf der Seite der Organisation, mit der die Zusammenarbeit bisher enger war.",
+          "a": 0,
+          "e": "Einseitige Parteinahme gefährdet die Beziehung zur anderen Organisation."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Kritik an der eigenen Amtsführung in lokaler Presse",
+      "context": "Ein lokales Medium veröffentlicht einen kritischen, teils sachlich unzutreffenden Artikel über Ihre Amtsführung.",
+      "statements": [
+        {
+          "t": "Ich prüfe die Fakten sorgfältig, stimme mich mit der Pressestelle ab und sorge für eine sachliche, faktenbasierte Richtigstellung der unzutreffenden Punkte.",
+          "a": 3,
+          "e": "Sachlich, abgestimmt und auf Fakten konzentriert."
+        },
+        {
+          "t": "Ich bitte die Pressestelle, den Sachverhalt im Blick zu behalten, ohne selbst aktiv zu reagieren.",
+          "a": 1,
+          "e": "Lässt unzutreffende Darstellungen unwidersprochen stehen."
+        },
+        {
+          "t": "Ich kontaktiere die Redaktion direkt und bitte um ein klärendes Gespräch zu den strittigen Punkten.",
+          "a": 2,
+          "e": "Konstruktiv, aber ohne die übliche Abstimmung mit der Pressestelle."
+        },
+        {
+          "t": "Ich reagiere öffentlich emotional und weise die Kritik pauschal als unseriös zurück.",
+          "a": 0,
+          "e": "Emotionale Reaktionen schaden der Glaubwürdigkeit zusätzlich."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Plötzliche Verschlechterung der Sicherheitslage",
+      "context": "Die Sicherheitslage im Gastland verschlechtert sich kurzfristig erheblich; zahlreiche deutsche Staatsangehörige fragen besorgt nach dem weiteren Vorgehen.",
+      "statements": [
+        {
+          "t": "Ich sorge für eine rasche, faktenbasierte Lageeinschätzung, informiere die Betroffenen zeitnah über verlässliche Kanäle und bereite die vorgesehenen Maßnahmen vor.",
+          "a": 3,
+          "e": "Schnell, verlässlich und vorausschauend."
+        },
+        {
+          "t": "Ich warte die offizielle Lagebewertung der Zentrale ab, bevor ich mich öffentlich äußere.",
+          "a": 2,
+          "e": "Vorsichtig richtig, kann aber als zu zurückhaltend wahrgenommen werden."
+        },
+        {
+          "t": "Ich gebe vorschnell eine beruhigende Einschätzung ab, um Panik zu vermeiden.",
+          "a": 0,
+          "e": "Unbelegte Beruhigung kann sich als riskant falsch erweisen."
+        },
+        {
+          "t": "Ich verweise Anfragen zunächst pauschal auf allgemeine Reisehinweise im Internet.",
+          "a": 1,
+          "e": "Zu unpersönlich und wenig hilfreich in einer akuten Lage."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Anerkennung für gemeinsame Arbeit fällt einseitig aus",
+      "context": "Bei der Vorstellung eines gemeinsam erarbeiteten Konzepts vor der Leitung stellt ein Kollege die Ergebnisse überwiegend als seine eigene Leistung dar.",
+      "statements": [
+        {
+          "t": "Ich ergänze im Gespräch sachlich und ohne Vorwurf meinen Beitrag und spreche den Kollegen danach direkt darauf an.",
+          "a": 3,
+          "e": "Stellt die Fakten sachlich richtig und klärt die Sache direkt im Nachgang."
+        },
+        {
+          "t": "Ich spreche den Kollegen im Nachgang unter vier Augen darauf an, ohne die Darstellung vor der Leitung richtigzustellen.",
+          "a": 2,
+          "e": "Klärt die Beziehungsebene, lässt die falsche Außendarstellung aber stehen."
+        },
+        {
+          "t": "Ich sage in dem Moment nichts, um keine Spannungen vor der Leitung zu erzeugen.",
+          "a": 1,
+          "e": "Lässt eine unfaire Darstellung unwidersprochen und kann sich wiederholen."
+        },
+        {
+          "t": "Ich beschwere mich in der nächsten Teamrunde offen und deutlich über den Kollegen.",
+          "a": 0,
+          "e": "Öffentliche Bloßstellung eskaliert den Konflikt unnötig."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Wunsch nach flexibleren Arbeitszeiten",
+      "context": "Ein zuverlässiges Teammitglied bittet aus familiären Gründen um flexiblere Arbeitszeiten; die dienstlichen Abläufe erfordern jedoch eine gewisse Kernbesetzung.",
+      "statements": [
+        {
+          "t": "Ich prüfe gemeinsam mit dem Mitarbeiter, welche Spielräume die dienstlichen Erfordernisse zulassen, und erarbeite eine für beide Seiten tragfähige Lösung.",
+          "a": 3,
+          "e": "Lösungsorientiert und berücksichtigt dienstliche wie persönliche Belange."
+        },
+        {
+          "t": "Ich lehne die Bitte unter Verweis auf feste Arbeitszeiten pauschal ab.",
+          "a": 0,
+          "e": "Verschließt sich ohne Prüfung möglicher Spielräume."
+        },
+        {
+          "t": "Ich stimme allen gewünschten Änderungen sofort zu, um dem Mitarbeiter entgegenzukommen.",
+          "a": 1,
+          "e": "Ignoriert mögliche Auswirkungen auf die dienstliche Kernbesetzung."
+        },
+        {
+          "t": "Ich verweise auf die zuständige Personalstelle, ohne mich selbst mit den konkreten Möglichkeiten zu befassen.",
+          "a": 1,
+          "e": "Delegiert die Klärung, statt sich als Führungskraft einzubringen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Sponsoring-Anfrage einer lokalen Organisation",
+      "context": "Eine örtliche gemeinnützige Organisation bittet um finanzielle Unterstützung für ein Projekt und verweist darauf, dass eine Zusage die Beziehungen zur Dienststelle spürbar verbessern würde.",
+      "statements": [
+        {
+          "t": "Ich prüfe die Anfrage anhand der geltenden Regeln und Zuständigkeiten und informiere transparent über das reguläre Verfahren.",
+          "a": 3,
+          "e": "Sachlich, regelkonform und transparent."
+        },
+        {
+          "t": "Ich leite die Anfrage an die zuständige Fachstelle weiter, ohne selbst eine Einschätzung abzugeben.",
+          "a": 2,
+          "e": "Korrekt kanalisiert, aber wenig aktiv begleitend."
+        },
+        {
+          "t": "Ich sage eine Unterstützung informell in Aussicht, um die Beziehung nicht zu belasten.",
+          "a": 1,
+          "e": "Informelle Zusagen außerhalb geregelter Verfahren sind riskant."
+        },
+        {
+          "t": "Ich sage eine Förderung direkt zu, da das Anliegen sinnvoll erscheint.",
+          "a": 0,
+          "e": "Umgeht die vorgesehenen Verfahren und schafft ein Präjudiz."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Ablehnung einer zugewiesenen Aufgabe",
+      "context": "Ein Mitarbeiter weigert sich, eine ihm zugewiesene Aufgabe zu übernehmen, mit dem Hinweis, dies falle „nicht in seinen Zuständigkeitsbereich“.",
+      "statements": [
+        {
+          "t": "Ich kläre sachlich, ob die Aufgabe tatsächlich zu seinem Bereich gehört, erläutere bei Bedarf die Zuständigkeit und suche gemeinsam eine Lösung.",
+          "a": 3,
+          "e": "Klärt die Sachlage und bleibt lösungsorientiert im Gespräch."
+        },
+        {
+          "t": "Ich bestehe ohne weitere Erläuterung auf der Erledigung der Aufgabe, da ich sie zugewiesen habe.",
+          "a": 1,
+          "e": "Autoritär, ohne die Sicht des Mitarbeiters zu klären."
+        },
+        {
+          "t": "Ich erläutere kurz die Zuständigkeit und bitte um Erledigung bis zu einem festen Termin.",
+          "a": 2,
+          "e": "Klar und zielgerichtet, etwas weniger dialogorientiert."
+        },
+        {
+          "t": "Ich übernehme die Aufgabe kurzerhand selbst, um Diskussionen zu vermeiden.",
+          "a": 0,
+          "e": "Vermeidet die eigentliche Klärung und untergräbt die Führungsrolle."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Beschwerde über unfreundliche Behandlung am Schalter",
+      "context": "Ein Bürger beschwert sich schriftlich, er sei am Schalter unfreundlich und abweisend behandelt worden; die betroffene Mitarbeiterin bestreitet dies.",
+      "statements": [
+        {
+          "t": "Ich kläre den Sachverhalt sorgfältig mit beiden Seiten, informiere den Bürger sachlich über das Ergebnis und bespreche mit der Mitarbeiterin mögliche Lehren daraus.",
+          "a": 3,
+          "e": "Sorgfältig geklärt, transparent kommuniziert und entwicklungsorientiert."
+        },
+        {
+          "t": "Ich entschuldige mich beim Bürger, ohne den Sachverhalt mit der Mitarbeiterin zu klären.",
+          "a": 1,
+          "e": "Vorschnell und unfair gegenüber der Mitarbeiterin."
+        },
+        {
+          "t": "Ich bespreche den Vorfall mit der Mitarbeiterin und antworte dem Bürger mit einer sachlichen Rückmeldung.",
+          "a": 2,
+          "e": "Grundsätzlich richtig, etwas weniger ausführlich als die volle beidseitige Klärung."
+        },
+        {
+          "t": "Ich weise die Beschwerde zurück, da Wort gegen Wort steht.",
+          "a": 0,
+          "e": "Lässt eine ernstzunehmende Beschwerde ohne jede Prüfung liegen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Falsch eingestufte Geheimhaltungsstufe",
+      "context": "Sie bemerken, dass ein Dokument mit einer niedrigeren Geheimhaltungsstufe versehen wurde, als es nach seinem Inhalt erfordert, und bereits so weitergeleitet wurde.",
+      "statements": [
+        {
+          "t": "Ich melde den Vorfall umgehend der zuständigen Stelle, veranlasse die Korrektur der Einstufung und sorge für eine Nachverfolgung der bisherigen Verteilung.",
+          "a": 3,
+          "e": "Schnell, korrekt gemeldet und schadensbegrenzend."
+        },
+        {
+          "t": "Ich korrigiere die Einstufung für künftige Fassungen, ohne die bereits erfolgte Weiterleitung zu melden.",
+          "a": 1,
+          "e": "Behebt nicht die bereits erfolgte, potenziell folgenreiche Fehlverteilung."
+        },
+        {
+          "t": "Ich informiere meine Leitung über den Fehler und kläre gemeinsam das weitere Vorgehen.",
+          "a": 2,
+          "e": "Richtiger erster Schritt, etwas weniger umfassend als die vollständige Nachverfolgung."
+        },
+        {
+          "t": "Ich unternehme nichts, da der Fehler vermutlich niemandem auffallen wird.",
+          "a": 0,
+          "e": "Ignoriert einen möglichen Sicherheitsvorfall."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Unklare Aufgabenübertragung durch die Leitung",
+      "context": "Ihre Leitung überträgt Ihnen eine wichtige Aufgabe nur mündlich und in sehr allgemeinen Worten; wesentliche Details und der genaue Erwartungsrahmen bleiben offen.",
+      "statements": [
+        {
+          "t": "Ich stelle gezielte Rückfragen, um Ziel, Umfang und Erwartungen zu klären, und fasse das Ergebnis kurz schriftlich zusammen.",
+          "a": 3,
+          "e": "Klärt Unklarheiten aktiv und schafft eine verlässliche Grundlage."
+        },
+        {
+          "t": "Ich beginne mit der Aufgabe nach meinem eigenen Verständnis und kläre offene Fragen erst bei Bedarf im Verlauf.",
+          "a": 1,
+          "e": "Risiko einer Fehlausrichtung, die erst spät auffällt."
+        },
+        {
+          "t": "Ich frage kurz nach dem wichtigsten offenen Punkt, beginne aber sonst wie gewohnt.",
+          "a": 2,
+          "e": "Reduziert das Risiko, klärt aber nicht alle relevanten Unklarheiten."
+        },
+        {
+          "t": "Ich beginne ohne Rückfragen, um nicht unsicher zu wirken.",
+          "a": 0,
+          "e": "Unnötiges Risiko einer am Bedarf vorbeigehenden Arbeit."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Sicherheitsbriefing wird nicht ernst genommen",
+      "context": "Bei einem verpflichtenden Sicherheitsbriefing vor einer Dienstreise wirken mehrere Teammitglieder unaufmerksam und tauschen sich über andere Themen aus.",
+      "statements": [
+        {
+          "t": "Ich spreche die mangelnde Aufmerksamkeit ruhig an, erläutere die Relevanz der Inhalte anhand konkreter Beispiele und sorge für ein fokussiertes Briefing.",
+          "a": 3,
+          "e": "Klärt die Bedeutung nachvollziehbar und stellt die Aufmerksamkeit wieder her."
+        },
+        {
+          "t": "Ich unterbreche kurz und bitte um Konzentration, ohne weiter auf die Relevanz einzugehen.",
+          "a": 2,
+          "e": "Wirksam im Moment, aber ohne nachhaltige Verankerung der Bedeutung."
+        },
+        {
+          "t": "Ich setze das Briefing wie geplant fort, in der Annahme, dass die wichtigsten Punkte trotzdem ankommen.",
+          "a": 1,
+          "e": "Riskiert, dass sicherheitsrelevante Informationen nicht wirklich ankommen."
+        },
+        {
+          "t": "Ich breche das Briefing sichtlich verärgert ab.",
+          "a": 0,
+          "e": "Löst das eigentliche Sicherheitsproblem nicht und wirkt unprofessionell."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Zwei gleich geeignete Bewerber für eine Sonderaufgabe",
+      "context": "Für eine attraktive Sonderaufgabe kommen zwei gleichermaßen geeignete Teammitglieder infrage; beide haben Interesse angemeldet.",
+      "statements": [
+        {
+          "t": "Ich lege transparente, sachliche Kriterien für die Auswahl fest, kommuniziere die Entscheidung offen und biete dem nicht ausgewählten Mitarbeiter eine andere Entwicklungsmöglichkeit an.",
+          "a": 3,
+          "e": "Transparent, fair und entwicklungsorientiert für beide Seiten."
+        },
+        {
+          "t": "Ich entscheide nach meinem Gesamteindruck und teile die Entscheidung ohne nähere Begründung mit.",
+          "a": 1,
+          "e": "Nachvollziehbarkeit fehlt, was zu Unmut führen kann."
+        },
+        {
+          "t": "Ich lege die Aufgabe anhand eines sachlichen Kriteriums fest und informiere beide über die Gründe.",
+          "a": 2,
+          "e": "Sachlich und nachvollziehbar, ohne die zusätzliche Entwicklungsperspektive."
+        },
+        {
+          "t": "Ich vertage die Entscheidung wiederholt, um niemanden zu enttäuschen.",
+          "a": 0,
+          "e": "Verzögerung schafft Unsicherheit und löst das Problem nicht."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Überforderung mit neuer Software",
+      "context": "Nach Einführung eines neuen Vorgangsbearbeitungssystems kommt ein sonst zuverlässiger Kollege erkennbar nicht zurecht und wirkt zunehmend frustriert.",
+      "statements": [
+        {
+          "t": "Ich biete ihm gezielt Unterstützung an, vereinbare eine kurze gemeinsame Einweisung und ermutige ihn, bei Unsicherheiten frühzeitig nachzufragen.",
+          "a": 3,
+          "e": "Konkret unterstützend und ermutigt zu offenem Umgang mit Unsicherheiten."
+        },
+        {
+          "t": "Ich weise ihn auf die vorhandene Bedienungsanleitung hin und stehe bei Bedarf zur Verfügung.",
+          "a": 2,
+          "e": "Hilfreich, aber weniger aktiv unterstützend als eine persönliche Einweisung."
+        },
+        {
+          "t": "Ich gehe davon aus, dass sich die Schwierigkeiten mit der Zeit von selbst legen.",
+          "a": 1,
+          "e": "Lässt eine erkennbare Überforderung unbearbeitet."
+        },
+        {
+          "t": "Ich mache im Team eine scherzhafte Bemerkung über seine Schwierigkeiten mit dem System.",
+          "a": 0,
+          "e": "Bloßstellung verstärkt die Frustration und schadet dem Vertrauen."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Spontane Medienanfrage während einer Auslandsreise",
+      "context": "Während einer offiziellen Reise wird Ihre Delegation unerwartet von lokalen Journalisten angesprochen, die eine sofortige, unabgestimmte Stellungnahme zu einem sensiblen Thema erwarten.",
+      "statements": [
+        {
+          "t": "Ich bedanke mich höflich für das Interesse, verweise auf den geplanten offiziellen Rahmen für Presseauskünfte und sage eine zeitnahe Rückmeldung darüber zu.",
+          "a": 3,
+          "e": "Höflich, professionell und ohne unabgestimmte Aussagen zu riskieren."
+        },
+        {
+          "t": "Ich beantworte nur die unstrittigsten, bereits öffentlich bekannten Aspekte der Frage.",
+          "a": 2,
+          "e": "Vorsichtig hilfreich, birgt aber ein gewisses Restrisiko."
+        },
+        {
+          "t": "Ich gehe wortlos weiter, ohne auf die Anfrage zu reagieren.",
+          "a": 1,
+          "e": "Wirkt abweisend und kann die Berichterstattung negativ beeinflussen."
+        },
+        {
+          "t": "Ich äußere spontan meine persönliche Einschätzung zu dem sensiblen Thema.",
+          "a": 0,
+          "e": "Unabgestimmte Aussagen zu sensiblen Themen bergen erhebliches Risiko."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Voreiliges Lob für unfertige Arbeit",
+      "context": "In einer Besprechung lobt Ihre Leitung öffentlich ein Zwischenergebnis Ihres Teams als bereits abgeschlossen und vorzeigbar, obwohl noch wesentliche Prüfschritte ausstehen.",
+      "statements": [
+        {
+          "t": "Ich bedanke mich für die Anerkennung und weise sachlich darauf hin, welche Prüfschritte noch ausstehen, bevor das Ergebnis final ist.",
+          "a": 3,
+          "e": "Würdigt die Anerkennung und stellt zugleich den tatsächlichen Stand klar."
+        },
+        {
+          "t": "Ich kläre die offenen Punkte im Nachgang unter vier Augen mit der Leitung.",
+          "a": 2,
+          "e": "Klärt den Sachverhalt, aber die falsche Außenwirkung bleibt zunächst bestehen."
+        },
+        {
+          "t": "Ich sage in dem Moment nichts, um das Lob nicht zu schmälern.",
+          "a": 1,
+          "e": "Riskiert, dass ein unfertiges Ergebnis fälschlich als final wahrgenommen wird."
+        },
+        {
+          "t": "Ich bestätige öffentlich, dass das Ergebnis bereits abgeschlossen sei.",
+          "a": 0,
+          "e": "Unwahre Bestätigung kann später erheblichen Schaden anrichten."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Bitte um kurzfristige Vertretung",
+      "context": "Eine Kollegin bittet Sie kurzfristig, eine wichtige, fristgebundene Aufgabe für sie zu übernehmen, da sie unerwartet ausfällt; Sie sind selbst bereits stark ausgelastet.",
+      "statements": [
+        {
+          "t": "Ich prüfe rasch meine eigene Belastung, kläre mit ihr das Nötigste zur Aufgabe und vereinbare bei Bedarf zusätzliche Unterstützung mit meiner Leitung.",
+          "a": 3,
+          "e": "Verantwortungsbewusst geprüft und realistisch abgesichert."
+        },
+        {
+          "t": "Ich übernehme die Aufgabe vollständig zusätzlich zu meiner eigenen Arbeit, ohne die Belastung anzusprechen.",
+          "a": 1,
+          "e": "Risiko der Überlastung und mangelnder Qualität bei beiden Aufgaben."
+        },
+        {
+          "t": "Ich übernehme die wichtigsten Teile der Aufgabe und kläre offen, was aus Zeitgründen nicht zu schaffen ist.",
+          "a": 2,
+          "e": "Pragmatisch und transparent, etwas weniger abgesichert als mit Einbindung der Leitung."
+        },
+        {
+          "t": "Ich lehne die Bitte ab, ohne eine Alternative vorzuschlagen.",
+          "a": 0,
+          "e": "Lässt die Kollegin und die fristgebundene Aufgabe ohne Lösung zurück."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Geschenk mit kulturellem Hintergrund",
+      "context": "Bei einem offiziellen Besuch überreicht Ihnen die Gastseite nach lokaler Tradition ein Geschenk von geringem materiellen, aber hohem symbolischen Wert; eine Ablehnung könnte als Brüskierung verstanden werden.",
+      "statements": [
+        {
+          "t": "Ich nehme das Geschenk höflich und dankbar an, informiere im Anschluss transparent gemäß den geltenden Regeln über den Vorgang.",
+          "a": 3,
+          "e": "Respektiert die lokale Tradition und bleibt zugleich regelkonform und transparent."
+        },
+        {
+          "t": "Ich nehme das Geschenk an, ohne es weiter zu melden, da der materielle Wert gering ist.",
+          "a": 1,
+          "e": "Auch geringwertige Geschenke sind meist meldepflichtig – Transparenz fehlt."
+        },
+        {
+          "t": "Ich bedanke mich, nehme das Geschenk entgegen und kläre erst später, ob eine Meldung nötig ist.",
+          "a": 2,
+          "e": "Freundlich und kulturell angemessen, die Klärung erfolgt aber zeitversetzt."
+        },
+        {
+          "t": "Ich lehne das Geschenk unter Verweis auf die Regeln bestimmt ab.",
+          "a": 0,
+          "e": "Riskiert bei einem symbolisch bedeutsamen Geschenk eine unnötige Brüskierung, obwohl eine regelkonforme Annahme mit Meldung möglich wäre."
+        }
+      ]
+    },
+    {
+      "official": false,
+      "title": "Uneinigkeit über die Deutung einer Weisungslage",
+      "context": "Zwei Kolleginnen aus Ihrem Referat legen eine neue Weisung der Zentrale unterschiedlich aus und bitten Sie, in einer wichtigen laufenden Angelegenheit kurzfristig zu entscheiden, welche Auslegung gilt.",
+      "statements": [
+        {
+          "t": "Ich lese die Weisung sorgfältig, hole bei verbleibender Unklarheit zeitnah eine verbindliche Rückfrage bei der Zentrale ein und kommuniziere die Entscheidung nachvollziehbar an beide.",
+          "a": 3,
+          "e": "Sorgfältig geprüft, im Zweifel verbindlich geklärt und transparent kommuniziert."
+        },
+        {
+          "t": "Ich entscheide mich für die Auslegung, die mir am plausibelsten erscheint, und erläutere beiden kurz meine Gründe.",
+          "a": 2,
+          "e": "Nachvollziehbar begründet, aber ohne verbindliche Klärung bei verbleibender Unsicherheit."
+        },
+        {
+          "t": "Ich bitte beide, sich zunächst untereinander zu einigen, bevor ich mich einschalte.",
+          "a": 1,
+          "e": "Verzögert eine notwendige Entscheidung in einer zeitkritischen Angelegenheit."
+        },
+        {
+          "t": "Ich wähle nach dem Zufallsprinzip eine der beiden Auslegungen, um schnell voranzukommen.",
+          "a": 0,
+          "e": "Eine beliebige Entscheidung ohne sachliche Grundlage ist in einer wichtigen Angelegenheit nicht vertretbar."
+        }
+      ]
+    }
+  ]
+}
