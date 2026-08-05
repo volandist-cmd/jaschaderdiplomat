@@ -19,6 +19,8 @@ export interface AppState {
   _apiKeyEditing: boolean
   _lastBackupAt: number | null
   examDate: string
+  fullrun: FullrunQueueState | null
+  sims: SimAttempt[]
   [key: string]: any // For dynamic per-module run queues (_runQueue_<id>)
 }
 
@@ -118,9 +120,73 @@ export interface QuizItem {
   _tier?: number
 }
 
-export interface FullRunState {
-  // Full run state structure
-  [key: string]: any
+/**
+ * One step in a DGP-Testabschnitt / Voller Durchlauf / Prüfungssimulation queue.
+ * Ported from the original's startFullrun()/startSimulation() step arrays — collapsed to a
+ * single generic shape since this app's startQuiz()/pickRunSetId() are already generic across
+ * modules (the original needed one step "type" per hardcoded start<Name>() function instead).
+ */
+export interface FullrunStep {
+  moduleId: string
+  kind: 'quiz' | 'tsu' | 'analyse'
+  /** Fixed set id for named-set modules (Fachtests: "2019"; Englisch v1/Russisch: "muster"). Omitted for run-pool modules — resolved via pickRunSetId() at launch time. */
+  fixedSet?: string
+  shuffle?: boolean
+}
+
+export interface FullrunStepResult {
+  kind: 'quiz' | 'tsu' | 'analyse'
+  pct: number | null
+  earned?: number
+  total?: number
+}
+
+export interface FullrunQueueState {
+  steps: FullrunStep[]
+  idx: number
+  results: Record<string, FullrunStepResult>
+  done: boolean
+  kind: 'dgpOnly' | 'fullrun' | 'simulation'
+  withAnalyse: boolean
+  simN?: number
+  startedTs: number
+  /** Module ids skipped because they currently have zero ported content (see Docs/PORT_STATUS.md gap #2). */
+  skipped: string[]
+}
+
+export interface ScoresheetRow {
+  key: string
+  name: string
+  earned?: number | null
+  total?: number | null
+  pct: number | null
+  /** Percentage threshold, e.g. DGP subcategories, Englisch, Russisch, TSU. */
+  schwellePct?: number | null
+  /** Point threshold, e.g. combined Fachtests (≥25 of 75). */
+  schwelle?: number | null
+  max?: number | null
+  /** Composite/sub-row (e.g. individual DGP subcategories) — informational, not counted toward `bestanden`. */
+  comp?: boolean
+  pass: boolean | null
+}
+
+export interface Scoresheet {
+  rows: ScoresheetRow[]
+  fachE: number
+  fachT: number
+  fachPct: number
+  cogPct: number | null
+  gesamt: number
+  paPct: number | null
+  paNote: number | null
+  gesamtNachPA: number | null
+  bestanden: boolean
+}
+
+export interface SimAttempt {
+  n: number
+  ts: number
+  sheet: Scoresheet
 }
 
 export interface ModuleData {

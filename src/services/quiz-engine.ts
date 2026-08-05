@@ -14,6 +14,27 @@ export interface StartQuizOptions {
   moduleId: string
   setId: string
   mode: 'uebung' | 'pruefung'
+  /** Marks this quiz as one step of a DGP-Testabschnitt/Fullrun/Simulation queue — finishQuiz() reports back to the queue instead of navigating to the standalone results view. */
+  fullrun?: boolean
+  /** Ported from the original's maybeShuffle(): randomizes item order and each item's answer-option order. Used for Fachtest/Sprachtest/TSU legs of a Prüfungssimulation run — never for DGP legs. */
+  shuffle?: boolean
+}
+
+/**
+ * Ported from the original's shuffleArr()+maybeShuffle(). Multi-select items are left
+ * untouched: the original only remaps the single-answer index `a`, not the `aset` array,
+ * so shuffling a multi-select item's options would silently desync its correct-answer set.
+ * (Never actually reachable in the original either — shuffle is only ever requested for
+ * Fachtest/Sprachtest/TSU legs, which have no multi-select items — but guarded here anyway.)
+ */
+function maybeShuffle(items: QuizItem[]): QuizItem[] {
+  const hasPassage = items.some((it) => it.passage)
+  const mapped = items.map((it) => {
+    if (!it.o || it.multi) return it
+    const idxs = shuffleArray(it.o.map((_, i) => i))
+    return { ...it, o: idxs.map((i) => it.o![i]), a: idxs.indexOf(it.a) }
+  })
+  return hasPassage ? mapped : shuffleArray(mapped)
 }
 
 /** Non-repeating random set picker — mirrors the original's pickAWSet() shuffled queue. */
@@ -30,14 +51,15 @@ export function pickRunSetId(moduleId: string, setKeys: string[]): string {
 }
 
 export async function startQuiz(options: StartQuizOptions): Promise<void> {
-  const { moduleId, setId, mode } = options
+  const { moduleId, setId, mode, fullrun, shuffle } = options
 
   const quizStore = useQuizStore()
   const appStore = useAppStore()
 
   const mod = await loadModule(moduleId)
   const set = await loadQuizSet(moduleId, setId)
-  const items: QuizItem[] = set.items.map((item) => ({ ...item }))
+  let items: QuizItem[] = set.items.map((item) => ({ ...item }))
+  if (shuffle) items = maybeShuffle(items)
 
   const totalPts = items.reduce((sum, it) => sum + (it.pts || 1), 0)
   const durationSec = mod.secPerItem
@@ -63,7 +85,7 @@ export async function startQuiz(options: StartQuizOptions): Promise<void> {
     durationSec,
     timeLeft: durationSec,
     finished: false,
-    fullrun: false
+    fullrun: !!fullrun
   }
 
   quizStore.setQuiz(quiz)
@@ -129,7 +151,7 @@ export function submitAnswer(questionIdx: number, answer: number | number[] | st
   quizStore.submitAnswer(questionIdx, answer)
 }
 
-export function finishQuiz(): void {
+export async function finishQuiz(): Promise<void> {
   const quizStore = useQuizStore()
   const appStore = useAppStore()
   const quiz = quizStore.quiz
@@ -167,6 +189,14 @@ export function finishQuiz(): void {
   logQuizErrors(quiz)
 
   appStore.saveState()
+
+  if (quiz.fullrun) {
+    // Dynamic import avoids a circular dependency: fullrun-engine.ts calls startQuiz() from
+    // this module to launch each step, so it can't be imported statically at module scope here.
+    const { recordFullrunStep } = await import('./fullrun-engine')
+    await recordFullrunStep(quiz.id, { kind: 'quiz', pct: quiz.result.pct, earned: quiz.result.earned, total: quiz.result.total })
+    return
+  }
   appStore.navigate('results', { id: quiz.id })
 }
 

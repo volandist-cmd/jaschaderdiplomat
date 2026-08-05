@@ -270,8 +270,19 @@ function tick() {
   if (q.timeLeft <= 0) finishQuiz()
 }
 
-onMounted(async () => {
-  if (quiz.value) modData.value = await loadModule(quiz.value.id)
+// Prüfungssimulation/Voller Durchlauf/DGP-Testabschnitt chain multiple quizzes through this
+// same route (quiz -> quiz) without an intermediate view, so <component :is> never remounts
+// this component — onMounted alone would leave modData (and the title/duration it drives)
+// stuck on the first module. Watch the module id instead so each new step reloads it.
+watch(
+  () => quiz.value?.id,
+  async (id) => {
+    modData.value = id ? await loadModule(id) : null
+  },
+  { immediate: true }
+)
+
+onMounted(() => {
   intervalId = window.setInterval(tick, 1000)
 })
 onUnmounted(() => {

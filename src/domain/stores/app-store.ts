@@ -25,7 +25,9 @@ export const useAppStore = defineStore('app', () => {
     apiKey: null,
     _apiKeyEditing: false,
     _lastBackupAt: null,
-    examDate: CONFIG.examDateDefault
+    examDate: CONFIG.examDateDefault,
+    fullrun: null,
+    sims: []
   })
 
   // Actions

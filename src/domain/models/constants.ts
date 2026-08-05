@@ -164,3 +164,46 @@ export const CHART_COLORS = [
 
 // Chart dash patterns for line charts
 export const CHART_DASH = ['0', '6,4', '2,3', '10,3,2,3'] as const
+
+// ---------------------------------------------------------------------------
+// Prüfungssimulation: DGP-Testabschnitt / Voller Durchlauf / Prüfungssimulation
+// Ported from the original's DGP_ONLY_QUEUE / startFullrun() / startSimulation().
+// ---------------------------------------------------------------------------
+
+/** The 20 DGP subcategories, in the original's fixed queue order (schwellePct comes from each module's own JSON at runtime, not duplicated here). */
+export const DGP_ONLY_MODULE_IDS = [
+  'dgp', 'dgpserie', 'dgprech', 'dgpwort', 'dgpzahl', 'dgpmatrix',
+  'allgemeinwissen', 'dgptab', 'dgptx', 'dgpschaetz',
+  'dgpschlussmulti', 'dgptextsinn', 'dgpaew', 'dgportho',
+  'dgprecht2', 'dgpsprich', 'dgpmath', 'dgpnorm', 'dgpsatz', 'dgpwsch'
+] as const
+
+/** Threshold to mark the aggregate DGP-Testabschnitt "bestanden" (CLAUDE.md: 80%, over total correct, not the mean of per-category percentages). */
+export const DGP_TEST_THRESHOLD_PCT = 80
+
+/**
+ * Fachtest/Sprachtest tail appended after the 20 DGP steps for both "Voller Durchlauf" and
+ * "Prüfungssimulation" (identical order; only `shuffle` differs — set by the caller).
+ * Politische Analyse (optional) and TsU are appended separately by the engine.
+ */
+export const FULLRUN_TAIL_STEPS: { id: string; fixedSet?: string }[] = [
+  { id: 'recht', fixedSet: '2019' },
+  { id: 'wirtschaft', fixedSet: '2019' },
+  { id: 'geschichte', fixedSet: '2019' },
+  { id: 'englisch', fixedSet: 'muster' },
+  { id: 'englischv2' },
+  { id: 'englischv3' },
+  { id: 'russisch', fixedSet: 'muster' }
+]
+
+/** Official-format Bewertungsblatt thresholds used by computeScoresheet() — hardcoded in the original, not derived from module JSON. */
+export const SCORESHEET_THRESHOLDS = {
+  fachSchwellePunkte: 25,
+  fachMaxPunkte: 75,
+  dgpCognitiveSchwellePct: 60,
+  sprachSchwellePct: 50,
+  tsuSchwellePct: 80
+}
+
+/** Goal shown on the Prüfungssimulation progress bar ("N / 100 Versuchen absolviert"). */
+export const SIMULATION_GOAL_ATTEMPTS = 100

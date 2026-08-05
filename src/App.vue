@@ -156,7 +156,10 @@ const LerntippsView = defineAsyncComponent(() => import('./presentation/views/Le
 const NotizenView = defineAsyncComponent(() => import('./presentation/views/NotizenView.vue'))
 const AuswertungView = defineAsyncComponent(() => import('./presentation/views/AuswertungView.vue'))
 const FehleranalyseView = defineAsyncComponent(() => import('./presentation/views/FehleranalyseView.vue'))
-const ComingSoonView = defineAsyncComponent(() => import('./presentation/views/ComingSoonView.vue'))
+const DgpTestView = defineAsyncComponent(() => import('./presentation/views/DgpTestView.vue'))
+const FullrunView = defineAsyncComponent(() => import('./presentation/views/FullrunView.vue'))
+const SimulationView = defineAsyncComponent(() => import('./presentation/views/SimulationView.vue'))
+const ScoresheetView = defineAsyncComponent(() => import('./presentation/views/ScoresheetView.vue'))
 
 // Current view tracking
 const currentView = computed(() => appStore.state.view)
@@ -186,9 +189,13 @@ const currentViewComponent = computed(() => {
     case 'fehleranalyse':
       return FehleranalyseView
     case 'dgptest':
+      return DgpTestView
     case 'fullrun':
+      return FullrunView
     case 'simulation':
-      return ComingSoonView
+      return SimulationView
+    case 'scoresheet':
+      return ScoresheetView
     default:
       return DashboardView
   }

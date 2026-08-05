@@ -21,7 +21,8 @@
       <div class="exam-head">
         <div class="row">
           <div class="exam-title"><span class="flagbar"><i></i><i></i><i></i></span>{{ mod.title }}</div>
-          <span class="badge gold">Szenario {{ idx + 1 }} von {{ scenarios.length }}</span>
+          <div v-if="isFullrun" class="timer" :class="{ warn: timeLeft <= 30 }"><span class="dot"></span><span>{{ fmtTime(timeLeft) }}</span></div>
+          <span v-else class="badge gold">Szenario {{ idx + 1 }} von {{ scenarios.length }}</span>
         </div>
         <div class="exam-prog"><i :style="{ width: (idx / scenarios.length * 100) + '%' }"></i></div>
       </div>
@@ -77,10 +78,12 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useAppStore } from '@/domain/stores/app-store'
 import { loadModule } from '@/data/loader'
 import { shuffleArray } from '@/infrastructure/utils/random'
+import { fmtTime } from '@/infrastructure/utils/format'
+import { recordFullrunStep } from '@/services/fullrun-engine'
 import type { ModuleData, TsuScenario } from '@/domain/models/types'
 
 const appStore = useAppStore()
@@ -91,6 +94,11 @@ const scenarios = ref<TsuScenario[]>([])
 const idx = ref(0)
 const allRatings = ref<number[][]>([])
 const ratings = ref<number[]>([])
+
+/** Prüfungssimulation/Voller Durchlauf drive this view as one queue step (see fullrun-engine.ts) instead of the standalone landing → run → results flow. */
+const isFullrun = computed(() => !!appStore.state.params?.fullrun)
+const timeLeft = ref(0)
+let intervalId: number | null = null
 
 const current = computed(() => scenarios.value[idx.value])
 const best = computed(() => {
@@ -104,14 +112,41 @@ const correctCount = computed(() =>
 )
 const pct = computed(() => (totalStatements.value ? Math.round((correctCount.value / totalStatements.value) * 100) : 0))
 
-function start() {
-  const pool = shuffleArray(mod.value!.scenarios!)
-  scenarios.value = pool.slice(0, mod.value!.attemptN || pool.length)
+/** Ported from the original's sampleTsu(): standalone runs lead with the official AA sample scenario; fullrun/simulation steps draw a pure random sample under time pressure instead. */
+function sampleScenarios(n: number, officialFirst: boolean): TsuScenario[] {
+  const bank = mod.value!.scenarios!.slice()
+  let pick: TsuScenario[]
+  if (officialFirst) {
+    const off = bank.filter((s) => s.official)
+    const rest = shuffleArray(bank.filter((s) => !s.official))
+    pick = (off.length ? [off[0]] : []).concat(rest).slice(0, n)
+  } else {
+    pick = shuffleArray(bank).slice(0, n)
+  }
+  return pick.map((s) => ({ ...s, statements: shuffleArray(s.statements.slice()) }))
+}
+
+function beginRun(scenarioList: TsuScenario[]) {
+  finishing = false
+  scenarios.value = scenarioList
   idx.value = 0
   ratings.value = new Array(scenarios.value[0].statements.length).fill(-1)
   allRatings.value = scenarios.value.map((sc) => new Array(sc.statements.length).fill(-1))
   running.value = true
   finished.value = false
+}
+
+function start() {
+  beginRun(sampleScenarios(mod.value!.attemptN || mod.value!.scenarios!.length, true))
+}
+
+function startAsFullrunStep() {
+  beginRun(sampleScenarios(mod.value!.fullrunN || 5, false))
+  timeLeft.value = (mod.value!.fullrunMin || 6) * 60
+  intervalId = window.setInterval(() => {
+    timeLeft.value = Math.max(0, timeLeft.value - 1)
+    if (timeLeft.value <= 0) finish()
+  }, 1000)
 }
 
 function nextScenario() {
@@ -120,23 +155,37 @@ function nextScenario() {
   ratings.value = new Array(current.value.statements.length).fill(-1)
 }
 
-function finish() {
+let finishing = false
+async function finish() {
+  if (finishing) return
+  finishing = true
+  if (intervalId) {
+    window.clearInterval(intervalId)
+    intervalId = null
+  }
   allRatings.value[idx.value] = [...ratings.value]
   const total = totalStatements.value
   const correct = correctCount.value
+  const pctVal = total ? Math.round((correct / total) * 100) : 0
+  // Ported from the original's finishTsu(): the attempt/stat record is saved unconditionally,
+  // fullrun-vs-standalone only changes what happens *after* (hand off to the queue vs. show results).
   appStore.state.attempts.push({
     module: 'tsu',
-    setId: 'run',
-    mode: 'uebung',
+    setId: 'alle',
+    mode: isFullrun.value ? 'pruefung' : 'uebung',
     earned: correct,
     total,
-    pct: total ? Math.round((correct / total) * 100) : 0,
+    pct: pctVal,
     correct,
     count: total,
     secAvg: 0,
     ts: Date.now()
   })
   appStore.saveState()
+  if (isFullrun.value) {
+    await recordFullrunStep('tsu', { kind: 'tsu', pct: pctVal, earned: correct, total })
+    return
+  }
   finished.value = true
 }
 
@@ -147,5 +196,9 @@ function reset() {
 
 onMounted(async () => {
   mod.value = await loadModule('tsu')
+  if (isFullrun.value) startAsFullrunStep()
+})
+onUnmounted(() => {
+  if (intervalId) window.clearInterval(intervalId)
 })
 </script>
