@@ -84,6 +84,7 @@ export async function startQuiz(options: StartQuizOptions): Promise<void> {
     _tStart: Date.now(),
     durationSec,
     timeLeft: durationSec,
+    deadlineTs: Date.now() + durationSec * 1000,
     finished: false,
     fullrun: !!fullrun
   }
@@ -94,6 +95,9 @@ export async function startQuiz(options: StartQuizOptions): Promise<void> {
 
 /** Compares chosen vs. correct answer across single-choice, multi-select and free-text items. */
 export function isItemCorrect(item: QuizItem, answer: number | number[] | string | undefined): boolean {
+  if (item.dual) {
+    return Array.isArray(answer) && answer.length === 2 && answer[0] === item.aLeft && answer[1] === item.aRight
+  }
   if (item.multi) {
     const a = Array.isArray(answer) ? [...answer].sort((x, y) => x - y) : []
     const b = [...(item.aset || [])].sort((x, y) => x - y)

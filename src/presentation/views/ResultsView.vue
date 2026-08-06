@@ -132,6 +132,18 @@ function reviewHtml(it: QuizItem, your: any): string {
     }
     return hh
   }
+  if (it.dual) {
+    const ok = isItemCorrect(it, your)
+    const corTxt = `${LETTERS[it.aLeft!]} — ${esc(it.oLeft![it.aLeft!])} / ${(it.aRight ?? 0) + 1} — ${esc(it.oRight![it.aRight!])}`
+    let hh = `<span style="color:var(--green)">Richtig: ${corTxt}</span>`
+    if (Array.isArray(your) && your[0] >= 0 && your[1] >= 0) {
+      const yourTxt = `${LETTERS[your[0]]} — ${esc(it.oLeft![your[0]] ?? '')} / ${your[1] + 1} — ${esc(it.oRight![your[1]] ?? '')}`
+      hh += `<br><span style="color:${ok ? 'var(--green)' : 'var(--red)'}">Ihre Wahl: ${yourTxt}</span>`
+    } else {
+      hh += '<br><span style="color:var(--faint)">nicht beantwortet</span>'
+    }
+    return hh
+  }
   if (!it.o) {
     const ok = isItemCorrect(it, your)
     let hh = `<span style="color:var(--green)">Richtig: ${esc(String(it.answer))}</span>`

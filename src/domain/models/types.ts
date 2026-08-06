@@ -94,6 +94,10 @@ export interface QuizState {
   _tStart: number
   durationSec: number
   timeLeft: number
+  /** Wall-clock deadline (Date.now() + durationSec*1000) for Prüfungsmodus. Used to compute
+   *  timeLeft from actual elapsed time instead of counting ticks, so the countdown stays
+   *  accurate even when the tab is backgrounded and setInterval gets throttled. */
+  deadlineTs?: number
   finished: boolean
   fullrun: boolean
   result?: QuizResult
@@ -118,6 +122,14 @@ export interface QuizItem {
   statement?: boolean
   flag?: boolean
   _tier?: number
+  /** Two-blank "Wortgleichung" format (DGP-Verbale Analogien): "? verhält sich zu B wie C zu
+   *  ?" with two independent option lists instead of a single A-D list. `a` is unused for
+   *  these items; the answer is stored as [oLeftIdx, oRightIdx]. */
+  dual?: boolean
+  oLeft?: string[]
+  oRight?: string[]
+  aLeft?: number
+  aRight?: number
 }
 
 /**

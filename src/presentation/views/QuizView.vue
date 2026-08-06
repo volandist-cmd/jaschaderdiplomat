@@ -64,6 +64,40 @@
       </div>
     </template>
 
+    <!-- Two-blank "Wortgleichung" (DGP-Verbale Analogien) -->
+    <template v-else-if="item.dual">
+      <div class="small muted" style="margin:2px 0 10px">Wortgleichung – wählen Sie je eine Option aus der linken und der rechten Spalte.</div>
+      <div class="dual-cols" style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+        <div>
+          <div class="small muted" style="margin-bottom:6px">Linke Spalte</div>
+          <button
+            v-for="(opt, j) in item.oLeft"
+            :key="'l' + j"
+            class="opt"
+            :class="optDualClass('left', j)"
+            @click="onAnswerOptDual('left', j)"
+          >
+            <span class="mk">{{ optDualMark('left', j) }}</span><span class="opt-txt">{{ opt }}</span>
+          </button>
+        </div>
+        <div>
+          <div class="small muted" style="margin-bottom:6px">Rechte Spalte</div>
+          <button
+            v-for="(opt, j) in item.oRight"
+            :key="'r' + j"
+            class="opt"
+            :class="optDualClass('right', j)"
+            @click="onAnswerOptDual('right', j)"
+          >
+            <span class="mk">{{ optDualMark('right', j) }}</span><span class="opt-txt">{{ opt }}</span>
+          </button>
+        </div>
+      </div>
+      <div v-if="quiz.mode === 'uebung' && !revealed" style="margin-top:10px">
+        <button class="btn btn-gold btn-sm" :disabled="!dualHasSelection" @click="quizStore.checkDual()">Antwort prüfen</button>
+      </div>
+    </template>
+
     <!-- Free-text -->
     <template v-else-if="isTextItem">
       <div class="text-answer-box">
@@ -145,7 +179,7 @@ const appStore = useAppStore()
 const quiz = computed(() => quizStore.quiz)
 const item = computed(() => quiz.value?.items[quiz.value.idx] ?? null)
 const revealed = computed(() => quizStore.isRevealed)
-const isTextItem = computed(() => !!item.value && !item.value.multi && !item.value.o)
+const isTextItem = computed(() => !!item.value && !item.value.multi && !item.value.o && !item.value.dual)
 const isCognitive = computed(() => !!quiz.value && (COGNITIVE_MODULES as readonly string[]).includes(quiz.value.id))
 const answeredPct = computed(() => {
   if (!quiz.value) return 0
@@ -169,6 +203,9 @@ const itemCorrect = computed(() => {
 const wrongCorrectionText = computed(() => {
   const it = item.value
   if (!it) return ''
+  if (it.dual) {
+    return `richtig ist ${LETTERS[it.aLeft!]} ${(it.aRight ?? 0) + 1}`
+  }
   if (it.multi) {
     return (it.aset && it.aset.length)
       ? 'richtig sind ' + [...it.aset].sort((a, b) => a - b).map((x) => LETTERS[x]).join(', ')
@@ -182,6 +219,38 @@ const multiHasSelection = computed(() => {
   const ans = quiz.value?.answers[quiz.value.idx]
   return Array.isArray(ans) && ans.length > 0
 })
+
+const dualAnswer = computed(() => {
+  const ans = quiz.value?.answers[quiz.value.idx]
+  return Array.isArray(ans) ? (ans as number[]) : [-1, -1]
+})
+const dualHasSelection = computed(() => dualAnswer.value[0] >= 0 && dualAnswer.value[1] >= 0)
+
+function onAnswerOptDual(side: 'left' | 'right', j: number) {
+  quizStore.answerOptDual(side, j)
+}
+function optDualMark(side: 'left' | 'right', j: number): string {
+  const it = item.value!
+  const correctIdx = side === 'left' ? it.aLeft : it.aRight
+  const picked = side === 'left' ? dualAnswer.value[0] : dualAnswer.value[1]
+  if (revealed.value) {
+    if (j === correctIdx) return '✓'
+    if (picked === j) return '✗'
+  }
+  return side === 'left' ? LETTERS[j] : String(j + 1)
+}
+function optDualClass(side: 'left' | 'right', j: number) {
+  const it = item.value!
+  const correctIdx = side === 'left' ? it.aLeft : it.aRight
+  const picked = side === 'left' ? dualAnswer.value[0] : dualAnswer.value[1]
+  const cls: Record<string, boolean> = { sel: picked === j }
+  if (revealed.value) {
+    if (j === correctIdx) { cls.correct = true; cls.sel = false }
+    else if (picked === j) { cls.wrong = true; cls.sel = false }
+    else cls.dim = true
+  }
+  return cls
+}
 
 const stemLines = computed(() => {
   const q = item.value?.q || ''
@@ -266,8 +335,20 @@ let intervalId: number | null = null
 function tick() {
   const q = quiz.value
   if (!q || q.finished || q.mode !== 'pruefung') return
-  q.timeLeft = Math.max(0, q.timeLeft - 1)
+  // Deadline-based instead of decrement-per-tick: setInterval is throttled (sometimes to
+  // once a minute or less) in backgrounded/inactive tabs, so counting down by 1 per firing
+  // would silently pause the exam clock while the tab is out of focus. Computing timeLeft
+  // from the wall-clock deadline self-corrects on whatever cadence the tick actually fires,
+  // and the visibilitychange listener below forces an immediate correction on tab refocus.
+  if (q.deadlineTs != null) {
+    q.timeLeft = Math.max(0, Math.round((q.deadlineTs - Date.now()) / 1000))
+  } else {
+    q.timeLeft = Math.max(0, q.timeLeft - 1)
+  }
   if (q.timeLeft <= 0) finishQuiz()
+}
+function onVisibilityChange() {
+  if (document.visibilityState === 'visible') tick()
 }
 
 // Prüfungssimulation/Voller Durchlauf/DGP-Testabschnitt chain multiple quizzes through this
@@ -284,8 +365,10 @@ watch(
 
 onMounted(() => {
   intervalId = window.setInterval(tick, 1000)
+  document.addEventListener('visibilitychange', onVisibilityChange)
 })
 onUnmounted(() => {
   if (intervalId) window.clearInterval(intervalId)
+  document.removeEventListener('visibilitychange', onVisibilityChange)
 })
 </script>

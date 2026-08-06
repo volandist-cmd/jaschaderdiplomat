@@ -25,8 +25,8 @@ export const useQuizStore = defineStore('quiz', () => {
     if (q.finished) return true
     if (q.mode !== 'uebung') return false
     const item = q.items[q.idx]
-    const isTextItem = !item.multi && !item.o
-    if (item.multi || isTextItem) return !!q.checked[q.idx]
+    const isTextItem = !item.multi && !item.o && !item.dual
+    if (item.multi || item.dual || isTextItem) return !!q.checked[q.idx]
     return q.answers[q.idx] != null
   })
 
@@ -71,6 +71,24 @@ export const useQuizStore = defineStore('quiz', () => {
     if (!q) return
     const answer = q.answers[q.idx]
     if (Array.isArray(answer) && answer.length) q.checked[q.idx] = true
+  }
+
+  /** Two-blank "Wortgleichung" items: each side picked independently, stored as [left, right]. */
+  function answerOptDual(side: 'left' | 'right', optionIdx: number) {
+    const q = quiz.value
+    if (!q || q.finished) return
+    if (q.mode === 'uebung' && q.checked[q.idx]) return
+    const current = Array.isArray(q.answers[q.idx]) ? [...(q.answers[q.idx] as number[])] : [-1, -1]
+    if (side === 'left') current[0] = optionIdx
+    else current[1] = optionIdx
+    q.answers[q.idx] = current
+  }
+
+  function checkDual() {
+    const q = quiz.value
+    if (!q) return
+    const answer = q.answers[q.idx]
+    if (Array.isArray(answer) && answer[0] >= 0 && answer[1] >= 0) q.checked[q.idx] = true
   }
 
   function checkTextAnswer(value: string) {
@@ -123,6 +141,8 @@ export const useQuizStore = defineStore('quiz', () => {
     submitAnswer,
     answerOptMulti,
     checkMulti,
+    answerOptDual,
+    checkDual,
     checkTextAnswer,
     accrueQuestionTime,
     nextQuestion,
