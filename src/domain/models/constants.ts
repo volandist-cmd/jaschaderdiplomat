@@ -2,7 +2,7 @@
 // Extracted from the monolithic application
 
 export const CONFIG = {
-  examDateDefault: '2025-09-10',
+  examDateDefault: '2026-09-01',
   appVersion: '1.0.0',
   storageKey: 'prufungstrainer-state',
   autoSaveInterval: 30000, // 30 seconds

@@ -40,6 +40,13 @@ export const useAppStore = defineStore('app', () => {
   // a reload happens while `state.view` was last saved as one of these.
   const SESSION_ONLY_VIEWS = new Set(['quiz', 'results', 'fullrun', 'dgptest', 'scoresheet', 'tsu', 'analyse'])
 
+  // The exam date default was wrong ('2025-09-10', already in the past) until 2026-08-08 -
+  // anyone who opened the app before that has it baked into their saved state, so fixing
+  // CONFIG.examDateDefault alone doesn't reach existing users. One-time migration: if the
+  // restored date is exactly the old wrong default, replace it with the corrected one. There is
+  // no UI to set a custom exam date, so this value can only ever be the shipped default.
+  const STALE_EXAM_DATE_DEFAULT = '2025-09-10'
+
   // Actions
   function init() {
     // Load state from localStorage
@@ -49,6 +56,9 @@ export const useAppStore = defineStore('app', () => {
       if (SESSION_ONLY_VIEWS.has(state.value.view)) {
         state.value.view = 'dashboard'
         state.value.params = {}
+      }
+      if (state.value.examDate === STALE_EXAM_DATE_DEFAULT) {
+        state.value.examDate = CONFIG.examDateDefault
       }
     }
 
