@@ -1,12 +1,12 @@
 {
   "short": "DGP",
   "title": "DGP – Buchstabenreihen",
-  "desc": "Buchstabenreihen nach 18 verschiedenen Regeltypen – 20 Aufgaben je Testlauf, Antwort wird direkt eingegeben (kein Multiple Choice). 50 eigenständige Testläufe (1.000 Aufgaben insgesamt); jeder Testlauf deckt alle 18 Aufgabentypen ab, kein Aufgaben-Wiederholungsrisiko.",
+  "desc": "Buchstabenreihen nach 14 verschiedenen Regeltypen – 20 Aufgaben je Testlauf, Antwort wird direkt eingegeben (kein Multiple Choice). 50 eigenständige Testläufe (1.000 Aufgaben insgesamt); jeder Testlauf deckt alle 14 Aufgabentypen ab, kein Aufgaben-Wiederholungsrisiko.",
   "durationMin": 6,
   "count": 20,
   "icon": "hash",
   "schwellePct": 60,
-  "intro": "Die Reihen sind nach einer bestimmten Regel aufgebaut – insgesamt 18 verschiedene Regeltypen, dieselbe Logik wie bei den Zahlenreihen, nur mit Buchstaben statt Zahlen (siehe „Buchstabenreihen Knacken“ im Musteraufgaben-Ordner). Zur Orientierung: a=1 … z=26, nach z folgt wieder a. Tippen Sie den fehlenden Buchstaben bzw. bei Aufgaben mit zwei gesuchten Buchstaben beide direkt ein. Die Aufgaben werden von Aufgabe zu Aufgabe schwerer; jeder Testlauf enthält alle 18 Aufgabentypen einmal plus 2 weitere Aufgaben.",
+  "intro": "Die Reihen sind nach einer bestimmten Regel aufgebaut – insgesamt 14 verschiedene Regeltypen, dieselbe Logik wie bei den Zahlenreihen, nur mit Buchstaben statt Zahlen (siehe „2 DGP-Buchstabenreihen“ im Vault). Zur Orientierung: a=1 … z=26, nach z folgt wieder a. Tippen Sie den fehlenden Buchstaben bzw. bei Aufgaben mit zwei gesuchten Buchstaben beide direkt ein. Die Aufgaben werden von Aufgabe zu Aufgabe schwerer; jeder Testlauf enthält alle 14 Aufgabentypen einmal plus 6 weitere Aufgaben.",
   "sets": {
     "run1": {
       "label": "Testlauf 1 – 20 Aufgaben",
