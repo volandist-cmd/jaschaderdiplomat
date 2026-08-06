@@ -20,6 +20,8 @@ export const useAppStore = defineStore('app', () => {
     guruChat: [],
     readinessCheck: null,
     readinessMeta: null,
+    studyPlan: null,
+    studyPlanMeta: null,
     essays: [],
     notes: '',
     apiKey: null,
@@ -82,12 +84,29 @@ export const useAppStore = defineStore('app', () => {
     state.value.params = params
   }
 
+  // Ported from the original's saveApiKeyFromPanel()/clearApiKey() - saved immediately rather
+  // than waiting for the 30s autosave, since losing a freshly-entered key to a tab close would
+  // be a bad first impression of the AI features.
+  function setApiKey(key: string) {
+    state.value.apiKey = key.trim() || null
+    state.value._apiKeyEditing = false
+    saveState()
+  }
+
+  function clearApiKey() {
+    state.value.apiKey = null
+    state.value._apiKeyEditing = false
+    saveState()
+  }
+
   return {
     state,
     router, // Expose router instance
     init,
     saveState,
     cleanup,
-    navigate
+    navigate,
+    setApiKey,
+    clearApiKey
   }
 })

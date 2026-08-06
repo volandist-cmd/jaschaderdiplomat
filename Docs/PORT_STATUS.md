@@ -2,6 +2,9 @@
 
 **Last verified:** 2026-08-06 (Prüfungssimulation build), initially 2026-08-05, by direct comparison of `jaschaderdiplomat.html` (5,287 lines / 9.4 MB, 266 top-level functions) against the current `src/` tree. This replaces the earlier "Phase 1 / Week 2" narrative below and in `STATUS.md`, `VERIFICATION.md`, `NEXT_STEPS.md`, `README.md` — those describe the scaffolding stage from before real data population happened and are now materially wrong (e.g. they claim only 3 modules have data; actually 29/29 modules are wired and 26/29 are fully data-complete). Treat this file as the current source of truth; the others are historical.
 
+## ✅ 2026-08-08 — Gap #3 (AI Guru tutor system) closed
+Ported as `src/services/ai-service.ts` (callAI/prompt builders) + `src/services/progress-analytics.ts` (categoryStat/categoryTrend/weakestSubtypes/repeatedMistakes, ported 1:1, plus new dailyTrend/categoryDayHeatmap/paceInsights/weeklyDigest not in the original) + five new shared components (`GuruPanel.vue`, `WeakestSubtypesPanel.vue`, `RepeatedMistakesTable.vue`, `RecentErrorsList.vue`, `ApiKeyCard.vue`) used on both `DashboardView.vue` and `FehleranalyseView.vue`. Same Gemini BYOK approach as the original (free API key, client-side only). Ported: main Guru analysis, subtype mini-Guru, readiness check, Guru chat follow-ups, Fokus-Training (`startFocusQuiz` in `quiz-engine.ts`). New beyond the original: a day-by-day study-plan generator (`buildStudyPlanPrompt`), plus non-AI rule-based dashboard analytics (trend chart, per-category/day heatmap, pace-vs-accuracy flags, score variance, weekly digest, projected Prüfungssimulation outcome via the existing `computeScoresheet`). **Not ported:** `aiExplain` (jaschaderdiplomat.html:3436) — the per-question "erläutere ausführlicher" button inside the quiz-review flow. Different, smaller feature from the Guru; the shared `callAI` plumbing this gap closed makes it a cheap follow-up if ever wanted. Detail in the vault's `Bewusste Abweichungen & Entscheidungen.md`.
+
 ## ✅ 2026-08-06 — Gap #1 (Prüfungssimulation) closed
 DGP-Testabschnitt, Voller Durchlauf, and Prüfungssimulation (with persistent Scoresheet history) are now fully built — see "Resolved" section below for what was ported and verified. This turned out to be **three separate systems**, not one/two as CLAUDE.md's summary bullet suggests — confirmed against the original's actual code (`startFullrun`/`startSimulation` are distinct functions with different persistence/shuffle/scoring behavior). Detail in `Bewusste Abweichungen & Entscheidungen.md` in the vault.
 
@@ -59,7 +62,7 @@ They need the original's runtime chart/generator subsystem, which is entirely un
 
 ## P1 — Whole feature systems missing (present in original, zero trace in `src/`)
 
-### 3. AI "Guru" tutor system — 100% unbuilt
+### 3. ~~AI "Guru" tutor system — 100% unbuilt~~ — ✅ RESOLVED 2026-08-08, see top of file
 `AppState` in `types.ts` already carries the state shape (`guruAnalysis`, `guruMeta`, `subtypeGuru`, `guruChat`, `readinessCheck`, `readinessMeta`, `apiKey`, `_apiKeyEditing`), but **nothing reads or writes any of it** — confirmed via repo-wide grep. This is an AI-powered feature that calls an external API to analyze error patterns, score exam readiness, coach per-subtype weaknesses, and answer chat follow-ups.
 
 | Function | Original line |

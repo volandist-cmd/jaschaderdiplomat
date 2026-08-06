@@ -41,6 +41,8 @@
       </div>
     </div>
 
+    <ApiKeyCard />
+
     <div class="grid g-2" style="margin-bottom:26px">
       <div class="card pad">
         <div class="sec-title" style="margin-bottom:10px;font-size:16px">Bereit für die Prüfung?</div>
@@ -73,12 +75,26 @@
       </div>
     </div>
 
+    <div v-if="totalAttempts > 0" class="card pad" style="margin-bottom:26px">
+      <div class="sec-title" style="margin-bottom:4px;font-size:16px">Entwicklung — letzte 3 Wochen</div>
+      <div class="small muted" style="margin-bottom:10px">Ø Trefferquote über alle Prüfungsteile, pro Tag.</div>
+      <TrendChart :points="trendPoints" />
+    </div>
+
+    <div v-if="heatmapRows.length" class="card pad" style="margin-bottom:26px">
+      <div class="sec-title" style="margin-bottom:4px;font-size:16px">Trefferquote je Prüfungsteil und Tag</div>
+      <div class="small muted" style="margin-bottom:14px">
+        Die {{ heatmapRows.length }} zuletzt geübten Prüfungsteile, letzte 21 Tage.
+      </div>
+      <CategoryHeatmap :rows="heatmapRows" />
+    </div>
+
     <div v-if="strengths.length || weaknesses.length" class="grid g-2" style="margin-bottom:26px">
       <div class="card pad">
         <div class="sec-title" style="margin-bottom:14px;font-size:16px">Stärken</div>
         <div class="bars">
           <div v-for="m in strengths" :key="m.id" class="bar-row">
-            <div class="bl">{{ m.name }}</div>
+            <div class="bl">{{ m.name }}<span v-if="isVolatile(m)" class="small muted" title="Schwankt stark zwischen Versuchen"> ⚡</span></div>
             <div class="bar-track"><div class="bar-fill good" :style="{ width: m.avg + '%' }">{{ m.avg }}%</div></div>
           </div>
         </div>
@@ -87,13 +103,92 @@
         <div class="sec-title" style="margin-bottom:14px;font-size:16px">Schwächen</div>
         <div class="bars">
           <div v-for="m in weaknesses" :key="m.id" class="bar-row">
-            <div class="bl">{{ m.name }}</div>
+            <div class="bl">{{ m.name }}<span v-if="isVolatile(m)" class="small muted" title="Schwankt stark zwischen Versuchen"> ⚡</span></div>
             <div class="bar-track"><div class="bar-fill bad" :style="{ width: Math.max(m.avg || 0, 4) + '%' }">{{ m.avg }}%</div></div>
           </div>
         </div>
       </div>
     </div>
 
+    <div v-if="paceIssues.length" class="card pad" style="margin-bottom:26px">
+      <div class="sec-title" style="margin-bottom:4px;font-size:16px">Tempo oder Wissen?</div>
+      <div class="small muted" style="margin-bottom:14px">
+        Bei diesen Prüfungsteilen liegt die Schwäche vermutlich eher an folgendem:
+      </div>
+      <div class="list-clean">
+        <div v-for="p in paceIssues" :key="p.id" class="next-step-row" style="cursor:default">
+          <span>{{ p.name }}</span>
+          <span class="small" :style="{ color: p.kind === 'tempo' ? '#7C5E16' : 'var(--red)' }">
+            {{ p.kind === 'tempo' ? '⏱ vermutlich Zeitdruck' : '📖 vermutlich Wissenslücke' }} · Ø {{ p.avgPct }}%
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="card pad" style="margin-bottom:26px">
+      <div class="sec-title" style="margin-bottom:10px;font-size:16px">Wochenrückblick</div>
+      <div v-if="!digest.attemptsThisWeek && !digest.attemptsLastWeek" class="small muted">
+        Noch keine Daten für die letzten zwei Wochen.
+      </div>
+      <template v-else>
+        <div style="display:flex;gap:28px;flex-wrap:wrap;margin-bottom:10px">
+          <div>
+            <div class="tag">Durchläufe diese Woche</div>
+            <div style="font-family:var(--fs-mono);font-weight:600;font-size:18px">
+              {{ digest.attemptsThisWeek }} <small class="muted" style="font-size:12px">(Vorwoche {{ digest.attemptsLastWeek }})</small>
+            </div>
+          </div>
+          <div>
+            <div class="tag">Ø Trefferquote diese Woche</div>
+            <div style="font-family:var(--fs-mono);font-weight:600;font-size:18px">
+              {{ digest.avgThisWeek ?? '–' }}<small style="font-size:12px">%</small>
+              <small class="muted" style="font-size:12px"> (Vorwoche {{ digest.avgLastWeek ?? '–' }}%)</small>
+            </div>
+          </div>
+        </div>
+        <div v-if="digest.mostImproved" class="small" style="color:var(--green)">↑ größter Fortschritt: {{ digest.mostImproved.name }} ({{ digest.mostImproved.delta > 0 ? '+' : '' }}{{ digest.mostImproved.delta }} Punkte ggü. Vorwoche)</div>
+        <div v-if="digest.mostDeclined" class="small" style="color:var(--red)">↓ größter Rückgang: {{ digest.mostDeclined.name }} ({{ digest.mostDeclined.delta }} Punkte ggü. Vorwoche)</div>
+        <div v-if="digest.newlyPracticed.length" class="small muted">Neu diese Woche begonnen: {{ digest.newlyPracticed.join(', ') }}</div>
+      </template>
+    </div>
+
+    <div class="card pad" style="margin-bottom:26px">
+      <div class="sec-title" style="margin-bottom:10px;font-size:16px">Projizierte Prüfungssimulation</div>
+      <template v-if="projectedSheet">
+        <div class="small muted" style="margin-bottom:12px">
+          Hochrechnung aus Ihren bisherigen Durchschnittswerten je Prüfungsteil — keine echte Simulation, sondern eine Momentaufnahme.
+        </div>
+        <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:8px">
+          <span class="badge" :class="projectedSheet.bestanden ? 'green' : 'red'">{{ projectedSheet.bestanden ? 'bestanden' : 'nicht bestanden' }}</span>
+          <span class="tag">Gesamt {{ projectedSheet.gesamt }}%</span>
+          <span v-if="projectedSheet.fachPct != null" class="tag">Fachtests {{ projectedSheet.fachPct }}%</span>
+          <span v-if="projectedSheet.cogPct != null" class="tag">DGP {{ projectedSheet.cogPct }}%</span>
+        </div>
+        <div v-if="appStore.state.sims?.length" class="small muted">
+          {{ appStore.state.sims.length }} echte Prüfungssimulation{{ appStore.state.sims.length === 1 ? '' : 'en' }} absolviert, letztes Ergebnis {{ appStore.state.sims[appStore.state.sims.length - 1].sheet.gesamt }}%.
+        </div>
+        <div v-else class="small muted">
+          Noch keine echte Prüfungssimulation absolviert — <a href="#" @click.prevent="appStore.navigate('simulation')" style="color:var(--navy);font-weight:600">jetzt starten</a>.
+        </div>
+      </template>
+      <div v-else class="small muted">Noch zu wenige Daten für eine Hochrechnung (mindestens 5 Prüfungsteile mit Ergebnissen nötig).</div>
+    </div>
+
+    <div class="sec-title"><span class="flagbar"><i></i><i></i><i></i></span>Auswertung je Prüfungsteil</div>
+    <div class="card" style="overflow-x:auto;margin-bottom:26px"><AuswertungTable /></div>
+
+    <template v-if="appStore.state.errorLog.length">
+      <div class="sec-title">Schwächste Unterkategorien</div>
+      <div style="margin-bottom:26px"><WeakestSubtypesPanel /></div>
+
+      <GuruPanel />
+
+      <div class="sec-title" style="margin-top:26px">Wiederholte Fehler</div>
+      <div class="card" style="overflow-x:auto;margin-bottom:26px"><RepeatedMistakesTable /></div>
+
+      <div class="sec-title">Letzte Fehler</div>
+      <RecentErrorsList :limit="10" />
+    </template>
   </div>
 </template>
 
@@ -102,12 +197,30 @@ import { ref, computed, onMounted } from 'vue'
 import { useAppStore } from '@/domain/stores/app-store'
 import { loadModule } from '@/data/loader'
 import { formatDate, daysUntil } from '@/infrastructure/utils/format'
-import { MODULE_META, CONFIG } from '@/domain/models/constants'
-import type { ModuleData } from '@/domain/models/types'
+import { MODULE_META, CONFIG, DGP_ONLY_MODULE_IDS } from '@/domain/models/constants'
+import { computeScoresheet } from '@/services/fullrun-engine'
+import {
+  categoryStat,
+  categoryVariance,
+  dailyTrend,
+  categoryDayHeatmap,
+  paceInsights,
+  weeklyDigest
+} from '@/services/progress-analytics'
+import type { ModuleData, Scoresheet, FullrunStepResult } from '@/domain/models/types'
+import TrendChart from '@/presentation/components/TrendChart.vue'
+import CategoryHeatmap from '@/presentation/components/CategoryHeatmap.vue'
+import ApiKeyCard from '@/presentation/components/ApiKeyCard.vue'
+import AuswertungTable from '@/presentation/components/AuswertungTable.vue'
+import WeakestSubtypesPanel from '@/presentation/components/WeakestSubtypesPanel.vue'
+import GuruPanel from '@/presentation/components/GuruPanel.vue'
+import RepeatedMistakesTable from '@/presentation/components/RepeatedMistakesTable.vue'
+import RecentErrorsList from '@/presentation/components/RecentErrorsList.vue'
 
 const appStore = useAppStore()
 const moduleMeta = MODULE_META
 const moduleData = ref<Record<string, ModuleData>>({})
+const projectedSheet = ref<Scoresheet | null>(null)
 
 const totalAttempts = computed(() => appStore.state.attempts.length)
 const averageScore = computed(() => {
@@ -158,21 +271,17 @@ interface ModuleProgress {
   avg: number | null
   daysSince: number | null
   schwelle: number
+  variance: number | null
 }
 
 // Per-Prüfungsteil-Fortschritt über alle bewertbaren Module (CONFIG.STAT_MODS) - Grundlage für
 // die Bereit-für-die-Prüfung-, Stärken/Schwächen- und Nächste-Schritte-Widgets unten.
 const moduleProgress = computed<ModuleProgress[]>(() => {
   return CONFIG.STAT_MODS.map((id) => {
-    const all = appStore.state.attempts.filter((a) => a.module === id)
+    const stat = categoryStat(appStore.state.attempts, id)
     const schwelle = moduleData.value[id]?.schwellePct ?? 60
-    if (!all.length) {
-      return { id, name: modName(id), n: 0, avg: null, daysSince: null, schwelle }
-    }
-    const avg = Math.round(all.reduce((s, a) => s + a.pct, 0) / all.length)
-    const lastTs = Math.max(...all.map((a) => a.ts))
-    const daysSince = Math.floor((Date.now() - lastTs) / 86400000)
-    return { id, name: modName(id), n: all.length, avg, daysSince, schwelle }
+    const variance = categoryVariance(appStore.state.attempts, id)
+    return { id, name: stat.name, n: stat.n, avg: stat.avg, daysSince: stat.daysSince, schwelle, variance }
   })
 })
 
@@ -201,6 +310,19 @@ const rankedModules = computed(() =>
 )
 const strengths = computed(() => rankedModules.value.slice(0, 3))
 const weaknesses = computed(() => [...rankedModules.value].reverse().slice(0, 3))
+
+// A category is flagged "volatile" when its score swings by 20+ percentage points between
+// attempts on average (stdev) - it needs a different remediation strategy than a category that's
+// just steadily weak.
+function isVolatile(m: ModuleProgress): boolean {
+  return m.variance != null && m.variance >= 20
+}
+
+const trendPoints = computed(() => dailyTrend(appStore.state.attempts, 21))
+const heatmapRows = computed(() => categoryDayHeatmap(appStore.state.attempts, 21, 12))
+const paceIssues = computed(() => paceInsights(appStore.state.attempts, moduleData.value, CONFIG.STAT_MODS))
+const digest = computed(() => weeklyDigest(appStore.state.attempts, CONFIG.STAT_MODS))
+
 const streak = computed(() => {
   const attempts = appStore.state.attempts
   if (!attempts.length) return 0
@@ -224,16 +346,31 @@ const streak = computed(() => {
   return count
 })
 
-function modName(id: string): string {
-  return MODULE_META.find((m) => m.id === id)?.title || id
-}
-
 function goToModule(id: string) {
   appStore.navigate(id === 'analyse' || id === 'tsu' ? id : 'module', { id })
+}
+
+// "What would today's exam simulation look like" - reuses computeScoresheet() from the real
+// Prüfungssimulation, fed with a synthetic FullrunStepResult per module built from that module's
+// average pct/earned/total across all attempts, instead of one actual completed run.
+async function buildProjectedSheet() {
+  const ids: string[] = [...DGP_ONLY_MODULE_IDS, 'recht', 'wirtschaft', 'geschichte', 'englisch', 'englischv2', 'englischv3', 'russisch', 'tsu']
+  const results: Record<string, FullrunStepResult> = {}
+  for (const id of ids) {
+    const all = appStore.state.attempts.filter((a) => a.module === id)
+    if (!all.length) continue
+    const avgPct = Math.round(all.reduce((s, a) => s + a.pct, 0) / all.length)
+    const avgTotal = Math.round(all.reduce((s, a) => s + a.total, 0) / all.length)
+    const avgEarned = Math.round((avgPct / 100) * avgTotal)
+    results[id] = { kind: 'quiz', pct: avgPct, earned: avgEarned, total: avgTotal }
+  }
+  if (Object.keys(results).length < 5) { projectedSheet.value = null; return }
+  projectedSheet.value = await computeScoresheet(results)
 }
 
 onMounted(async () => {
   const entries = await Promise.all(moduleMeta.map((m) => loadModule(m.id).then((d) => [m.id, d] as const)))
   moduleData.value = Object.fromEntries(entries)
+  await buildProjectedSheet()
 })
 </script>

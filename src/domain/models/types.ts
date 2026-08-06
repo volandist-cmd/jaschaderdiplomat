@@ -13,6 +13,8 @@ export interface AppState {
   guruChat: ChatMessage[]
   readinessCheck: string | null
   readinessMeta: { ts: number; errorCount: number } | null
+  studyPlan: string | null
+  studyPlanMeta: { ts: number; errorCount: number } | null
   essays: Essay[]
   notes: string
   apiKey: string | null
@@ -306,4 +308,47 @@ export interface RepeatedMistake {
 export interface BandResult {
   t: string
   c: string
+}
+
+export interface CategoryTrend {
+  n: number
+  firstAvg: number | null
+  secondAvg: number | null
+  delta: number | null
+  dir: 'up' | 'down' | 'flat' | null
+}
+
+/** One day's aggregate accuracy for a trend line/heatmap cell. `avg` is null if nothing was practiced that day. */
+export interface DailyPoint {
+  day: string // YYYY-MM-DD
+  avg: number | null
+  n: number
+}
+
+export interface CategoryHeatmapRow {
+  id: string
+  name: string
+  cells: DailyPoint[]
+}
+
+/** Pace vs. accuracy read for one category: flags whether time pressure or actual knowledge looks like the bigger blocker. */
+export interface PaceInsight {
+  id: string
+  name: string
+  avgPct: number
+  secAvg: number
+  secBudget: number
+  /** secAvg / secBudget, i.e. how much of the allotted time per item is actually used on average. */
+  paceRatio: number
+  kind: 'tempo' | 'wissen'
+}
+
+export interface WeeklyDigest {
+  attemptsThisWeek: number
+  attemptsLastWeek: number
+  avgThisWeek: number | null
+  avgLastWeek: number | null
+  newlyPracticed: string[]
+  mostImproved: { name: string; delta: number } | null
+  mostDeclined: { name: string; delta: number } | null
 }

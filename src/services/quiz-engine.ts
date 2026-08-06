@@ -93,6 +93,56 @@ export async function startQuiz(options: StartQuizOptions): Promise<void> {
   appStore.navigate('quiz', { id: moduleId })
 }
 
+/**
+ * Fokus-Training: ported from the original's collectItemsBySubtype()/startFocusTraining().
+ * Pulls every item tagged with `cat` across ALL of a module's sets (not just one run), shuffles,
+ * and launches an ad-hoc quiz with up to 20 of them - a one-click "give me fresh questions from
+ * exactly this weak subtype" action from the Guru's repeated-mistakes/weakest-subtypes lists.
+ */
+export async function startFocusQuiz(moduleId: string, cat: string): Promise<boolean> {
+  const quizStore = useQuizStore()
+  const appStore = useAppStore()
+
+  const mod = await loadModule(moduleId)
+  if (!mod.sets) return false
+  const pool: QuizItem[] = []
+  for (const setKey of Object.keys(mod.sets)) {
+    for (const item of mod.sets[setKey].items) {
+      if ((item.cat || '(allgemein)') === cat) pool.push(item)
+    }
+  }
+  if (!pool.length) return false
+
+  const items = shuffleArray(pool.map((it) => ({ ...it }))).slice(0, Math.min(20, pool.length))
+  const totalPts = items.reduce((sum, it) => sum + (it.pts || 1), 0)
+  const durationSec = items.length * 30
+
+  const quiz: QuizState = {
+    kind: 'quiz',
+    id: moduleId,
+    setId: `fokus:${cat}`,
+    mode: 'uebung',
+    items,
+    answers: {},
+    marked: {},
+    checked: {},
+    idx: 0,
+    statement: false,
+    totalPts,
+    qTime: {},
+    _tStart: Date.now(),
+    durationSec,
+    timeLeft: durationSec,
+    deadlineTs: Date.now() + durationSec * 1000,
+    finished: false,
+    fullrun: false
+  }
+
+  quizStore.setQuiz(quiz)
+  appStore.navigate('quiz', { id: moduleId })
+  return true
+}
+
 /** Compares chosen vs. correct answer across single-choice, multi-select and free-text items. */
 export function isItemCorrect(item: QuizItem, answer: number | number[] | string | undefined): boolean {
   if (item.dual) {
