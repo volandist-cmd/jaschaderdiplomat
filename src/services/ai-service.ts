@@ -15,7 +15,16 @@ import {
   modName
 } from './progress-analytics'
 
-const GEMINI_MODEL = 'gemini-flash-latest'
+// Two model tiers, both "-latest" aliases so Google's own model retirements/upgrades don't
+// require a code change (same reasoning as the original's model choice comment). Flash for
+// frequent/lightweight calls (subtype mini-Guru, chat follow-ups); Pro for the few, infrequent,
+// high-value calls where genuine depth matters (main analysis, readiness check, study plan) -
+// 2026-08-09: switched the deep calls to Pro after the user reported the analysis quality was
+// shallow. Pro has a much stricter free daily quota than Flash on Google AI Studio's free tier,
+// which is an acceptable trade for these three low-frequency calls (a user runs the main
+// analysis a handful of times, not dozens).
+const GEMINI_MODEL_FLASH = 'gemini-flash-latest'
+const GEMINI_MODEL_PRO = 'gemini-pro-latest'
 
 export type AIErrorCode = 'NO_KEY' | 'NETWORK' | 'AUTH' | 'API'
 export class AIError extends Error {
@@ -26,12 +35,36 @@ export class AIError extends Error {
   }
 }
 
-export async function callAI(apiKey: string | null, userText: string): Promise<string> {
+export interface CallAIOptions {
+  /** Use the Pro-tier model instead of Flash - for the few calls where depth matters more than quota. */
+  deep?: boolean
+  /** Separate persona/behavior instructions from the data+task in the user turn, for better instruction-following (Gemini's systemInstruction field). */
+  systemInstruction?: string
+}
+
+export async function callAI(apiKey: string | null, userText: string, opts: CallAIOptions = {}): Promise<string> {
   if (!apiKey) throw new AIError('Kein API-Schlüssel hinterlegt', 'NO_KEY')
 
-  const body = {
+  const model = opts.deep ? GEMINI_MODEL_PRO : GEMINI_MODEL_FLASH
+  // 2026-08-09 fix: the previous maxOutputTokens (1500, uniform for every call) was almost
+  // certainly the main reason the Guru's analysis read as shallow/"stupid" - a prompt asking for
+  // 6 detailed, data-grounded sections across up to 28 categories does not fit in 1500 tokens,
+  // and a truncated (finishReason=MAX_TOKENS) response was previously returned as-is with no
+  // indication anything was cut off (only a fully EMPTY response was treated as an error). Now
+  // sized generously per call type, and truncation is detected and surfaced below instead of
+  // silently returned as if it were the complete answer.
+  const body: Record<string, unknown> = {
     contents: [{ role: 'user', parts: [{ text: userText }] }],
-    generationConfig: { maxOutputTokens: 1500 }
+    generationConfig: {
+      maxOutputTokens: opts.deep ? 8192 : 2048,
+      // Lower than Gemini's creative-task default (~1.0) - an analytical task grounded in
+      // concrete performance data benefits from less "creative" variance and fewer invented
+      // specifics than the default temperature is tuned for.
+      temperature: 0.3
+    }
+  }
+  if (opts.systemInstruction) {
+    body.systemInstruction = { parts: [{ text: opts.systemInstruction }] }
   }
 
   let res: Response
@@ -39,7 +72,7 @@ export async function callAI(apiKey: string | null, userText: string): Promise<s
     // Key sent as the x-goog-api-key header rather than a ?key= query param - Google's
     // documented safer option, and it keeps the key out of any URL/access logs.
     res = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,
       { method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey }, body: JSON.stringify(body) }
     )
   } catch {
@@ -60,12 +93,15 @@ export async function callAI(apiKey: string | null, userText: string): Promise<s
 
   const data = await res.json()
   const cand = (data.candidates || [])[0]
-  const text: string = cand?.content?.parts ? cand.content.parts.map((p: any) => p.text || '').join('\n').trim() : ''
+  let text: string = cand?.content?.parts ? cand.content.parts.map((p: any) => p.text || '').join('\n').trim() : ''
   if (!text) {
     if (cand?.finishReason && cand.finishReason !== 'STOP') {
       throw new AIError(`Von Gemini blockiert: ${cand.finishReason}`, 'API')
     }
     throw new AIError('leer', 'API')
+  }
+  if (cand.finishReason === 'MAX_TOKENS') {
+    text += '\n\n⚠️ Diese Antwort wurde beim Token-Limit abgeschnitten und ist unvollständig. Für eine vollständigere Analyse „Neu erstellen" versuchen oder die Datenmenge reduzieren.'
   }
   return text
 }
@@ -88,6 +124,15 @@ function tsDate(ts: number): string {
   return new Date(ts).toLocaleDateString('de-DE')
 }
 
+// Shared persona/behavior instructions, sent via Gemini's systemInstruction field rather than
+// prepended to every user-turn prompt - keeps the user turn focused purely on data+task (better
+// instruction-following) and is the natural place to enforce "no generic filler" and "every
+// section needs real substance", which the previous version left implicit and got shallow,
+// low-effort answers as a result.
+export const GURU_SYSTEM_INSTRUCTION =
+  "Du bist ein erfahrener, sehr genauer Prüfungscoach – ein 'Lern-Guru' – für das schriftliche Auswahlverfahren des höheren Auswärtigen Dienstes (DGP-Test, Fachtests, Sprachtests, TSU). Du bekommst detaillierte, echte Leistungs- und Fehlerdaten eines einzelnen Kandidaten. Deine Aufgabe ist NICHT, generisches Feedback zu geben ('übe mehr', 'bleib dran', 'das wird schon'), sondern die Daten wie ein Diagnostiker zu lesen: welche konkreten Denkfehler, Verwechslungen und Wissenslücken stecken hinter den falschen Antworten, und was folgt daraus für die Vorbereitung. "
+  + 'Feste Regeln für jede Antwort: (1) Jede Aussage muss sich auf eine konkrete Zahl, Kategorie oder ein Beispiel aus den gelieferten Daten stützen – nichts erfinden, was nicht in den Daten steht. (2) Jeder verlangte Abschnitt braucht echtes inhaltliches Gewicht (mehrere ausformulierte Sätze mit Datenbezug), außer es gibt zu diesem Abschnitt bei diesen Daten wirklich nichts zu sagen – dann das kurz benennen statt Platz mit Floskeln zu füllen. (3) Antworte immer auf Deutsch, strukturiert exakt nach den im Prompt vorgegebenen Abschnitten. (4) Keine Höflichkeitsfloskeln, kein Blabla, keine Wiederholung der Aufgabenstellung.'
+
 /** Main Guru analysis prompt - full performance picture across every category. */
 export function buildGuruPrompt(state: AppState): string {
   const trends = CONFIG.STAT_MODS
@@ -96,10 +141,7 @@ export function buildGuruPrompt(state: AppState): string {
   const weak = weakestSubtypes(state.subtypeStats, state.errorLog, 3)
   const catStats: CategoryStat[] = CONFIG.STAT_MODS.map((id) => categoryStat(state.attempts, id)).filter((s) => s.n > 0)
 
-  let out = "Du bist ein erfahrener, sehr genauer Prüfungscoach – ein 'Lern-Guru' – für das schriftliche Auswahlverfahren des höheren Auswärtigen Dienstes (DGP-Test, Fachtests, Sprachtests, TSU). "
-  out += 'Du bekommst detaillierte, echte Leistungs- und Fehlerdaten eines einzelnen Kandidaten. Deine Aufgabe ist NICHT, generisches Feedback zu geben (\'übe mehr\'), sondern die Daten wie ein Diagnostiker zu lesen: welche konkreten Denkfehler, Verwechslungen und Wissenslücken stecken hinter den falschen Antworten, und was folgt daraus für die Vorbereitung.\n\n'
-
-  out += '=== GESAMTÜBERSICHT ===\n'
+  let out = '=== GESAMTÜBERSICHT ===\n'
   catStats.forEach((s) => {
     out += `${s.name}: ${s.n} Versuche, Schnitt ${s.avg}% (Übung ${s.ueAvg != null ? s.ueAvg + '%' : '–'} / Prüfung ${s.prAvg != null ? s.prAvg + '%' : '–'}), Bestwert ${s.best}%, zuletzt geübt vor ${s.daysSince} Tag(en)\n`
   })
@@ -141,14 +183,13 @@ export function buildGuruPrompt(state: AppState): string {
     out += `\n=== VORHERIGE ANALYSE (erstellt am ${tsDate(state.guruMeta.ts)}, auf Basis von ${state.guruMeta.errorCount} erfassten Fehlern) ===\n${state.guruAnalysis.slice(0, 1200)}\n(Gehe kurz darauf ein, was sich seitdem verändert hat.)\n`
   }
 
-  out += '\nGib strukturiert und konkret auf Deutsch aus:\n'
-    + '1. ÜBERGREIFENDE FEHLERMUSTER — wiederkehrende Denkfehler/Verwechslungstypen, die sich über mehrere Kategorien ziehen (nicht nur eine Liste schwacher Kategorien).\n'
+  out += '\nGib strukturiert aus, jeder Abschnitt mit mindestens 3-4 ausformulierten Sätzen mit konkretem Datenbezug (keine Ein-Satz-Abfertigung):\n'
+    + '1. ÜBERGREIFENDE FEHLERMUSTER — wiederkehrende Denkfehler/Verwechslungstypen, die sich über mehrere Kategorien ziehen (nicht nur eine Liste schwacher Kategorien). Nenne mindestens 2 konkrete Muster, falls die Daten das hergeben.\n'
     + "2. THEMATISCHE WISSENSLÜCKEN — benenne konkret, WAS inhaltlich noch fehlt oder verwechselt wird (mit Bezug auf die Beispiele oben), nicht 'mehr üben'.\n"
-    + '3. WIEDERHOLTE FEHLER — falls vorhanden: warum genau scheitert der Kandidat an GENAU DENSELBEN Fragen erneut, obwohl er sie schon einmal falsch hatte? Das ist wichtiger als einmalige Fehler.\n'
-    + '4. ÜBUNG VS. PRÜFUNG — falls es eine auffällige Lücke gibt: ist das eher ein Zeitdruck-/Nervositätsproblem oder ein echtes Wissensproblem?\n'
+    + '3. WIEDERHOLTE FEHLER — falls vorhanden: warum genau scheitert der Kandidat an GENAU DENSELBEN Fragen erneut, obwohl er sie schon einmal falsch hatte? Das ist wichtiger als einmalige Fehler. Falls keine wiederholten Fehler vorliegen, das explizit als positives Signal benennen statt den Abschnitt zu füllen.\n'
+    + '4. ÜBUNG VS. PRÜFUNG — falls es eine auffällige Lücke gibt: ist das eher ein Zeitdruck-/Nervositätsproblem oder ein echtes Wissensproblem? Begründe anhand der Zahlen.\n'
     + '5. ENTWICKLUNG — was hat sich verbessert, wo stagniert oder verschlechtert es sich, und (falls vorhanden) Bezug zur vorherigen Analyse.\n'
-    + '6. PRIORISIERTER LERNPLAN — die 5 konkret wichtigsten nächsten Schritte, in Reihenfolge.\n'
-    + 'Ehrlich, konkret, mit Datenbezug. Keine Höflichkeitsfloskeln, kein Blabla.'
+    + '6. PRIORISIERTER LERNPLAN — genau 5 konkret wichtigste nächste Schritte, in Reihenfolge, jeder Schritt mit einer greifbaren Handlung (welche Kategorie, welcher Aufgabentyp, ungefähr wie oft) statt vager Empfehlungen.'
   return out
 }
 
@@ -156,7 +197,7 @@ export function buildGuruPrompt(state: AppState): string {
 export function buildSubtypeGuruPrompt(state: AppState, mod: string, cat: string): string {
   const errs = state.errorLog.filter((e) => e.module === mod && (e.cat || '(allgemein)') === cat)
   const s = state.subtypeStats[`${mod}::${cat}`] || { seen: errs.length, wrong: errs.length }
-  let out = 'Du bist Prüfungscoach für das schriftliche Auswahlverfahren des höheren Auswärtigen Dienstes. Analysiere fokussiert NUR den folgenden Aufgabentyp.\n\n'
+  let out = 'Analysiere fokussiert NUR den folgenden Aufgabentyp.\n\n'
   out += `Kategorie: ${modName(mod)}, Aufgabentyp: "${cat}"\n`
   if (mod === 'dgpserie') out += 'Wichtig: Bei Buchstabenreihen stehen die Buchstaben ausschließlich für ihre Position im Alphabet (A=1, B=2, … Z=26, Wraparound). NICHT als Wörter/Abkürzungen/Himmelsrichtungen interpretieren.\n'
   out += `Fehlerquote: ${s.wrong}/${s.seen} (${Math.round((s.wrong / s.seen) * 100)}%)\n\n`
@@ -168,7 +209,7 @@ export function buildSubtypeGuruPrompt(state: AppState, mod: string, cat: string
 /** Honest exam-readiness verdict against each category's real passing threshold. */
 export function buildReadinessPrompt(state: AppState, schwellePctFor: (id: string) => number | null): string {
   const catStats = CONFIG.STAT_MODS.map((id) => categoryStat(state.attempts, id))
-  let out = 'Du bist Prüfungscoach für das schriftliche Auswahlverfahren des höheren Auswärtigen Dienstes. Beurteile ehrlich und differenziert, wie prüfungsreif dieser Kandidat aktuell ist – kein pauschales Schulterklopfen, aber auch keine unnötige Panikmache.\n\n'
+  let out = 'Beurteile ehrlich und differenziert, wie prüfungsreif dieser Kandidat aktuell ist – kein pauschales Schulterklopfen, aber auch keine unnötige Panikmache.\n\n'
   out += '=== LEISTUNGSDATEN JE KATEGORIE (mit Bestehensschwelle, sofern bekannt) ===\n'
   CONFIG.STAT_MODS.forEach((id) => {
     const s = catStats.find((x) => x.id === id)!
@@ -199,7 +240,7 @@ export function buildReadinessPrompt(state: AppState, schwellePctFor: (id: strin
 /** Day-by-day / week-by-week study plan for the remaining time until the exam. */
 export function buildStudyPlanPrompt(state: AppState, daysLeft: number, schwellePctFor: (id: string) => number | null): string {
   const catStats = CONFIG.STAT_MODS.map((id) => categoryStat(state.attempts, id))
-  let out = 'Du bist Prüfungscoach für das schriftliche Auswahlverfahren des höheren Auswärtigen Dienstes. Erstelle einen konkreten, realistischen Lernplan für die verbleibende Zeit bis zur Prüfung.\n\n'
+  let out = 'Erstelle einen konkreten, realistischen Lernplan für die verbleibende Zeit bis zur Prüfung.\n\n'
   out += `Verbleibende Zeit bis zur Prüfung: ${daysLeft} Tage.\n\n`
   out += '=== AKTUELLER STAND JE KATEGORIE ===\n'
   CONFIG.STAT_MODS.forEach((id) => {

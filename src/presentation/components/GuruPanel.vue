@@ -87,7 +87,7 @@ import { useAppStore } from '@/domain/stores/app-store'
 import { CONFIG } from '@/domain/models/constants'
 import { loadModule } from '@/data/loader'
 import { daysUntil } from '@/infrastructure/utils/format'
-import { callAI, aiErrorText, buildGuruPrompt, buildReadinessPrompt, buildStudyPlanPrompt, buildGuruFollowupPrompt } from '@/services/ai-service'
+import { callAI, aiErrorText, buildGuruPrompt, buildReadinessPrompt, buildStudyPlanPrompt, buildGuruFollowupPrompt, GURU_SYSTEM_INSTRUCTION } from '@/services/ai-service'
 import type { ModuleData } from '@/domain/models/types'
 
 const appStore = useAppStore()
@@ -112,7 +112,7 @@ async function runGuruAnalysis() {
   guruLoading.value = true
   guruError.value = null
   try {
-    const text = await callAI(appStore.state.apiKey, buildGuruPrompt(appStore.state))
+    const text = await callAI(appStore.state.apiKey, buildGuruPrompt(appStore.state), { deep: true, systemInstruction: GURU_SYSTEM_INSTRUCTION })
     appStore.state.guruAnalysis = text
     appStore.state.guruMeta = { ts: Date.now(), errorCount: appStore.state.errorLog.length }
     appStore.saveState()
@@ -134,7 +134,7 @@ async function askGuru() {
   appStore.state.guruChat.push({ role: 'user', text: q })
   guruChatLoading.value = true
   try {
-    const answer = await callAI(appStore.state.apiKey, buildGuruFollowupPrompt(appStore.state, q))
+    const answer = await callAI(appStore.state.apiKey, buildGuruFollowupPrompt(appStore.state, q), { systemInstruction: GURU_SYSTEM_INSTRUCTION })
     appStore.state.guruChat.push({ role: 'guru', text: answer })
   } catch (e) {
     appStore.state.guruChat.push({ role: 'guru', text: `(${aiErrorText(e)})` })
@@ -151,7 +151,7 @@ async function runReadinessCheck() {
   readinessLoading.value = true
   readinessError.value = null
   try {
-    const text = await callAI(appStore.state.apiKey, buildReadinessPrompt(appStore.state, schwellePctFor))
+    const text = await callAI(appStore.state.apiKey, buildReadinessPrompt(appStore.state, schwellePctFor), { deep: true, systemInstruction: GURU_SYSTEM_INSTRUCTION })
     appStore.state.readinessCheck = text
     appStore.state.readinessMeta = { ts: Date.now(), errorCount: appStore.state.errorLog.length }
     appStore.saveState()
@@ -169,7 +169,7 @@ async function runStudyPlan() {
   studyPlanLoading.value = true
   studyPlanError.value = null
   try {
-    const text = await callAI(appStore.state.apiKey, buildStudyPlanPrompt(appStore.state, daysLeft.value, schwellePctFor))
+    const text = await callAI(appStore.state.apiKey, buildStudyPlanPrompt(appStore.state, daysLeft.value, schwellePctFor), { deep: true, systemInstruction: GURU_SYSTEM_INSTRUCTION })
     appStore.state.studyPlan = text
     appStore.state.studyPlanMeta = { ts: Date.now(), errorCount: appStore.state.errorLog.length }
     appStore.saveState()

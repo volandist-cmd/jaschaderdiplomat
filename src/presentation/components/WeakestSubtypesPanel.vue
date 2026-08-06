@@ -32,7 +32,7 @@ import { ref, computed } from 'vue'
 import { useAppStore } from '@/domain/stores/app-store'
 import { weakestSubtypes } from '@/services/progress-analytics'
 import { startFocusQuiz } from '@/services/quiz-engine'
-import { callAI, aiErrorText, buildSubtypeGuruPrompt } from '@/services/ai-service'
+import { callAI, aiErrorText, buildSubtypeGuruPrompt, GURU_SYSTEM_INSTRUCTION } from '@/services/ai-service'
 
 const appStore = useAppStore()
 const apiKeySet = computed(() => !!appStore.state.apiKey)
@@ -54,7 +54,7 @@ async function toggleSubtypeGuru(mod: string, cat: string) {
   subtypeGuruLoadingKey.value = key
   delete subtypeGuruErrors.value[key]
   try {
-    const text = await callAI(appStore.state.apiKey, buildSubtypeGuruPrompt(appStore.state, mod, cat))
+    const text = await callAI(appStore.state.apiKey, buildSubtypeGuruPrompt(appStore.state, mod, cat), { systemInstruction: GURU_SYSTEM_INSTRUCTION })
     appStore.state.subtypeGuru[key] = { text, ts: Date.now() }
     appStore.saveState()
   } catch (e) {

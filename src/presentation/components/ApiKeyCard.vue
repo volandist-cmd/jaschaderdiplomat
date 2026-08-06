@@ -7,16 +7,20 @@
         Lernplan, Feedback zur Politischen Analyse) – aus
         <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener" style="color:var(--navy);font-weight:600">Google AI Studio</a>,
         kein Zahlungsmittel nötig. Wird ausschließlich lokal in diesem Browser gespeichert und nur direkt an Google gesendet.
+        Für die tiefergehenden Analysen (Guru, Prüfungsreife, Lernplan) wird das gründlichere Pro-Modell verwendet, für schnelle Zwischenschritte (Rückfragen, Kurzanalysen) das schnellere Flash-Modell – beide im kostenlosen Kontingent, Pro mit einem strikteren Tageslimit.
       </div>
       <div class="btn-row">
         <input
           ref="inputEl"
           v-model="draft"
-          type="password"
+          type="text"
           class="field"
-          style="max-width:420px"
-          placeholder="AIza…"
+          style="max-width:420px;font-family:var(--fs-mono)"
+          placeholder="AIza… (oder anderes Schlüsselformat)"
           autocomplete="off"
+          autocapitalize="off"
+          autocorrect="off"
+          spellcheck="false"
           @keydown.enter.prevent="save"
           @keydown.escape="cancel"
         />
@@ -24,6 +28,7 @@
         <button class="btn btn-ghost btn-sm" @click="cancel">Abbrechen</button>
         <button v-if="appStore.state.apiKey" class="btn btn-ghost btn-sm" style="color:var(--red)" @click="clear">Entfernen</button>
       </div>
+      <div v-if="saveError" class="small" style="color:var(--red);margin-top:8px">{{ saveError }}</div>
     </template>
     <template v-else>
       <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px">
@@ -40,6 +45,7 @@
           {{ appStore.state.apiKey ? 'Ändern / entfernen' : 'API-Schlüssel eintragen' }}
         </button>
       </div>
+      <div v-if="justSaved" class="small" style="color:var(--green);margin-top:8px">✓ Gespeichert ({{ appStore.state.apiKey?.slice(-6) }}).</div>
     </template>
   </div>
 </template>
@@ -51,16 +57,35 @@ import { useAppStore } from '@/domain/stores/app-store'
 const appStore = useAppStore()
 const draft = ref('')
 const inputEl = ref<HTMLInputElement | null>(null)
+const saveError = ref<string | null>(null)
+const justSaved = ref(false)
 
 function open() {
   draft.value = appStore.state.apiKey || ''
+  saveError.value = null
   appStore.state._apiKeyEditing = true
   nextTick(() => inputEl.value?.focus())
 }
 function save() {
-  appStore.setApiKey(draft.value)
+  saveError.value = null
+  const key = draft.value.trim()
+  if (!key) {
+    saveError.value = 'Bitte zuerst einen Schlüssel eintragen.'
+    return
+  }
+  try {
+    appStore.setApiKey(key)
+    justSaved.value = true
+    setTimeout(() => { justSaved.value = false }, 4000)
+  } catch (e) {
+    // Should not happen (setApiKey does no I/O beyond localStorage), but surface it visibly
+    // rather than silently doing nothing - a save button that appears to "not react" is exactly
+    // the symptom an uncaught error here would produce.
+    saveError.value = `Speichern fehlgeschlagen: ${e instanceof Error ? e.message : String(e)}`
+  }
 }
 function cancel() {
+  saveError.value = null
   appStore.state._apiKeyEditing = false
 }
 function clear() {
