@@ -94,25 +94,6 @@
       </div>
     </div>
 
-    <div class="sec-title"><span class="flagbar"><i></i><i></i><i></i></span>Prüfungsteile</div>
-    <div class="grid g-3">
-      <div
-        v-for="m in moduleMeta"
-        :key="m.id"
-        class="mod-card"
-        @click="goToModule(m.id)"
-      >
-        <div class="spine"><i></i><i></i><i></i></div>
-        <h3>{{ moduleData[m.id]?.title || m.title }}</h3>
-        <div class="mod-meta">{{ metaLine(m.id) }}</div>
-        <div class="mod-desc">{{ moduleData[m.id]?.desc || '' }}</div>
-        <div class="mod-foot">
-          <div class="mini-prog"><i :style="{ width: (bestFor(m.id) || 0) + '%' }"></i></div>
-          <span v-if="bestFor(m.id) != null" class="mod-best">Best {{ bestFor(m.id) }}%</span>
-          <span v-else class="mod-best" style="color:var(--faint)">neu</span>
-        </div>
-      </div>
-    </div>
   </div>
 </template>
 
@@ -245,31 +226,6 @@ const streak = computed(() => {
 
 function modName(id: string): string {
   return MODULE_META.find((m) => m.id === id)?.title || id
-}
-
-function bestFor(id: string): number | null {
-  const attempts = appStore.state.attempts.filter((a) => a.module === id)
-  return attempts.length ? Math.round(Math.max(...attempts.map((a) => a.pct))) : null
-}
-
-function metaLine(id: string): string {
-  const d = moduleData.value[id]
-  if (!d) return ''
-  if (d.scenarios) return `${d.attemptN} Szenarien · neu zusammengestellt`
-  if (d.topics) return `${d.topics.length} Themen · ${d.durationMin} Min`
-  // DGP-style modules: procedurally-flavored run pool, timed by count/secPerItem/totalSec
-  if (d.count) {
-    const secs = d.secPerItem ? d.count * d.secPerItem : d.totalSec
-    const runs = d.sets ? Object.keys(d.sets).length : null
-    return `${d.count} Aufgaben` + (secs ? ` · ${secs} Sek.` : '') + (runs ? ` · ${runs} Testläufe` : ' · neu generiert')
-  }
-  // Named-set modules (recht/geschichte/wirtschaft/englisch/russisch): fixed duration in minutes
-  if (d.sets) {
-    const keys = Object.keys(d.sets)
-    const first = d.sets[keys[0]]
-    return `${first.items.length} Fragen · ${d.durationMin} Min` + (keys.length > 1 ? ` · ${keys.length} Sätze` : '')
-  }
-  return ''
 }
 
 function goToModule(id: string) {
