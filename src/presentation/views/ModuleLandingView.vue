@@ -60,7 +60,7 @@
         <div class="stat"><div class="k">Bestleistung</div><div class="v">{{ bestFor(undefined) != null ? bestFor(undefined) : '–' }}<small>%</small></div><div class="sub">Ihr bisher bestes Ergebnis</div></div>
       </div>
       <div class="sec-title">Modus wählen</div>
-      <div class="grid g-2" style="margin-bottom:24px">
+      <div class="grid g-2" :style="{ 'margin-bottom': hasMuster ? '26px' : '24px' }">
         <div class="topic" @click="startRun('uebung')">
           <div class="tt">Übungsmodus</div>
           <div class="td">{{ mod.count }} Fragen aus einem neuen Testlauf, sofortige Rückmeldung nach jeder Frage mit Erklärung. Ohne Zeitdruck.</div>
@@ -70,6 +70,19 @@
           <div class="td">{{ mod.count }} Fragen aus einem neuen Testlauf unter echtem Zeitdruck{{ perItemSeconds ? ` (${perItemSeconds} Sek./Frage)` : '' }}; Auswertung erst am Ende.</div>
         </div>
       </div>
+      <template v-if="hasMuster">
+        <div class="sec-title">Offizielle Musteraufgaben</div>
+        <div class="grid g-2" style="margin-bottom:24px">
+          <div class="topic" @click="startMuster('uebung')">
+            <div class="tt">Musteraufgaben (Übung)</div>
+            <div class="td">{{ mod.sets!.muster.items.length }} Aufgaben{{ mod.sets!.muster.note ? ' — ' + mod.sets!.muster.note : '' }} Ohne Zeitdruck.</div>
+          </div>
+          <div class="topic" @click="startMuster('pruefung')">
+            <div class="tt">Musteraufgaben (Prüfung)</div>
+            <div class="td">Dieselben Musteraufgaben unter echtem Zeitdruck ({{ mod.durationMin }} Min); Auswertung erst am Ende.</div>
+          </div>
+        </div>
+      </template>
     </template>
   </div>
   <div v-else class="center" style="padding:80px 0"><span class="spinner dark"></span></div>
@@ -93,6 +106,7 @@ const selectedMode = ref<'uebung' | 'pruefung'>('uebung')
 const isGeneratorOnly = computed(() => (GENERATOR_ONLY_MODULES as readonly string[]).includes(moduleId.value))
 const isNamedSet = computed(() => (NAMED_SET_MODULES as readonly string[]).includes(moduleId.value))
 const setKeys = computed(() => (mod.value?.sets ? Object.keys(mod.value.sets) : []))
+const hasMuster = computed(() => !!mod.value?.sets?.muster)
 const perItemSeconds = computed(() => mod.value?.secPerItem || null)
 const totalSeconds = computed(() => {
   if (!mod.value) return 0
@@ -122,6 +136,10 @@ function startRun(mode: 'uebung' | 'pruefung') {
   if (!mod.value?.sets) return
   const setId = pickRunSetId(moduleId.value, Object.keys(mod.value.sets))
   startQuiz({ moduleId: moduleId.value, setId, mode })
+}
+
+function startMuster(mode: 'uebung' | 'pruefung') {
+  startQuiz({ moduleId: moduleId.value, setId: 'muster', mode })
 }
 
 watch(moduleId, load)

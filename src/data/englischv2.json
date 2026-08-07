@@ -3143,15 +3143,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The proposal was quietly ____ (shelve/deny/suggest) after facing overwhelming criticism.",
+          "q": "The reform was quietly ____ (abandon/deny/suggest) after facing overwhelming criticism.",
           "o": [
-            "shelved",
-            "recalled",
-            "collapsed",
-            "bridged"
+            "denied",
+            "abandoned",
+            "suggested",
+            "collapsed"
           ],
-          "a": 0,
-          "e": "Passiv Vergangenheit: „was shelved“ = wurde auf Eis gelegt.",
+          "a": 1,
+          "e": "Passiv Vergangenheit: „was abandoned“ = wurde aufgegeben.",
           "cat": "Verben"
         },
         {
@@ -3341,15 +3341,15 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The court ____ (rule/deny/suggest) that the contract was invalid due to a procedural error.",
+          "q": "The court ____ (dismiss/deny/suggest) the appeal on procedural grounds.",
           "o": [
-            "sentenced",
-            "warned",
-            "ruled",
-            "praised"
+            "denied",
+            "suggested",
+            "dismissed",
+            "raised"
           ],
           "a": 2,
-          "e": "Simple Past: „ruled that“ = urteilte/entschied, dass.",
+          "e": "Simple Past: „dismissed the appeal“ = wies die Berufung ab.",
           "cat": "Verben"
         },
         {
@@ -3587,15 +3587,15 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The new law will ____ (come/deny/suggest) into force on the first of January.",
+          "q": "The treaty will ____ (enter/deny/suggest) into force once ratified by all signatories.",
           "o": [
-            "damaged",
-            "come",
-            "dismissed",
-            "secured"
+            "enter",
+            "suggest",
+            "deny",
+            "reduced"
           ],
-          "a": 1,
-          "e": "Future Simple: „will come into force“ = wird in Kraft treten.",
+          "a": 0,
+          "e": "Future Simple: „will enter into force“ = wird in Kraft treten.",
           "cat": "Verben"
         },
         {
@@ -3611,15 +3611,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The judge has ____ (hand/deny/suggest) down a landmark ruling on data privacy.",
+          "q": "The tribunal has ____ (deliver/deny/suggest) its verdict after three months of deliberation.",
           "o": [
-            "shown",
-            "agreed",
-            "blunted",
-            "handed"
+            "denied",
+            "suggested",
+            "delivered",
+            "withdrawn"
           ],
-          "a": 3,
-          "e": "Present Perfect: „has handed down a ruling“ = hat ein Urteil gefällt.",
+          "a": 2,
+          "e": "Present Perfect: „has delivered its verdict“ = hat sein Urteil verkündet.",
           "cat": "Verben"
         },
         {
@@ -3905,27 +3905,27 @@
           "cat": "Orthografie & Grammatik"
         },
         {
-          "q": "Identify the correct version of: „He asked her what time is it.“",
+          "q": "Identify the correct version of: „She doesn't have hardly any time to prepare the briefing.“",
           "o": [
-            "He asked her what time it was.",
-            "He asked her what time it is.",
-            "He asked her what time is it.",
-            "He asked her what time was it."
+            "She hasn't hardly any time to prepare the briefing.",
+            "She has hardly any time to prepare the briefing.",
+            "She doesn't have no time to prepare the briefing.",
+            "She hasn't got hardly no time to prepare the briefing."
           ],
-          "a": 0,
-          "e": "Indirekte Frage: Aussagesatz-Wortstellung + Zeitverschiebung: \"what time it was\".",
+          "a": 1,
+          "e": "Doppelte Verneinung vermeiden: \"hardly\" ist bereits negativ, kein zusätzliches \"doesn't\".",
           "cat": "Orthografie & Grammatik"
         },
         {
-          "q": "Identify the correct version of: „I wondered why does he always arrive late.“",
+          "q": "Identify the correct version of: „I asked her why doesn't she attend the summit.“",
           "o": [
-            "I wondered why does he always arrive late.",
-            "I wondered why he did always arrive late.",
-            "I wondered why he always arrived late.",
-            "I wondered why he always arrives late."
+            "I asked her why doesn't she attend the summit.",
+            "I asked her why she didn't attend the summit.",
+            "I asked her why not she attended the summit.",
+            "I asked her why she not attended the summit."
           ],
-          "a": 2,
-          "e": "Kein Hilfsverb \"does\" in indirekten Fragen; Aussagesatz-Wortstellung + Rückverschiebung: \"why he always arrived late\".",
+          "a": 1,
+          "e": "Kein Hilfsverb in eingebetteten Fragen; Aussagesatz-Wortstellung: \"why she didn't attend\".",
           "cat": "Orthografie & Grammatik"
         },
         {
@@ -4151,15 +4151,15 @@
           "cat": "Orthografie & Grammatik"
         },
         {
-          "q": "Identify the correct version of: „They asked us how much did it cost.“",
+          "q": "Identify the correct version of: „Neither of the proposals were approved by the committee.“",
           "o": [
-            "They asked us how much it costs.",
-            "They asked us how much it had cost.",
-            "They asked us how much did it cost.",
-            "They asked us how much it cost did."
+            "Neither of the proposals was approved by the committee.",
+            "Neither of the proposals didn't get approved by the committee.",
+            "Neither of the proposals haven't been approved by the committee.",
+            "Neither of the proposals are approved by the committee."
           ],
-          "a": 1,
-          "e": "Indirekte Frage: Aussagesatz-Wortstellung, Rückverschiebung ins Past Perfect möglich: \"how much it had cost\".",
+          "a": 0,
+          "e": "\"Neither\" ist grammatisch Singular und verlangt \"was\", nicht \"were\".",
           "cat": "Orthografie & Grammatik"
         },
         {
@@ -4397,15 +4397,15 @@
           "cat": "Orthografie & Grammatik"
         },
         {
-          "q": "Identify the correct version of: „She asked us where were we going to stay.“",
+          "q": "Identify the correct version of: „The delegation, along with their advisors, were seated at the front.“",
           "o": [
-            "She asked us where we are going to stay.",
-            "She asked us where we will going to stay.",
-            "She asked us where were we going to stay.",
-            "She asked us where we were going to stay."
+            "The delegation, along with their advisors, was seated at the front.",
+            "The delegation, along with their advisors, are seated at the front.",
+            "The delegation, along with their advisors, have been seated at the front.",
+            "The delegation, along with their advisors, being seated at the front."
           ],
-          "a": 3,
-          "e": "Indirekte Frage: Aussagesatz-Wortstellung ohne Inversion: \"where we were going\".",
+          "a": 0,
+          "e": "\"along with ...\" ändert die Zahl des Subjekts nicht: \"the delegation ... was\", nicht \"were\".",
           "cat": "Orthografie & Grammatik"
         },
         {
@@ -6317,15 +6317,15 @@
           "cat": "Verben"
         },
         {
-          "q": "Reporters were ____ (bar/deny/suggest) from entering the building during the closed-door session.",
+          "q": "Observers were ____ (exclude/deny/suggest) from the negotiating room during the final session.",
           "o": [
-            "spoken",
-            "barred",
             "informed",
+            "suggested",
+            "excluded",
             "withdrawn"
           ],
-          "a": 1,
-          "e": "Passiv Vergangenheit: „were barred from doing something“ = wurde der Zutritt verwehrt.",
+          "a": 2,
+          "e": "Passiv Vergangenheit: „were excluded from“ = wurde ausgeschlossen von.",
           "cat": "Verben"
         },
         {
@@ -6551,15 +6551,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The journalist was praised for ____ (expose/deny/suggest) the scandal after months of investigation.",
+          "q": "The whistleblower was commended for ____ (reveal/deny/suggest) the fraud after years of silence.",
           "o": [
-            "exposing",
-            "showing",
-            "dragging",
-            "helping"
+            "revealing",
+            "suggesting",
+            "denying",
+            "holding"
           ],
           "a": 0,
-          "e": "Gerundium nach „praised for“: „for exposing“.",
+          "e": "Gerundium nach „commended for“: „for revealing“.",
           "cat": "Verben"
         },
         {
@@ -8603,15 +8603,15 @@
           "cat": "Orthografie & Grammatik"
         },
         {
-          "q": "Identify the correct version of: „Her second proposal was more smarter than the first.“",
+          "q": "Identify the correct version of: „This year's turnout was more low than last year's.“",
           "o": [
-            "Her second proposal was smarter than the first.",
-            "Her second proposal was most smarter than the first.",
-            "Her second proposal was smartest than the first.",
-            "Her second proposal was more smart than the first."
+            "This year's turnout was lower than last year's.",
+            "This year's turnout was more lower than last year's.",
+            "This year's turnout was lowest than last year's.",
+            "This year's turnout was as low than last year's."
           ],
           "a": 0,
-          "e": "Kein doppeltes Komparativ: \"smarter\", nicht \"more smarter\".",
+          "e": "Kein \"more\" vor bereits komparativischem \"lower\".",
           "cat": "Orthografie & Grammatik"
         }
       ]
@@ -8693,15 +8693,15 @@
           "src": "Adapted from corporate training material (CultTec-style)"
         },
         {
-          "q": "The scheme has come in for ____ criticism from environmental groups.",
+          "q": "The scheme has come in for ____ scrutiny from oversight bodies.",
           "o": [
             "reluctant",
             "optimistic",
-            "heavy",
+            "intense",
             "late"
           ],
           "a": 2,
-          "e": "„heavy criticism“ = massive/scharfe Kritik.",
+          "e": "„intense scrutiny“ = intensive Prüfung/Kontrolle.",
           "cat": "Vokabeltest"
         },
         {
@@ -9047,15 +9047,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The policy was quietly ____ (reverse/deny/suggest) after mounting public pressure.",
+          "q": "The directive was quietly ____ (soften/deny/suggest) after industry pushback.",
           "o": [
             "avoided",
-            "reversed",
+            "softened",
             "reiterated",
             "excluded"
           ],
           "a": 1,
-          "e": "Passiv Vergangenheit: „was reversed“ = wurde rückgängig gemacht.",
+          "e": "Passiv Vergangenheit: „was softened“ = wurde abgeschwächt.",
           "cat": "Verben"
         },
         {
@@ -9257,15 +9257,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The two sides remain deeply ____ (divide/deny/suggest) on almost every point of the agreement.",
+          "q": "The panel remains sharply ____ (split/deny/suggest) over the proposed reform.",
           "o": [
             "collapsed",
             "suggested",
-            "divided",
+            "split",
             "secured"
           ],
           "a": 2,
-          "e": "Partizip als Adjektiv: „remain divided“ = bleiben gespalten.",
+          "e": "Partizip als Adjektiv: „remain split“ = bleiben gespalten.",
           "cat": "Verben"
         },
         {
@@ -9491,27 +9491,27 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The two parties have agreed to ____ (resume/deny/suggest) the talks at a later date.",
+          "q": "The two committees have agreed to ____ (merge/deny/suggest) their functions next quarter.",
           "o": [
-            "resume",
+            "merge",
             "write",
             "lower",
             "rebuild"
           ],
           "a": 0,
-          "e": "Infinitiv nach „agree to“: „to resume talks“.",
+          "e": "Infinitiv nach „agree to“: „to merge“.",
           "cat": "Verben"
         },
         {
-          "q": "The country's central bank has ____ (raise/deny/suggest) interest rates for the third time this year.",
+          "q": "The finance ministry has ____ (cut/deny/suggest) subsidies for the third year running.",
           "o": [
-            "raised",
+            "cut",
             "put",
             "played",
             "released"
           ],
           "a": 0,
-          "e": "Present Perfect: „has raised interest rates“.",
+          "e": "Present Perfect: „has cut subsidies“.",
           "cat": "Verben"
         },
         {
@@ -9539,15 +9539,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The new evidence has ____ (cast/deny/suggest) the case in an entirely different light.",
+          "q": "The revelation has ____ (throw/deny/suggest) fresh doubt on the official account.",
           "o": [
-            "cast",
+            "thrown",
             "poised",
             "recalled",
             "warned"
           ],
           "a": 0,
-          "e": "Present Perfect: „has cast something in a different light“.",
+          "e": "Present Perfect: „has thrown doubt on“.",
           "cat": "Verben"
         },
         {
@@ -9563,15 +9563,15 @@
           "cat": "Orthografie & Grammatik"
         },
         {
-          "q": "Identify the correct version of: „I'm not sure how much does this cost.“",
+          "q": "Identify the correct version of: „Each of the delegates have submitted their credentials.“",
           "o": [
-            "I'm not sure how much this costs.",
-            "I'm not sure how much does this costs.",
-            "I'm not sure how much cost this.",
-            "I'm not sure how much this cost."
+            "Each of the delegates has submitted their credentials.",
+            "Each of the delegates have submit their credentials.",
+            "Each of the delegates submitting their credentials.",
+            "Each of the delegates having submitted their credentials."
           ],
           "a": 0,
-          "e": "Eingebettete Frage ohne \"does\": \"how much this costs\".",
+          "e": "\"Each\" ist Singular und verlangt \"has\", nicht \"have\".",
           "cat": "Orthografie & Grammatik"
         },
         {
@@ -9737,15 +9737,15 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The country has come under growing pressure to ____ (reform/deny/suggest) its labour laws.",
+          "q": "The country has come under growing scrutiny to ____ (justify/deny/suggest) its spending decisions.",
           "o": [
             "reach",
-            "reform",
+            "justify",
             "team",
             "compromise"
           ],
           "a": 1,
-          "e": "Infinitiv nach „pressure to“: „to reform“.",
+          "e": "Infinitiv nach „scrutiny to“: „to justify“.",
           "cat": "Verben"
         },
         {
@@ -9761,15 +9761,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The company's decision to relocate has ____ (raise/deny/suggest) concern among local employees.",
+          "q": "The proposed merger has ____ (stir/deny/suggest) unease among smaller competitors.",
           "o": [
             "insisted",
             "denied",
-            "raised",
+            "stirred",
             "confirmed"
           ],
           "a": 2,
-          "e": "Present Perfect: „has raised concern“.",
+          "e": "Present Perfect: „has stirred unease“.",
           "cat": "Verben"
         },
         {
@@ -10019,15 +10019,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The two states have agreed to ____ (resolve/deny/suggest) the dispute through international arbitration.",
+          "q": "The two firms have agreed to ____ (settle/deny/suggest) the dispute out of court.",
           "o": [
-            "resolve",
+            "settle",
             "team",
             "vote",
             "step"
           ],
           "a": 0,
-          "e": "Infinitiv nach „agree to“: „to resolve the dispute“.",
+          "e": "Infinitiv nach „agree to“: „to settle out of court“.",
           "cat": "Verben"
         },
         {
@@ -10661,15 +10661,15 @@
           "src": "Adapted from corporate training material (CultTec-style)"
         },
         {
-          "q": "The ministry has ____ plans to overhaul the curriculum by next year.",
+          "q": "The agency has ____ plans to tighten oversight of the sector by next year.",
           "o": [
             "strained",
-            "unveiled",
+            "announced",
             "handed",
             "accused"
           ],
           "a": 1,
-          "e": "„to unveil plans“ = Pläne vorstellen/enthüllen.",
+          "e": "„to announce plans“ = Pläne ankündigen.",
           "cat": "Vokabeltest"
         },
         {
@@ -11225,15 +11225,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The firm's expansion plans were ____ (scale/deny/suggest) back after the economic outlook worsened.",
+          "q": "The ministry's spending plans were ____ (trim/deny/suggest) after the budget shortfall.",
           "o": [
             "exposed",
             "held",
-            "scaled",
+            "trimmed",
             "found"
           ],
           "a": 2,
-          "e": "Passiv Vergangenheit: „were scaled back“ = wurden zurückgefahren.",
+          "e": "Passiv Vergangenheit: „were trimmed“ = wurden gekürzt.",
           "cat": "Verben"
         },
         {
@@ -11261,15 +11261,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The scandal threatens to ____ (spill/deny/suggest) over into other parts of the administration.",
+          "q": "The controversy threatens to ____ (spread/deny/suggest) into neighbouring departments.",
           "o": [
-            "spill",
+            "spread",
             "reform",
             "reach",
             "argue"
           ],
           "a": 0,
-          "e": "Infinitiv nach „threatens to“: „to spill over“.",
+          "e": "Infinitiv nach „threatens to“: „to spread into“.",
           "cat": "Verben"
         },
         {
@@ -11459,15 +11459,15 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The two companies decided to ____ (team/deny/suggest) up on the new research project.",
+          "q": "The two agencies decided to ____ (join/deny/suggest) forces on the pilot programme.",
           "o": [
             "resume",
             "revoke",
-            "team",
+            "join",
             "reach"
           ],
           "a": 2,
-          "e": "Infinitiv nach „decided to“: „to team up“.",
+          "e": "Infinitiv nach „decided to“: „to join forces“.",
           "cat": "Verben"
         },
         {
@@ -11483,27 +11483,27 @@
           "cat": "Verben"
         },
         {
-          "q": "The company plans to ____ (roll/deny/suggest) out the new system across all its branches.",
+          "q": "The ministry intends to ____ (phase/deny/suggest) out the subsidy over the next five years.",
           "o": [
-            "talk",
-            "rebuild",
-            "resolve",
-            "roll"
+            "deny",
+            "suggest",
+            "reach",
+            "phase"
           ],
           "a": 3,
-          "e": "Infinitiv nach „plans to“: „to roll out“.",
+          "e": "Infinitiv nach „intends to“: „to phase out“.",
           "cat": "Verben"
         },
         {
-          "q": "The board decided to ____ (carry/deny/suggest) on with the plan despite the objections.",
+          "q": "The delegation agreed to ____ (follow/deny/suggest) up with a written proposal after the meeting.",
           "o": [
-            "warn",
             "reach",
-            "carry",
+            "follow",
+            "warn",
             "resume"
           ],
-          "a": 2,
-          "e": "Infinitiv nach „decided to“: „to carry on“.",
+          "a": 1,
+          "e": "Infinitiv nach „agreed to“: „to follow up“.",
           "cat": "Verben"
         },
         {
@@ -11519,15 +11519,15 @@
           "cat": "Verben"
         },
         {
-          "q": "Identify the correct version of: „He could to finish the report by tonight.“",
+          "q": "Identify the correct version of: „She must to submit the report by Friday.“",
           "o": [
-            "He could to finishes the report by tonight.",
-            "He could to finishing the report by tonight.",
-            "He could finish the report by tonight.",
-            "He could finished the report by tonight."
+            "She must to submits the report by Friday.",
+            "She must to submitting the report by Friday.",
+            "She must submit the report by Friday.",
+            "She must submitted the report by Friday."
           ],
           "a": 2,
-          "e": "Nach Modalverben folgt der bloße Infinitiv: \"could finish\".",
+          "e": "Nach Modalverben folgt der bloße Infinitiv: \"must submit\".",
           "cat": "Orthografie & Grammatik"
         },
         {
@@ -11657,15 +11657,15 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The firm has ____ its workforce by a third since the restructuring began.",
+          "q": "The agency has ____ its budget by a fifth since the reorganisation began.",
           "o": [
             "sentenced",
             "pressured",
-            "reduced",
+            "trimmed",
             "reported"
           ],
           "a": 2,
-          "e": "„to reduce the workforce“ = die Belegschaft reduzieren.",
+          "e": "„to trim the budget“ = das Budget kürzen.",
           "cat": "Vokabeltest"
         },
         {
@@ -11681,7 +11681,7 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The firm was ____ into signing the contract under considerable time pressure.",
+          "q": "The company was ____ into revising its safety protocol after the inspection.",
           "o": [
             "attracted",
             "increased",
@@ -11717,27 +11717,27 @@
           "cat": "Verben"
         },
         {
-          "q": "The team had to ____ (come/deny/suggest) up with a new strategy overnight.",
+          "q": "The panel had to ____ (settle/deny/suggest) on a final recommendation before the deadline.",
           "o": [
-            "come",
+            "settle",
             "replied",
             "bridged",
             "prompted"
           ],
           "a": 0,
-          "e": "Infinitiv nach „had to“: „to come up with“.",
+          "e": "Infinitiv nach „had to“: „to settle on“.",
           "cat": "Verben"
         },
         {
-          "q": "The company had to ____ (write/deny/suggest) off the losses from the failed venture.",
+          "q": "The ministry had to ____ (account/deny/suggest) for the missing funds during the audit.",
           "o": [
             "revoke",
-            "write",
+            "account",
             "lower",
             "step"
           ],
           "a": 1,
-          "e": "Infinitiv nach „had to“: „to write off“.",
+          "e": "Infinitiv nach „had to“: „to account for“.",
           "cat": "Verben"
         },
         {
@@ -11891,27 +11891,27 @@
           "src": "Adapted from corporate training material (CultTec-style)"
         },
         {
-          "q": "The firm's new product line has ____ considerable interest from investors.",
+          "q": "The country's new export line has ____ considerable interest from foreign buyers.",
           "o": [
             "picked",
             "strained",
-            "attracted",
+            "drawn",
             "sentenced"
           ],
           "a": 2,
-          "e": "„to attract interest“ = Interesse wecken/anziehen.",
+          "e": "„to draw interest“ = Interesse wecken/anziehen.",
           "cat": "Vokabeltest"
         },
         {
-          "q": "The company has ____ its earlier forecast in light of weaker demand.",
+          "q": "The bank has ____ its earlier growth projection amid weaker demand.",
           "o": [
             "caught",
-            "lowered",
+            "revised",
             "voted",
             "paid"
           ],
           "a": 1,
-          "e": "„to lower a forecast“ = eine Prognose senken.",
+          "e": "„to revise a projection“ = eine Prognose überarbeiten.",
           "cat": "Vokabeltest"
         },
         {
@@ -11963,15 +11963,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The country's leadership has ____ (show/deny/suggest) little willingness to compromise on the issue.",
+          "q": "The board has ____ (express/deny/suggest) reluctance to endorse the merger.",
           "o": [
-            "shown",
+            "expressed",
             "sentenced",
             "criticised",
             "unveiled"
           ],
           "a": 0,
-          "e": "Present Perfect: „has shown little willingness“ = hat wenig Bereitschaft gezeigt.",
+          "e": "Present Perfect: „has expressed reluctance“ = hat Zurückhaltung geäußert.",
           "cat": "Verben"
         },
         {
@@ -11999,15 +11999,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The report warns that the current approach is simply not ____ (sustain/deny/suggest) in the long run.",
+          "q": "The panel warns that the pilot scheme is simply not ____ (scale/deny/suggest) beyond the trial region.",
           "o": [
             "reversible",
             "questionable",
-            "sustainable",
+            "scalable",
             "negotiable"
           ],
           "a": 2,
-          "e": "Adjektivform von „sustain“: „sustainable“ = nachhaltig.",
+          "e": "Adjektivform von „scale“: „scalable“ = skalierbar/übertragbar.",
           "cat": "Verben"
         },
         {
@@ -12137,15 +12137,15 @@
           "src": "Adapted from corporate training material (CultTec-style)"
         },
         {
-          "q": "The regulator has the power to ____ a company's licence in serious cases.",
+          "q": "The commission has the authority to ____ a member's voting rights in serious breaches.",
           "o": [
             "lower",
             "forge",
             "vote",
-            "revoke"
+            "suspend"
           ],
           "a": 3,
-          "e": "„to revoke a licence“ = eine Lizenz entziehen.",
+          "e": "„to suspend voting rights“ = Stimmrechte aussetzen.",
           "cat": "Vokabeltest"
         },
         {
@@ -12173,15 +12173,15 @@
           "cat": "Vokabeltest"
         },
         {
-          "q": "The case was eventually ____ after both parties reached a private settlement.",
+          "q": "The inquiry was eventually ____ after both sides reached a private settlement.",
           "o": [
-            "withdrawn",
+            "closed",
             "welcomed",
             "condemned",
             "sparked"
           ],
           "a": 0,
-          "e": "„to withdraw a case“ = einen Fall zurückziehen.",
+          "e": "„to close an inquiry“ = eine Untersuchung einstellen.",
           "cat": "Vokabeltest"
         },
         {
@@ -12245,15 +12245,15 @@
           "cat": "Verben"
         },
         {
-          "q": "The two countries have agreed to ____ (lower/deny/suggest) trade barriers as part of the new pact.",
+          "q": "The two blocs have agreed to ____ (ease/deny/suggest) restrictions as part of the new pact.",
           "o": [
             "vote",
-            "lower",
+            "ease",
             "talk",
             "lose"
           ],
           "a": 1,
-          "e": "Infinitiv nach „agreed to“: „to lower barriers“.",
+          "e": "Infinitiv nach „agreed to“: „to ease restrictions“.",
           "cat": "Verben"
         },
         {
@@ -12306,5 +12306,6 @@
         }
       ]
     }
-  }
+  },
+  "count": 20
 }

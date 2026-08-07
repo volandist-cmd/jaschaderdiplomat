@@ -136,7 +136,7 @@ export const MODULE_META: ModuleMeta[] = [
 // Everything else with a `sets` map is a large non-repeating run pool with no
 // set picker (random draw per start), like the original's per-module Home
 // renderers (renderDGPHome, renderAWHome, …).
-export const NAMED_SET_MODULES = ['recht', 'geschichte', 'wirtschaft', 'englisch', 'russisch'] as const
+export const NAMED_SET_MODULES = ['recht', 'geschichte', 'wirtschaft', 'russisch'] as const
 
 // Cognitive-style modules (DGP + Allgemeinwissen): in Prüfungsmodus the timer
 // runs invisibly in the background instead of a visible countdown.

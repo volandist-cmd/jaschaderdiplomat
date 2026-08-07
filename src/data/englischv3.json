@@ -1,10 +1,10 @@
 {
   "short": "Englisch v3",
   "title": "Sprachtest Englisch v3",
-  "desc": "Grammatik und Wortschatz auf C1+/C2-Niveau in 14 Modulen (Präpositionen, Kollokationen, Phrasal Verbs, Zeiten, Modalverben, Artikel &amp; Determiner, Konditionalsätze, Gerundium/Infinitiv, Relativsätze, Passiv, Register &amp; Near-Synonyms, Inversion, Konjunktiv, gemischte Grammatik) – 20 Aufgaben je Testlauf, 30 Minuten. 50 eigenständige Testläufe (1.000 Aufgaben insgesamt); jeder Testlauf deckt alle 14 Module ab, Schwierigkeit steigt von Aufgabe 1 bis 20 an.",
+  "desc": "Grammatik und Wortschatz auf C1+/C2-Niveau in 14 Modulen (Präpositionen, Kollokationen, Phrasal Verbs, Zeiten, Modalverben, Artikel & Determiner, Konditionalsätze, Gerundium/Infinitiv, Relativsätze, Passiv, Register & Near-Synonyms, Inversion, Konjunktiv, gemischte Grammatik) – 20 Aufgaben je Testlauf, 30 Minuten. 50 eigenständige Testläufe (1.000 Aufgaben insgesamt); jeder Testlauf deckt alle 14 Module ab, Schwierigkeit steigt von Aufgabe 1 bis 20 an.",
   "durationMin": 30,
   "icon": "globe",
-  "intro": "Ein-Satz-Lückentexte im diplomatischen Register (UN, EU, NATO, bilaterale Verhandlungen, Sanktionen, Verträge) aus 14 Grammatik-/Wortschatzmodulen: Artikel &amp; Determiner, Modalverben, Zeiten, Präpositionen, Passiv, Gerundium/Infinitiv, Relativsätze, Kollokationen, Phrasal Verbs, Konditionalsätze, Register &amp; Near-Synonyms, Inversion, Konjunktiv (Subjunctive) und gemischte Grammatik. Jeder Testlauf enthält alle 14 Module mindestens einmal, mit aufsteigendem Schwierigkeitsgrad von Aufgabe 1 (leicht) bis Aufgabe 20 (AA-Niveau).",
+  "intro": "Ein-Satz-Lückentexte im diplomatischen Register (UN, EU, NATO, bilaterale Verhandlungen, Sanktionen, Verträge) aus 14 Grammatik-/Wortschatzmodulen: Artikel & Determiner, Modalverben, Zeiten, Präpositionen, Passiv, Gerundium/Infinitiv, Relativsätze, Kollokationen, Phrasal Verbs, Konditionalsätze, Register & Near-Synonyms, Inversion, Konjunktiv (Subjunctive) und gemischte Grammatik. Jeder Testlauf enthält alle 14 Module mindestens einmal, mit aufsteigendem Schwierigkeitsgrad von Aufgabe 1 (leicht) bis Aufgabe 20 (AA-Niveau).",
   "sets": {
     "run1": {
       "label": "Testlauf 1 – 20 Aufgaben · 30 Min",
@@ -12256,5 +12256,6 @@
         }
       ]
     }
-  }
+  },
+  "count": 20
 }

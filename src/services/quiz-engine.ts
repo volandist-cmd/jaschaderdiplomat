@@ -37,13 +37,19 @@ function maybeShuffle(items: QuizItem[]): QuizItem[] {
   return hasPassage ? mapped : shuffleArray(mapped)
 }
 
-/** Non-repeating random set picker — mirrors the original's pickAWSet() shuffled queue. */
+/**
+ * Non-repeating random set picker — mirrors the original's pickAWSet() shuffled queue.
+ * `muster` (the reserved official-sample set, e.g. Englisch v1) is never drawn into the
+ * random rotation — it stays accessible only through its own dedicated start action.
+ */
 export function pickRunSetId(moduleId: string, setKeys: string[]): string {
   const appStore = useAppStore()
+  const pool = setKeys.filter((k) => k !== 'muster')
+  const candidates = pool.length ? pool : setKeys
   const queueKey = `_runQueue_${moduleId}`
   let queue: string[] = appStore.state[queueKey]
   if (!Array.isArray(queue) || queue.length === 0) {
-    queue = shuffleArray(setKeys)
+    queue = shuffleArray(candidates)
   }
   const next = queue.shift() as string
   appStore.state[queueKey] = queue
