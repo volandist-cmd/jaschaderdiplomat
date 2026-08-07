@@ -1389,7 +1389,7 @@
           "lvl": "C2",
           "q": "She will never forget ____ the ceasefire announced.",
           "o": [
-            "having hear",
+            "having heard",
             "hear",
             "to hear",
             "hearing"
@@ -1946,10 +1946,10 @@
             "ascending",
             "mounting",
             "scaling",
-            "climbing"
+            "intensifying"
           ],
           "a": 1,
-          "e": "„mounting opposition/pressure“ — metaphorische Kollokation."
+          "e": "„mounting opposition“ — feste metaphorische Kollokation; „ascending/scaling“ passen nicht zu abstraktem Widerstand, „intensifying“ ist inhaltlich nah, aber keine etablierte Festkollokation mit „opposition“ wie „mounting“."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -5101,7 +5101,7 @@
             "growing"
           ],
           "a": 3,
-          "e": "„growing louder“ — feste Kollokation; „rising“ passt zu Zahlen, nicht zu Lautstärke im Idiom."
+          "e": "„growing louder“ — feste Kollokation für zunehmende Lautstärke/Intensität; „raising“ ist transitiv und verlangt ein Objekt, funktioniert hier allein nicht."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -5673,15 +5673,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "The commitment takes effect ____ 2030.",
+          "q": "The commitment takes effect ____ 2030, superseding all prior arrangements.",
           "o": [
             "by",
             "as of",
-            "from",
+            "at",
             "since"
           ],
           "a": 1,
-          "e": "„as of 2030“ = mit Wirkung ab; „since“ verlangte Vergangenheitsbezug."
+          "e": "„as of 2030“ = mit Wirkung ab 2030; „by“ würde einen Termin VOR dem alle Vereinbarungen abgelöst werden implizieren, nicht den Startpunkt, „since“ verlangt Vergangenheitsbezug, „at“ ist mit Jahreszahlen nicht idiomatisch."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -6819,8 +6819,8 @@
             "Should",
             "Were"
           ],
-          "a": 2,
-          "e": "„Should… to walk out“; nach „Should“ folgt der bloße Infinitiv ohne „to“ — hier ausnahmsweise mit „to walk out“ als Konstruktionsmuster wie „Were… to“."
+          "a": 3,
+          "e": "Konditional-Inversion: „Were the delegation to walk out …“ = „If the delegation were to walk out …“. „Should“ verlangt den bloßen Infinitiv ohne „to“ und passt hier nicht."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -6851,7 +6851,7 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Under no circumstances ____ the tribunal disclose the identity of a protected witness.",
+          "q": "Under no circumstances ____ disclose the identity of a protected witness.",
           "o": [
             "would the tribunal",
             "the tribunal will",
@@ -6859,7 +6859,7 @@
             "will the tribunal"
           ],
           "a": 3,
-          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“."
+          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: Hilfsverb vor Subjekt („will the tribunal“)."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -8429,13 +8429,13 @@
           "lvl": "C2",
           "q": "Under no circumstances ____ the tribunal disclose confidential submissions to third parties.",
           "o": [
-            "the tribunal would",
-            "would the tribunal",
-            "the tribunal will",
-            "will"
+            "should",
+            "would",
+            "will",
+            "did"
           ],
-          "a": 3,
-          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: Hilfsverb vor Subjekt."
+          "a": 2,
+          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: bloßes Hilfsverb vor Subjekt, kein wiederholtes Subjekt in der Option."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -8468,9 +8468,9 @@
           "lvl": "C2",
           "q": "The registry ____ have misplaced the submission; it is nowhere in the file.",
           "o": [
-            "mustn't",
-            "wouldn't",
-            "needn't",
+            "must not",
+            "would not",
+            "need not",
             "must"
           ],
           "a": 3,
@@ -8481,10 +8481,10 @@
           "lvl": "C2",
           "q": "The arbitrators ____ have anticipated the backlash; their decision addresses it directly in the reasoning.",
           "o": [
-            "mustn't",
-            "needn't",
+            "must not",
+            "need not",
             "must",
-            "can't"
+            "cannot"
           ],
           "a": 2,
           "e": "„must have anticipated“ = logische Gewissheit im Rückblick, gestützt durch den nachfolgenden Beleg."
@@ -9033,15 +9033,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "____ of the doctrine's retreat regard it as a capitulation to political pressure.",
+          "q": "____ of the restrictive-immunity doctrine argue it leaves too many state commercial actors exposed.",
           "o": [
             "Proponent's",
-            "Defenders'",
+            "Critics",
             "Supporters'",
             "Advocates"
           ],
-          "a": 3,
-          "e": "„advocates of X“ ist die im Text verwendete grammatisch korrekte Kollokation; die übrigen Optionen sind fehlerhaft dekliniert."
+          "a": 1,
+          "e": "„critics of X argue“ ist die grammatisch korrekte Kollokation (Plural, kein Apostroph als Subjekt); die übrigen Optionen sind fehlerhaft dekliniert oder passen inhaltlich nicht zur kritischen Position."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -9124,340 +9124,340 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The prosecutor demanded that the witness ____ before the tribunal in person.",
+          "q": "The prosecutor moved that the hearing ____ postponed until protective measures for the witness were in place.",
           "o": [
-            "would appear",
-            "appeared",
-            "appears",
-            "appear"
-          ],
-          "a": 3,
-          "e": "Mandativer Subjunktiv nach „demand that“ — Grundform ohne -s."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "It is vital that the evidence ____ preserved before the witness leaves the country.",
-          "o": [
-            "were",
+            "is",
             "was",
             "be",
-            "is"
+            "were"
           ],
           "a": 2,
-          "e": "Mandativer Subjunktiv nach „it is vital that“ — bloße Grundform „be“."
+          "e": "Mandative Subjunktiv nach „moved that“: bloße Verbform „be“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Had the court secured cooperation earlier, the evidence ____ before the witness disappeared.",
+          "q": "It is imperative that the witness's identity ____ concealed throughout the proceedings.",
           "o": [
-            "would be gathered",
-            "will have been gathered",
-            "would have been gathered",
-            "had been gathered"
+            "is",
+            "was",
+            "remain",
+            "remained"
           ],
           "a": 2,
-          "e": "Typ-3-Konditionalsatz: irreale Vergangenheitsbedingung, Folge ebenfalls in der Vergangenheit."
+          "e": "Subjunktiv nach „It is imperative that“: bloße Verbform „remain“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "If the warrant ____ issued a decade ago, the suspect would still be a fugitive today.",
+          "q": "Had protective measures been granted sooner, the witness ____ to testify at all.",
           "o": [
+            "might never have agreed",
+            "might never agree",
+            "will never agree",
+            "had never agreed"
+          ],
+          "a": 0,
+          "e": "Type-3-Konditional: Past Perfect im if-Teil, „might have + Partizip“ im Hauptsatz."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "If the indictment ____ sealed at the time of his arrest, the suspect would already be in custody.",
+          "o": [
+            "was",
             "were",
-            "had been",
             "has been",
-            "was"
+            "had been"
           ],
-          "a": 1,
-          "e": "Gemischter Konditionalsatz: Bedingung in der Vergangenheit, Folge in der Gegenwart („today“)."
+          "a": 3,
+          "e": "Mixed Conditional: vergangene Ursache (had been sealed), gegenwärtige Folge."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ the accused to be found within the forum state, the prosecution could finally proceed.",
+          "q": "____ the defendant to plead guilty at this stage, the trial would be considerably shortened.",
           "o": [
-            "Were",
-            "Was",
             "If",
+            "Was",
+            "Were",
             "Should"
           ],
-          "a": 0,
-          "e": "„Were … to be found“ = hypothetische, konditionale Inversion mit „to“-Infinitiv."
+          "a": 2,
+          "e": "Konditional-Inversion: „Were the defendant to plead…“ = „If the defendant were to plead…“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ the witness refuse to testify by video link, the case would rest largely on documentary evidence.",
+          "q": "____ new witnesses come forward, the prosecution reserves the right to reopen its case.",
           "o": [
-            "Should",
             "Were",
+            "If",
             "Was",
-            "If"
-          ],
-          "a": 0,
-          "e": "„Should“ + Infinitiv ohne „to“ leitet einen hypothetischen Bedingungssatz mit geringerer Wahrscheinlichkeit ein."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "Little ____ that the indictment would trigger the recall of an ambassador.",
-          "o": [
-            "the ministry did suspect",
-            "did the ministry suspect",
-            "the ministry suspected",
-            "suspected the ministry"
-          ],
-          "a": 1,
-          "e": "Negative Inversion nach vorangestelltem „Little“: Hilfsverb vor Subjekt."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "Under no circumstances ____ the court proceed without confirming the accused's presence in its territory.",
-          "o": [
-            "the court would",
-            "the court will",
-            "would the court",
-            "will"
+            "Should"
           ],
           "a": 3,
-          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: Hilfsverb vor Subjekt."
+          "e": "Inversion mit „Should“ für einen als eher unwahrscheinlich dargestellten Fall."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "He told investigators that he ____ never witnessed the massacre described in the indictment.",
+          "q": "Little ____ that the testimony would implicate officers well above the rank initially suspected.",
           "o": [
-            "had",
+            "investigators suspected",
+            "did investigators suspect",
+            "suspected investigators",
+            "investigators did suspect"
+          ],
+          "a": 1,
+          "e": "Negative Inversion nach vorangestelltem „Little“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "At no point ____ authorised to share the witness's location with the defence team.",
+          "o": [
+            "was the registry",
+            "the registry was",
+            "did the registry",
+            "the registry did"
+          ],
+          "a": 0,
+          "e": "Negative Inversion nach vorangestelltem „At no point“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "The investigator told the tribunal that he ____ personally verified the chain of custody.",
+          "o": [
             "would",
+            "did",
             "has",
-            "did"
-          ],
-          "a": 0,
-          "e": "Past Perfect nach Backshift in der indirekten Rede (Vorzeitigkeit zum Berichtszeitpunkt)."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "The registrar announced that the hearing ____ resume the following week, not that week.",
-          "o": [
-            "shall",
-            "would",
-            "will",
-            "must"
-          ],
-          "a": 1,
-          "e": "Backshift von „will“ zu „would“ in der indirekten Rede; „the following week“ statt „next week“ (Deixisverschiebung)."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "The clerk ____ have misfiled the deposition; it cannot be located anywhere.",
-          "o": [
-            "wouldn't",
-            "mustn't",
-            "needn't",
-            "must"
+            "had"
           ],
           "a": 3,
-          "e": "„must have“ = logische Gewissheit im Rückblick."
+          "e": "Backshift in indirekter Rede: Present Perfect → Past Perfect."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The commander ____ have known of the massacre, given the volume of intercepted radio traffic.",
+          "q": "The registrar confirmed that judgment ____ be delivered the following Thursday, not that Thursday.",
+          "o": [
+            "will",
+            "must",
+            "shall",
+            "would"
+          ],
+          "a": 3,
+          "e": "Backshift: „will“ → „would“ in indirekter Rede."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "The clerk ____ have misfiled the deposition; a duplicate has just turned up in another case file.",
           "o": [
             "must",
-            "can't",
-            "needn't",
-            "mustn't"
+            "cannot",
+            "need not",
+            "must not"
           ],
-          "a": 0,
-          "e": "„must have known“ = logische Gewissheit im Rückblick, gestützt durch den nachfolgenden Beleg."
+          "a": 1,
+          "e": "„cannot have misfiled“ = logischer Ausschluss im Rückblick, gestützt durch den nachfolgenden Beleg."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ struck observers most was the retreat from the doctrine's most expansive form.",
+          "q": "Given how thin the evidence was, the panel ____ have reached a different verdict with a single additional witness.",
+          "o": [
+            "cannot",
+            "mustn't",
+            "might well",
+            "needn't"
+          ],
+          "a": 2,
+          "e": "„might well have“ = plausible Möglichkeit im Rückblick."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "____ struck the panel most forcefully was the sheer consistency of six independent witness accounts.",
           "o": [
             "Which",
-            "It",
             "That",
+            "It",
             "What"
           ],
           "a": 3,
-          "e": "Pseudo-Cleft-Satz: „What … was …“."
+          "e": "Pseudo-Cleft: „What … was …“ hebt den entscheidenden Punkt hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "It was the absence of a jurisdictional link, not the absence of evidence, ____ doomed the case.",
+          "q": "It was the absence of forensic corroboration, not any doubt about credibility, ____ ultimately delayed the verdict.",
           "o": [
+            "who",
             "what",
-            "which",
             "that",
-            "who"
+            "which"
           ],
           "a": 2,
-          "e": "Es-Spaltsatz („It was … that …“) zur Hervorhebung."
+          "e": "It-Cleft mit „that“ nach einem Sachverhalt (nicht Person)."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The longer the suspect evaded arrest, ____ the prospects of a fair trial became.",
+          "q": "The longer the trial dragged on, ____ it became to keep witnesses willing to testify.",
           "o": [
-            "more slim",
-            "slimmer",
-            "the slimmest",
-            "the slimmer"
+            "harder",
+            "the hardest",
+            "more hard",
+            "the harder"
           ],
           "a": 3,
-          "e": "Korrelative Struktur „the … the …“; der zweite bestimmte Artikel ist obligatorisch."
+          "e": "Korrelativer Komparativ „the … the …“ verlangt zwei Artikel."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The more states narrow the doctrine, ____ the deterrent effect of universal jurisdiction becomes.",
+          "q": "The more witnesses recanted under pressure, ____ the prosecution's case became.",
           "o": [
-            "more weak",
+            "the weakest",
             "weaker",
-            "the weaker",
-            "the weakest"
+            "more weak",
+            "the weaker"
           ],
-          "a": 2,
-          "e": "Korrelative Struktur „the … the …“ mit Komparativ im zweiten Satzglied."
+          "a": 3,
+          "e": "Korrelativer Komparativ „the … the …“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "No sooner had the indictment been unsealed ____ the accused's government recalled its ambassador.",
+          "q": "No sooner had the verdict been announced ____ the defence filed notice of appeal.",
           "o": [
+            "when",
             "that",
             "then",
-            "than",
-            "when"
+            "than"
           ],
-          "a": 2,
-          "e": "Feste Korrelation „no sooner … than“; „then“ ist Adverb, kein Konnektor."
+          "a": 3,
+          "e": "„No sooner … than …“ — feste Konstruktion nach vorangestelltem „No sooner“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Hardly had the witness begun testifying ____ the defence challenged the court's jurisdiction.",
+          "q": "Barely had the witness left the stand ____ reporters surrounded the courthouse steps.",
           "o": [
-            "than",
-            "then",
             "that",
-            "when"
-          ],
-          "a": 3,
-          "e": "Feste Korrelation „hardly … when“; nach vorangestelltem „Hardly“ steht die Inversion, danach „when“."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "The former colonel is said ____ the territory weeks before the indictment was unsealed.",
-          "o": [
-            "to have left",
-            "to be leaving",
-            "to leave",
-            "having left"
-          ],
-          "a": 0,
-          "e": "Berichtspassiv mit Vorzeitigkeit: „is said to have left“."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "The witness is widely believed ____ the massacre from a nearby hillside.",
-          "o": [
-            "having observed",
-            "to observe",
-            "observing",
-            "to have observed"
-          ],
-          "a": 3,
-          "e": "Berichtspassiv „is believed to have observed“ drückt Vorzeitigkeit zum jetzigen Glauben aus."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "____ before a domestic court in 2015, the former officer has never again left his home country.",
-          "o": [
-            "Indicting",
-            "Having indicted",
-            "To indict",
-            "Indicted"
-          ],
-          "a": 3,
-          "e": "Passivisches Partizip: der Offizier wurde angeklagt, er klagte nicht selbst an."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C1+",
-          "q": "____ its jurisdictional retreat, the doctrine has still secured a number of notable convictions.",
-          "o": [
-            "Notwithstanding",
-            "In spite",
-            "Although",
-            "Despite of"
-          ],
-          "a": 0,
-          "e": "„notwithstanding“ + Nominalphrase (ohne „of“); „despite of“ ist falsch, „although“ verlangt einen Nebensatz."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "She read the deposition and ____ at once.",
-          "o": [
-            "translated to it",
-            "translated it",
-            "translated against it",
-            "it translated"
+            "than",
+            "when",
+            "then"
           ],
           "a": 1,
-          "e": "Pronominales Objekt „it“ ist nach transitivem „translate“ unmittelbar erforderlich."
+          "e": "„Barely … than …“ folgt demselben Muster wie „No sooner … than …“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The clerk read the affidavit and ____ before the hearing began.",
+          "q": "The former commander is said ____ direct knowledge of the operation, despite his repeated denials.",
           "o": [
-            "filed",
+            "to have had",
+            "to be having",
+            "having had",
+            "to have"
+          ],
+          "a": 0,
+          "e": "Berichtspassiv mit Vorzeitigkeit: „is said to have had“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "Two mid-level officers are widely believed ____ the order down the chain of command.",
+          "o": [
+            "passing",
+            "to pass",
+            "to have passed",
+            "having passed"
+          ],
+          "a": 2,
+          "e": "Berichtspassiv mit Vorzeitigkeit: „are believed to have passed“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "____ under a false identity for years, the witness only agreed to testify once relocation was guaranteed.",
+          "o": [
+            "Living",
+            "To live",
+            "Lived",
+            "Having lived"
+          ],
+          "a": 3,
+          "e": "Perfekt-Partizip-Konstruktion „Having lived“ für eine vorzeitige, andauernde Vergangenheit."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "____ the tribunal's limited resources, the trial chamber still managed to hear over sixty witnesses.",
+          "o": [
+            "Despite of",
+            "Although",
+            "In spite",
+            "Notwithstanding"
+          ],
+          "a": 3,
+          "e": "„Notwithstanding + Nominalphrase“, ohne „of“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "She reviewed the transcript and ____ within the hour.",
+          "o": [
+            "it annotated",
+            "annotated it",
+            "annotated against it",
+            "annotated to it"
+          ],
+          "a": 1,
+          "e": "Pronomen-Objekt-Stellung nach Phrasal-Verb-losem Vollverb: „annotated it“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "The clerk copied the exhibit list and ____ before the recess.",
+          "o": [
             "filed it",
             "it filed",
-            "filed to it"
-          ],
-          "a": 1,
-          "e": "Pronominales Objekt „it“ ist nach transitivem „file“ obligatorisch."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "A number of witnesses ____ still to be located by investigators.",
-          "o": [
-            "is",
-            "are",
-            "has",
-            "was"
-          ],
-          "a": 1,
-          "e": "„a number of“ + Plural — im Gegensatz zu „the number of“ + Singular."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "The court has yet to rule ____ the admissibility of testimony taken by video link.",
-          "o": [
-            "on",
-            "over",
-            "about",
-            "for"
+            "filed to it",
+            "filed against it"
           ],
           "a": 0,
-          "e": "Feste Rektion: „rule on“ = entscheiden über; „rule over“ = herrschen über."
+          "e": "Pronomen-Objekt-Stellung: „filed it“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "A number of protected witnesses ____ still awaiting relocation more than a year after testifying.",
+          "o": [
+            "is",
+            "was",
+            "has",
+            "are"
+          ],
+          "a": 3,
+          "e": "„a number of“ + Plural, im Gegensatz zu „the number of“ + Singular."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "The chamber has yet to rule ____ the admissibility of testimony obtained via video link from a third country.",
+          "o": [
+            "about",
+            "for",
+            "on",
+            "over"
+          ],
+          "a": 2,
+          "e": "„to rule on something“ = über etwas entscheiden."
         }
       ]
     },
@@ -9743,15 +9743,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "Establishing provenance across a century often requires ____ , painstaking work by specialist researchers.",
+          "q": "Establishing provenance across a century often requires ____ , methodical work by specialist researchers.",
           "o": [
-            "painstaking",
+            "exacting",
             "painful",
             "painsome",
             "painstaken"
           ],
           "a": 0,
-          "e": "„painstaking work“ = mühsame, akribische Arbeit; die übrigen Formen sind keine gebräuchlichen englischen Wörter."
+          "e": "„exacting work“ = anspruchsvolle, akribische Arbeit; die übrigen Formen sind entweder inhaltlich unpassend oder keine gebräuchlichen englischen Wörter."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -9912,176 +9912,176 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The court insisted that the museum ____ full provenance records for the disputed object.",
+          "q": "The claimant's lawyer proposed that an independent panel ____ appointed to assess the object's provenance.",
           "o": [
-            "would produce",
-            "produce",
-            "produces",
-            "produced"
-          ],
-          "a": 1,
-          "e": "Mandativer Subjunktiv nach „insist that“ — Grundform ohne -s."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "It is essential that the claim ____ filed before the limitation period expires.",
-          "o": [
-            "was",
-            "were",
             "is",
-            "be"
-          ],
-          "a": 3,
-          "e": "Mandativer Subjunktiv nach „it is essential that“ — bloße Grundform „be“."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "Had the museum negotiated earlier, the object ____ returned long before the lawsuit began.",
-          "o": [
-            "had been",
-            "would have been",
-            "would be",
-            "will have been"
-          ],
-          "a": 1,
-          "e": "Typ-3-Konditionalsatz: irreale Vergangenheitsbedingung, Folge ebenfalls in der Vergangenheit."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "If the claim ____ filed a decade earlier, the object would already be home today.",
-          "o": [
-            "has been",
-            "were",
             "was",
+            "be",
+            "were"
+          ],
+          "a": 2,
+          "e": "Mandative Subjunktiv nach „proposed that“: bloße Verbform „be“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "It is crucial that the acquisition file ____ examined before any public statement is made.",
+          "o": [
+            "was",
+            "is",
+            "be",
+            "were"
+          ],
+          "a": 2,
+          "e": "Subjunktiv nach „It is crucial that“: bloße Verbform „be“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "Had the gallery commissioned a provenance review at purchase, the dispute ____ decades of litigation.",
+          "o": [
+            "might have avoided",
+            "will avoid",
+            "might avoid",
+            "had avoided"
+          ],
+          "a": 0,
+          "e": "Type-3-Konditional: Past Perfect im if-Teil, „might have + Partizip“ im Hauptsatz."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "If the export licence ____ forged, as now suspected, the entire acquisition would be void.",
+          "o": [
+            "was",
+            "were",
+            "has been",
             "had been"
           ],
           "a": 3,
-          "e": "Gemischter Konditionalsatz: Bedingung in der Vergangenheit, Folge in der Gegenwart („today“)."
+          "e": "Mixed Conditional: vergangene Ursache (had been forged), gegenwärtige rechtliche Folge."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ the museum to concede the claim, the wider collection's legitimacy would come under scrutiny.",
+          "q": "____ the museum to concede even partial fault, the precedent could unsettle dozens of comparable claims.",
           "o": [
+            "If",
             "Was",
             "Should",
-            "Were",
-            "If"
+            "Were"
           ],
-          "a": 2,
-          "e": "„Were … to concede“ = hypothetische, konditionale Inversion mit „to“-Infinitiv."
+          "a": 3,
+          "e": "Konditional-Inversion: „Were the museum to concede…“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ the archival evidence prove conclusive, the institution would have little ground left to resist.",
+          "q": "____ archival evidence surface confirming looting, the institution has pledged to return the object without further dispute.",
           "o": [
             "Were",
-            "Was",
             "If",
+            "Was",
             "Should"
           ],
           "a": 3,
-          "e": "„Should“ + Infinitiv ohne „to“ leitet einen hypothetischen Bedingungssatz mit geringerer Wahrscheinlichkeit ein."
+          "e": "Inversion mit „Should“ für einen als eher unwahrscheinlich dargestellten Fall."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Little ____ that the archival research would so thoroughly establish the object's tainted provenance.",
+          "q": "Little ____ that a single ledger entry would unravel the museum's entire account of the acquisition.",
           "o": [
-            "the curators suspected",
-            "suspected the curators",
-            "did the curators suspect",
-            "the curators did suspect"
+            "did curators suspect",
+            "curators suspected",
+            "suspected curators",
+            "curators did suspect"
           ],
-          "a": 2,
-          "e": "Negative Inversion nach vorangestelltem „Little“: Hilfsverb vor Subjekt."
+          "a": 0,
+          "e": "Negative Inversion nach vorangestelltem „Little“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Under no circumstances ____ the museum release the object without board approval.",
+          "q": "Nowhere in the acquisition file ____ any mention of the object's owner before 1943.",
           "o": [
-            "the museum will",
-            "would the museum",
-            "the museum would",
-            "will"
+            "is there",
+            "there is",
+            "is it",
+            "it is"
+          ],
+          "a": 0,
+          "e": "Negative Inversion nach vorangestelltem „Nowhere“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "The dealer told investigators that he ____ never seen documentation proving lawful export.",
+          "o": [
+            "has",
+            "would",
+            "did",
+            "had"
           ],
           "a": 3,
-          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: Hilfsverb vor Subjekt."
+          "e": "Backshift in indirekter Rede: Present Perfect → Past Perfect."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "He told the researchers that the object ____ never left the family's possession before the war.",
+          "q": "The board announced that a ruling ____ come within the month, not that month.",
           "o": [
-            "would",
-            "has",
-            "had",
-            "did"
-          ],
-          "a": 2,
-          "e": "Past Perfect nach Backshift in der indirekten Rede (Vorzeitigkeit zum Berichtszeitpunkt)."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "The museum announced that a decision ____ come the following month, not that month.",
-          "o": [
-            "would",
             "will",
+            "must",
             "shall",
-            "must"
+            "would"
           ],
-          "a": 0,
-          "e": "Backshift von „will“ zu „would“ in der indirekten Rede; „the following month“ statt „next month“ (Deixisverschiebung)."
+          "a": 3,
+          "e": "Backshift: „will“ → „would“ in indirekter Rede."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The registrar ____ have misplaced the acquisition file; it is missing from the archive entirely.",
+          "q": "The registrar ____ have misplaced the correspondence; a copy has just surfaced in a separate archive.",
           "o": [
-            "needn't",
-            "mustn't",
             "must",
-            "wouldn't"
+            "cannot",
+            "need not",
+            "must not"
           ],
-          "a": 2,
-          "e": "„must have“ = logische Gewissheit im Rückblick."
+          "a": 1,
+          "e": "„cannot have misplaced“ = logischer Ausschluss im Rückblick, gestützt durch den Beleg."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The curators ____ have known the provenance was tainted, given the gaps in the acquisition file.",
+          "q": "Given how thorough the original inventory was, the curators ____ have overlooked the object's true origin.",
           "o": [
-            "must",
+            "cannot",
             "mustn't",
-            "can't",
+            "might well",
             "needn't"
           ],
-          "a": 0,
-          "e": "„must have known“ = logische Gewissheit im Rückblick, gestützt durch den nachfolgenden Beleg."
+          "a": 2,
+          "e": "„might well have overlooked“ = plausible Möglichkeit im Rückblick."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ persuaded the board was the sheer weight of the archival evidence.",
+          "q": "____ persuaded the board most was not the legal argument but the sheer weight of archival documentation.",
           "o": [
             "Which",
             "It",
-            "What",
-            "That"
+            "That",
+            "What"
           ],
-          "a": 2,
-          "e": "Pseudo-Cleft-Satz: „What … was …“."
+          "a": 3,
+          "e": "Pseudo-Cleft: „What … was …“ hebt den entscheidenden Punkt hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "It was the absence of documentation, not the absence of a claimant, ____ delayed the case for years.",
+          "q": "It was the missing bill of sale, not any doubt about the family's claim, ____ delayed a settlement for years.",
           "o": [
             "who",
             "which",
@@ -10089,163 +10089,163 @@
             "what"
           ],
           "a": 2,
-          "e": "Es-Spaltsatz („It was … that …“) zur Hervorhebung."
+          "e": "It-Cleft mit „that“ nach einem Sachverhalt."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The longer the litigation dragged on, ____ the museum's public reputation became.",
+          "q": "The longer the museum resisted, ____ its public reputation suffered.",
           "o": [
-            "more damaged",
-            "more damage",
-            "the more damaged",
-            "the most damaged"
+            "the more",
+            "the most",
+            "more",
+            "most"
           ],
-          "a": 2,
-          "e": "Korrelative Struktur „the … the …“; der zweite bestimmte Artikel ist obligatorisch."
+          "a": 0,
+          "e": "Korrelativer Komparativ „the … the …“ verlangt zwei Artikel."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The more archival evidence surfaced, ____ the museum's position became.",
+          "q": "The more archival evidence surfaced, ____ the museum's legal position became.",
           "o": [
-            "the weakest",
-            "the weaker",
+            "weak",
             "weaker",
-            "more weak"
+            "the weakest",
+            "the weaker"
           ],
-          "a": 1,
-          "e": "Korrelative Struktur „the … the …“ mit Komparativ im zweiten Satzglied."
+          "a": 3,
+          "e": "Korrelativer Komparativ „the … the …“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "No sooner had the claim been filed ____ the museum opened negotiations.",
+          "q": "No sooner had the claim been filed ____ the museum opened confidential settlement talks.",
           "o": [
-            "then",
-            "than",
             "that",
-            "when"
+            "when",
+            "then",
+            "than"
           ],
-          "a": 1,
-          "e": "Feste Korrelation „no sooner … than“; „then“ ist Adverb, kein Konnektor."
+          "a": 3,
+          "e": "„No sooner … than …“ nach vorangestelltem „No sooner“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Hardly had the object arrived home ____ its former owners announced a public ceremony.",
+          "q": "Barely had the ceremony ended ____ questions arose about a second, related object in the same collection.",
           "o": [
             "that",
             "than",
             "when",
             "then"
           ],
-          "a": 2,
-          "e": "Feste Korrelation „hardly … when“; nach vorangestelltem „Hardly“ steht die Inversion, danach „when“."
+          "a": 1,
+          "e": "„Barely … than …“ folgt demselben Muster wie „No sooner … than …“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The curator is said ____ the tainted provenance months before the claim was filed.",
+          "q": "The former director is said ____ direct knowledge of the object's wartime history, despite his public denials.",
           "o": [
-            "having known",
-            "to be knowing",
-            "to know",
-            "to have known"
+            "having had",
+            "to have had",
+            "to be having",
+            "to have"
           ],
-          "a": 3,
-          "e": "Berichtspassiv mit Vorzeitigkeit: „is said to have known“."
+          "a": 1,
+          "e": "Berichtspassiv mit Vorzeitigkeit: „is said to have had“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The dealer is widely believed ____ the object from an intermediary with no clear title.",
+          "q": "Two junior curators are widely believed ____ concerns about the provenance internally years before the claim was filed.",
           "o": [
-            "to have acquired",
-            "having acquired",
-            "to acquire",
-            "acquiring"
+            "raising",
+            "to have raised",
+            "to raise",
+            "having raised"
           ],
-          "a": 0,
-          "e": "Berichtspassiv „is believed to have acquired“ drückt Vorzeitigkeit zum jetzigen Glauben aus."
+          "a": 1,
+          "e": "Berichtspassiv mit Vorzeitigkeit: „are believed to have raised“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ from its country of origin during the conquest, the object entered the collection decades later.",
+          "q": "____ from occupied territory during the war, the object entered the collection only decades later, via an intermediary.",
           "o": [
             "To remove",
+            "Removed",
             "Removing",
-            "Having removed",
-            "Removed"
+            "Having been removed"
           ],
           "a": 3,
-          "e": "Passivisches Partizip: das Objekt wurde entfernt, es entfernte nicht selbst etwas."
+          "e": "Passiv-Perfekt-Partizip „Having been removed“ für eine vorzeitige, passivische Vorgeschichte."
         },
         {
           "cat": "Grammatik/Zeitformen",
-          "lvl": "C1+",
-          "q": "____ the strength of the claimant's evidence, the museum initially refused to negotiate.",
+          "lvl": "C2",
+          "q": "____ the strength of the claimant's documentation, the museum initially refused to enter negotiations at all.",
           "o": [
-            "Although",
             "Despite of",
             "Notwithstanding",
-            "In spite"
+            "In spite",
+            "Although"
+          ],
+          "a": 1,
+          "e": "„Notwithstanding + Nominalphrase“, ohne „of“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "She examined the ledger and ____ within a week of receiving it.",
+          "o": [
+            "it authenticated",
+            "authenticated against it",
+            "authenticated it",
+            "authenticated to it"
           ],
           "a": 2,
-          "e": "„notwithstanding“ + Nominalphrase (ohne „of“); „despite of“ ist falsch, „although“ verlangt einen Nebensatz."
+          "e": "Pronomen-Objekt-Stellung: „authenticated it“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "She read the acquisition file and ____ within a week.",
+          "q": "The archivist copied the correspondence and ____ before the hearing.",
           "o": [
-            "questioned to it",
-            "questioned against it",
-            "it questioned",
-            "questioned it"
+            "it translated",
+            "translated to it",
+            "translated it",
+            "translated against it"
           ],
-          "a": 3,
-          "e": "Pronominales Objekt „it“ ist nach transitivem „question“ unmittelbar erforderlich."
+          "a": 2,
+          "e": "Pronomen-Objekt-Stellung: „translated it“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The researcher read the ledger and ____ before publishing her findings.",
-          "o": [
-            "verified to it",
-            "verified it",
-            "verified",
-            "it verified"
-          ],
-          "a": 1,
-          "e": "Pronominales Objekt „it“ ist nach transitivem „verify“ obligatorisch."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "A number of claims ____ still pending before museums across Europe.",
+          "q": "A number of comparable claims ____ still pending before museums across several countries.",
           "o": [
             "is",
-            "are",
+            "has",
             "was",
-            "has"
+            "are"
           ],
-          "a": 1,
-          "e": "„a number of“ + Plural — im Gegensatz zu „the number of“ + Singular."
+          "a": 3,
+          "e": "„a number of“ + Plural, im Gegensatz zu „the number of“ + Singular."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The board has yet to rule ____ the museum's obligation to negotiate a return.",
+          "q": "The board has yet to rule ____ the museum's broader obligation to review the rest of the collection.",
           "o": [
-            "on",
-            "for",
             "about",
-            "over"
+            "over",
+            "on",
+            "for"
           ],
-          "a": 0,
-          "e": "Feste Rektion: „rule on“ = entscheiden über; „rule over“ = herrschen über."
+          "a": 2,
+          "e": "„to rule on something“ = über etwas entscheiden."
         }
       ]
     },
@@ -10700,111 +10700,111 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The ministry insisted that the envoy ____ recalled immediately.",
+          "q": "The foreign ministry demanded that the envoy ____ recalled within forty-eight hours.",
           "o": [
-            "were",
-            "was",
-            "be",
-            "is"
-          ],
-          "a": 2,
-          "e": "Mandativer Subjunktiv nach „insist that“ — Grundform ohne -s im Passiv."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C2",
-          "q": "It is essential that the sending state ____ aware of every credible allegation.",
-          "o": [
-            "be",
-            "were",
             "is",
-            "was"
+            "was",
+            "were",
+            "be"
           ],
-          "a": 0,
-          "e": "Mandativer Subjunktiv nach „it is essential that“ — bloße Grundform „be“."
+          "a": 3,
+          "e": "Mandative Subjunktiv nach „demanded that“: bloße Verbform „be“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Had the government waived immunity earlier, the trial ____ years ago.",
+          "q": "It is essential that the host government ____ notified before any waiver decision is announced.",
           "o": [
-            "would conclude",
-            "will have concluded",
+            "is",
+            "be",
+            "was",
+            "were"
+          ],
+          "a": 1,
+          "e": "Subjunktiv nach „It is essential that“: bloße Verbform „be“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "Had the sending state waived immunity at once, the trial ____ years ago, not decades later.",
+          "o": [
             "would have concluded",
+            "will have concluded",
+            "would conclude",
             "had concluded"
           ],
-          "a": 2,
-          "e": "Typ-3-Konditionalsatz: irreale Vergangenheitsbedingung, Folge ebenfalls in der Vergangenheit."
+          "a": 0,
+          "e": "Type-3-Konditional: Past Perfect im if-Teil, „would have + Partizip“ im Hauptsatz."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "If the waiver ____ granted a decade ago, the case would already be closed today.",
+          "q": "If the waiver ____ granted at the time of the incident, the case would already be closed.",
           "o": [
-            "were",
             "was",
             "has been",
+            "were",
             "had been"
           ],
           "a": 3,
-          "e": "Gemischter Konditionalsatz: Bedingung in der Vergangenheit, Folge in der Gegenwart („today“)."
+          "e": "Mixed Conditional: vergangene Ursache (had been granted), gegenwärtige Folge."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ the receiving state to expel the entire mission, relations would collapse overnight.",
+          "q": "____ the receiving state to expel the entire mission at once, bilateral relations would collapse overnight.",
           "o": [
-            "Was",
             "If",
+            "Was",
             "Should",
             "Were"
           ],
           "a": 3,
-          "e": "„Were … to expel“ = hypothetische, konditionale Inversion mit „to“-Infinitiv."
+          "e": "Konditional-Inversion: „Were the receiving state to expel…“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ the allegations prove credible, the sending state would face intense pressure to waive immunity.",
+          "q": "____ the allegations prove credible on further investigation, the sending state has pledged to reconsider the waiver.",
           "o": [
-            "If",
             "Were",
-            "Should",
-            "Was"
+            "If",
+            "Was",
+            "Should"
           ],
-          "a": 2,
-          "e": "„Should“ + Infinitiv ohne „to“ leitet einen hypothetischen Bedingungssatz mit geringerer Wahrscheinlichkeit ein."
+          "a": 3,
+          "e": "Inversion mit „Should“ für einen als eher unwahrscheinlich dargestellten Fall."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Little ____ that the incident would strain relations between the two capitals for years.",
+          "q": "Little ____ that the incident would strain relations between the two capitals for the better part of a decade.",
           "o": [
-            "suspected the ambassador",
             "the ambassador suspected",
+            "suspected the ambassador",
             "the ambassador did suspect",
             "did the ambassador suspect"
           ],
           "a": 3,
-          "e": "Negative Inversion nach vorangestelltem „Little“: Hilfsverb vor Subjekt."
+          "e": "Negative Inversion nach vorangestelltem „Little“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Under no circumstances ____ the receiving state try a diplomat in its own courts without a waiver.",
+          "q": "Not once ____ any indication that the envoy's conduct might breach the terms of his accreditation.",
           "o": [
-            "the receiving state will",
-            "will",
-            "the receiving state would",
-            "would the receiving state"
+            "did the ministry receive",
+            "the ministry did receive",
+            "the ministry received",
+            "received the ministry"
           ],
-          "a": 1,
-          "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: Hilfsverb vor Subjekt."
+          "a": 0,
+          "e": "Negative Inversion nach vorangestelltem „Not once“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "He told reporters that the ministry ____ never received a formal request for waiver.",
+          "q": "The spokesman told reporters that the ministry ____ never received a formal request for a waiver.",
           "o": [
             "would",
             "did",
@@ -10812,134 +10812,134 @@
             "had"
           ],
           "a": 3,
-          "e": "Past Perfect nach Backshift in der indirekten Rede (Vorzeitigkeit zum Berichtszeitpunkt)."
+          "e": "Backshift in indirekter Rede: Present Perfect → Past Perfect."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The spokesman announced that a decision ____ come the following week, not that week.",
+          "q": "The ministry confirmed that a decision ____ come within the week, not that week.",
           "o": [
             "shall",
-            "would",
             "must",
-            "will"
+            "will",
+            "would"
           ],
-          "a": 1,
-          "e": "Backshift von „will“ zu „would“ in der indirekten Rede; „the following week“ statt „next week“ (Deixisverschiebung)."
+          "a": 3,
+          "e": "Backshift: „will“ → „would“ in indirekter Rede."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The registry ____ have lost the waiver request; it cannot be found anywhere.",
+          "q": "The registry ____ have lost the waiver request; a signed copy has just turned up in a separate file.",
           "o": [
-            "mustn't",
             "must",
-            "wouldn't",
-            "needn't"
+            "cannot",
+            "need not",
+            "must not"
           ],
           "a": 1,
-          "e": "„must have“ = logische Gewissheit im Rückblick."
+          "e": "„cannot have lost“ = logischer Ausschluss im Rückblick, gestützt durch den Beleg."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The ambassador ____ have known of the allegation beforehand, given the detailed briefing he received.",
+          "q": "Given how detailed the briefing was, the ambassador ____ have been unaware of the allegation beforehand.",
           "o": [
-            "can't",
-            "must",
+            "can hardly",
             "needn't",
+            "might well",
             "mustn't"
           ],
-          "a": 1,
-          "e": "„must have known“ = logische Gewissheit im Rückblick, gestützt durch den nachfolgenden Beleg."
+          "a": 0,
+          "e": "„can hardly have been“ = starker logischer Zweifel im Rückblick."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ troubled the public most was the gap between formal guilt and practical accountability.",
+          "q": "____ troubled the public most was not the underlying conduct but the months-long delay in disclosing it.",
           "o": [
-            "That",
-            "What",
+            "Which",
             "It",
-            "Which"
+            "That",
+            "What"
           ],
-          "a": 1,
-          "e": "Pseudo-Cleft-Satz: „What … was …“."
+          "a": 3,
+          "e": "Pseudo-Cleft: „What … was …“ hebt den entscheidenden Punkt hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "It was the absence of a waiver, not the absence of evidence, ____ prevented the trial.",
+          "q": "It was the absence of a waiver, not any doubt about the facts, ____ ultimately prevented a trial.",
           "o": [
-            "what",
             "who",
             "which",
+            "what",
             "that"
           ],
           "a": 3,
-          "e": "Es-Spaltsatz („It was … that …“) zur Hervorhebung."
+          "e": "It-Cleft mit „that“ nach einem Sachverhalt."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The longer the ministry delayed, ____ public pressure for expulsion became.",
+          "q": "The longer the ministry delayed a decision, ____ public pressure for expulsion grew.",
           "o": [
+            "greater",
             "the greatest",
             "more great",
-            "the greater",
-            "greater"
+            "the greater"
           ],
-          "a": 2,
-          "e": "Korrelative Struktur „the … the …“; der zweite bestimmte Artikel ist obligatorisch."
+          "a": 3,
+          "e": "Korrelativer Komparativ „the … the …“ verlangt zwei Artikel."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
           "q": "The more allegations surfaced, ____ the sending government's position became.",
           "o": [
-            "the weakest",
             "weaker",
-            "the weaker",
-            "more weak"
+            "the weakest",
+            "more weak",
+            "the weaker"
           ],
-          "a": 2,
-          "e": "Korrelative Struktur „the … the …“ mit Komparativ im zweiten Satzglied."
+          "a": 3,
+          "e": "Korrelativer Komparativ „the … the …“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "No sooner had the allegation become public ____ the receiving state demanded a waiver.",
+          "q": "No sooner had the allegation become public ____ the receiving state formally demanded a waiver.",
           "o": [
             "that",
-            "then",
             "when",
+            "then",
             "than"
           ],
           "a": 3,
-          "e": "Feste Korrelation „no sooner … than“; „then“ ist Adverb, kein Konnektor."
+          "e": "„No sooner … than …“ nach vorangestelltem „No sooner“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Hardly had the envoy landed at home ____ prosecutors opened a preliminary inquiry.",
+          "q": "Barely had the envoy landed back home ____ prosecutors opened a preliminary inquiry.",
           "o": [
             "that",
+            "than",
             "when",
-            "then",
-            "than"
+            "then"
           ],
           "a": 1,
-          "e": "Feste Korrelation „hardly … when“; nach vorangestelltem „Hardly“ steht die Inversion, danach „when“."
+          "e": "„Barely … than …“ folgt demselben Muster wie „No sooner … than …“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The attaché is said ____ the country weeks before the allegation surfaced publicly.",
+          "q": "The attaché is said ____ the country within days of the allegation first surfacing, despite official denials.",
           "o": [
             "to have left",
             "to be leaving",
-            "to leave",
-            "having left"
+            "having left",
+            "to leave"
           ],
           "a": 0,
           "e": "Berichtspassiv mit Vorzeitigkeit: „is said to have left“."
@@ -10947,85 +10947,85 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The ministry is widely believed ____ the allegation seriously from the very first report.",
+          "q": "Senior ministry officials are widely believed ____ the matter seriously from the very first report, contrary to their public statements.",
           "o": [
             "treating",
-            "to treat",
+            "having treated",
             "to have treated",
-            "having treated"
+            "to treat"
           ],
           "a": 2,
-          "e": "Berichtspassiv „is believed to have treated“ drückt Vorzeitigkeit zum jetzigen Glauben aus."
+          "e": "Berichtspassiv mit Vorzeitigkeit: „are believed to have treated“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "____ persona non grata within days, the diplomat left the country before any charge was filed.",
+          "q": "____ persona non grata within days of the incident, the diplomat left the country before any charge could be filed.",
           "o": [
             "To declare",
             "Declared",
             "Declaring",
-            "Having declared"
+            "Having been declared"
           ],
-          "a": 1,
-          "e": "Passivisches Partizip: der Diplomat wurde erklärt, er erklärte nicht selbst etwas."
-        },
-        {
-          "cat": "Grammatik/Zeitformen",
-          "lvl": "C1+",
-          "q": "____ the gravity of the allegation, the sending state initially declined to comment.",
-          "o": [
-            "Although",
-            "In spite",
-            "Notwithstanding",
-            "Despite of"
-          ],
-          "a": 2,
-          "e": "„notwithstanding“ + Nominalphrase (ohne „of“); „despite of“ ist falsch, „although“ verlangt einen Nebensatz."
+          "a": 3,
+          "e": "Passiv-Perfekt-Partizip „Having been declared“ für eine vorzeitige, passivische Vorgeschichte."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "She read the report and ____ within the hour.",
+          "q": "____ the gravity of the allegation, the sending state initially declined to comment at all.",
+          "o": [
+            "Despite of",
+            "In spite",
+            "Although",
+            "Notwithstanding"
+          ],
+          "a": 3,
+          "e": "„Notwithstanding + Nominalphrase“, ohne „of“."
+        },
+        {
+          "cat": "Grammatik/Zeitformen",
+          "lvl": "C2",
+          "q": "She read the diplomatic note and ____ within the hour.",
           "o": [
             "it forwarded",
-            "forwarded it",
             "forwarded against it",
+            "forwarded it",
             "forwarded to it"
           ],
-          "a": 1,
-          "e": "Pronominales Objekt „it“ ist nach transitivem „forward“ unmittelbar erforderlich."
+          "a": 2,
+          "e": "Pronomen-Objekt-Stellung: „forwarded it“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The clerk read the request and ____ before the deadline.",
+          "q": "The clerk logged the request and ____ before the deadline.",
           "o": [
-            "it logged",
-            "logged it",
-            "logged to it",
-            "logged"
+            "it filed",
+            "filed it",
+            "filed to it",
+            "filed against it"
           ],
           "a": 1,
-          "e": "Pronominales Objekt „it“ ist nach transitivem „log“ obligatorisch."
+          "e": "Pronomen-Objekt-Stellung: „filed it“."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "A number of allegations ____ still under review by the ministry.",
+          "q": "A number of comparable waiver requests ____ still under review by the ministry.",
           "o": [
             "is",
             "has",
-            "are",
-            "was"
+            "was",
+            "are"
           ],
-          "a": 2,
-          "e": "„a number of“ + Plural — im Gegensatz zu „the number of“ + Singular."
+          "a": 3,
+          "e": "„a number of“ + Plural, im Gegensatz zu „the number of“ + Singular."
         },
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The ministry has yet to rule ____ whether a waiver will ultimately be granted.",
+          "q": "The ministry has yet to rule ____ whether a waiver will ultimately be granted in this case.",
           "o": [
             "for",
             "about",
@@ -11033,7 +11033,7 @@
             "over"
           ],
           "a": 2,
-          "e": "Feste Rektion: „rule on“ = entscheiden über; „rule over“ = herrschen über."
+          "e": "„to rule on something“ = über etwas entscheiden."
         }
       ]
     },
@@ -11544,8 +11544,8 @@
           "o": [
             "did",
             "does",
-            "a restructuring",
-            "a restructuring does"
+            "is",
+            "has"
           ],
           "a": 1,
           "e": "Nach vorangestelltem „rarely“ folgt Inversion mit Hilfsverb: „rarely does a restructuring conclude…“."
@@ -11761,15 +11761,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ finance minister who negotiated the deal later became ____ ambassador to Washington.",
+          "q": "____ finance minister who negotiated the deal later became the ambassador to Washington who signed the follow-up accord.",
           "o": [
-            "The; —",
-            "The; the",
-            "—; an",
-            "A; the"
+            "The",
+            "A",
+            "—",
+            "An"
           ],
-          "a": 1,
-          "e": "Beide Ämter — „finance minister“ und „ambassador to Washington“ — sind konkrete, einzigartige Posten und benötigen den bestimmten Artikel."
+          "a": 0,
+          "e": "Bestimmter Artikel bei einem einmaligen, konkret identifizierten Amt in Subjektposition; die zweite Lücke ist hier bereits vorgegeben, um die zuvor mögliche Nullartikel-Ambiguität bei prädikativem „become + Amt“ zu vermeiden."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -12528,10 +12528,10 @@
             "Were it not for",
             "Unless it were for",
             "If it were not for that",
-            "Had it not for"
+            "Had it not been for"
           ],
           "a": 0,
-          "e": "Formelle Inversion „Were it not for + Nomen“ ersetzt „If it were not for“ im gehobenen Register."
+          "e": "Formelle Inversion „Were it not for + Nomen“ ersetzt „If it were not for“ im gehobenen Register; „Had it not been for“ wäre für einen abgeschlossenen Fakt ebenfalls denkbar, hier aber durch den nachfolgenden Type-2-Bedingungssatz („would already have been circumvented“ als Gegenwartsfolge) eindeutig als weniger passend ausgeschlossen."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -13207,7 +13207,7 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ Secretary of the Treasury is expected to testify before the committee next week.",
+          "q": "____ Attorney-General is expected to testify before the committee next week.",
           "o": [
             "A",
             "—",
@@ -23308,15 +23308,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The ministry demanded that the diplomat ____ within forty-eight hours.",
+          "q": "The interior ministry demanded that the informant ____ granted full witness protection.",
           "o": [
-            "left",
-            "leave",
-            "would leave",
-            "leaves"
+            "was",
+            "be",
+            "is",
+            "were"
           ],
           "a": 1,
-          "e": "Mandativer Subjunktiv nach „demand that“."
+          "e": "Mandativer Subjunktiv nach „demand that“: bloße Verbform „be granted“."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -32041,7 +32041,7 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "Not until both commanders signed the protocol ____ the corridor considered secure enough to open.",
+          "q": "Not until both commanders signed the supplementary protocol ____ the withdrawal considered complete.",
           "o": [
             "is",
             "did",
@@ -35206,7 +35206,7 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The delegation ____ have anticipated the backlash; the warning signs were everywhere.",
+          "q": "The commander ____ have anticipated the backlash; the intelligence reports had flagged the risk weeks in advance.",
           "o": [
             "can",
             "would",
@@ -35245,15 +35245,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ came under scrutiny was not the treaty's text but its implementation.",
+          "q": "____ was the absence of an appeals process, not the fine itself, that drew the sharpest criticism.",
           "o": [
             "This",
-            "That",
-            "It",
-            "What"
+            "There",
+            "What",
+            "It"
           ],
           "a": 3,
-          "e": "Pseudo-Cleft: „What … was …“ hebt den Kontrast hervor."
+          "e": "It-Cleft, hebt „the absence of an appeals process“ hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -35671,13 +35671,13 @@
           "lvl": "C2",
           "q": "Smaller states fear being left out of the ____ where the rules of frontier AI are actually being written.",
           "o": [
-            "rooms",
+            "room",
             "corridors",
-            "tables",
+            "table",
             "chairs"
           ],
           "a": 2,
-          "e": "„where the rules are being written“ verlangt die feste Metapher „the tables“ (am Tisch sitzen = mitentscheiden)."
+          "e": "„a seat at the table“ / „where the table is“ — feste (singularische) Metapher für Mitentscheidung; die anderen Optionen sind keine etablierten Entscheidungs-Metaphern in diesem Sinn."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -36033,15 +36033,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ the report exposed was not the technology's risks but the regulators' unpreparedness.",
+          "q": "____ was the lack of translation capacity, not the agenda, that delayed the session.",
           "o": [
+            "What",
             "This",
-            "It",
             "There",
-            "What"
+            "It"
           ],
           "a": 3,
-          "e": "Pseudo-Cleft „What … was …“ hebt den Kontrast zwischen zwei Möglichkeiten hervor."
+          "e": "It-Cleft, hebt „the lack of translation capacity“ hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -36522,15 +36522,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "The negotiations have been ____ by disagreement over benefit-sharing with non-spacefaring nations.",
+          "q": "The talks were repeatedly ____ by last-minute procedural objections from a single delegation.",
           "o": [
             "hindered",
-            "obstructed",
+            "derailed",
             "hampered",
             "impeded"
           ],
-          "a": 2,
-          "e": "„hampered by“ ist im diplomatischen Register die gebräuchlichste Kollokation für ein Verhandlungshemmnis; alle Optionen sind hier semantisch nah, „hampered“ jedoch die idiomatisch dominante Wahl mit „by disagreement“."
+          "a": 1,
+          "e": "„derailed by“ = durch etwas komplett zum Scheitern gebracht/entgleist — im Kontext wiederholter, gezielter Verfahrensblockaden die treffendste Wahl; die anderen bezeichnen eher graduelle Erschwernis, nicht ein wiederholtes Entgleisen."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -36821,15 +36821,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ the accord achieved was not consensus but a coalition of the willing.",
+          "q": "____ was the missing verification clause, not the target figures, that negotiators objected to.",
           "o": [
-            "What",
-            "There",
             "It",
-            "This"
+            "There",
+            "This",
+            "What"
           ],
           "a": 0,
-          "e": "Pseudo-Cleft „What … was …“ kontrastiert zwei Ergebnisse."
+          "e": "It-Cleft, hebt „the missing verification clause“ hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -37206,15 +37206,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "Regulators insist the rules apply ____ of a company's country of origin.",
+          "q": "Regulators insist the rules apply without regard ____ a company's country of origin.",
           "o": [
-            "notwithstanding",
-            "regardless",
-            "irrespective",
-            "without regard"
+            "of",
+            "for",
+            "to",
+            "as"
           ],
-          "a": 1,
-          "e": "„regardless of“ ist im formellen Register die gebräuchlichste feste Präpositionalwendung dieser vier Optionen."
+          "a": 2,
+          "e": "Feste Präposition: „without regard TO“, nicht „of/for/as“."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -37323,15 +37323,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "Officials were quick to ____ that the measure was purely a security matter, not an economic one.",
+          "q": "Officials were quick to ____ — without offering any supporting evidence — that the measure was purely a security matter.",
           "o": [
             "claim",
             "affirm",
             "assert",
             "insist"
           ],
-          "a": 2,
-          "e": "„assert“ betont eine nachdrückliche, autoritative Behauptung; im Kontext offizieller Stellungnahmen die treffendste der vier Optionen."
+          "a": 0,
+          "e": "„to claim (without evidence)“ betont eine unbelegte Behauptung; „affirm/assert/insist“ implizieren alle eine gewisse Überzeugungskraft oder Nachdrücklichkeit, die im Kontext „ohne Beleg“ hier nicht passt."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -37377,13 +37377,13 @@
           "lvl": "C2",
           "q": "The rule was framed as a ____ measure, though its scope has since expanded considerably.",
           "o": [
-            "narrow-aimed",
+            "narrow-targeting",
             "narrowly targeted",
-            "narrowly-tar geted",
-            "narrow-targeted"
+            "narrowly targets",
+            "narrow target"
           ],
           "a": 1,
-          "e": "„narrowly targeted measure“ ist die korrekt gebildete, feste Kollokation; die übrigen Varianten enthalten Bildungsfehler."
+          "e": "„a narrowly targeted measure“ ist die korrekt gebildete Adverb+Partizip-Kollokation; die übrigen Optionen sind falsche Wortbildungen bzw. falsche Wortart (Verb/Nomen statt Adjektivphrase)."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -37609,15 +37609,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ the report revealed was not weak enforcement but an entirely absent one.",
+          "q": "____ was the absence of a sunset clause, not the measure's scope, that alarmed civil-society groups.",
           "o": [
-            "This",
-            "It",
+            "There",
             "What",
-            "There"
+            "This",
+            "It"
           ],
-          "a": 2,
-          "e": "Pseudo-Cleft „What … was …“ kontrastiert zwei mögliche Erklärungen."
+          "a": 3,
+          "e": "It-Cleft, hebt „the absence of a sunset clause“ hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -37674,7 +37674,7 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "The stricter the localisation rules became, ____ the compliance burden grew for smaller firms.",
+          "q": "The more elaborate the verification regime became, ____ the compliance burden grew for smaller exporters.",
           "o": [
             "heavier",
             "the heaviest",
@@ -37752,12 +37752,12 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C2",
-          "q": "If only the ministry ____ smaller firms before drafting the rule, this dispute might have been avoided.",
+          "q": "If only the agency ____ the warning signs earlier, this crisis might have been avoided.",
           "o": [
-            "had consulted",
-            "has consulted",
-            "consulted",
-            "consults"
+            "had heeded",
+            "has heeded",
+            "heeded",
+            "heeds"
           ],
           "a": 0,
           "e": "„If only“ + Past Perfect für einen unerfüllten Wunsch in der Vergangenheit."
@@ -38397,15 +38397,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ the pandemic exposed was not a lack of vaccines but a failure of distribution.",
+          "q": "____ was the lack of a quorum, not any substantive disagreement, that postponed the vote.",
           "o": [
-            "This",
-            "There",
+            "What",
             "It",
-            "What"
+            "This",
+            "There"
           ],
-          "a": 3,
-          "e": "Pseudo-Cleft „What … was …“ kontrastiert zwei mögliche Erklärungen."
+          "a": 1,
+          "e": "It-Cleft, hebt „the lack of a quorum“ hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
@@ -38925,15 +38925,15 @@
         {
           "cat": "Wortschatz/Idiomatik",
           "lvl": "C2",
-          "q": "Journalists warned that the vague drafting could have a ____ effect on legitimate reporting.",
+          "q": "Analysts noted that the new licensing regime could have a ____ on independent research funding.",
           "o": [
-            "dampening",
-            "chilling",
-            "freezing",
-            "cooling"
+            "chilling effect",
+            "freezing outcome",
+            "dampening result",
+            "cooling impact"
           ],
-          "a": 1,
-          "e": "„chilling effect“ = einschüchternde Wirkung auf legitime Tätigkeit; feste Kollokation."
+          "a": 0,
+          "e": "„a chilling effect on something“ = eine einschüchternde/abschreckende Wirkung auf etwas; feste Kollokation, die übrigen Optionen sind keine etablierten Wendungen."
         },
         {
           "cat": "Wortschatz/Idiomatik",
@@ -39185,15 +39185,15 @@
         {
           "cat": "Grammatik/Zeitformen",
           "lvl": "C1+",
-          "q": "____ the case revealed was not a foreign agent but a badly drafted statute.",
+          "q": "____ was the absence of independent auditors, not the budget figures, that raised the most questions.",
           "o": [
-            "What",
+            "This",
             "It",
             "There",
-            "This"
+            "What"
           ],
-          "a": 0,
-          "e": "Pseudo-Cleft „What … was …“ kontrastiert zwei mögliche Erklärungen."
+          "a": 1,
+          "e": "It-Cleft, hebt „the absence of independent auditors“ hervor."
         },
         {
           "cat": "Grammatik/Zeitformen",
