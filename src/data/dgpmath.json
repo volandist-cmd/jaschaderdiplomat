@@ -25,9 +25,9 @@
           "cat": "Dreisatz"
         },
         {
-          "q": "11 Arbeiter benötigen 19 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 11 Arbeiter für das gleiche Projekt?",
-          "answer": "19",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 11·19 = 11·X → X = 209 ÷ 11 = 19 Tage.",
+          "q": "11 Arbeiter benötigen 19 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 19 Arbeiter für das gleiche Projekt?",
+          "answer": "11",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 11·19 = 19·X → X = 209 ÷ 19 = 11 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -99,7 +99,7 @@
         {
           "q": "Julia kauft 2 Konservendosen Erbsen für je 0,70 € und mehrere Konservendosen mit Möhren für je 1,00 €. Durchschnittlich hat eine Konservendose 0,88 € gekostet. Wie viele Dosen Möhren hat sie gekauft?",
           "answer": "3",
-          "e": "Sei n die gesuchte Anzahl. (2·0,70€ + n·1,00€) ÷ (2+n) = 0,88€ → 1,40+n=1,76+0,88n → 0,12n=0,36 → n=3.",
+          "e": "Sei n die gesuchte Anzahl. (2·0,70 € + n·1,00 €) ÷ (2+n) = 0,88 €. Aufgelöst: n = (2·0,70 € − 2·0,88 €) ÷ (0,88 € − 1,00 €) = 3.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -329,27 +329,27 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 6 Stück einer Sorte zu je 4,21 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 3,83 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 6 Stück einer Sorte zu je 4,23 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 3,84 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,67",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,83 € · 8 = 30,60 €. Davon entfallen 6·4,21 € = 25,26 € auf die erste Sorte. Preis der zweiten Sorte: (30,60 € − 25,26 €) ÷ 2 = 2,67 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,84 € · 8 = 30,72 €. Davon entfallen 6·4,23 € = 25,38 € auf die erste Sorte. Preis der zweiten Sorte: (30,72 € − 25,38 €) ÷ 2 = 2,67 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 6 Stück zu je 0,75 € und mehrere Stück zu je 1,15 €. Durchschnittlich hat ein Stück 0,88 € gekostet. Wie viele Stück zu 1,15 € wurden gekauft?",
+          "q": "Jemand kauft 6 Stück zu je 0,75 € und mehrere Stück zu je 1,14 €. Durchschnittlich hat ein Stück 0,88 € gekostet. Wie viele Stück zu 1,14 € wurden gekauft?",
           "answer": "3",
-          "e": "Sei n die gesuchte Anzahl. (6·0,75 € + n·1,15 €) ÷ (6+n) = 0,88 €. Aufgelöst: n = (6·0,75 € − 6·0,88 €) ÷ (0,88 € − 1,15 €) = 3.",
+          "e": "Sei n die gesuchte Anzahl. (6·0,75 € + n·1,14 €) ÷ (6+n) = 0,88 €. Aufgelöst: n = (6·0,75 € − 6·0,88 €) ÷ (0,88 € − 1,14 €) = 3.",
           "cat": "Durchschnittsrechnung"
         },
         {
           "q": "Eine Töpferei verkauft 30 Keramikvasen für je 12,00 € und ein paar leicht beschädigte Stücke für je 6,00 €. Der Durchschnittsverkaufspreis einer Vase liegt bei 11,00 €. Wie viele beschädigte Keramikvasen wurden verkauft?",
           "answer": "6",
-          "e": "Sei n die gesuchte Anzahl. (30·12,00€ + n·6,00€) ÷ (30+n) = 11,00€ → 360+6n=330+11n → 30=5n → n=6.",
+          "e": "Sei n die gesuchte Anzahl. (30·12,00 € + n·6,00 €) ÷ (30+n) = 11,00 €. Aufgelöst: n = (30·12,00 € − 30·11,00 €) ÷ (11,00 € − 6,00 €) = 6.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück einer Sorte zu je 2,80 € und 3 Stück einer anderen Sorte. Durchschnittlich hat er 3,64 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 4 Stück einer Sorte zu je 2,81 € und 3 Stück einer anderen Sorte. Durchschnittlich hat er 3,65 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "4,77",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,64 € · 7 = 25,51 €. Davon entfallen 4·2,80 € = 11,20 € auf die erste Sorte. Preis der zweiten Sorte: (25,51 € − 11,20 €) ÷ 3 = 4,77 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,65 € · 7 = 25,55 €. Davon entfallen 4·2,81 € = 11,24 € auf die erste Sorte. Preis der zweiten Sorte: (25,55 € − 11,24 €) ÷ 3 = 4,77 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -442,9 +442,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 5 Stück einer Sorte zu je 4,86 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 4,12 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 5 Stück einer Sorte zu je 4,83 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 4,11 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,66",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 4,12 € · 13 = 53,58 €. Davon entfallen 5·4,86 € = 24,30 € auf die erste Sorte. Preis der zweiten Sorte: (53,58 € − 24,30 €) ÷ 8 = 3,66 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 4,11 € · 13 = 53,43 €. Davon entfallen 5·4,83 € = 24,15 € auf die erste Sorte. Preis der zweiten Sorte: (53,43 € − 24,15 €) ÷ 8 = 3,66 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -519,9 +519,9 @@
           "cat": "Dreisatz"
         },
         {
-          "q": "4 Arbeiter benötigen 29 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 4 Arbeiter für das gleiche Projekt?",
-          "answer": "29",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 4·29 = 4·X → X = 116 ÷ 4 = 29 Tage.",
+          "q": "4 Arbeiter benötigen 29 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 29 Arbeiter für das gleiche Projekt?",
+          "answer": "4",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 4·29 = 29·X → X = 116 ÷ 29 = 4 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -579,9 +579,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück einer Sorte zu je 3,53 € und 4 Stück einer anderen Sorte. Durchschnittlich hat er 2,85 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 4 Stück einer Sorte zu je 3,54 € und 4 Stück einer anderen Sorte. Durchschnittlich hat er 2,85 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,16",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,85 € · 8 = 22,76 €. Davon entfallen 4·3,53 € = 14,12 € auf die erste Sorte. Preis der zweiten Sorte: (22,76 € − 14,12 €) ÷ 4 = 2,16 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,85 € · 8 = 22,80 €. Davon entfallen 4·3,54 € = 14,16 € auf die erste Sorte. Preis der zweiten Sorte: (22,80 € − 14,16 €) ÷ 4 = 2,16 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -591,9 +591,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück zu je 1,31 € und mehrere Stück zu je 0,80 €. Durchschnittlich hat ein Stück 0,99 € gekostet. Wie viele Stück zu 0,80 € wurden gekauft?",
+          "q": "Jemand kauft 4 Stück zu je 1,31 € und mehrere Stück zu je 0,76 €. Durchschnittlich hat ein Stück 0,96 € gekostet. Wie viele Stück zu 0,76 € wurden gekauft?",
           "answer": "7",
-          "e": "Sei n die gesuchte Anzahl. (4·1,31 € + n·0,80 €) ÷ (4+n) = 0,99 €. Aufgelöst: n = (4·1,31 € − 4·0,99 €) ÷ (0,99 € − 0,80 €) = 7.",
+          "e": "Sei n die gesuchte Anzahl. (4·1,31 € + n·0,76 €) ÷ (4+n) = 0,96 €. Aufgelöst: n = (4·1,31 € − 4·0,96 €) ÷ (0,96 € − 0,76 €) = 7.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -716,9 +716,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück zu je 0,66 € und mehrere Stück zu je 1,35 €. Durchschnittlich hat ein Stück 1,10 € gekostet. Wie viele Stück zu 1,35 € wurden gekauft?",
+          "q": "Jemand kauft 4 Stück zu je 0,66 € und mehrere Stück zu je 1,32 €. Durchschnittlich hat ein Stück 1,08 € gekostet. Wie viele Stück zu 1,32 € wurden gekauft?",
           "answer": "7",
-          "e": "Sei n die gesuchte Anzahl. (4·0,66 € + n·1,35 €) ÷ (4+n) = 1,10 €. Aufgelöst: n = (4·0,66 € − 4·1,10 €) ÷ (1,10 € − 1,35 €) = 7.",
+          "e": "Sei n die gesuchte Anzahl. (4·0,66 € + n·1,32 €) ÷ (4+n) = 1,08 €. Aufgelöst: n = (4·0,66 € − 4·1,08 €) ÷ (1,08 € − 1,32 €) = 7.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -829,9 +829,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück zu je 1,15 € und mehrere Stück zu je 0,67 €. Durchschnittlich hat ein Stück 0,86 € gekostet. Wie viele Stück zu 0,67 € wurden gekauft?",
+          "q": "Jemand kauft 4 Stück zu je 1,15 € und mehrere Stück zu je 0,65 €. Durchschnittlich hat ein Stück 0,85 € gekostet. Wie viele Stück zu 0,65 € wurden gekauft?",
           "answer": "6",
-          "e": "Sei n die gesuchte Anzahl. (4·1,15 € + n·0,67 €) ÷ (4+n) = 0,86 €. Aufgelöst: n = (4·1,15 € − 4·0,86 €) ÷ (0,86 € − 0,67 €) = 6.",
+          "e": "Sei n die gesuchte Anzahl. (4·1,15 € + n·0,65 €) ÷ (4+n) = 0,85 €. Aufgelöst: n = (4·1,15 € − 4·0,85 €) ÷ (0,85 € − 0,65 €) = 6.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -1216,9 +1216,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 6 Stück zu je 1,27 € und mehrere Stück zu je 0,74 €. Durchschnittlich hat ein Stück 1,06 € gekostet. Wie viele Stück zu 0,74 € wurden gekauft?",
+          "q": "Jemand kauft 6 Stück zu je 1,27 € und mehrere Stück zu je 0,72 €. Durchschnittlich hat ein Stück 1,05 € gekostet. Wie viele Stück zu 0,72 € wurden gekauft?",
           "answer": "4",
-          "e": "Sei n die gesuchte Anzahl. (6·1,27 € + n·0,74 €) ÷ (6+n) = 1,06 €. Aufgelöst: n = (6·1,27 € − 6·1,06 €) ÷ (1,06 € − 0,74 €) = 4.",
+          "e": "Sei n die gesuchte Anzahl. (6·1,27 € + n·0,72 €) ÷ (6+n) = 1,05 €. Aufgelöst: n = (6·1,27 € − 6·1,05 €) ÷ (1,05 € − 0,72 €) = 4.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -1323,15 +1323,15 @@
           "cat": "Währungsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück zu je 1,44 € und mehrere Stück zu je 0,72 €. Durchschnittlich hat ein Stück 0,98 € gekostet. Wie viele Stück zu 0,72 € wurden gekauft?",
+          "q": "Jemand kauft 4 Stück zu je 1,44 € und mehrere Stück zu je 0,67 €. Durchschnittlich hat ein Stück 0,95 € gekostet. Wie viele Stück zu 0,67 € wurden gekauft?",
           "answer": "7",
-          "e": "Sei n die gesuchte Anzahl. (4·1,44 € + n·0,72 €) ÷ (4+n) = 0,98 €. Aufgelöst: n = (4·1,44 € − 4·0,98 €) ÷ (0,98 € − 0,72 €) = 7.",
+          "e": "Sei n die gesuchte Anzahl. (4·1,44 € + n·0,67 €) ÷ (4+n) = 0,95 €. Aufgelöst: n = (4·1,44 € − 4·0,95 €) ÷ (0,95 € − 0,67 €) = 7.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 2 Stück zu je 1,32 € und mehrere Stück zu je 1,12 €. Durchschnittlich hat ein Stück 1,19 € gekostet. Wie viele Stück zu 1,12 € wurden gekauft?",
+          "q": "Jemand kauft 2 Stück zu je 1,32 € und mehrere Stück zu je 1,11 €. Durchschnittlich hat ein Stück 1,18 € gekostet. Wie viele Stück zu 1,11 € wurden gekauft?",
           "answer": "4",
-          "e": "Sei n die gesuchte Anzahl. (2·1,32 € + n·1,12 €) ÷ (2+n) = 1,19 €. Aufgelöst: n = (2·1,32 € − 2·1,19 €) ÷ (1,19 € − 1,12 €) = 4.",
+          "e": "Sei n die gesuchte Anzahl. (2·1,32 € + n·1,11 €) ÷ (2+n) = 1,18 €. Aufgelöst: n = (2·1,32 € − 2·1,18 €) ÷ (1,18 € − 1,11 €) = 4.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -1454,9 +1454,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 5 Stück zu je 0,85 € und mehrere Stück zu je 0,50 €. Durchschnittlich hat ein Stück 0,63 € gekostet. Wie viele Stück zu 0,50 € wurden gekauft?",
+          "q": "Jemand kauft 5 Stück zu je 0,85 € und mehrere Stück zu je 0,46 €. Durchschnittlich hat ein Stück 0,61 € gekostet. Wie viele Stück zu 0,46 € wurden gekauft?",
           "answer": "8",
-          "e": "Sei n die gesuchte Anzahl. (5·0,85 € + n·0,50 €) ÷ (5+n) = 0,63 €. Aufgelöst: n = (5·0,85 € − 5·0,63 €) ÷ (0,63 € − 0,50 €) = 8.",
+          "e": "Sei n die gesuchte Anzahl. (5·0,85 € + n·0,46 €) ÷ (5+n) = 0,61 €. Aufgelöst: n = (5·0,85 € − 5·0,61 €) ÷ (0,61 € − 0,46 €) = 8.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -1954,15 +1954,15 @@
           "cat": "Währungsrechnung"
         },
         {
-          "q": "Jemand kauft 2 Stück einer Sorte zu je 2,88 € und 3 Stück einer anderen Sorte. Durchschnittlich hat er 2,39 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 2 Stück einer Sorte zu je 2,87 € und 3 Stück einer anderen Sorte. Durchschnittlich hat er 2,39 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,07",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,39 € · 5 = 11,97 €. Davon entfallen 2·2,88 € = 5,76 € auf die erste Sorte. Preis der zweiten Sorte: (11,97 € − 5,76 €) ÷ 3 = 2,07 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,39 € · 5 = 11,95 €. Davon entfallen 2·2,87 € = 5,74 € auf die erste Sorte. Preis der zweiten Sorte: (11,95 € − 5,74 €) ÷ 3 = 2,07 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 6 Stück zu je 1,13 € und mehrere Stück zu je 1,29 €. Durchschnittlich hat ein Stück 1,19 € gekostet. Wie viele Stück zu 1,29 € wurden gekauft?",
+          "q": "Jemand kauft 6 Stück zu je 1,13 € und mehrere Stück zu je 1,28 €. Durchschnittlich hat ein Stück 1,19 € gekostet. Wie viele Stück zu 1,28 € wurden gekauft?",
           "answer": "4",
-          "e": "Sei n die gesuchte Anzahl. (6·1,13 € + n·1,29 €) ÷ (6+n) = 1,19 €. Aufgelöst: n = (6·1,13 € − 6·1,19 €) ÷ (1,19 € − 1,29 €) = 4.",
+          "e": "Sei n die gesuchte Anzahl. (6·1,13 € + n·1,28 €) ÷ (6+n) = 1,19 €. Aufgelöst: n = (6·1,13 € − 6·1,19 €) ÷ (1,19 € − 1,28 €) = 4.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -2222,9 +2222,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 2 Stück zu je 1,36 € und mehrere Stück zu je 0,67 €. Durchschnittlich hat ein Stück 0,81 € gekostet. Wie viele Stück zu 0,67 € wurden gekauft?",
+          "q": "Jemand kauft 2 Stück zu je 1,36 € und mehrere Stück zu je 0,66 €. Durchschnittlich hat ein Stück 0,80 € gekostet. Wie viele Stück zu 0,66 € wurden gekauft?",
           "answer": "8",
-          "e": "Sei n die gesuchte Anzahl. (2·1,36 € + n·0,67 €) ÷ (2+n) = 0,81 €. Aufgelöst: n = (2·1,36 € − 2·0,81 €) ÷ (0,81 € − 0,67 €) = 8.",
+          "e": "Sei n die gesuchte Anzahl. (2·1,36 € + n·0,66 €) ÷ (2+n) = 0,80 €. Aufgelöst: n = (2·1,36 € − 2·0,80 €) ÷ (0,80 € − 0,66 €) = 8.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -2454,9 +2454,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 1,91 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 2,28 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 1,94 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 2,29 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,44",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,28 € · 10 = 22,81 €. Davon entfallen 3·1,91 € = 5,73 € auf die erste Sorte. Preis der zweiten Sorte: (22,81 € − 5,73 €) ÷ 7 = 2,44 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,29 € · 10 = 22,90 €. Davon entfallen 3·1,94 € = 5,82 € auf die erste Sorte. Preis der zweiten Sorte: (22,90 € − 5,82 €) ÷ 7 = 2,44 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -2841,15 +2841,15 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 1,70 € und 6 Stück einer anderen Sorte. Durchschnittlich hat er 2,99 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 1,71 € und 6 Stück einer anderen Sorte. Durchschnittlich hat er 2,99 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,63",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,99 € · 9 = 26,88 €. Davon entfallen 3·1,70 € = 5,10 € auf die erste Sorte. Preis der zweiten Sorte: (26,88 € − 5,10 €) ÷ 6 = 3,63 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,99 € · 9 = 26,91 €. Davon entfallen 3·1,71 € = 5,13 € auf die erste Sorte. Preis der zweiten Sorte: (26,91 € − 5,13 €) ÷ 6 = 3,63 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück zu je 1,20 € und mehrere Stück zu je 0,68 €. Durchschnittlich hat ein Stück 0,99 € gekostet. Wie viele Stück zu 0,68 € wurden gekauft?",
+          "q": "Jemand kauft 3 Stück zu je 1,20 € und mehrere Stück zu je 0,70 €. Durchschnittlich hat ein Stück 1,00 € gekostet. Wie viele Stück zu 0,70 € wurden gekauft?",
           "answer": "2",
-          "e": "Sei n die gesuchte Anzahl. (3·1,20 € + n·0,68 €) ÷ (3+n) = 0,99 €. Aufgelöst: n = (3·1,20 € − 3·0,99 €) ÷ (0,99 € − 0,68 €) = 2.",
+          "e": "Sei n die gesuchte Anzahl. (3·1,20 € + n·0,70 €) ÷ (3+n) = 1,00 €. Aufgelöst: n = (3·1,20 € − 3·1,00 €) ÷ (1,00 € − 0,70 €) = 2.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -2954,15 +2954,15 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück einer Sorte zu je 3,03 € und 4 Stück einer anderen Sorte. Durchschnittlich hat er 2,77 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 4 Stück einer Sorte zu je 3,04 € und 4 Stück einer anderen Sorte. Durchschnittlich hat er 2,77 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,5",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,77 € · 8 = 22,12 €. Davon entfallen 4·3,03 € = 12,12 € auf die erste Sorte. Preis der zweiten Sorte: (22,12 € − 12,12 €) ÷ 4 = 2,50 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,77 € · 8 = 22,16 €. Davon entfallen 4·3,04 € = 12,16 € auf die erste Sorte. Preis der zweiten Sorte: (22,16 € − 12,16 €) ÷ 4 = 2,50 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück zu je 0,56 € und mehrere Stück zu je 1,15 €. Durchschnittlich hat ein Stück 0,95 € gekostet. Wie viele Stück zu 1,15 € wurden gekauft?",
+          "q": "Jemand kauft 3 Stück zu je 0,56 € und mehrere Stück zu je 1,16 €. Durchschnittlich hat ein Stück 0,96 € gekostet. Wie viele Stück zu 1,16 € wurden gekauft?",
           "answer": "6",
-          "e": "Sei n die gesuchte Anzahl. (3·0,56 € + n·1,15 €) ÷ (3+n) = 0,95 €. Aufgelöst: n = (3·0,56 € − 3·0,95 €) ÷ (0,95 € − 1,15 €) = 6.",
+          "e": "Sei n die gesuchte Anzahl. (3·0,56 € + n·1,16 €) ÷ (3+n) = 0,96 €. Aufgelöst: n = (3·0,56 € − 3·0,96 €) ÷ (0,96 € − 1,16 €) = 6.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -3150,9 +3150,9 @@
           "cat": "Dreisatz"
         },
         {
-          "q": "6 Arbeiter benötigen 30 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 6 Arbeiter für das gleiche Projekt?",
-          "answer": "30",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 6·30 = 6·X → X = 180 ÷ 6 = 30 Tage.",
+          "q": "6 Arbeiter benötigen 30 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 30 Arbeiter für das gleiche Projekt?",
+          "answer": "6",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 6·30 = 30·X → X = 180 ÷ 30 = 6 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -3513,9 +3513,9 @@
       "label": "Testlauf 29 – 20 Aufgaben · 20 Sek./Aufgabe",
       "items": [
         {
-          "q": "5 Arbeiter benötigen 7 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 5 Arbeiter für das gleiche Projekt?",
-          "answer": "7",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 5·7 = 5·X → X = 35 ÷ 5 = 7 Tage.",
+          "q": "5 Arbeiter benötigen 7 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 7 Arbeiter für das gleiche Projekt?",
+          "answer": "5",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 5·7 = 7·X → X = 35 ÷ 7 = 5 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -3603,9 +3603,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 6 Stück zu je 0,54 € und mehrere Stück zu je 0,66 €. Durchschnittlich hat ein Stück 0,59 € gekostet. Wie viele Stück zu 0,66 € wurden gekauft?",
+          "q": "Jemand kauft 6 Stück zu je 0,54 € und mehrere Stück zu je 0,64 €. Durchschnittlich hat ein Stück 0,58 € gekostet. Wie viele Stück zu 0,64 € wurden gekauft?",
           "answer": "4",
-          "e": "Sei n die gesuchte Anzahl. (6·0,54 € + n·0,66 €) ÷ (6+n) = 0,59 €. Aufgelöst: n = (6·0,54 € − 6·0,59 €) ÷ (0,59 € − 0,66 €) = 4.",
+          "e": "Sei n die gesuchte Anzahl. (6·0,54 € + n·0,64 €) ÷ (6+n) = 0,58 €. Aufgelöst: n = (6·0,54 € − 6·0,58 €) ÷ (0,58 € − 0,64 €) = 4.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -3775,9 +3775,9 @@
           "cat": "Dreisatz"
         },
         {
-          "q": "5 Arbeiter benötigen 23 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 5 Arbeiter für das gleiche Projekt?",
-          "answer": "23",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 5·23 = 5·X → X = 115 ÷ 5 = 23 Tage.",
+          "q": "5 Arbeiter benötigen 23 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 23 Arbeiter für das gleiche Projekt?",
+          "answer": "5",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 5·23 = 23·X → X = 115 ÷ 23 = 5 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -3835,9 +3835,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 2 Stück einer Sorte zu je 1,74 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 2,60 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 2 Stück einer Sorte zu je 1,75 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 2,60 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,45",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,60 € · 4 = 10,38 €. Davon entfallen 2·1,74 € = 3,48 € auf die erste Sorte. Preis der zweiten Sorte: (10,38 € − 3,48 €) ÷ 2 = 3,45 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,60 € · 4 = 10,40 €. Davon entfallen 2·1,75 € = 3,50 € auf die erste Sorte. Preis der zweiten Sorte: (10,40 € − 3,50 €) ÷ 2 = 3,45 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -4097,9 +4097,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück zu je 1,07 € und mehrere Stück zu je 1,37 €. Durchschnittlich hat ein Stück 1,24 € gekostet. Wie viele Stück zu 1,37 € wurden gekauft?",
+          "q": "Jemand kauft 4 Stück zu je 1,07 € und mehrere Stück zu je 1,34 €. Durchschnittlich hat ein Stück 1,22 € gekostet. Wie viele Stück zu 1,34 € wurden gekauft?",
           "answer": "5",
-          "e": "Sei n die gesuchte Anzahl. (4·1,07 € + n·1,37 €) ÷ (4+n) = 1,24 €. Aufgelöst: n = (4·1,07 € − 4·1,24 €) ÷ (1,24 € − 1,37 €) = 5.",
+          "e": "Sei n die gesuchte Anzahl. (4·1,07 € + n·1,34 €) ÷ (4+n) = 1,22 €. Aufgelöst: n = (4·1,07 € − 4·1,22 €) ÷ (1,22 € − 1,34 €) = 5.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -4204,15 +4204,15 @@
           "cat": "Währungsrechnung"
         },
         {
-          "q": "Jemand kauft 5 Stück zu je 1,47 € und mehrere Stück zu je 0,80 €. Durchschnittlich hat ein Stück 1,06 € gekostet. Wie viele Stück zu 0,80 € wurden gekauft?",
+          "q": "Jemand kauft 5 Stück zu je 1,47 € und mehrere Stück zu je 0,82 €. Durchschnittlich hat ein Stück 1,07 € gekostet. Wie viele Stück zu 0,82 € wurden gekauft?",
           "answer": "8",
-          "e": "Sei n die gesuchte Anzahl. (5·1,47 € + n·0,80 €) ÷ (5+n) = 1,06 €. Aufgelöst: n = (5·1,47 € − 5·1,06 €) ÷ (1,06 € − 0,80 €) = 8.",
+          "e": "Sei n die gesuchte Anzahl. (5·1,47 € + n·0,82 €) ÷ (5+n) = 1,07 €. Aufgelöst: n = (5·1,47 € − 5·1,07 €) ÷ (1,07 € − 0,82 €) = 8.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 1,52 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 1,58 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 1,50 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 1,57 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "1,6",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 1,58 € · 10 = 15,76 €. Davon entfallen 3·1,52 € = 4,56 € auf die erste Sorte. Preis der zweiten Sorte: (15,76 € − 4,56 €) ÷ 7 = 1,60 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 1,57 € · 10 = 15,70 €. Davon entfallen 3·1,50 € = 4,50 € auf die erste Sorte. Preis der zweiten Sorte: (15,70 € − 4,50 €) ÷ 7 = 1,60 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -4591,15 +4591,15 @@
           "cat": "Währungsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 3,96 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 3,62 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 3,95 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 3,61 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,1",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,62 € · 5 = 18,08 €. Davon entfallen 3·3,96 € = 11,88 € auf die erste Sorte. Preis der zweiten Sorte: (18,08 € − 11,88 €) ÷ 2 = 3,10 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,61 € · 5 = 18,05 €. Davon entfallen 3·3,95 € = 11,85 € auf die erste Sorte. Preis der zweiten Sorte: (18,05 € − 11,85 €) ÷ 2 = 3,10 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 4,24 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 2,68 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 4,21 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 2,67 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,01",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,68 € · 10 = 26,79 €. Davon entfallen 3·4,24 € = 12,72 € auf die erste Sorte. Preis der zweiten Sorte: (26,79 € − 12,72 €) ÷ 7 = 2,01 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,67 € · 10 = 26,70 €. Davon entfallen 3·4,21 € = 12,63 € auf die erste Sorte. Preis der zweiten Sorte: (26,70 € − 12,63 €) ÷ 7 = 2,01 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -4716,15 +4716,15 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 4,40 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 4,06 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 4,37 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 4,05 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,93",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 4,06 € · 11 = 44,64 €. Davon entfallen 3·4,40 € = 13,20 € auf die erste Sorte. Preis der zweiten Sorte: (44,64 € − 13,20 €) ÷ 8 = 3,93 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 4,05 € · 11 = 44,55 €. Davon entfallen 3·4,37 € = 13,11 € auf die erste Sorte. Preis der zweiten Sorte: (44,55 € − 13,11 €) ÷ 8 = 3,93 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 5 Stück einer Sorte zu je 3,95 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 3,77 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 5 Stück einer Sorte zu je 3,92 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 3,76 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,66",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,77 € · 13 = 49,03 €. Davon entfallen 5·3,95 € = 19,75 € auf die erste Sorte. Preis der zweiten Sorte: (49,03 € − 19,75 €) ÷ 8 = 3,66 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,76 € · 13 = 48,88 €. Davon entfallen 5·3,92 € = 19,60 € auf die erste Sorte. Preis der zweiten Sorte: (48,88 € − 19,60 €) ÷ 8 = 3,66 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -4948,15 +4948,15 @@
           "cat": "Währungsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück zu je 1,31 € und mehrere Stück zu je 0,70 €. Durchschnittlich hat ein Stück 0,88 € gekostet. Wie viele Stück zu 0,70 € wurden gekauft?",
+          "q": "Jemand kauft 3 Stück zu je 1,31 € und mehrere Stück zu je 0,71 €. Durchschnittlich hat ein Stück 0,89 € gekostet. Wie viele Stück zu 0,71 € wurden gekauft?",
           "answer": "7",
-          "e": "Sei n die gesuchte Anzahl. (3·1,31 € + n·0,70 €) ÷ (3+n) = 0,88 €. Aufgelöst: n = (3·1,31 € − 3·0,88 €) ÷ (0,88 € − 0,70 €) = 7.",
+          "e": "Sei n die gesuchte Anzahl. (3·1,31 € + n·0,71 €) ÷ (3+n) = 0,89 €. Aufgelöst: n = (3·1,31 € − 3·0,89 €) ÷ (0,89 € − 0,71 €) = 7.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück einer Sorte zu je 4,05 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 3,57 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 3 Stück einer Sorte zu je 4,06 € und 7 Stück einer anderen Sorte. Durchschnittlich hat er 3,57 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "3,36",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,57 € · 10 = 35,67 €. Davon entfallen 3·4,05 € = 12,15 € auf die erste Sorte. Preis der zweiten Sorte: (35,67 € − 12,15 €) ÷ 7 = 3,36 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,57 € · 10 = 35,70 €. Davon entfallen 3·4,06 € = 12,18 € auf die erste Sorte. Preis der zweiten Sorte: (35,70 € − 12,18 €) ÷ 7 = 3,36 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -5079,15 +5079,15 @@
           "cat": "Währungsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück einer Sorte zu je 2,12 € und 5 Stück einer anderen Sorte. Durchschnittlich hat er 2,60 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 4 Stück einer Sorte zu je 2,09 € und 5 Stück einer anderen Sorte. Durchschnittlich hat er 2,59 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "2,99",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,60 € · 9 = 23,43 €. Davon entfallen 4·2,12 € = 8,48 € auf die erste Sorte. Preis der zweiten Sorte: (23,43 € − 8,48 €) ÷ 5 = 2,99 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 2,59 € · 9 = 23,31 €. Davon entfallen 4·2,09 € = 8,36 € auf die erste Sorte. Preis der zweiten Sorte: (23,31 € − 8,36 €) ÷ 5 = 2,99 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 2 Stück zu je 1,37 € und mehrere Stück zu je 0,92 €. Durchschnittlich hat ein Stück 1,05 € gekostet. Wie viele Stück zu 0,92 € wurden gekauft?",
+          "q": "Jemand kauft 2 Stück zu je 1,37 € und mehrere Stück zu je 0,95 €. Durchschnittlich hat ein Stück 1,07 € gekostet. Wie viele Stück zu 0,95 € wurden gekauft?",
           "answer": "5",
-          "e": "Sei n die gesuchte Anzahl. (2·1,37 € + n·0,92 €) ÷ (2+n) = 1,05 €. Aufgelöst: n = (2·1,37 € − 2·1,05 €) ÷ (1,05 € − 0,92 €) = 5.",
+          "e": "Sei n die gesuchte Anzahl. (2·1,37 € + n·0,95 €) ÷ (2+n) = 1,07 €. Aufgelöst: n = (2·1,37 € − 2·1,07 €) ÷ (1,07 € − 0,95 €) = 5.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -5269,9 +5269,9 @@
           "cat": "Dreisatz"
         },
         {
-          "q": "10 Arbeiter benötigen 29 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 10 Arbeiter für das gleiche Projekt?",
-          "answer": "29",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 10·29 = 10·X → X = 290 ÷ 10 = 29 Tage.",
+          "q": "10 Arbeiter benötigen 29 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 29 Arbeiter für das gleiche Projekt?",
+          "answer": "10",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 10·29 = 29·X → X = 290 ÷ 29 = 10 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -5591,15 +5591,15 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 6 Stück zu je 1,35 € und mehrere Stück zu je 1,26 €. Durchschnittlich hat ein Stück 1,33 € gekostet. Wie viele Stück zu 1,26 € wurden gekauft?",
+          "q": "Jemand kauft 6 Stück zu je 1,35 € und mehrere Stück zu je 1,27 €. Durchschnittlich hat ein Stück 1,33 € gekostet. Wie viele Stück zu 1,27 € wurden gekauft?",
           "answer": "2",
-          "e": "Sei n die gesuchte Anzahl. (6·1,35 € + n·1,26 €) ÷ (6+n) = 1,33 €. Aufgelöst: n = (6·1,35 € − 6·1,33 €) ÷ (1,33 € − 1,26 €) = 2.",
+          "e": "Sei n die gesuchte Anzahl. (6·1,35 € + n·1,27 €) ÷ (6+n) = 1,33 €. Aufgelöst: n = (6·1,35 € − 6·1,33 €) ÷ (1,33 € − 1,27 €) = 2.",
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 5 Stück einer Sorte zu je 4,28 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 3,59 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 5 Stück einer Sorte zu je 4,30 € und 2 Stück einer anderen Sorte. Durchschnittlich hat er 3,60 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "1,85",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,59 € · 7 = 25,10 €. Davon entfallen 5·4,28 € = 21,40 € auf die erste Sorte. Preis der zweiten Sorte: (25,10 € − 21,40 €) ÷ 2 = 1,85 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 3,60 € · 7 = 25,20 €. Davon entfallen 5·4,30 € = 21,50 € auf die erste Sorte. Preis der zweiten Sorte: (25,20 € − 21,50 €) ÷ 2 = 1,85 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -5644,9 +5644,9 @@
           "cat": "Dreisatz"
         },
         {
-          "q": "4 Arbeiter benötigen 11 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 4 Arbeiter für das gleiche Projekt?",
-          "answer": "11",
-          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 4·11 = 4·X → X = 44 ÷ 4 = 11 Tage.",
+          "q": "4 Arbeiter benötigen 11 Tage für ein Projekt (gleich befähigt, gleiches Tempo). Wie viele Tage benötigen 11 Arbeiter für das gleiche Projekt?",
+          "answer": "4",
+          "e": "Indirekte Proportionalität (mehr Arbeiter → weniger Zeit): 4·11 = 11·X → X = 44 ÷ 11 = 4 Tage.",
           "cat": "Dreisatz"
         },
         {
@@ -5716,9 +5716,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück zu je 1,47 € und mehrere Stück zu je 1,12 €. Durchschnittlich hat ein Stück 1,25 € gekostet. Wie viele Stück zu 1,12 € wurden gekauft?",
+          "q": "Jemand kauft 3 Stück zu je 1,47 € und mehrere Stück zu je 1,15 €. Durchschnittlich hat ein Stück 1,27 € gekostet. Wie viele Stück zu 1,15 € wurden gekauft?",
           "answer": "5",
-          "e": "Sei n die gesuchte Anzahl. (3·1,47 € + n·1,12 €) ÷ (3+n) = 1,25 €. Aufgelöst: n = (3·1,47 € − 3·1,25 €) ÷ (1,25 € − 1,12 €) = 5.",
+          "e": "Sei n die gesuchte Anzahl. (3·1,47 € + n·1,15 €) ÷ (3+n) = 1,27 €. Aufgelöst: n = (3·1,47 € − 3·1,27 €) ÷ (1,27 € − 1,15 €) = 5.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -5841,9 +5841,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 3 Stück zu je 0,90 € und mehrere Stück zu je 0,62 €. Durchschnittlich hat ein Stück 0,71 € gekostet. Wie viele Stück zu 0,62 € wurden gekauft?",
+          "q": "Jemand kauft 3 Stück zu je 0,90 € und mehrere Stück zu je 0,63 €. Durchschnittlich hat ein Stück 0,72 € gekostet. Wie viele Stück zu 0,63 € wurden gekauft?",
           "answer": "6",
-          "e": "Sei n die gesuchte Anzahl. (3·0,90 € + n·0,62 €) ÷ (3+n) = 0,71 €. Aufgelöst: n = (3·0,90 € − 3·0,71 €) ÷ (0,71 € − 0,62 €) = 6.",
+          "e": "Sei n die gesuchte Anzahl. (3·0,90 € + n·0,63 €) ÷ (3+n) = 0,72 €. Aufgelöst: n = (3·0,90 € − 3·0,72 €) ÷ (0,72 € − 0,63 €) = 6.",
           "cat": "Durchschnittsrechnung"
         },
         {
@@ -6091,9 +6091,9 @@
           "cat": "Durchschnittsrechnung"
         },
         {
-          "q": "Jemand kauft 4 Stück einer Sorte zu je 4,47 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 4,26 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
+          "q": "Jemand kauft 4 Stück einer Sorte zu je 4,48 € und 8 Stück einer anderen Sorte. Durchschnittlich hat er 4,26 € pro Stück bezahlt. Wie teuer war ein Stück der zweiten Sorte?",
           "answer": "4,15",
-          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 4,26 € · 12 = 51,08 €. Davon entfallen 4·4,47 € = 17,88 € auf die erste Sorte. Preis der zweiten Sorte: (51,08 € − 17,88 €) ÷ 8 = 4,15 €.",
+          "e": "Gesamtsumme: Durchschnitt · Gesamtanzahl = 4,26 € · 12 = 51,12 €. Davon entfallen 4·4,48 € = 17,92 € auf die erste Sorte. Preis der zweiten Sorte: (51,12 € − 17,92 €) ÷ 8 = 4,15 €.",
           "cat": "Durchschnittsrechnung"
         },
         {
