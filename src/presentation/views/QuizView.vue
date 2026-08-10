@@ -14,7 +14,7 @@
       <div class="exam-prog"><i :style="{ width: answeredPct + '%' }"></i></div>
     </div>
 
-    <div v-if="item.passage" class="passage">
+    <div v-if="item.passage" class="passage" :class="{ 'premise-lines': quiz.id === 'dgpschlussmulti' }">
       {{ item.passage }}<span v-if="item.src" class="src">Quelle: {{ item.src }}</span>
     </div>
     <div v-if="item.chartHTML" class="chart-wrap" v-html="item.chartHTML"></div>

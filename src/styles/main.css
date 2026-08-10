@@ -135,6 +135,12 @@ button{font-family:inherit}
 .q-counter{font-family:var(--fs-mono);font-size:12px;color:var(--muted);letter-spacing:.04em}
 .passage{background:var(--surface-2);border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:var(--r-sm);padding:16px 18px;margin-bottom:18px;font-size:14.5px;line-height:1.65}
 .passage .src{display:block;margin-top:8px;font-size:12px;color:var(--faint);font-style:italic}
+/* Premise lists (DGP-Logische Schlüsse): one premise per line instead of a
+   running paragraph — far easier to hold in working memory under time
+   pressure. Scoped via a modifier class rather than applied to .passage
+   globally, because englisch.json and russisch.json passages contain
+   newlines that currently collapse to spaces and must keep doing so. */
+.passage.premise-lines{white-space:pre-line;line-height:1.85}
 .chart-wrap{background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-sm);padding:14px 12px 8px;margin-bottom:18px;overflow-x:auto}
 .chart-wrap svg{display:block;margin:0 auto}
 .qtable-title{font-weight:600;font-size:14.5px;margin:2px 0 10px;color:var(--ink)}
