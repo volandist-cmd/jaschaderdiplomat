@@ -24,7 +24,7 @@
     <div v-if="item.chartHTML" class="chart-wrap" v-html="item.chartHTML"></div>
 
     <div class="q-counter">
-      Frage {{ quiz.idx + 1 }} von {{ quiz.items.length }}{{ item.cat ? ' · ' + item.cat : '' }}
+      Frage {{ quiz.idx + 1 }} von {{ quiz.items.length }}{{ catVisible ? ' · ' + item.cat : '' }}
       <span v-if="item.official" style="color:var(--green)"> · offiziell</span>
       <span v-if="item.flag" style="color:var(--gold)"> · zu prüfen</span>
     </div>
@@ -191,6 +191,17 @@ const answeredPct = computed(() => {
 })
 
 const modData = ref<ModuleData | null>(null)
+/**
+ * Bei einigen Kategorien BENENNT die Unterkategorie das Urteil, statt nur das Thema zu nennen:
+ * „Fehlschluss der Umkehrung" ist immer „Stimmt nicht", „Direkte Wiedergabe" immer „Stimmt".
+ * Wird sie über der Frage angezeigt, sind solche Aufgaben Gratispunkte — bei dgpschlussmulti
+ * betraf das 276 von 480 binären Aufgaben (58 %). Die Bezeichnung bleibt für die Auswertung und
+ * die Fehleranalyse erhalten, wird während der Frage aber ausgeblendet; das Modul steuert das
+ * über `hideCatDuringQuestion` in seiner JSON-Datei, damit die Entscheidung bei den Daten liegt
+ * und nicht als Kategorie-Sonderfall im Code verstreut wird.
+ */
+const catVisible = computed(() => !!item.value?.cat && !modData.value?.hideCatDuringQuestion)
+
 const modTitle = computed(() => modData.value?.title ?? '')
 const modDurationMin = computed(() => modData.value?.durationMin ?? 0)
 

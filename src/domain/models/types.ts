@@ -215,6 +215,13 @@ export interface ModuleData {
   secPerItem?: number
   totalSec?: number
   schwellePct?: number
+  /**
+   * Blendet die Unterkategorie-Bezeichnung WÄHREND der Frage aus (Auswertung und Fehleranalyse
+   * behalten sie). Nötig, wo die Bezeichnung nicht das Thema, sondern das URTEIL benennt —
+   * z. B. „Fehlschluss der Umkehrung" ist stets „Stimmt nicht". Ohne diesen Schalter waren bei
+   * dgpschlussmulti 276 von 480 binären Aufgaben allein über den Kategorienamen lösbar.
+   */
+  hideCatDuringQuestion?: boolean
   attemptN?: number
   fullrunN?: number
   fullrunMin?: number
