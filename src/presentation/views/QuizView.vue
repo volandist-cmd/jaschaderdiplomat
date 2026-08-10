@@ -15,7 +15,11 @@
     </div>
 
     <div v-if="item.passage" class="passage" :class="{ 'premise-lines': quiz.id === 'dgpschlussmulti' }">
-      {{ item.passage }}<span v-if="item.src" class="src">Quelle: {{ item.src }}</span>
+      <template v-if="passageParas.length > 1">
+        <p v-for="(para, pi) in passageParas" :key="pi">{{ para }}</p>
+      </template>
+      <template v-else>{{ item.passage }}</template>
+      <span v-if="item.src" class="src">Quelle: {{ item.src }}</span>
     </div>
     <div v-if="item.chartHTML" class="chart-wrap" v-html="item.chartHTML"></div>
 
@@ -251,6 +255,19 @@ function optDualClass(side: 'left' | 'right', j: number) {
   }
   return cls
 }
+
+/**
+ * Reading passages (Englisch v1/v2, Russisch) carry their paragraph structure as blank lines
+ * inside the JSON string. Rendered as a single text interpolation those breaks collapse into
+ * spaces, so a 300-word Economist-style text arrived as one unbroken block — unreadable under
+ * exam time pressure. Split into real <p> elements instead; `premise-lines` items (dgpschlussmulti)
+ * keep their pre-line rendering because there each line is one premise, not a paragraph.
+ */
+const passageParas = computed(() => {
+  const p = item.value?.passage
+  if (!p || quiz.value?.id === 'dgpschlussmulti') return []
+  return p.split(/\n\s*\n/).map((s) => s.trim()).filter(Boolean)
+})
 
 const stemLines = computed(() => {
   const q = item.value?.q || ''
