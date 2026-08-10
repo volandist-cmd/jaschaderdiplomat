@@ -173,10 +173,35 @@ export function isItemCorrect(item: QuizItem, answer: number | number[] | string
     const a = norm(answer)
     const b = norm(item.answer)
     if (a === b) return true
-    if (/^-?\d+(,\d+)?$/.test(a) && /^-?\d+(,\d+)?$/.test(b)) {
-      const na = parseFloat(a.replace(',', '.'))
-      const nb = parseFloat(b.replace(',', '.'))
-      return Math.abs(na - nb) < 1e-9
+
+    /*
+     * Numerischer Vergleich in deutscher Schreibweise. Zwei Punkte, die vorher fehlten und
+     * korrekte Eingaben als falsch bewertet haben (gefunden beim DGP-Mathematik-Neuaufbau
+     * 2026-08-10, siehe Solutions/17 DGP-Mathematik):
+     *  1. Tausenderpunkte: „3.725,00" wurde durch norm() zu „3,725,00" und fiel damit aus dem
+     *     Zahlenmuster heraus - die Eingabe galt als falsch, obwohl sie richtig war.
+     *  2. Rundung: bei einer auf zwei Stellen gerundeten Musterlösung (z. B. 62,67 für 62 2/3)
+     *     muss auch der unaufgerundete Wert zählen, sonst bestraft die Bewertung eine
+     *     mathematisch einwandfreie Antwort.
+     */
+    const parseDe = (s: string): number | null => {
+      // Deutsche Gruppierung (1.234.567,89) - Punkte sind Tausendertrenner, kein Dezimalpunkt.
+      const grouped = String(s).replace(/\s/g, '')
+      const de = /^-?\d{1,3}(\.\d{3})+(,\d+)?$/.test(grouped)
+        ? grouped.replace(/\./g, '')
+        : grouped
+      const plain = de.replace(/\./g, ',')
+      if (!/^-?\d+(,\d+)?$/.test(plain)) return null
+      return parseFloat(plain.replace(',', '.'))
+    }
+    const na = parseDe(String(answer ?? ''))
+    const nb = parseDe(String(item.answer))
+    if (na != null && nb != null) {
+      const dez = (String(item.answer).split(/[.,]/)[1] || '').length
+      // Halbe Einheit der letzten ausgewiesenen Dezimalstelle als Toleranz; bei ganzzahliger
+      // Musterlösung bleibt es beim exakten Vergleich.
+      const tol = dez > 0 ? 0.5 * Math.pow(10, -dez) : 1e-9
+      return Math.abs(na - nb) < tol + 1e-12
     }
     return false
   }
