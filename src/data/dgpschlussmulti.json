@@ -1866,11 +1866,10 @@
      ],
      "aset": [
       0,
-      1,
       2
      ],
      "multi": true,
-     "e": "„Wer spitze Kanten hat, hat keine goldenen Griffe.“ ist richtig — Die Aussage gibt eine der Prämissen wörtlich wieder. „Manche, die nicht reglos sind, haben keine spitzen Kanten.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Wer goldene Griffe hat, ist nicht reglos.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Manche, die keine spitzen Kanten haben, sind reglos.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
+     "e": "„Wer spitze Kanten hat, hat keine goldenen Griffe.“ ist richtig — Die Aussage gibt eine der Prämissen wörtlich wieder. „Manche, die nicht reglos sind, haben keine spitzen Kanten.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Wer goldene Griffe hat, ist nicht reglos.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Manche, die keine spitzen Kanten haben, sind reglos.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
      "cat": "Mehrstufige Kette"
     },
     {
@@ -2316,10 +2315,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      0
+      4
      ],
      "multi": true,
-     "e": "„Manche, die nicht durchsichtig sind, sind keine Inseln.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Was durchsichtig ist, kann lesen.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Was nicht durchsichtig ist, kann lesen.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge. „Manche, die lesen können, sind Inseln.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben.",
+     "e": "„Manche, die nicht durchsichtig sind, sind keine Inseln.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Was durchsichtig ist, kann lesen.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Was nicht durchsichtig ist, kann lesen.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge. „Manche, die lesen können, sind Inseln.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben.",
      "cat": "Kandidatenauswahl"
     },
     {
@@ -2456,10 +2455,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      1
+      4
      ],
      "multi": true,
-     "e": "„Einige Vorhänge können nicht schweben.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht schweben können, sind keine Vorhänge.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Wer klappert, kann nicht schweben.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Wer nicht schweben kann, ist ein Vorhang.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge.",
+     "e": "„Einige Vorhänge können nicht schweben.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht schweben können, sind keine Vorhänge.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Wer klappert, kann nicht schweben.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Wer nicht schweben kann, ist ein Vorhang.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge.",
      "cat": "Maximal-adversarial"
     },
     {
@@ -2473,12 +2472,11 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      0,
       1,
       3
      ],
      "multi": true,
-     "e": "„Manche, die nicht rauschen, sind hohl.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Manche, die hohl sind, rauschen nicht.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Wer nicht schwimmen kann, ist hohl.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge. „Manche, die schwimmen können, sind Laternen.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage.",
+     "e": "„Manche, die nicht rauschen, sind hohl.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Manche, die hohl sind, rauschen nicht.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Wer nicht schwimmen kann, ist hohl.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge. „Manche, die schwimmen können, sind Laternen.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage.",
      "cat": "Maximal-adversarial"
     },
     {
@@ -2703,10 +2701,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      1
+      4
      ],
      "multi": true,
-     "e": "„Manche, die flüstern können, rosten nicht.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht flüstern können, rosten.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Wer rostet, ist keine Maus.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht flüstern können, rosten nicht.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
+     "e": "„Manche, die flüstern können, rosten nicht.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht flüstern können, rosten.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Wer rostet, ist keine Maus.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht flüstern können, rosten nicht.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
      "cat": "Mehrstufige Kette (fortgeschritten)"
     },
     {
@@ -4284,10 +4282,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      3
+      4
      ],
      "multi": true,
-     "e": "„Wer träumen kann, hat keine langen Schatten.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Was nicht gepunktet ist, ist ein Krug.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge. „Wer träumen kann, ist ein Krug.“ ist falsch — Das ist der Fehlschluss der Umkehrung: Aus „alle A sind B“ folgt nicht „alle B sind A“. „Manche, die nicht träumen können, haben lange Schatten.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten.",
+     "e": "„Wer träumen kann, hat keine langen Schatten.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Was nicht gepunktet ist, ist ein Krug.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge. „Wer träumen kann, ist ein Krug.“ ist falsch — Das ist der Fehlschluss der Umkehrung: Aus „alle A sind B“ folgt nicht „alle B sind A“. „Manche, die nicht träumen können, haben lange Schatten.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. ",
      "cat": "Mehrstufige Kette (fortgeschritten)"
     },
     {
@@ -4461,11 +4459,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      0,
-      2
+      0
      ],
      "multi": true,
-     "e": "„Kein Berg hat eine Nummer.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Was klebrig ist, hat eine Nummer.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht rechnen können, sind nicht klebrig.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Wer nicht rechnen kann, hat eine Nummer.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge.",
+     "e": "„Kein Berg hat eine Nummer.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Was klebrig ist, hat eine Nummer.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht rechnen können, sind nicht klebrig.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Wer nicht rechnen kann, hat eine Nummer.“ ist falsch — Diese Formulierung ist nicht die zulässige Kontraposition, sondern vertauscht Bedingung und Folge.",
      "cat": "Mehrstufige Kette"
     },
     {
@@ -5222,10 +5219,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      2
+      4
      ],
      "multi": true,
-     "e": "„Wer zaubern kann, ist nicht aus Blech.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht zaubern können, sind Waagen.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht aus Blech sind, können nicht zaubern.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Wer zaubern kann, hat ein Dach.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
+     "e": "„Wer zaubern kann, ist nicht aus Blech.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht zaubern können, sind Waagen.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die nicht aus Blech sind, können nicht zaubern.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Wer zaubern kann, hat ein Dach.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
      "cat": "Mehrstufige Kette"
     },
     {
@@ -5328,11 +5325,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      1,
-      2
+      1
      ],
      "multi": true,
-     "e": "„Was trocken ist, schaukelt.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Einige Fahnen stinken.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Manche, die nicht trocken sind, schaukeln.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Manche, die nicht trocken sind, stinken.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
+     "e": "„Was trocken ist, schaukelt.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Einige Fahnen stinken.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Manche, die nicht trocken sind, schaukeln.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Manche, die nicht trocken sind, stinken.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
      "cat": "Maximal-adversarial"
     },
     {
@@ -6282,10 +6278,10 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      2
+      4
      ],
      "multi": true,
-     "e": "„Manche, die nicht aus Pappe sind, haben keinen Schlüssel.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die einen Schlüssel haben, sind aus Pappe.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht aus Pappe sind, können nicht tanzen.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Kein Ei ist aus Pappe.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
+     "e": "„Manche, die nicht aus Pappe sind, haben keinen Schlüssel.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht. „Manche, die einen Schlüssel haben, sind aus Pappe.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht aus Pappe sind, können nicht tanzen.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Kein Ei ist aus Pappe.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
      "cat": "Maximal-adversarial"
     },
     {
@@ -7629,12 +7625,11 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      0,
       1,
       2
      ],
      "multi": true,
-     "e": "„Manche, die nicht aus Ton sind, wanken.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Manche, die aus Ton sind, wanken nicht.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Einige Bienen wanken nicht.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Manche, die nicht wanken, sind keine Bienen.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
+     "e": "„Manche, die nicht aus Ton sind, wanken.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Manche, die aus Ton sind, wanken nicht.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Einige Bienen wanken nicht.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Manche, die nicht wanken, sind keine Bienen.“ ist falsch — Die Prämissen stellen zwischen diesen beiden Begriffen keine Verbindung her — ein gemeinsamer Bezug auf eine dritte Gruppe genügt dafür nicht.",
      "cat": "Kandidatenauswahl"
     },
     {
@@ -7959,12 +7954,11 @@
       "Keiner der Schlüsse folgt zwingend"
      ],
      "aset": [
-      0,
       1,
       3
      ],
      "multi": true,
-     "e": "„Manche, die nicht aus Wachs sind, sind glänzend.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten. „Manche, die aus Wachs sind, haben dicke Kronen.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Manche, die glänzend sind, haben dicke Kronen.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht glänzend sind, sind aus Wachs.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten.",
+     "e": "„Manche, die nicht aus Wachs sind, sind glänzend.“ ist falsch — Das folgt nicht zwingend: Die Prämissen nennen keine Gruppe, die nachweislich beide Eigenschaften trägt. Aus einer Alles-Aussage über eine Gruppe folgt keine Einige-Aussage über deren Gegenteil — dass es solche Dinge überhaupt gibt, steht nirgends. „Manche, die aus Wachs sind, haben dicke Kronen.“ ist richtig — Da die genannten Gruppen nicht leer sind, folgt aus einer All-Aussage auch die entsprechende Einige-Aussage. „Manche, die glänzend sind, haben dicke Kronen.“ ist falsch — Diese Aussage geht über das hinaus, was die Prämissen zwingend hergeben. „Manche, die nicht glänzend sind, sind aus Wachs.“ ist richtig — Das lässt sich durch Kombination der Prämissen zwingend herleiten.",
      "cat": "Mehrstufige Kette"
     },
     {

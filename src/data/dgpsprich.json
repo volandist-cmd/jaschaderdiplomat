@@ -15,7 +15,7 @@
      "q": "Wer im Trüben fischt, hat schon halb verloren.",
      "o": [
       "Ein Esel macht dem anderen den Hof.",
-      "Unehrliche Vorteilsnahme rächt sich meist.",
+      "Unrecht Gut gedeiht nicht.",
       "Lügen haben kurze Beine.",
       "Der Schein trügt."
      ],
@@ -110,7 +110,7 @@
     {
      "q": "Der Köder muss dem Fisch schmecken, nicht dem Angler.",
      "o": [
-      "Ein Angebot muss auf die Zielgruppe zugeschnitten sein, nicht auf den Anbieter.",
+      "Mit Honig fängt man mehr Fliegen als mit Essig.",
       "Mit Speck fängt man Mäuse.",
       "Andere Länder, andere Sitten.",
       "Man soll das Fell des Bären nicht verkaufen, bevor man ihn erlegt hat."
@@ -181,7 +181,7 @@
     {
      "q": "Wer A sagt, muss auch B sagen.",
      "o": [
-      "Wer angefangen hat, muss auch zu Ende bringen.",
+      "Wer sich die Suppe eingebrockt hat, muss sie auch auslöffeln.",
       "Man muss das Eisen schmieden, solange es heiß ist.",
       "Übung macht den Meister.",
       "Aller Anfang ist schwer."
@@ -315,7 +315,7 @@
     {
      "q": "Der Fisch stinkt vom Kopf her.",
      "o": [
-      "Probleme in einer Organisation gehen meist von der Führung aus.",
+      "Wie der Herr, so’s Gescherr.",
       "Wo gehobelt wird, fallen Späne.",
       "Viele Köche verderben den Brei.",
       "Ein Esel macht dem anderen den Hof."
@@ -341,8 +341,8 @@
      "o": [
       "Erst wägen, dann wagen.",
       "Wo ein Wille ist, ist auch ein Weg.",
-      "Manchmal muss man einen Umweg akzeptieren, statt stur zu bleiben.",
-      "Der Klügere gibt nach."
+      "Viele Wege führen nach Rom.",
+      "Morgenstund hat Gold im Mund."
      ],
      "a": 2,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: starres Beharren auf dem direkten Weg führt nicht immer zum Ziel.",
@@ -363,7 +363,7 @@
     {
      "q": "Einigkeit macht stark.",
      "o": [
-      "Gemeinsam lässt sich mehr erreichen als allein.",
+      "Viele Hände machen der Arbeit schnell ein Ende.",
       "Selbst ist der Mann/die Frau.",
       "Gleich und gleich gesellt sich gern.",
       "Viele Köche verderben den Brei."
@@ -402,7 +402,7 @@
       "Kleider machen Leute.",
       "Der Apfel fällt nicht weit vom Stamm.",
       "Reden ist Silber, Schweigen ist Gold.",
-      "Man beurteilt jemanden an seinen Taten, nicht an seinen Worten."
+      "An ihren Taten sollt ihr sie erkennen."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: die tatsächlichen Ergebnisse/Taten einer Person offenbaren deren wahren Charakter.",
@@ -470,8 +470,8 @@
     {
      "q": "Was nicht passt, wird passend gemacht.",
      "o": [
-      "Der Zweck heiligt die Mittel.",
-      "Notfalls wird eine Sache mit Gewalt oder Tricks angepasst, statt aufzugeben.",
+      "Ordnung ist das halbe Leben.",
+      "Not kennt kein Gebot.",
       "Man muss zuerst laufen lernen, bevor man rennen kann.",
       "Wo ein Wille ist, ist auch ein Weg."
      ],
@@ -615,7 +615,7 @@
      "o": [
       "Kleinvieh macht auch Mist.",
       "Zeit ist Geld.",
-      "Auch kleine Beträge/Dinge verdienen Wertschätzung.",
+      "Kleine Bäche machen große Flüsse.",
       "Sparen in der Zeit, so hat man in der Not."
      ],
      "a": 2,
@@ -647,9 +647,9 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Wer zu tief blickt, dem schwindelt.",
+     "q": "Wer zu viel weiß, wird alt vor der Zeit.",
      "o": [
-      "Manches Wissen bekommt einem nicht.",
+      "Allzu viel Wissen macht Kopfweh.",
       "Kommt Zeit, kommt Rat.",
       "Übung macht den Meister.",
       "Aller Anfang ist schwer."
@@ -828,12 +828,12 @@
      "e": "Auch kleine Mengen oder Beiträge ergeben in der Summe etwas Bedeutendes."
     },
     {
-     "q": "Man soll den Spatz in der Hand der Taube auf dem Dach vorziehen.",
+     "q": "Ein sicherer Groschen ist besser als ein unsicherer Taler.",
      "o": [
       "Man kann nicht alles haben.",
       "Vorsicht ist besser als Nachsicht.",
       "Von nichts kommt nichts.",
-      "Ein sicherer, kleinerer Vorteil ist besser als ein unsicherer, größerer."
+      "Besser den Spatz in der Hand als die Taube auf dem Dach."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: ein tatsächlich vorhandener, wenn auch bescheidener Gewinn ist einer unsicheren, größeren Chance vorzuziehen.",
@@ -868,7 +868,7 @@
      "o": [
       "In der Kürze liegt die Würze.",
       "Lügen haben kurze Beine.",
-      "Nicht alles Geschriebene ist auch wahr.",
+      "Es ist nicht alles Gold, was glänzt.",
       "Der Schein trügt."
      ],
      "a": 2,
@@ -902,7 +902,7 @@
     {
      "q": "Kleine Fische, kleine Sorgen; große Fische, große Sorgen.",
      "o": [
-      "Mit wachsendem Erfolg wachsen auch die Probleme.",
+      "Große Schiffe, große Sorgen.",
       "Aller Anfang ist schwer.",
       "Kleinvieh macht auch Mist.",
       "Wer zwei Hasen jagt, fängt keinen."
@@ -1013,7 +1013,7 @@
      "q": "Wo Licht ist, ist auch Schatten.",
      "o": [
       "Alles hat ein Ende, nur die Wurst hat zwei.",
-      "Jeder Vorteil bringt auch einen Nachteil mit sich.",
+      "Keine Rose ohne Dornen.",
       "Kleine Fische, kleine Sorgen; große Fische, große Sorgen.",
       "Überdruss kommt auch von Überfluss."
      ],
@@ -1132,7 +1132,7 @@
      "o": [
       "Lügen haben kurze Beine.",
       "Der Ton macht die Musik.",
-      "Aus einer kleinen Meinungsverschiedenheit kann schnell Streit werden.",
+      "Aus einem Funken wird ein Feuer.",
       "Reden ist Silber, Schweigen ist Gold."
      ],
      "a": 2,
@@ -1167,7 +1167,7 @@
      "q": "Kleider machen Leute.",
      "o": [
       "Wer im Schaden schwimmt, hat gern, dass andere mit ihm baden.",
-      "Der erste Eindruck zählt.",
+      "Man empfängt den Mann nach dem Gewand und entlässt ihn nach dem Verstand.",
       "Wahre Freundschaft überdauert die Zeit.",
       "Weniger ist manchmal mehr."
      ],
@@ -1204,7 +1204,7 @@
       "Der Apfel fällt nicht weit vom Stamm.",
       "Ein Freund in der Not ist ein Freund in der Tat.",
       "Alte Liebe rostet nicht.",
-      "Familienbande wiegen stärker als andere Beziehungen."
+      "Das Hemd ist mir näher als der Rock."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: die Bindung zur Familie ist stärker als andere zwischenmenschliche Bindungen.",
@@ -1220,7 +1220,7 @@
       "Kommt Zeit, kommt Rat.",
       "Man kann nicht alles haben.",
       "Nicht jeder Wunsch geht in Erfüllung.",
-      "Man sollte sich mit dem Unabänderlichen abfinden."
+      "Es kommt, wie es kommen muss."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: man sollte sich Umständen, die man nicht ändern kann, gelassen anpassen.",
@@ -1263,9 +1263,9 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Ein Unglück kommt selten allein.",
+     "q": "Wenn es regnet, dann gießt es.",
      "o": [
-      "Negative Ereignisse häufen sich oft in kurzer Zeit.",
+      "Ein Unglück kommt selten allein.",
       "Überdruss kommt auch von Überfluss.",
       "Alles hat ein Ende, nur die Wurst hat zwei.",
       "Der Krug geht so lange zum Brunnen, bis er bricht."
@@ -1325,7 +1325,7 @@
     {
      "q": "Liebe macht blind.",
      "o": [
-      "Verliebte übersehen die Schwächen des anderen.",
+      "Eigene Kinder sind immer die schönsten.",
       "Alte Liebe rostet nicht.",
       "Was sich liebt, das neckt sich.",
       "Liebe geht durch den Magen."
@@ -1410,7 +1410,7 @@
       "Hochmut kommt vor dem Fall.",
       "Wo ein Wille ist, ist auch ein Weg.",
       "Wie du mir, so ich dir.",
-      "In einem Streit lohnt es sich manchmal, klein beizugeben."
+      "Nachgeben stillt allen Krieg."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: wer die größere Weisheit besitzt, beendet einen sinnlosen Streit eher, indem er nachgibt.",
@@ -1521,7 +1521,7 @@
       "Aller Anfang ist schwer.",
       "Wer zwei Hasen jagt, fängt keinen.",
       "Der Weg ist das Ziel.",
-      "Ohne klare Zielsetzung kommt man nicht ans Ziel."
+      "Wer nicht weiß, wohin er will, den führt kein Wind ans Ziel."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: erst ein klar definiertes Ziel ermöglicht es, den richtigen Weg dorthin zu finden.",
@@ -1591,7 +1591,7 @@
      "o": [
       "Übung macht den Meister.",
       "Aus Schaden wird man klug.",
-      "Wer etwas vergisst, muss den Fehler durch zusätzlichen Aufwand ausgleichen.",
+      "Wer nicht hören will, muss fühlen.",
       "Aller Anfang ist schwer."
      ],
      "a": 2,
@@ -1599,9 +1599,9 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Mit Speck fängt man Mäuse.",
+     "q": "Wer locken will, muss ködern.",
      "o": [
-      "Mit einem attraktiven Anreiz gewinnt man andere leichter für sich.",
+      "Mit Speck fängt man Mäuse.",
       "Wer suchet, der findet.",
       "Liebe geht durch den Magen.",
       "Einem geschenkten Gaul schaut man nicht ins Maul."
@@ -1623,12 +1623,12 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Es ist dafür gesorgt, dass die Bäume nicht in den Himmel wachsen.",
+     "q": "Auch der höchste Turm hat einmal ein Ende.",
      "o": [
       "Wer zu hoch hinaus will, dem droht der Fall.",
       "Hochmut kommt vor dem Fall.",
       "Alles hat ein Ende, nur die Wurst hat zwei.",
-      "Kein Wachstum/Erfolg geht unbegrenzt immer so weiter."
+      "Bäume wachsen nicht in den Himmel."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: auch der größte Erfolg findet irgendwann eine natürliche Grenze.",
@@ -1646,10 +1646,10 @@
      "e": "Ausdauer bei der Suche nach etwas führt letztlich zum Erfolg."
     },
     {
-     "q": "Man kann einen Brunnen erst zuschütten, wenn das Kind hineingefallen ist.",
+     "q": "Nach dem Schaden ist jeder klug.",
      "o": [
       "Aus Schaden wird man klug.",
-      "Manche Vorkehrungen werden erst nach einem Unglück getroffen.",
+      "Man deckt den Brunnen erst zu, wenn das Kind hineingefallen ist.",
       "Vorsicht ist besser als Nachsicht.",
       "Vorsicht ist die Mutter der Porzellankiste."
      ],
@@ -1687,7 +1687,7 @@
       "Kleinvieh macht auch Mist.",
       "Wo gehobelt wird, fallen Späne.",
       "Steter Tropfen höhlt den Stein.",
-      "Wer etwas Bedeutendes bewegt, löst auch Widerstand aus."
+      "Hohe Bäume fangen viel Wind."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: bedeutende Vorhaben bringen zwangsläufig Reibung und Aufsehen mit sich.",
@@ -1712,7 +1712,7 @@
     {
      "q": "In der Not frisst der Teufel Fliegen.",
      "o": [
-      "In einer Notlage nimmt man auch mit weniger Gutem vorlieb.",
+      "In der Not schmeckt jedes Brot.",
       "Aller Anfang ist schwer.",
       "Not macht erfinderisch.",
       "Von nichts kommt nichts."
@@ -1986,8 +1986,8 @@
     {
      "q": "Wer schön sein will, muss leiden.",
      "o": [
-      "Ohne Fleiß kein Preis.",
-      "Für ein gutes Ergebnis nimmt man Unannehmlichkeiten in Kauf.",
+      "Kleine Geschenke erhalten die Freundschaft.",
+      "Von nichts kommt nichts.",
       "Kleider machen Leute.",
       "Der Schein trügt."
      ],
@@ -2000,7 +2000,7 @@
      "o": [
       "Hochmut kommt vor dem Fall.",
       "Selbst ist der Mann/die Frau.",
-      "Zurückhaltung führt im Leben nicht immer weiter.",
+      "Wer nicht wagt, der nicht gewinnt.",
       "Selbstlob stinkt."
      ],
      "a": 2,
@@ -2055,11 +2055,11 @@
      "e": "Echte, tiefe Bindungen bleiben auch nach langer Zeit oder Trennung bestehen."
     },
     {
-     "q": "Stille Wasser sind tief.",
+     "q": "Wer wenig redet, hat oft viel zu sagen.",
      "o": [
       "Der Schein trügt.",
       "Leere Fässer klingen am lautesten.",
-      "Zurückhaltende Menschen haben oft mehr zu bieten, als man vermutet.",
+      "Stille Wasser sind tief.",
       "Kleider machen Leute."
      ],
      "a": 2,
@@ -2117,10 +2117,10 @@
     {
      "q": "Zeit heilt alle Wunden.",
      "o": [
-      "Kommt Zeit, kommt Rat.",
+      "Der frühe Vogel fängt den Wurm.",
       "Alles hat ein Ende, nur die Wurst hat zwei.",
       "Zeit ist Geld.",
-      "Mit der Zeit lässt jeder Schmerz nach."
+      "Die Zeit bringt Rosen."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: seelischer Schmerz wird mit ausreichend Zeit erträglicher.",
@@ -2129,7 +2129,7 @@
     {
      "q": "Erst die Arbeit, dann das Vergnügen.",
      "o": [
-      "Pflichten sollten vor dem Vergnügen erledigt werden.",
+      "Erst die Last, dann die Rast.",
       "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
       "Eile mit Weile.",
       "Ohne Fleiß kein Preis."
@@ -2191,7 +2191,7 @@
     {
      "q": "Selbstlob stinkt.",
      "o": [
-      "Man soll sich nicht selbst loben.",
+      "Eigenlob stinkt.",
       "Kleider machen Leute.",
       "Reden ist Silber, Schweigen ist Gold.",
       "Hochmut kommt vor dem Fall."
@@ -2213,10 +2213,10 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Was sich liebt, das neckt sich.",
+     "q": "Wer sich zankt, der hat sich lieb.",
      "o": [
       "Liebe geht durch den Magen.",
-      "Necken unter nahestehenden Menschen ist ein Ausdruck von Zuneigung.",
+      "Was sich neckt, das liebt sich.",
       "Alte Liebe rostet nicht.",
       "Ein Freund in der Not ist ein Freund in der Tat."
      ],
@@ -2253,7 +2253,7 @@
      "o": [
       "Ende gut, alles gut.",
       "Der Klügere gibt nach.",
-      "Ein gutes Ziel rechtfertigt notfalls auch fragwürdige Wege dorthin.",
+      "Der Erfolg gibt dem Recht, der ihn hat.",
       "Wer A sagt, muss auch B sagen."
      ],
      "a": 2,
@@ -2275,9 +2275,9 @@
     {
      "q": "Doppelt genäht hält besser.",
      "o": [
-      "Vorsicht ist besser als Nachsicht.",
+      "Der Ton macht die Musik.",
       "Vorsicht ist die Mutter der Porzellankiste.",
-      "Zusätzliche Vorsichtsmaßnahmen erhöhen die Sicherheit.",
+      "Doppelt hält besser.",
       "Vertrauen ist gut, Kontrolle ist besser."
      ],
      "a": 2,
@@ -2285,10 +2285,10 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Sparen in der Zeit, so hat man in der Not.",
+     "q": "Wer für morgen sorgt, hat übermorgen genug.",
      "o": [
       "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
-      "Wer rechtzeitig vorsorgt, ist später abgesichert.",
+      "Spare in der Zeit, so hast du in der Not.",
       "Von nichts kommt nichts.",
       "Zeit ist Geld."
      ],
@@ -2297,11 +2297,11 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Ende gut, alles gut.",
+     "q": "Der Ausgang krönt das Werk.",
      "o": [
       "Wer zuletzt lacht, lacht am besten.",
       "Der Zweck heiligt die Mittel.",
-      "Was am Ende zählt, ist das Endergebnis.",
+      "Ende gut, alles gut.",
       "Aller Anfang ist schwer."
      ],
      "a": 2,
@@ -2361,7 +2361,7 @@
       "Der Schein trügt.",
       "Trau, schau, wem.",
       "Reden ist Silber, Schweigen ist Gold.",
-      "Die wahren Absichten anderer bleiben oft verborgen."
+      "Man sieht dem Menschen vor den Kopf, aber nicht hinein."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: man kann die inneren Gedanken/Motive anderer Menschen nicht direkt erkennen.",
@@ -2408,7 +2408,7 @@
      "o": [
       "Irgendwann ist alles vorbei.",
       "Beharrliches Suchen führt zum Ziel.",
-      "Mit der Zeit findet sich eine Lösung.",
+      "Gut Ding will Weile haben.",
       "Hochmut kommt vor dem Fall."
      ],
      "a": 2,
@@ -2433,7 +2433,7 @@
      "q": "Reisende soll man nicht aufhalten.",
      "o": [
       "Der Klügere gibt nach.",
-      "Wer gehen will, sollte man nicht mit Gewalt zurückhalten.",
+      "Wer gehen will, den soll man ziehen lassen.",
       "Man muss die Dinge nehmen, wie sie kommen.",
       "Jeder ist seines Glückes Schmied."
      ],
@@ -2480,7 +2480,7 @@
      "o": [
       "Alte Liebe rostet nicht.",
       "Der Apfel fällt nicht weit vom Stamm.",
-      "Ein Mensch legt seine grundlegende Wesensart nicht ab.",
+      "Der Wolf ändert wohl das Haar, doch bleibt er, wie er war.",
       "Was Hänschen nicht lernt, lernt Hans nimmermehr."
      ],
      "a": 2,
@@ -2550,8 +2550,8 @@
      "q": "Eigenlob stinkt, Fremdlob stimmt.",
      "o": [
       "Kleider machen Leute.",
-      "Selbstlob stinkt.",
-      "Lob von anderen ist glaubwürdiger als Lob über sich selbst.",
+      "In der Kürze liegt die Würze.",
+      "Eigenlob stinkt, Freundes Lob hinkt, Fremdlob klingt.",
       "Der Ton macht die Musik."
      ],
      "a": 2,
@@ -2562,7 +2562,7 @@
      "q": "Ausnahmen bestätigen die Regel.",
      "o": [
       "Der Schein trügt.",
-      "Eine allgemeine Regel bleibt trotz vereinzelter Abweichungen gültig.",
+      "Keine Regel ohne Ausnahme.",
       "Aller Anfang ist schwer.",
       "Andere Länder, andere Sitten."
      ],
@@ -2583,10 +2583,10 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Der Krug geht so lange zum Brunnen, bis er bricht.",
+     "q": "Wer stets am Abgrund geht, stürzt einmal hinab.",
      "o": [
       "Übermut tut selten gut.",
-      "Wer ein Risiko zu oft eingeht, scheitert irgendwann damit.",
+      "Der Krug geht so lange zum Brunnen, bis er bricht.",
       "Steter Tropfen höhlt den Stein.",
       "Wer zwei Hasen jagt, fängt keinen."
      ],
@@ -2673,7 +2673,7 @@
      "q": "Was ich nicht weiß, macht mich nicht heiß.",
      "o": [
       "Lügen haben kurze Beine.",
-      "Unwissenheit erspart einem manche Sorge.",
+      "Was das Auge nicht sieht, bekümmert das Herz nicht.",
       "Der Schein trügt.",
       "Reden ist Silber, Schweigen ist Gold."
      ],
@@ -2699,7 +2699,7 @@
       "Der Krug geht so lange zum Brunnen, bis er bricht.",
       "Übermut tut selten gut.",
       "Vorsicht ist besser als Nachsicht.",
-      "Wer unnötige Risiken eingeht, muss mit den Folgen rechnen."
+      "Wer mit Feuer spielt, verbrennt sich die Finger."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: wer sich bewusst in eine riskante Lage begibt, trägt das Risiko der negativen Folgen.",
@@ -2718,10 +2718,10 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Trau, schau, wem.",
+     "q": "Zu viel Vertrauen bringt Reue.",
      "o": [
       "Der Ton macht die Musik.",
-      "Nicht jedem ist zu trauen.",
+      "Trau, schau, wem.",
       "Steter Tropfen höhlt den Stein.",
       "Ende gut, alles gut."
      ],
@@ -2730,11 +2730,11 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Kommt ein Vogel geflogen, setzt sich nieder auf mein' Fuß.",
+     "q": "Jeder findet auf seine Weise sein Glück.",
      "o": [
       "Ein blindes Huhn findet auch mal ein Korn.",
       "Von nichts kommt nichts.",
-      "Ein unerwartetes kleines Glück kann jeden treffen.",
+      "Jedem Tierchen sein Pläsierchen.",
       "Schwein haben"
      ],
      "a": 2,
@@ -2802,12 +2802,12 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Aller guten Dinge sind drei.",
+     "q": "Zweimal daneben, beim dritten Mal getroffen.",
      "o": [
       "Übung macht den Meister.",
       "Aller Anfang ist schwer.",
       "Ende gut, alles gut.",
-      "Beim dritten Versuch klappt es meistens."
+      "Alle guten Dinge sind drei."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: nach zwei erfolglosen Versuchen bringt oft erst der dritte Anlauf den Erfolg.",
@@ -2907,16 +2907,16 @@
       "Alte Liebe rostet nicht.",
       "Blut ist dicker als Wasser.",
       "Ein Freund in der Not ist ein Freund in der Tat.",
-      "Wer räumlich getrennt ist, gerät leicht in Vergessenheit."
+      "Fern vom Auge, fern vom Herzen."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: fehlender persönlicher Kontakt lässt Beziehungen/Erinnerungen häufig verblassen.",
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Man kann einem geschenkten Gaul nicht ins Maul schauen.",
+     "q": "Wer eine Gabe annimmt, soll sie nicht bekritteln.",
      "o": [
-      "Über ein Geschenk beschwert man sich nicht.",
+      "Geschenktem Gaul sieht man nicht ins Maul.",
       "Kleider machen Leute.",
       "Von nichts kommt nichts.",
       "Der Schein trügt."
@@ -2926,12 +2926,12 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Not macht erfinderisch.",
+     "q": "Der Hunger lehrt kochen.",
      "o": [
       "Wo ein Wille ist, ist auch ein Weg.",
       "Kommt Zeit, kommt Rat.",
       "Aus Schaden wird man klug.",
-      "In einer schwierigen Lage entwickelt man ungeahnte Lösungen."
+      "Not macht erfinderisch."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: unter Zwang/Mangel entstehen oft überraschend kreative Lösungswege.",
@@ -2952,7 +2952,7 @@
     {
      "q": "Vertrauen ist gut, Kontrolle ist besser.",
      "o": [
-      "Prüfe, bevor du vertraust.",
+      "Trau, schau, wem.",
       "Reden ist Silber, Schweigen ist Gold.",
       "Wer zuletzt lacht, lacht am besten.",
       "Andere Länder, andere Sitten."
@@ -2978,16 +2978,16 @@
       "Wie du mir, so ich dir.",
       "Wer im Glashaus sitzt, soll nicht mit Steinen werfen.",
       "Hochmut kommt vor dem Fall.",
-      "Böse Absichten gegen andere schlagen oft auf einen selbst zurück."
+      "Wer Wind sät, wird Sturm ernten."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: wer anderen schaden will, schadet damit häufig letztlich sich selbst.",
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Der Appetit kommt beim Essen.",
+     "q": "Je mehr man hat, je mehr man will.",
      "o": [
-      "Wenn man mit etwas beginnt, wächst oft der Wunsch nach mehr davon.",
+      "Der Appetit kommt beim Essen.",
       "Liebe geht durch den Magen.",
       "Man kann nicht alles haben.",
       "Wer zwei Hasen jagt, fängt keinen."
@@ -3021,11 +3021,11 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Der Weg ist das Ziel.",
+     "q": "Nicht die Ankunft macht die Reise.",
      "o": [
       "Aller Anfang ist schwer.",
       "Wer zuletzt lacht, lacht am besten.",
-      "Nicht das Ergebnis allein zählt, sondern der Prozess dorthin.",
+      "Der Weg ist das Ziel.",
       "Ende gut, alles gut."
      ],
      "a": 2,
@@ -3045,9 +3045,9 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Einem geschenkten Gaul schaut man nicht ins Maul.",
+     "q": "Rechne nicht mit dem Gewinn, bevor er in der Kasse ist.",
      "o": [
-      "Über ein Geschenk sollte man sich nicht beschweren.",
+      "Man soll den Tag nicht vor dem Abend loben.",
       "Von nichts kommt nichts.",
       "Der Schein trügt.",
       "Kleider machen Leute."
@@ -3145,10 +3145,10 @@
   "run14": {
    "items": [
     {
-     "q": "Wer im Dunkeln tappt, dem hilft kein Licht am Ende des Tages.",
+     "q": "Guter Rat kommt über Nacht — meist zu spät.",
      "o": [
       "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
-      "Rechtzeitige Klarheit ist wertvoller als eine spät gewonnene Erkenntnis.",
+      "Nach dem Schaden ist jeder klug.",
       "Der frühe Vogel fängt den Wurm.",
       "Kommt Zeit, kommt Rat."
      ],
@@ -3172,7 +3172,7 @@
      "q": "Wer viel verspricht, muss auch viel halten.",
      "o": [
       "Wer A sagt, muss auch B sagen.",
-      "Große Ankündigungen verpflichten zu entsprechenden Taten.",
+      "Versprechen und Halten sind zweierlei.",
       "Ende gut, alles gut.",
       "Der Zweck heiligt die Mittel."
      ],
@@ -3209,7 +3209,7 @@
      "o": [
       "Zeit ist Geld.",
       "Kleider machen Leute.",
-      "Finanzielle Macht bestimmt viele Entscheidungen in der Welt.",
+      "Wer das Gold hat, macht die Regeln.",
       "Der Ton macht die Musik."
      ],
      "a": 2,
@@ -3231,9 +3231,9 @@
     {
      "q": "Wer viel fragt, geht viel irr.",
      "o": [
-      "Zu viele Ratschläge können mehr verwirren als helfen.",
+      "Allzu viel ist ungesund.",
       "Kommt Zeit, kommt Rat.",
-      "Viele Köche verderben den Brei.",
+      "Der Apfel fällt nicht weit vom Stamm.",
       "Reden ist Silber, Schweigen ist Gold."
      ],
      "a": 0,
@@ -3265,9 +3265,9 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Gegensätze ziehen sich an.",
+     "q": "Ungleiche Paare halten am festesten.",
      "o": [
-      "Sehr unterschiedliche Charaktere passen manchmal am besten zusammen.",
+      "Gegensätze ziehen sich an.",
       "Wie du mir, so ich dir.",
       "Der Apfel fällt nicht weit vom Stamm.",
       "Gleich und gleich gesellt sich gern."
@@ -3293,7 +3293,7 @@
       "Erfahrung ist die beste Lehrmeisterin.",
       "Was Hänschen nicht lernt, lernt Hans nimmermehr.",
       "Übung macht den Meister.",
-      "Lernen hört nie auf, egal wie alt man ist."
+      "Zum Lernen ist niemand zu alt."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: Menschen können in jedem Lebensalter noch Neues lernen.",
@@ -3335,7 +3335,7 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Es ist noch nicht aller Tage Abend.",
+     "q": "Solange der Atem geht, ist nichts verloren.",
      "o": [
       "Man soll den Tag nicht vor dem Abend loben.",
       "Kommt Zeit, kommt Rat.",
@@ -3410,11 +3410,11 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Man muss zuerst laufen lernen, bevor man rennen kann.",
+     "q": "Kein Meister ist vom Himmel gefallen.",
      "o": [
       "Rom wurde nicht an einem Tag erbaut.",
       "Aller Anfang ist schwer.",
-      "Grundlagen müssen beherrscht werden, bevor man Fortgeschritteneres wagt.",
+      "Man muss kriechen, ehe man gehen lernt.",
       "Übung macht den Meister."
      ],
      "a": 2,
@@ -3422,12 +3422,12 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Liebe geht durch den Magen.",
+     "q": "Ein voller Bauch macht ein mildes Herz.",
      "o": [
       "Niemand kann über seinen eigenen Schatten springen.",
       "Wer über sich haut, dem fallen bald Späne in die Augen.",
       "Stillstand ist Rückschritt.",
-      "Gutes Essen gewinnt Herzen."
+      "Liebe geht durch den Magen."
      ],
      "a": 3,
      "e": "Gutes Essen kann Zuneigung wecken oder verstärken."
@@ -3456,9 +3456,9 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Ein gutes Gewissen ist ein sanftes Ruhekissen.",
+     "q": "Wer nichts zu verbergen hat, schläft fest.",
      "o": [
-      "Wer ehrlich und rechtschaffen handelt, kann ruhig schlafen.",
+      "Ein reines Gewissen ist ein sanftes Ruhekissen.",
       "Lügen haben kurze Beine.",
       "Die Wahrheit kommt immer ans Licht.",
       "Schaden macht klug."
@@ -3468,12 +3468,12 @@
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Ein blindes Huhn findet auch mal ein Korn.",
+     "q": "Selbst der schlechteste Schütze trifft einmal.",
      "o": [
       "Schwein haben",
       "Wer suchet, der findet.",
       "Von nichts kommt nichts.",
-      "Selbst wer wenig kompetent ist, hat gelegentlich Erfolg."
+      "Auch ein blindes Huhn findet einmal ein Korn."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: auch ohne besonderes Können stellt sich gelegentlich durch Zufall ein Erfolg ein.",
@@ -3504,35 +3504,35 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Reden ist Silber, Schweigen ist Gold.",
+     "q": "Ein Wort zu viel verdirbt die Rede.",
      "o": [
       "Wer will, der kann.",
       "Stillstand ist Rückschritt.",
       "Nichts wird einem geschenkt.",
-      "Manchmal ist Schweigen die klügere Wahl."
+      "Reden ist Silber, Schweigen ist Gold."
      ],
      "a": 3,
      "e": "In manchen Situationen ist es besser, nichts zu sagen, als etwas Falsches oder Unnötiges."
     },
     {
-     "q": "Wo gehobelt wird, fallen Späne.",
+     "q": "Kein Feuer ohne Rauch.",
      "o": [
       "Kleinvieh macht auch Mist.",
       "Wer zwei Hasen jagt, fängt keinen.",
       "Aller Anfang ist schwer.",
-      "Bei jeder größeren Sache entstehen unvermeidbar Nebenwirkungen."
+      "Wo gehobelt wird, da fallen Späne."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: wo gearbeitet/gehandelt wird, entstehen zwangsläufig auch unerwünschte Nebenfolgen.",
      "cat": "Äquivalentes Sprichwort"
     },
     {
-     "q": "Man muss die Feste feiern, wie sie fallen.",
+     "q": "Nutze den Tag, er kommt nicht wieder.",
      "o": [
       "Der frühe Vogel fängt den Wurm.",
       "Man muss das Eisen schmieden, solange es heiß ist.",
       "Aller guten Dinge sind drei.",
-      "Gelegenheiten zur Freude sollte man nutzen, wenn sie sich bieten."
+      "Man muss die Feste feiern, wie sie fallen."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: man sollte freudige Anlässe genießen, sobald sie sich ergeben, statt sie zu verschieben.",
@@ -3541,7 +3541,7 @@
     {
      "q": "Man soll die Suppe auslöffeln, die man sich eingebrockt hat.",
      "o": [
-      "Man muss die Konsequenzen des eigenen Handelns selbst tragen.",
+      "Wer den Schaden anrichtet, muss ihn auch tragen.",
       "Wie man sich bettet, so liegt man.",
       "Wer andern eine Grube gräbt, fällt selbst hinein.",
       "Wer A sagt, muss auch B sagen."
@@ -3695,10 +3695,10 @@
      "cat": "Abstrakte Bedeutungszuordnung"
     },
     {
-     "q": "Wo Rauch ist, ist auch Feuer.",
+     "q": "Es wird nichts geredet, woran nichts wäre.",
      "o": [
       "Leere Fässer klingen am lautesten.",
-      "Ein Gerücht enthält meist einen wahren Kern.",
+      "Kein Rauch ohne Feuer.",
       "Der Schein trügt.",
       "Lügen haben kurze Beine."
      ],
@@ -3722,7 +3722,7 @@
      "q": "Man soll nicht alle Eier in einen Korb legen.",
      "o": [
       "Man kann nicht alles haben.",
-      "Man sollte Risiken auf mehrere Möglichkeiten verteilen, statt alles auf eine Karte zu setzen.",
+      "Man soll nicht auf eine Karte setzen.",
       "Wer zwei Hasen jagt, fängt keinen.",
       "Man kann nicht auf zwei Hochzeiten tanzen."
      ],
@@ -3758,7 +3758,7 @@
      "q": "Ein Freund in der Not ist ein Freund in der Tat.",
      "o": [
       "Ein Esel macht dem anderen den Hof.",
-      "Wahre Freundschaft zeigt sich in schwierigen Zeiten.",
+      "Freunde in der Not gehen tausend auf ein Lot.",
       "Geteiltes Leid ist halbes Leid.",
       "Alte Liebe rostet nicht."
      ],
@@ -3784,7 +3784,7 @@
       "Geteiltes Leid ist halbes Leid.",
       "Kleider machen Leute.",
       "Der Ton macht die Musik.",
-      "Glück wird größer, wenn man es mit anderen teilt."
+      "Ein Glück, das man teilt, ist ein doppeltes Glück."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: positive Erlebnisse werden intensiver, wenn man sie gemeinsam mit anderen erlebt.",
@@ -3805,7 +3805,7 @@
      "q": "Man soll nicht den Bock zum Gärtner machen.",
      "o": [
       "Hunde, die bellen, beißen nicht.",
-      "Man sollte niemanden mit einer Aufgabe betrauen, die seinen eigenen Interessen widerspricht.",
+      "Man soll den Wolf nicht zum Schäfer machen.",
       "Der frühe Vogel fängt den Wurm.",
       "Ein Esel macht dem anderen den Hof."
      ],
@@ -3819,7 +3819,7 @@
       "Aller guten Dinge sind drei.",
       "In der Kürze liegt die Würze.",
       "Weniger ist manchmal mehr.",
-      "Man sollte eine Sache nicht unnötig übertreiben."
+      "Man soll aus einer Mücke keinen Elefanten machen."
      ],
      "a": 3,
      "e": "Beide Sprichwörter besagen im Kern dasselbe: man sollte bei einer Angelegenheit die angemessenen Proportionen wahren.",
