@@ -62,13 +62,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Stakkato",
       "Staccatto",
       "Stacatto",
+      "Staccatho",
       "Staccato"
      ],
      "a": 3,
-     "e": "**Richtig:** **Staccato** — ital. staccato — Doppel-c, einfaches t. Falsch sind: „Stakkato“ (cc → kk) · „Staccatto“ (— → t) · „Stacatto“ (c → —, — → t).",
+     "e": "**Richtig:** **Staccato** — ital. staccato — Doppel-c, einfaches t. Falsch sind: „Staccatto“ (— → t) · „Stacatto“ (c → —, — → t) · „Staccatho“ (— → h).",
      "cat": "Rechtschreibung"
     },
     {
@@ -598,13 +598,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Annektion",
+      "Annexjon",
       "Annexion",
       "Anexion",
       "Annexsion"
      ],
      "a": 1,
-     "e": "**Richtig:** **Annexion**. Falsch sind: „Annektion“ (x → kt) · „Annexsion“ (— → s) · „Anexion“ (n → —).",
+     "e": "**Richtig:** **Annexion**. Falsch sind: „Annexjon“ (i → j) · „Annexsion“ (— → s) · „Anexion“ (n → —).",
      "cat": "Rechtschreibung"
     },
     {
@@ -1538,13 +1538,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Bässe",
+      "Baissee",
       "Baise",
       "Baisse",
       "Baisze"
      ],
      "a": 2,
-     "e": "**Richtig:** **Baisse**. Falsch sind: „Baise“ (s → —) · „Bässe“ (ai → ä) · „Baisze“ (s → z).",
+     "e": "**Richtig:** **Baisse**. Falsch sind: „Baise“ (s → —) · „Baissee“ (— → e) · „Baisze“ (s → z).",
      "cat": "Rechtschreibung"
     },
     {
@@ -1682,13 +1682,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Plato",
-      "Plateaux",
       "Platteau",
+      "Plathau",
+      "Plateaux",
       "Plateau"
      ],
      "a": 3,
-     "e": "**Richtig:** **Plateau** — franz. plateau — eau am Ende, einfaches t. Falsch sind: „Plato“ (eau → o) · „Platteau“ (— → t) · „Plateaux“ (— → x).",
+     "e": "**Richtig:** **Plateau** — franz. plateau — eau am Ende, einfaches t. Falsch sind: „Platteau“ (— → t) · „Plateaux“ (— → x) · „Plathau“ (e → h).",
      "cat": "Rechtschreibung"
     },
     {
@@ -2182,13 +2182,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
+      "Buuße",
       "Bußze",
       "Buhße",
-      "Busse",
       "Buße"
      ],
      "a": 3,
-     "e": "**Richtig:** **Buße** — langes u vor ß. Falsch sind: „Busse“ (ß → ss) · „Buhße“ (— → h) · „Bußze“ (— → z).",
+     "e": "**Richtig:** **Buße** — langes u vor ß. Falsch sind: „Buhße“ (— → h) · „Bußze“ (— → z) · „Buuße“ (— → u).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
@@ -2318,13 +2318,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Sole",
-      "Sohle",
       "Sohlle",
-      "Soohle"
+      "Sohle",
+      "Soohle",
+      "Sohleh"
      ],
      "a": 1,
-     "e": "**Richtig:** **Sohle** — Dehnungs-h nach o. Falsch sind: „Sole“ (h → —) · „Sohlle“ (— → l) · „Soohle“ (— → o).",
+     "e": "**Richtig:** **Sohle** — Dehnungs-h nach o. Falsch sind: „Sohlle“ (— → l) · „Soohle“ (— → o) · „Sohleh“ (— → h).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
@@ -3248,11 +3248,11 @@
      "o": [
       "Die Annexsion des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt.",
       "Die Anexion des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt.",
-      "Die Annektion des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt.",
+      "Die Annexjon des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt.",
       "Die Annexion des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt."
      ],
      "a": 3,
-     "e": "**Richtig:** **Die Annexion des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt.** Falsch sind: „Annektion“ statt „Annexion“ · „Anexion“ statt „Annexion“ · „Annexsion“ statt „Annexion“.",
+     "e": "**Richtig:** **Die Annexion des Gebiets wurde von der internationalen Gemeinschaft scharf verurteilt.** Falsch sind: „Annexjon“ statt „Annexion“ · „Anexion“ statt „Annexion“ · „Annexsion“ statt „Annexion“.",
      "cat": "Rechtschreibung"
     },
     {
@@ -4514,13 +4514,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Myrre",
-      "Mirrhe",
       "Myrhe",
+      "Mirrhe",
+      "Myrrche",
       "Myrrhe"
      ],
      "a": 3,
-     "e": "**Richtig:** **Myrrhe** — griech. myrrha — y, rrh als Gruppe. Falsch sind: „Mirrhe“ (y → i) · „Myrre“ (h → —) · „Myrhe“ (r → —).",
+     "e": "**Richtig:** **Myrrhe** — griech. myrrha — y, rrh als Gruppe. Falsch sind: „Mirrhe“ (y → i) · „Myrhe“ (r → —) · „Myrrche“ (— → c).",
      "cat": "Rechtschreibung"
     },
     {
@@ -4724,11 +4724,11 @@
      "o": [
       "Der Bericht trägt die Überschrift: Naher osten.",
       "Der Bericht trägt die Überschrift: Naher Osten.",
-      "Der Bericht trägt die Überschrift: Nahe Osten.",
+      "Der Bericht trägt die Überschrift: Naher-Osten.",
       "Der Bericht trägt die Überschrift: naher Osten."
      ],
      "a": 1,
-     "e": "**Richtig:** **Der Bericht trägt die Überschrift: Naher Osten.** Falsch sind: „Nahe“ statt „Naher“ · „osten.“ statt „Osten.“ · „naher“ statt „Naher“.",
+     "e": "**Richtig:** **Der Bericht trägt die Überschrift: Naher Osten.** Falsch sind: „Naher-Osten.“ statt „Naher Osten.“ · „osten.“ statt „Osten.“ · „naher“ statt „Naher“.",
      "cat": "Groß-/Kleinschreibung"
     },
     {
@@ -5563,12 +5563,12 @@
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
       "Genuss",
+      "Genuhss",
       "Gennuss",
-      "Genus",
       "Genuß"
      ],
      "a": 0,
-     "e": "**Richtig:** **Genuss** — kurzes u vor ss; „Genus“ ist ein anderes Wort. Falsch sind: „Genuß“ (ss → ß) · „Genus“ (s → —) · „Gennuss“ (— → n).",
+     "e": "**Richtig:** **Genuss** — kurzes u vor ss, nicht ß. Falsch sind: „Genuß“ (ss → ß) · „Gennuss“ (— → n) · „Genuhss“ (— → h).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
@@ -7150,13 +7150,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Strauss",
       "Strauhß",
       "Sstrauß",
+      "Straauß",
       "Strauß"
      ],
      "a": 3,
-     "e": "**Richtig:** **Strauß** — Diphthong au vor ß. Falsch sind: „Strauss“ (ß → ss) · „Strauhß“ (— → h) · „Sstrauß“ (— → s).",
+     "e": "**Richtig:** **Strauß** — Diphthong au vor ß. Falsch sind: „Strauhß“ (— → h) · „Sstrauß“ (— → s) · „Straauß“ (— → a).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
@@ -8211,12 +8211,12 @@
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
       "Ruhm",
-      "Rum",
       "Ruhmm",
-      "Ruum"
+      "Ruum",
+      "Rumh"
      ],
      "a": 0,
-     "e": "**Richtig:** **Ruhm** — Dehnungs-h nach u; „Rum“ ist das Getränk. Falsch sind: „Rum“ (h → —) · „Ruhmm“ (— → m) · „Ruum“ (h → u).",
+     "e": "**Richtig:** **Ruhm** — Dehnungs-h nach u. Falsch sind: „Ruhmm“ (— → m) · „Ruum“ (h → u) · „Rumh“ (— → m, m → —).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
@@ -9212,11 +9212,11 @@
      "o": [
       "Kanohn",
       "Kanon",
-      "Canon",
+      "Kanonn",
       "Kannon"
      ],
      "a": 1,
-     "e": "**Richtig:** **Kanon** — griech. kanon — einfaches n, k statt c. Falsch sind: „Kannon“ (— → n) · „Kanohn“ (— → h) · „Canon“ (K → C).",
+     "e": "**Richtig:** **Kanon** — griech. kanon — einfaches n, k statt c. Falsch sind: „Kannon“ (— → n) · „Kanohn“ (— → h) · „Kanonn“ (— → n).",
      "cat": "Rechtschreibung"
     },
     {
@@ -10722,13 +10722,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
-      "Leergang",
+      "Lehrganng",
       "Lergang",
       "Lehrrgang",
       "Lehrgang"
      ],
      "a": 3,
-     "e": "**Richtig:** **Lehrgang** — Dehnungs-h nach e. Falsch sind: „Lergang“ (h → —) · „Lehrrgang“ (— → r) · „Leergang“ (h → e).",
+     "e": "**Richtig:** **Lehrgang** — Dehnungs-h nach e. Falsch sind: „Lergang“ (h → —) · „Lehrrgang“ (— → r) · „Lehrganng“ (— → n).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
@@ -10762,13 +10762,13 @@
     {
      "q": "Welcher der folgenden Sätze ist orthografisch korrekt?",
      "o": [
-      "Der Diplomat verhandelte in fließendem Franzoesisch mit der Delegation.",
+      "Der Diplomat verhandelte in flieszendem Französisch mit der Delegation.",
       "Der Diplomat verhandelte in fließendem Franzöhsisch mit der Delegation.",
       "Der Diplomat verhandelte in fließendem Französisch mit der Delegation.",
-      "Der Diplomat verhandelte in fliesendem Französisch mit der Delegation."
+      "Der Diplomat verhandelte in fließendem Franzoesisch mit der Delegation."
      ],
      "a": 2,
-     "e": "**Richtig:** **Der Diplomat verhandelte in fließendem Französisch mit der Delegation.** Falsch sind: „Franzoesisch“ statt „Französisch“ · „fliesendem“ statt „fließendem“ · „Franzöhsisch“ statt „Französisch“.",
+     "e": "**Richtig:** **Der Diplomat verhandelte in fließendem Französisch mit der Delegation.** Falsch sind: „flieszendem“ statt „fließendem“ · „Franzoesisch“ statt „Französisch“ · „Franzöhsisch“ statt „Französisch“.",
      "cat": "Rechtschreibung"
     },
     {
@@ -10980,11 +10980,11 @@
      "o": [
       "Verdikt",
       "Werdikt",
-      "Verdickt",
-      "Verdiktt"
+      "Verdiktt",
+      "Verdikkt"
      ],
      "a": 0,
-     "e": "**Richtig:** **Verdikt** — lat. verdictum, eingedeutscht mit k. Falsch sind: „Werdikt“ (V → W) · „Verdickt“ (— → c) · „Verdiktt“ (— → t).",
+     "e": "**Richtig:** **Verdikt** — lat. verdictum, eingedeutscht mit k. Falsch sind: „Werdikt“ (V → W) · „Verdiktt“ (— → t) · „Verdikkt“ (— → k).",
      "cat": "Rechtschreibung"
     }
    ]
@@ -11383,12 +11383,12 @@
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
       "Brawour",
-      "Bravur",
       "Bravouhr",
+      "Bravuor",
       "Bravour"
      ],
      "a": 3,
-     "e": "**Richtig:** **Bravour** — franz.-ital. bravoure — v und ou. Falsch sind: „Brawour“ (v → w) · „Bravur“ (o → —) · „Bravouhr“ (— → h).",
+     "e": "**Richtig:** **Bravour** — franz.-ital. bravoure — v und ou. Falsch sind: „Brawour“ (v → w) · „Bravouhr“ (— → h) · „Bravuor“ (— → u, u → —).",
      "cat": "Rechtschreibung"
     },
     {
@@ -11602,13 +11602,13 @@
     {
      "q": "Welche der folgenden Schreibweisen ist korrekt?",
      "o": [
+      "Wahal",
       "Waal",
       "Wahll",
-      "Wal",
       "Wahl"
      ],
      "a": 3,
-     "e": "**Richtig:** **Wahl** — Dehnungs-h nach a; „Wal“ ist das Tier. Falsch sind: „Wal“ (h → —) · „Wahll“ (— → l) · „Waal“ (h → a).",
+     "e": "**Richtig:** **Wahl** — Dehnungs-h nach a. Falsch sind: „Wahll“ (— → l) · „Waal“ (h → a) · „Wahal“ (— → a).",
      "cat": "Doppelkonsonanten & Vokallänge"
     },
     {
