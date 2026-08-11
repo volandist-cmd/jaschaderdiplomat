@@ -148,7 +148,9 @@ export const COGNITIVE_MODULES = [
 
 // Modules with no static item pool at all in the original — they were rendered
 // by runtime chart/number generators that have not been ported yet.
-export const GENERATOR_ONLY_MODULES = ['dgpschaetz', 'dgptab', 'dgpnorm'] as const
+// dgpnorm hat seit 2026-08-11 einen statischen, geprüften Aufgabenpool (50 Läufe) und ist
+// deshalb kein Generator-only-Modul mehr; dgpschaetz und dgptab warten noch auf ihre Portierung.
+export const GENERATOR_ONLY_MODULES = ['dgpschaetz', 'dgptab'] as const
 
 // Letter labels for multiple choice
 export const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'] as const
