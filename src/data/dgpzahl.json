@@ -4549,9 +4549,9 @@
      "cat": "Konstante Differenz"
     },
     {
-     "q": "Gegeben ist eine Zahlenreihe. Welche Zahl würde als nächste Zahl kommen?\n5 | 0 | -5 | -10 | -15 | -20 | ?",
-     "answer": "-40",
-     "e": "Ein Operationszyklus wiederholt sich: -5, -5, *2, dann wieder von vorn. Vollständige Reihe: 5, 0, -5, -10, -15, -20, -40. Die gesuchte Zahl ist -40.",
+     "q": "Gegeben ist eine Zahlenreihe. Welche Zahl würde als nächste Zahl kommen?\n3 | -2 | -7 | -14 | -19 | -24 | ?",
+     "answer": "-48",
+     "e": "Ein Operationszyklus wiederholt sich: -5, -5, *2, dann wieder von vorn. Vollständige Reihe: 3, -2, -7, -14, -19, -24, -48. Die gesuchte Zahl ist -48. Achtung: der dritte Schritt ist eine Verdopplung, keine weitere Subtraktion — sichtbar daran, dass -7 auf -14 springt statt auf -12.",
      "cat": "Operationszyklus"
     },
     {
