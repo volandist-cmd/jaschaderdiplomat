@@ -524,15 +524,15 @@
      "cat": "Articles & Determiners"
     },
     {
-     "q": "The committee insisted the leak ____ have come from inside headquarters, since only three officials had access to the file.",
+     "q": "The committee insisted the leak ____ have come from inside headquarters, since the file had been circulated to hundreds of external contractors.",
      "o": [
-      "shouldn't",
-      "mustn't",
+      "needn't",
       "can't",
-      "needn't"
+      "shouldn't",
+      "mustn't"
      ],
-     "a": 2,
-     "e": "\"can't have\" drückt eine starke logische Unmöglichkeit über die Vergangenheit aus (das Gegenteil von \"must have\").",
+     "a": 1,
+     "e": "„can't have + Partizip II\" bezeichnet den sicheren Schluss, dass etwas NICHT geschehen ist — der Nachsatz liefert genau diesen Grund (die Datei lag Hunderten Externen vor, also spricht nichts für eine Quelle im Haus). Die drei anderen Optionen scheiden aus: „shouldn't have\" bewertet eine Handlung moralisch, statt sie auszuschließen; „needn't have\" bezeichnet eine überflüssige, aber vollzogene Handlung; „mustn't have\" ist in der Bedeutung des logischen Ausschlusses nicht gebräuchlich — dafür steht allein „can't have\".",
      "cat": "Modal Verbs"
     },
     {
@@ -1504,7 +1504,7 @@
      "cat": "Modal Verbs"
     },
     {
-     "q": "The commission recalled that, as junior staff, they ____ often stay behind after hours to finalise briefings on the climate resolution.",
+     "q": "The head of delegation recalled that, as junior staff, they ____ often stay behind after hours to finalise briefings on the climate resolution.",
      "o": [
       "would",
       "must",
@@ -1750,15 +1750,15 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "The panel ____ not disclose confidential submissions to any party not directly involved in the case.",
+     "q": "The rule admits no exception: the panel ____ disclose confidential submissions to any party not directly involved in the case.",
      "o": [
-      "might",
-      "shall",
-      "must",
-      "may"
+      "need not",
+      "is not required to",
+      "does not have to",
+      "must not"
      ],
-     "a": 2,
-     "e": "\"must not\" drückt ein striktes Verbot aus."
+     "a": 3,
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "q": "The task force ____ a visiting foreign counterpart at the airport at six tomorrow morning; the arrangement has already been confirmed.",
@@ -4187,7 +4187,7 @@
      "cat": "Articles & Determiners"
     },
     {
-     "q": "Article 12 stipulates that the parties ____ notify the depositary of any reservation to the refugee crisis in writing.",
+     "q": "Article 12 stipulates that the parties ____ notify the depositary of any reservation in writing.",
      "o": [
       "will",
       "may",
@@ -4946,7 +4946,7 @@
      "e": "Nach der Verneinung „not one … raised\" steht der unbestimmte Artikel; „objection\" beginnt mit einem Vokallaut, daher „an\"."
     },
     {
-     "q": "The Security Council recalled that, as junior staff, they ____ often stay behind after hours to finalise briefings on the arms control talks.",
+     "q": "The desk officer recalled that, as junior staff, they ____ often stay behind after hours to finalise briefings on the arms control talks.",
      "o": [
       "ought",
       "should",
@@ -5693,15 +5693,15 @@
      "e": "\"may\" drückt eine als möglich dargestellte Zukunft aus."
     },
     {
-     "q": "Under the new protocol, delegates ____ submit their credentials at least 48 hours before the session on the summit declaration begins.",
+     "q": "The deadline is a matter of courtesy rather than obligation: delegates ____ submit their credentials 48 hours before the session on the summit declaration begins.",
      "o": [
-      "ought to",
+      "may",
+      "shall",
       "have to",
-      "should",
       "must"
      ],
-     "a": 1,
-     "e": "\"have to\" betont eine von außen (durch eine Regel/Vorschrift) auferlegte Pflicht, hier durch das neue Protokoll.",
+     "a": 0,
+     "e": "Prüfgegenstand ist der Unterschied zwischen ERMESSEN und VERPFLICHTUNG. Der Nachsatz stellt ausdrücklich klar, dass keine Pflicht besteht; verlangt ist daher „may\" (Erlaubnis/Ermessen). Die drei anderen Optionen drücken eine Verpflichtung aus und widersprechen dem Nachsatz unmittelbar.",
      "cat": "Modal Verbs"
     },
     {
@@ -6147,15 +6147,15 @@
      "e": "Unbestimmter Artikel: \"a clear pattern\" (irgendein deutliches Muster), keine bestimmte, bereits erwähnte Sache."
     },
     {
-     "q": "The working group ____ have briefed the press so early; the embargo was not due to lift until noon.",
+     "q": "As it turned out, the embargo was not due to lift until noon, so the extra briefing served no purpose: the working group ____ have briefed the press at all.",
      "o": [
-      "shouldn't",
-      "didn't need to",
-      "needn't",
-      "mustn't"
+      "cannot",
+      "shall not",
+      "need not",
+      "must not"
      ],
      "a": 2,
-     "e": "\"needn't have + Partizip II\" bedeutet: es wurde getan, obwohl es nicht nötig gewesen wäre. \"didn't need to\" sagt dagegen nur, dass es nicht nötig war, ohne zu implizieren, dass es trotzdem geschah.",
+     "e": "Prüfgegenstand ist „need not have + Partizip II\" = eine Handlung, die vollzogen wurde, sich aber im Nachhinein als unnötig erwies — genau das schildert der Vorsatz („served no purpose\"). Die drei anderen Optionen scheiden aus: „must not have\" und „shall not have\" gibt es in dieser rückblickenden Bedeutung nicht (sie drücken Verbot aus, das sich nicht auf eine bereits vollzogene Handlung richten kann); „cannot have\" bezeichnet einen sicheren Schluss, dass etwas NICHT geschehen ist — hier ist es aber geschehen.",
      "cat": "Modal Verbs"
     },
     {
@@ -6650,15 +6650,15 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "Under the protocol, member states ____ not withdraw without giving twelve months' notice.",
+     "q": "The notice clause is mandatory in every case: member states ____ withdraw without giving twelve months' notice.",
      "o": [
-      "may",
-      "might",
-      "can",
-      "shall"
+      "are not required to",
+      "need not",
+      "do not have to",
+      "must not"
      ],
      "a": 3,
-     "e": "\"shall not\" drückt in formellen Vertragstexten ein bindendes Verbot aus."
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "q": "By the time the press conference began, the press office ____ already issued a final statement on the diplomatic protocol.",
@@ -7373,15 +7373,15 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "Observers ____ not interfere with the electoral process under any circumstances.",
+     "q": "The mandate is categorical: observers ____ interfere with the electoral process.",
      "o": [
-      "might",
-      "must",
-      "shall",
-      "may"
+      "need not",
+      "are not required to",
+      "do not have to",
+      "must not"
      ],
-     "a": 1,
-     "e": "\"must not\" drückt ein striktes Verbot aus."
+     "a": 3,
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "q": "The standing committee announced that it ____ to reconvene the following week, but the plan was later abandoned amid disagreement over the climate resolution.",
@@ -7863,27 +7863,27 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "Under the founding charter, no amendment ____ take effect without ratification by two-thirds of members.",
+     "q": "The requirement admits no exception: an amendment ____ take effect without ratification by two-thirds of members.",
      "o": [
-      "might",
-      "may",
-      "shall",
-      "can"
+      "must not",
+      "is not required to",
+      "does not have to",
+      "need not"
      ],
-     "a": 2,
-     "e": "\"shall\" ist die formelle, vertragstypische Ausdrucksweise einer bindenden Regel."
+     "a": 0,
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "cat": "Modal Verbs",
-     "q": "Under the interim arrangement, neither party ____ unilaterally alter the terms of access.",
+     "q": "The arrangement leaves the matter open: either party ____ alter the terms of access unilaterally, but neither is obliged to do so.",
      "o": [
-      "can",
-      "might",
-      "shall",
-      "may"
+      "has to",
+      "may",
+      "must",
+      "shall"
      ],
-     "a": 2,
-     "e": "\"shall\" ist die formelle, vertragstypische Ausdrucksweise einer bindenden Regel."
+     "a": 1,
+     "e": "Prüfgegenstand ist der Unterschied zwischen ERMESSEN und VERPFLICHTUNG. Der Nachsatz stellt ausdrücklich klar, dass keine Pflicht besteht („but neither is obliged to do so\"); verlangt ist daher „may\" (Erlaubnis). Die drei anderen Optionen drücken sämtlich eine Verpflichtung aus und widersprechen dem Nachsatz unmittelbar."
     },
     {
      "q": "The press office ____ have anticipated the backlash, given how carefully the statement on the election monitoring mission had been drafted.",
@@ -8353,15 +8353,15 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "Under the code of conduct, staff ____ not accept gifts above the specified threshold.",
+     "q": "The prohibition is absolute: staff ____ accept gifts above the specified threshold.",
      "o": [
-      "may",
-      "might",
-      "can",
-      "shall"
+      "do not have to",
+      "are not required to",
+      "need not",
+      "must not"
      ],
      "a": 3,
-     "e": "\"shall not\" drückt in formellen Regelwerken ein bindendes Verbot aus."
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "cat": "Modal Verbs",
@@ -11060,15 +11060,15 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "No reservation ____ be entered against a provision central to the treaty's object and purpose.",
+     "q": "The prohibition is absolute: a reservation ____ be entered against a provision central to the treaty's object and purpose.",
      "o": [
-      "might",
-      "may",
-      "could",
-      "shall"
+      "is not required to",
+      "must not",
+      "does not have to",
+      "need not"
      ],
      "a": 1,
-     "e": "\"may\" in formellen Vertragstexten für eine eingeräumte (oder hier verweigerte) Befugnis: \"no reservation may be entered\"."
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "cat": "Verb Tenses",
@@ -11795,15 +11795,15 @@
     },
     {
      "cat": "Modal Verbs",
-     "q": "Given the sensitivity of the file, the report ____ not be released without prior clearance.",
+     "q": "The classification is binding without exception: the report ____ be released without prior clearance.",
      "o": [
-      "shall",
-      "need",
-      "may",
-      "must"
+      "need not",
+      "is not required to",
+      "must not",
+      "does not have to"
      ],
      "a": 2,
-     "e": "\"may\" drückt eine als möglich dargestellte, bedingte Zukunft aus."
+     "e": "Prüfgegenstand ist der Unterschied zwischen VERBOT und FEHLENDER VERPFLICHTUNG. Der vorangestellte Hinweis macht die Vorschrift ausnahmslos verbindlich, also ist „must not\" (Verbot) verlangt. Die drei anderen Optionen bedeuten sämtlich das Gegenteil — dass die Handlung erlaubt, aber nicht gefordert ist — und widersprechen damit dem Hinweis im ersten Satzteil."
     },
     {
      "q": "The permanent representative ____ a joint statement on the peace accord within the hour — the wording is still being finalised as we speak.",
