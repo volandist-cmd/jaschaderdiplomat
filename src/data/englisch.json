@@ -179,26 +179,26 @@
      "lvl": "C2",
      "q": "The two states signed a non-aggression ____ in 1934.",
      "o": [
-      "treaty",
       "pact",
-      "accord",
-      "convention"
+      "protocol",
+      "preamble",
+      "provision"
      ],
-     "a": 1,
-     "e": "„non-aggression pact“ ist die erstarrte historische Fügung."
+     "a": 0,
+     "e": "„a non-aggression pact\" ist die feststehende Bezeichnung für ein Abkommen dieses Typs. Ausgeschlossen sind: „protocol\" (ein Zusatzinstrument zu einem bestehenden Vertrag, kein eigenständiger Nichtangriffsvertrag); „preamble\" (die Vorrede eines Vertrags); „provision\" (eine einzelne Bestimmung innerhalb eines Vertrags)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The list is illustrative rather than ____ .",
      "o": [
-      "comprehensive",
-      "exhaustive",
       "exhausting",
-      "extensive"
+      "exhaustive",
+      "exhausted",
+      "exhaustible"
      ],
      "a": 1,
-     "e": "„illustrative rather than exhaustive“ — festes Antonympaar; „exhausting“ = ermüdend."
+     "e": "„exhaustive\" = erschöpfend, vollständig — der stehende Gegenbegriff zu „illustrative\". Ausgeschlossen sind: „exhausting\" (ermüdend, beschreibt die Wirkung auf Personen); „exhausted\" (erschöpft im Sinne von aufgebraucht oder müde); „exhaustible\" (erschöpfbar, sagt etwas über Vorräte, nicht über eine Aufzählung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -463,7 +463,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He swore he ____ never set foot in the building.",
+     "q": "He swore he ____ never set foot in the building before that night.",
      "o": [
       "had",
       "did",
@@ -471,20 +471,20 @@
       "has"
      ],
      "a": 0,
-     "e": "Past Perfect nach Backshift; „did never set foot“ ist unidiomatisch — die deutsche Falle."
+     "e": "„before that night\" verankert die Aussage vor einem Punkt der Vergangenheit und verlangt das Past Perfect: „had never set foot\". Ausgeschlossen sind: „did\" (Präteritum mit „never\" drückte keine Vorzeitigkeit aus und verträgt kein Partizip); „would\" (bezeichnete eine Absicht für die Zukunft, die „before that night\" ausschließt); „has\" (Present Perfect mit Gegenwartsbezug, unvereinbar mit dem Erzählrahmen im Präteritum)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was elected ____ chair of the committee last spring.",
+     "q": "The two states ____ over the maritime boundary for the better part of a century.",
      "o": [
-      "as the",
-      "the",
-      "a",
-      "—"
+      "dispute",
+      "have been disputing",
+      "disputed",
+      "are disputing"
      ],
-     "a": 3,
-     "e": "Nullartikel vor einmaligen Ämtern nach elect/appoint/become."
+     "a": 1,
+     "e": "„for the better part of a century\" spannt den Zeitraum bis in die Gegenwart und verlangt das Present Perfect Continuous. Ausgeschlossen sind: „dispute\" (Präsens ohne Zeitspanne); „disputed\" (Präteritum, das den Streit als beendet darstellte); „are disputing\" (Verlaufsform der Gegenwart, die keine bis heute reichende Dauer ausdrückt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -533,10 +533,10 @@
       "am",
       "were",
       "would be",
-      "was"
+      "had been"
      ],
      "a": 1,
-     "e": "„If I were to“ — hypothetische Zukunft; im formalen Register nie „was“."
+     "e": "„If X were to do …\" bezeichnet die hypothetische, nicht eingetretene Bedingung und verlangt den Konjunktiv „were\". Ausgeschlossen sind: „am\" („am to\" heißt „soll\" und kollidiert mit dem hypothetischen „would counsel\"); „would be\" (im Bedingungssatz steht nie „would\"); „had been\" (setzte eine Vorzeitigkeit voraus, die der Hauptsatz nicht stützt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -597,11 +597,11 @@
      "o": [
       "would say",
       "had said",
-      "say",
+      "to say",
       "said"
      ],
      "a": 3,
-     "e": "„would rather“ + Simple Past bei Gegenwartsbezug; „had said“ nur bei Vergangenheitsbezug."
+     "e": "„would rather\" + Nebensatz verlangt den Konjunktiv Präteritum „said\" für den Gegenwartsbezug. Ausgeschlossen sind: „would say\" (kein zweites „would\" im Nebensatz); „had said\" (Konjunktiv Plusquamperfekt — der bezöge sich auf bereits Gesagtes); „to say\" (to-Infinitiv nur ohne eigenes Subjekt möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -637,10 +637,10 @@
       "needn't",
       "can't",
       "mustn't",
-      "wouldn't"
+      "shouldn't"
      ],
      "a": 1,
-     "e": "„can't have“ = logische Unmöglichkeit im Rückblick."
+     "e": "„can't have + Partizip II\" ist der logische Ausschluss im Rückblick: ein nie versandtes Schreiben kann niemand erhalten haben. Ausgeschlossen sind: „needn't have\" (setzt voraus, dass der Empfang stattfand, nur unnötig war); „mustn't\" (Verbot, das sich auf Vergangenes nicht richten kann); „shouldn't have\" (nachträglicher Vorwurf, der den Empfang ebenfalls voraussetzt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -1258,15 +1258,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The spokesman insisted the files ____ destroyed years earlier.",
+     "q": "It was the first time the ministry ____ a document of that classification.",
      "o": [
-      "would be",
-      "had been",
-      "have been",
-      "were"
+      "destroyed",
+      "had destroyed",
+      "has destroyed",
+      "would destroy"
      ],
      "a": 1,
-     "e": "Vorzeitigkeit in der Redewiedergabe: Past Perfect Passiv."
+     "e": "Nach „it was the first/second/last time\" steht zwingend das Past Perfect. Ausgeschlossen sind: „destroyed\" (Präteritum, das dieser Rahmen nicht zulässt); „has destroyed\" (Present Perfect — es gehörte zu „it is the first time\"); „would destroy\" (Zukunft in der Vergangenheit, die zu „the first time\" nicht passt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -1388,15 +1388,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He talks to me as if I ____ a child.",
+     "q": "____ the ceasefire hold through the weekend, observers would deploy on Monday.",
      "o": [
-      "am",
-      "was",
-      "were",
-      "be"
+      "Was",
+      "Should",
+      "Were",
+      "Did"
      ],
-     "a": 2,
-     "e": "Irrealis nach „as if“: formal „were“ in allen Personen."
+     "a": 1,
+     "e": "„Should X do …\" ist die invertierte Bedingung geringerer Wahrscheinlichkeit und trägt als einzige Form den endungslosen „hold\". Ausgeschlossen sind: „Was\" (in der Inversion nicht möglich); „Were\" (verlangte den Anschluss „to hold\"); „Did\" (bildet eine Frage, keinen Bedingungssatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -1440,7 +1440,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "You ____ have booked a room; we have plenty of space.",
+     "q": "You ____ have reserved a room; we have plenty of space, and the reservation costs you nothing.",
      "o": [
       "mustn't",
       "shouldn't",
@@ -1448,7 +1448,7 @@
       "couldn't"
      ],
      "a": 2,
-     "e": "„needn't have done“ = getan, obwohl unnötig."
+     "e": "„needn't have + Partizip II\" = die Reservierung wurde vorgenommen, war aber überflüssig; „costs you nothing\" schließt jeden Nachteil aus. Ausgeschlossen sind: „shouldn't have\" (Vorwurf, den der Nachsatz zurückweist); „mustn't\" (Verbot, auf eine bereits erfolgte Handlung nicht anwendbar); „couldn't have\" (behauptet die Unmöglichkeit der Reservierung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -1717,13 +1717,13 @@
      "lvl": "C2",
      "q": "The committee ____ doubt on the official figures.",
      "o": [
-      "threw",
       "shed",
+      "showered",
       "put",
       "cast"
      ],
      "a": 3,
-     "e": "„cast doubt on“; „shed“ kollokiert mit „light“ — die Kreuz-Falle."
+     "e": "„to cast doubt on something\" ist die feste Wendung für das Infragestellen. Ausgeschlossen sind: „shed\" („shed light on\" gibt es, „shed doubt\" nicht); „showered\" (verlangt einen Empfänger und eine Gabe: „showered them with praise\"); „put\" (bildet mit „doubt on\" keine Fügung — möglich wäre nur „put in doubt\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -1848,12 +1848,12 @@
      "q": "Kindly ____ from smoking during the ceremony.",
      "o": [
       "detain",
-      "abstain",
+      "refrain",
       "restrain",
-      "refrain"
+      "constrain"
      ],
-     "a": 3,
-     "e": "„refrain from“ (Handlung unterlassen); „abstain“ = sich enthalten (Stimme, Konsum)."
+     "a": 1,
+     "e": "„refrain from doing something\" ist die feste Fügung für das Unterlassen aus eigenem Entschluss. Ausgeschlossen sind: „detain\" (jemanden festhalten — transitiv, ohne „from\"); „restrain\" (zurückhalten; ohne reflexives Objekt „restrain oneself from\" ungrammatisch); „constrain\" (einengen, nötigen — nimmt kein „from\" mit Gerundium)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -1967,10 +1967,10 @@
       "ascending",
       "mounting",
       "scaling",
-      "intensifying"
+      "elevating"
      ],
      "a": 1,
-     "e": "„mounting opposition“ — feste metaphorische Kollokation; „ascending/scaling“ passen nicht zu abstraktem Widerstand, „intensifying“ ist inhaltlich nah, aber keine etablierte Festkollokation mit „opposition“ wie „mounting“."
+     "e": "„opposition mounts\" ist die feste Kollokation für anschwellenden Widerstand. Ausgeschlossen sind: „ascending\" (aufsteigen im räumlichen Sinn, von Personen oder Flugkörpern); „scaling\" (erklimmen — transitiv, verlangt ein Objekt); „elevating\" (erhöhen — ebenfalls transitiv und auf Rang oder Stellung bezogen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -2053,15 +2053,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He claimed the documents ____ before the audit.",
+     "q": "She wished she ____ the memorandum before signing it.",
      "o": [
-      "have been shredded",
-      "were shredded",
-      "had been shredded",
-      "would be shredded"
+      "read",
+      "had read",
+      "has read",
+      "would read"
      ],
-     "a": 2,
-     "e": "Vorzeitigkeit zur Redewiedergabe: Past Perfect Passiv."
+     "a": 1,
+     "e": "„wish\" + Past Perfect drückt das Bedauern über etwas Vergangenes aus: „wished she had read\". Ausgeschlossen sind: „read\" (das Präteritum nach „wish\" bezöge sich auf einen gegenwärtigen Zustand, nicht auf eine versäumte Handlung); „has read\" (Present Perfect, das nach „wish\" grundsätzlich nicht steht); „would read\" (bezeichnete den Wunsch nach künftigem Verhalten, nicht das Bedauern)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -2123,10 +2123,10 @@
       "would be",
       "were",
       "had been",
-      "was"
+      "is"
      ],
      "a": 1,
-     "e": "Konditional II, formales Register: „were“ auch in der 3. Person Singular."
+     "e": "„If X were …\" ist der Irrealis der Gegenwart, den die Folge „would fail\" verlangt. Ausgeschlossen sind: „would be\" (im Bedingungssatz steht nie „would\"); „had been\" (Vorzeitigkeit, die mit dem gegenwartsbezogenen „today\" kollidiert); „is\" (realer Bedingungssatz — der verlangte im Hauptsatz „will fail\", nicht „would fail\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -2183,15 +2183,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He spends money as though there ____ no tomorrow.",
+     "q": "____ it not for the veto, the resolution would have carried unanimously.",
      "o": [
-      "were",
-      "was",
-      "is",
-      "be"
+      "Were",
+      "Was",
+      "Is",
+      "Being"
      ],
      "a": 0,
-     "e": "Irrealis nach „as though“: formales „were“."
+     "e": "Die Inversion „Were it not for …\" ersetzt „If it were not for …\" und ist im Englischen auf „were\" festgelegt. Ausgeschlossen sind: „Was\" (in der invertierten Bedingung gibt es keine was-Form — nur „were\", „had\" und „should\" können so invertiert werden); „Is\" (Indikativ Präsens, unvereinbar mit dem irrealen „would have carried\"); „Being\" (Partizip, das keinen Bedingungssatz bilden kann)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -2655,13 +2655,13 @@
      "lvl": "C2",
      "q": "The announcement caught the markets off ____ .",
      "o": [
-      "balance",
-      "guard",
       "alert",
-      "watch"
+      "guard",
+      "watch",
+      "sentry"
      ],
      "a": 1,
-     "e": "Idiom: „to catch sb off guard“ = überrumpeln."
+     "e": "„to catch somebody off guard\" ist die feste Wendung für das Überraschen eines Unvorbereiteten. Ausgeschlossen sind: „alert\", „watch\" und „sentry\" — alle drei gehören zum Wortfeld der Wache, bilden aber mit „off\" keine idiomatische Fügung."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -3320,26 +3320,26 @@
      "lvl": "C2",
      "q": "The accusation was met with a ____ denial.",
      "o": [
-      "cataloged",
+      "catalogued",
       "categorised",
       "categorical",
-      "categoric"
+      "catalytic"
      ],
      "a": 2,
-     "e": "„categorical denial“ = kategorische Zurückweisung."
+     "e": "„a categorical denial\" ist das unbedingte, jede Einschränkung ausschließende Dementi. Ausgeschlossen sind: „catalogued\" (verzeichnet — Partizip, das ein Dementi nicht beschreibt); „categorised\" (in Kategorien eingeteilt); „catalytic\" (eine Reaktion auslösend, aus der Chemie)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The report is ____ critical of the ministry.",
      "o": [
-      "scaldingly",
-      "searingly",
       "scathingly",
-      "scorchingly"
+      "sparingly",
+      "scarcely",
+      "selectively"
      ],
-     "a": 2,
-     "e": "„scathingly critical“ — die etablierte Kollokation."
+     "a": 0,
+     "e": "„scathingly critical\" ist die feste Steigerung: vernichtend, mit beißender Schärfe. Ausgeschlossen sind: „sparingly\" (sparsam — es hieße, kaum Kritik zu üben); „scarcely\" (kaum — verkehrt die Aussage ins Gegenteil); „selectively\" (in Auswahl — beschreibt den Umfang, nicht die Schärfe, und passt nicht zum Gesamturteil über einen Bericht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -3383,15 +3383,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The government moved to ____ off criticism.",
+     "q": "The government moved to stave ____ criticism with an early concession.",
      "o": [
-      "stem",
-      "fend",
-      "stave",
-      "ward"
+      "off",
+      "away",
+      "back",
+      "out"
      ],
-     "a": 2,
-     "e": "„stave off“ = abwenden (drohendes Übel)."
+     "a": 0,
+     "e": "„to stave off something\" ist die einzige Partikelverbindung, die dieses Verb bildet: etwas abwenden oder hinauszögern. Ausgeschlossen sind: „away\", „back\" und „out\" — mit keiner dieser Partikeln existiert „stave\" als Phrasal Verb."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -3439,11 +3439,11 @@
      "o": [
       "put",
       "set",
-      "brought",
-      "called"
+      "called",
+      "moved"
      ],
-     "a": 3,
-     "e": "„to call a meeting to order“ = eröffnen/zur Ordnung rufen."
+     "a": 2,
+     "e": "„to call a meeting to order\" ist die feste Wendung der Sitzungssprache für die Eröffnung. Ausgeschlossen sind: „put\", „set\" und „moved\" — keines dieser Verben bildet mit „to order\" eine Fügung; „move\" bedeutet in der Sitzungssprache „einen Antrag stellen\"."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -3643,15 +3643,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She maintained that she ____ nothing of the arrangement.",
+     "q": "If only the ministry ____ of the arrangement before the contract was signed.",
      "o": [
-      "has known",
-      "had known",
       "knew",
+      "had known",
+      "has known",
       "would know"
      ],
      "a": 1,
-     "e": "Backshift mit Vorzeitigkeit: Past Perfect."
+     "e": "„if only\" + Past Perfect bezeichnet das Bedauern über einen vergangenen Wissensstand. Ausgeschlossen sind: „knew\" (bezöge sich auf die Gegenwart); „has known\" (Present Perfect steht nach „if only\" nicht); „would know\" (Wunsch für die Zukunft statt Bedauern über Vergangenes)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -3713,10 +3713,10 @@
       "would",
       "had",
       "were",
-      "was"
+      "has been"
      ],
      "a": 2,
-     "e": "Konditional II, formelles „were“ in der 3. Person."
+     "e": "„If X were to do …\" ist die hypothetische Bedingung mit Zukunftsbezug. Ausgeschlossen sind: „would\" (im Bedingungssatz nicht möglich); „had\" (verlangte ein Partizip, nicht „to lapse\"); „has been\" (Present Perfect kann den to-Infinitiv dieser Konstruktion nicht tragen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -3773,28 +3773,28 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He behaves as if the crisis ____ already over.",
+     "q": "____ it not been for the last-minute amendment, the text would have collapsed in committee.",
      "o": [
-      "is",
-      "were",
-      "be",
-      "was"
+      "Have",
+      "Were",
+      "Had",
+      "Was"
      ],
-     "a": 1,
-     "e": "Irrealis nach „as if“: formelles „were“."
+     "a": 2,
+     "e": "„Had it not been for …\" ist die invertierte Form von „If it had not been for …\" und die einzige, die das Partizip „been\" trägt. Ausgeschlossen sind: „Have\" (Präsens, unvereinbar mit dem irrealen Rückblick); „Were\" (ergäbe „Were it not been\" — nach „were\" steht kein Partizip); „Was\" (in der invertierten Bedingung nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She admitted ____ the confidential file.",
+     "q": "She admitted ____ the confidential file before the embargo was lifted.",
      "o": [
-      "to reading",
-      "read",
       "to read",
-      "having read"
+      "read",
+      "having read",
+      "to have read"
      ],
-     "a": 3,
-     "e": "„admit“ + Gerundium: „admit having read“; „admit to reading“ ginge auch, „to read“ nicht."
+     "a": 2,
+     "e": "„admit\" regiert ausschließlich das Gerundium; für die ausdrückliche Vorzeitigkeit steht das Perfektgerundium: „admitted having read\". Ausgeschlossen sind: „to read\" und „to have read\" (nach „admit\" ist kein to-Infinitiv möglich, gleich in welcher Zeitstufe); „read\" (die bloße Grundform kann nach „admit\" nicht stehen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -3890,7 +3890,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "A series of setbacks ____ eroded confidence.",
+     "q": "The number of unresolved objections ____ risen sharply since the last session.",
      "o": [
       "are",
       "were",
@@ -3898,7 +3898,7 @@
       "have"
      ],
      "a": 2,
-     "e": "„a series of“ + Singularkongruenz."
+     "e": "„the number of …\" hat „number\" als Kopf und steht zwingend im Singular: „the number … has risen\". Ausgeschlossen sind: „have\" (Plural — er gälte nur für „a number of\", die gegenteilige Fügung); „are\" und „were\" (Formen von „be\", die das Partizip „risen\" nicht tragen können; „rise\" bildet das Perfekt mit „have\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -4117,24 +4117,24 @@
      "o": [
       "rigid",
       "stiff",
-      "hard",
-      "tough"
+      "sturdy",
+      "solid"
      ],
      "a": 1,
-     "e": "„stiff resistance“ — die feste Kollokation."
+     "e": "„stiff resistance\" ist die feste Kollokation für erbitterten Widerstand. Ausgeschlossen sind: „rigid\" (starr im Sinne von unbeweglich — von Regeln oder Strukturen, nicht von Widerstand); „sturdy\" (robust gebaut, von Gegenständen und Personen); „solid\" (fest, massiv; „solid support\" gibt es, „solid resistance\" nicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The two sides remain ____ apart.",
      "o": [
-      "poles",
       "leagues",
+      "poles",
       "oceans",
-      "miles"
+      "fathoms"
      ],
-     "a": 0,
-     "e": "Idiom: „poles apart“ = grundverschieden."
+     "a": 1,
+     "e": "„poles apart\" ist die feste Wendung für zwei völlig unvereinbare Positionen — das Bild der beiden Erdpole. Ausgeschlossen sind: „leagues\", „oceans\" und „fathoms\" — alle drei sind Maß- oder Raumbegriffe, aber keiner bildet mit „apart\" eine idiomatische Fügung."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4167,13 +4167,13 @@
      "lvl": "C2",
      "q": "The scheme was ____ out over three years.",
      "o": [
-      "paced",
-      "timed",
       "phased",
-      "spaced"
+      "patched",
+      "pruned",
+      "polished"
      ],
-     "a": 2,
-     "e": "„to phase out/in“ = schrittweise ein-/ausführen."
+     "a": 0,
+     "e": "„to phase something out over a period\" heißt, es in Stufen über einen Zeitraum zu verteilen. Ausgeschlossen sind: „patched\" („patch up\" heißt notdürftig flicken, „patch out\" gibt es nicht); „pruned\" (zurückschneiden — es verkleinerte das Programm, statt es zu strecken); „polished\" („polish off\" heißt aufbrauchen, „polish out\" bildet keine Fügung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4232,13 +4232,13 @@
      "lvl": "C2",
      "q": "May I take this ____ to thank the delegates.",
      "o": [
-      "chance",
+      "opportunity",
       "possibility",
-      "occasion",
-      "opportunity"
+      "probability",
+      "eventuality"
      ],
-     "a": 3,
-     "e": "„take the opportunity to“ — feste Formel; „occasion“ kollokiert anders."
+     "a": 0,
+     "e": "„to take this opportunity to do something\" ist die feste Wendung der förmlichen Ansprache. Ausgeschlossen sind: „possibility\" (bezeichnet eine denkbare Option, die man nicht „ergreift\"); „probability\" (Wahrscheinlichkeit, ein Maß); „eventuality\" (ein möglicher Fall, auf den man sich einstellt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4360,15 +4360,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "She was ____ opposed to the merger.",
+     "q": "She was ____ opposed to the merger, and said so at every opportunity.",
      "o": [
+      "grudgingly",
       "vehemently",
-      "furiously",
-      "violently",
-      "angrily"
+      "tentatively",
+      "nominally"
      ],
-     "a": 0,
-     "e": "„vehemently opposed“ — feste Kollokation für nachdrücklichen Widerstand."
+     "a": 1,
+     "e": "„vehemently opposed\" bezeichnet den nachdrücklich und offen geäußerten Widerstand, den der Nachsatz bestätigt. Ausgeschlossen sind: „grudgingly\" (widerwillig — beschreibt Zustimmung gegen den eigenen Willen, nicht Ablehnung); „tentatively\" (zögernd, vorläufig — im Widerspruch zu „at every opportunity\"); „nominally\" (nur dem Namen nach — ebenfalls unvereinbar mit der offenen Äußerung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4438,28 +4438,28 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The spokeswoman said the figures ____ revised upward.",
+     "q": "By the time the press conference began, the figures ____ upward twice.",
      "o": [
-      "were",
-      "had been",
-      "have been",
-      "would be"
+      "were revised",
+      "had been revised",
+      "have been revised",
+      "would be revised"
      ],
      "a": 1,
-     "e": "Vorzeitigkeit in der Redewiedergabe: Past Perfect Passiv."
+     "e": "„By the time\" + Vergangenheit verlangt Vorzeitigkeit zu diesem Punkt: „had been revised\". Ausgeschlossen sind: „were revised\" (Präteritum ohne Vorzeitigkeit); „have been revised\" (Present Perfect mit Gegenwartsbezug); „would be revised\" (Zukunft in der Vergangenheit, die dem abgeschlossenen „twice\" widerspricht)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was named ____ rapporteur for ____ committee on trade.",
+     "q": "When the auditors finally arrived, the relevant files ____ for several weeks.",
      "o": [
-      "the / the",
-      "a / a",
-      "— / a",
-      "— / the"
+      "were missing",
+      "have been missing",
+      "had been missing",
+      "are missing"
      ],
-     "a": 3,
-     "e": "Nullartikel vor dem Amt; „the committee“ als bestimmter Bezug."
+     "a": 2,
+     "e": "Der Zeitpunkt der Ankunft liegt in der Vergangenheit; für den Zustand, der schon vorher andauerte, steht das Past Perfect, und die Dauerangabe „for several weeks\" verlangt dessen Verlaufsform: „had been missing\". Ausgeschlossen sind: „were missing\" (gleichzeitig statt vorzeitig, die Dauer bleibt unausgedrückt); „have been missing\" (Present Perfect bindet an die Gegenwart); „are missing\" (Gegenwartsform im Vergangenheitsrahmen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -4507,11 +4507,11 @@
      "o": [
       "would be",
       "were",
-      "was",
+      "is",
       "had been"
      ],
      "a": 1,
-     "e": "Konditional II, formelles „were“."
+     "e": "„If it were up to me\" ist der Irrealis der Gegenwart; die Folge „would abolish\" verlangt ihn. Ausgeschlossen sind: „would be\" (kein „would\" im Bedingungssatz); „is\" (realer Bedingungssatz, der „will abolish\" nach sich zöge); „had been\" (Vorzeitigkeit ohne Bezugspunkt in der Vergangenheit)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -4568,15 +4568,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He treats every rumour as though it ____ fact.",
+     "q": "____ the delegation to withdraw at this stage, the entire package would unravel.",
      "o": [
-      "were",
-      "is",
-      "be",
-      "was"
+      "Was",
+      "Were",
+      "Is",
+      "Had"
      ],
-     "a": 0,
-     "e": "Irrealis nach „as though“: formelles „were“."
+     "a": 1,
+     "e": "„Were X to do …\" ist die invertierte Form von „If X were to do …\" und bezeichnet die hypothetische Zukunft. Ausgeschlossen sind: „Was\" (die invertierte Bedingung kennt keine was-Form); „Is\" (Indikativ, unvereinbar mit „would unravel\"); „Had\" (verlangte ein Partizip, nicht den to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -4923,13 +4923,13 @@
      "lvl": "C2",
      "q": "The two positions are ____ irreconcilable.",
      "o": [
-      "essentially",
-      "foundationally",
-      "basically",
-      "fundamentally"
+      "marginally",
+      "fundamentally",
+      "partially",
+      "nominally"
      ],
-     "a": 3,
-     "e": "„fundamentally irreconcilable“ — feste Intensivierung im formalen Register."
+     "a": 1,
+     "e": "„irreconcilable\" ist ein absolutes Adjektiv und verträgt nur verstärkende Adverbien: „fundamentally irreconcilable\". Ausgeschlossen sind: „marginally\" und „partially\" (beide graduieren, was keinen Grad kennt — etwas ist entweder unvereinbar oder nicht); „nominally\" (nur dem Namen nach — es hieße, die Unvereinbarkeit bestehe gar nicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -5027,13 +5027,13 @@
      "lvl": "C2",
      "q": "The ambassador ____ a toast to the host.",
      "o": [
-      "gave",
-      "offered",
       "proposed",
-      "made"
+      "pledged",
+      "declared",
+      "announced"
      ],
-     "a": 2,
-     "e": "„to propose a toast“ — feste Kollokation."
+     "a": 0,
+     "e": "„to propose a toast\" ist die feste Wendung des gesellschaftlichen Protokolls. Ausgeschlossen sind: „pledged\" (etwas zusagen oder geloben — man gelobt keinen Trinkspruch); „declared\" (etwas förmlich erklären, von Ergebnissen und Zuständen); „announced\" (ankündigen — der Trinkspruch wird ausgebracht, nicht angekündigt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -5233,28 +5233,28 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The delegate stated that the vote ____ postponed.",
+     "q": "It was the second time that session the vote ____ without explanation.",
      "o": [
-      "has been",
-      "was",
-      "had been",
-      "would have been"
+      "has been postponed",
+      "was postponed",
+      "had been postponed",
+      "would be postponed"
      ],
      "a": 2,
-     "e": "Redewiedergabe mit Vorzeitigkeit: Past Perfect Passiv."
+     "e": "Nach „it was the second time\" steht zwingend das Past Perfect: „had been postponed\". Ausgeschlossen sind: „was postponed\" (Präteritum, das der Rahmen nicht zulässt); „has been postponed\" (gehörte zu „it is the second time\"); „would be postponed\" (Zukunft in der Vergangenheit)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was elected ____ president of ____ General Assembly.",
+     "q": "Not one of the pledges ____ honoured by the time the review conference opened.",
      "o": [
-      "the / the",
-      "— / a",
-      "— / the",
-      "a / the"
+      "was",
+      "were",
+      "have been",
+      "had been"
      ],
-     "a": 2,
-     "e": "Nullartikel vor dem Amt; „the General Assembly“ mit Artikel."
+     "a": 3,
+     "e": "„by the time\" + Vergangenheit verlangt Vorzeitigkeit, also das Past Perfect Passiv „had been honoured\". Ausgeschlossen sind: „was\" und „were\" (Präteritum drückt keine Vorzeitigkeit aus; „were\" verstößt zusätzlich gegen die Kongruenz mit „Not one\", das den Singular verlangt); „have been\" (Present Perfect bindet an die Gegenwart)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -5298,15 +5298,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If the mechanism ____ revived, disputes could be settled again.",
+     "q": "If the mechanism ____ revived tomorrow, disputes could once again be settled — but nobody expects that to happen.",
      "o": [
       "were",
       "would be",
       "had been",
-      "was"
+      "is"
      ],
      "a": 0,
-     "e": "Konditional II, formelles „were“."
+     "e": "„If X were …\" ist der Irrealis; der Nachsatz „nobody expects that to happen\" schließt die reale Bedingung ausdrücklich aus. Ausgeschlossen sind: „would be\" (kein „would\" im Bedingungssatz); „had been\" (Vorzeitigkeit, unvereinbar mit „tomorrow\"); „is\" (realer Bedingungssatz — den der Nachsatz gerade ausschließt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -5480,7 +5480,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "A raft of proposals ____ been tabled.",
+     "q": "A number of proposals ____ been tabled since the recess.",
      "o": [
       "are",
       "has",
@@ -5488,7 +5488,7 @@
       "have"
      ],
      "a": 3,
-     "e": "„A raft of\" ist wie „a number of\" eine Mengenangabe: das Verb richtet sich nach dem Plural-Bezugswort — „A raft of proposals **have** been tabled\". (Nur „THE number of\" verlangt den Singular.)"
+     "e": "„a number of …\" ist eine Mengenangabe; das Bezugswort ist der Plural „proposals\", das Prädikat steht deshalb im Plural: „have been tabled\". Ausgeschlossen sind: „has\" (Singular — der gälte nur für „the number of\"); „are\" und „were\" (Formen von „be\", die vor dem Partizip „been\" nicht stehen können)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -5558,7 +5558,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The inquiry asked how the deadlock ____ so long.",
+     "q": "By then the deadlock ____ for the better part of two years.",
      "o": [
       "persisted",
       "had persisted",
@@ -5566,7 +5566,7 @@
       "has persisted"
      ],
      "a": 1,
-     "e": "Indirekte Frage, Vorzeitigkeit: Past Perfect."
+     "e": "„By then\" verweist auf einen Punkt der Vergangenheit und verlangt für das bereits Andauernde das Past Perfect. Ausgeschlossen sind: „persisted\" (Präteritum ohne Vorzeitigkeit); „would persist\" (Zukunft in der Vergangenheit); „has persisted\" (Present Perfect mit Gegenwartsbezug, unvereinbar mit „by then\")."
     }
    ]
   },
@@ -5757,13 +5757,13 @@
      "lvl": "C2",
      "q": "The parties agreed to ____ up their ambitions.",
      "o": [
-      "ramp",
-      "scale",
       "wind",
-      "turn"
+      "scale",
+      "turn",
+      "stack"
      ],
      "a": 1,
-     "e": "„to scale up“ = hochfahren; die anderen kollokieren anders mit „up“."
+     "e": "„to scale up\" heißt, etwas im Umfang zu vergrößern. Ausgeschlossen sind: „wind up\" (abschließen, beenden — das Gegenteil); „turn up\" (auftauchen bzw. lauter stellen); „stack up\" (sich häufen oder im Vergleich abschneiden)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -5783,13 +5783,13 @@
      "lvl": "C2",
      "q": "The pledge was ____ by a lack of funding.",
      "o": [
-      "undercut",
       "underlaid",
+      "undermined",
       "understated",
-      "undermined"
+      "underwritten"
      ],
-     "a": 3,
-     "e": "„undermined by“ = untergraben; „undercut“ = unterbieten."
+     "a": 1,
+     "e": "„to undermine\" heißt, etwas von unten aushöhlen und dadurch entwerten — die feste Wendung für ein durch fehlende Mittel entkräftetes Versprechen. Ausgeschlossen sind: „underlaid\" (unterlegt, im wörtlichen Sinn); „understated\" (untertrieben dargestellt — es ginge um die Darstellung, nicht die Wirkung); „underwritten\" (finanziell abgesichert — das genaue Gegenteil)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -6028,28 +6028,28 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The envoy said the pledge ____ quietly abandoned.",
+     "q": "The envoy would rather the pledge ____ quietly rather than announced at the summit.",
      "o": [
-      "has been",
-      "was",
-      "would be",
-      "had been"
+      "has been abandoned",
+      "was abandoned",
+      "would be abandoned",
+      "had been abandoned"
      ],
      "a": 3,
-     "e": "Redewiedergabe mit Vorzeitigkeit: Past Perfect Passiv."
+     "e": "„would rather\" mit Bezug auf Vergangenes verlangt das Past Perfect: „would rather the pledge had been abandoned\". Ausgeschlossen sind: „was abandoned\" (Präteritum, das nach „would rather\" nur den Gegenwartsbezug ausdrückt); „has been abandoned\" (Present Perfect steht nach „would rather\" nicht); „would be abandoned\" (kein zweites „would\" im Nebensatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was chosen ____ envoy for ____ Sahel.",
+     "q": "Neither of the two drafts ____ circulated before the meeting, as the rules require.",
      "o": [
-      "— / a",
-      "the / the",
-      "a / the",
-      "— / the"
+      "were",
+      "has been",
+      "had been",
+      "have been"
      ],
-     "a": 3,
-     "e": "Nullartikel vor dem Amt; Regionsname mit „the Sahel“."
+     "a": 2,
+     "e": "„Neither of\" verlangt den Singular, „before the meeting\" die Vorzeitigkeit: „had been circulated\". Ausgeschlossen sind: „were\" und „have been\" (Plural nach „Neither of\"); „has been\" (Singular zwar richtig, aber das Present Perfect bindet an die Gegenwart statt an den vergangenen Bezugspunkt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -6096,17 +6096,17 @@
      "q": "If the treaty ____ collapse, momentum would be lost.",
      "o": [
       "were to",
-      "was to",
+      "had been to",
       "would",
       "had to"
      ],
      "a": 0,
-     "e": "Konditional II mit „were to“ für hypothetische Zukunft."
+     "e": "„If X were to do …\" bezeichnet die hypothetische Zukunft, die „would be lost\" verlangt. Ausgeschlossen sind: „had been to\" (bedeutet „war irgendwo gewesen\" und ergibt hier keinen Sinn); „would\" (im Bedingungssatz nicht möglich); „had to\" (bedeutet „musste\" — eine Tatsache der Vergangenheit, keine Hypothese)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Had the fund been capitalised, projects ____ under way.",
+     "q": "Had the fund been capitalised in 2020, dozens of projects ____ under way at this very moment.",
      "o": [
       "had been",
       "would have been",
@@ -6114,7 +6114,7 @@
       "will be"
      ],
      "a": 2,
-     "e": "Gemischter Konditional: Bedingung Vergangenheit, Folge Gegenwart."
+     "e": "Gemischter Konditional: irreale Bedingung in der Vergangenheit („Had the fund been capitalised in 2020\"), Folge in der Gegenwart („at this very moment\") — verlangt „would be\". Ausgeschlossen sind: „would have been\" (Folge in der Vergangenheit, unvereinbar mit „at this very moment\"); „had been\" (Past Perfect gehört in den Bedingungssatz); „will be\" (Indikativ Futur, unvereinbar mit der irrealen Bedingung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -6158,15 +6158,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He speaks as though the crisis ____ imaginary.",
+     "q": "____ it not for the chair's insistence, the session would have adjourned without a text.",
      "o": [
-      "is",
-      "were",
-      "be",
-      "was"
+      "Was",
+      "Should",
+      "Were",
+      "Being"
      ],
-     "a": 1,
-     "e": "Irrealis nach „as though“."
+     "a": 2,
+     "e": "„Were it not for …\" ist die feste invertierte Form der irrealen Bedingung. Ausgeschlossen sind: „Was\" (in dieser Inversion nicht möglich); „Should\" (ergäbe „Should it not for\" — „should\" verlangt einen Infinitiv, keine Präpositionalphrase); „Being\" (Partizip ohne Satzfunktion)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -6275,15 +6275,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "A spate of withdrawals ____ weakened the accord.",
+     "q": "Neither of the two withdrawals ____ weakened the accord in practice.",
      "o": [
       "have",
       "are",
       "were",
       "has"
      ],
-     "a": 0,
-     "e": "„A spate of withdrawals **have** weakened the accord\": bei Mengenangaben („a spate/raft/handful/number of\") bestimmt das Bezugswort im Plural die Kongruenz."
+     "a": 3,
+     "e": "„neither of …\" bezeichnet keines von zweien und steht im formalen Register im Singular: „neither … has weakened\". Ausgeschlossen sind: „have\" (Plural, im Prüfungsregister nicht zulässig); „are\" und „were\" (Formen von „be\" vor einem Vollverb-Partizip, das mit „have\" gebildet wird)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -6617,13 +6617,13 @@
      "lvl": "C2",
      "q": "Police were authorised to ____ the diplomat's driver for questioning.",
      "o": [
-      "arrest",
       "detain",
-      "imprison",
-      "incarcerate"
+      "deter",
+      "deport",
+      "depose"
      ],
-     "a": 1,
-     "e": "„detain“ = vorübergehend festhalten (schwächer als „arrest“); passt zur Kollokation „for questioning“."
+     "a": 0,
+     "e": "„to detain somebody for questioning\" ist die feste Wendung für die vorläufige Festhaltung zur Befragung — ohne förmliche Festnahme. Ausgeschlossen sind: „deter\" (abschrecken, von einer Handlung abhalten); „deport\" (außer Landes bringen — das schlösse die Befragung gerade aus); „depose\" (ein Amt entziehen bzw. eine eidliche Aussage aufnehmen, die kein Festhalten voraussetzt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -6656,26 +6656,26 @@
      "lvl": "C2",
      "q": "The appellate court moved to ____ the indictment for lack of evidence.",
      "o": [
-      "vacate",
-      "overturn",
+      "repeal",
       "quash",
-      "uphold"
+      "revoke",
+      "waive"
      ],
-     "a": 2,
-     "e": "„to quash an indictment“ ist die spezifische Kollokation; „overturn“ passt eher zu „verdict“, „vacate“ eher zu „sentence“."
+     "a": 1,
+     "e": "„to quash an indictment\" ist die feste Wendung des britischen Strafverfahrensrechts für die Aufhebung einer Anklage. Ausgeschlossen sind: „repeal\" (bezieht sich ausschließlich auf Gesetze, nie auf Einzelakte); „revoke\" (gilt für Erlaubnisse, Lizenzen und Vollmachten); „waive\" (bedeutet den Verzicht auf ein eigenes Recht, nicht die Aufhebung einer Anklage)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "On appeal, the higher court decided to ____ the jury's verdict.",
      "o": [
-      "quash",
-      "vacate",
+      "repeal",
       "overturn",
-      "uphold"
+      "waive",
+      "adjourn"
      ],
-     "a": 2,
-     "e": "„to overturn a verdict“ ist die Standardkollokation im Berufungsverfahren."
+     "a": 1,
+     "e": "„to overturn a verdict\" ist die feste Wendung für die Aufhebung eines Urteilsspruchs durch die höhere Instanz. Ausgeschlossen sind: „repeal\" (nur bei Gesetzen); „waive\" (Verzicht auf ein eigenes Recht); „adjourn\" (bedeutet die Vertagung einer Sitzung, nicht die Aufhebung einer Entscheidung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -6693,15 +6693,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The judge agreed to ____ the sentence in light of the procedural error.",
+     "q": "The Home Secretary agreed to ____ the sentence in light of the prisoner's age and ill health.",
      "o": [
-      "quash",
-      "vacate",
-      "uphold",
-      "overturn"
+      "repeal",
+      "waive",
+      "commute",
+      "adjourn"
      ],
-     "a": 1,
-     "e": "„to vacate a sentence“ = ein Strafmaß aufheben; feste Kollokation im US-amerikanischen Recht."
+     "a": 2,
+     "e": "„to commute a sentence\" heißt, eine Strafe in eine mildere umzuwandeln — die feste Wendung für genau diesen Vorgang. Ausgeschlossen sind: „repeal\" (nur bei Gesetzen); „waive\" (Verzicht auf ein eigenes Recht, nicht Umwandlung einer Strafe); „adjourn\" (Vertagung einer Sitzung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -6747,13 +6747,13 @@
      "lvl": "C2",
      "q": "____ persons before the Court retain the right to a fair and public hearing.",
      "o": [
-      "Defendant",
-      "Convicted",
-      "Indicted",
-      "Accused"
+      "Accused",
+      "Acquitted",
+      "Absolved",
+      "Adjourned"
      ],
-     "a": 3,
-     "e": "Die Terminologie des Gerichtshofs lautet „the accused“ — nicht „defendant“, ein Begriff nationaler Strafprozesse."
+     "a": 0,
+     "e": "„accused persons\" ist der Verfahrensbegriff für die Beschuldigten, denen die Verfahrensgarantien zustehen. Ausgeschlossen sind: „Acquitted\" und „Absolved\" (beide bezeichnen den bereits Freigesprochenen — für ihn ist das Verfahren beendet); „Adjourned\" (vertagt — das gilt für Sitzungen, nicht für Personen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -6773,26 +6773,26 @@
      "lvl": "C2",
      "q": "The panel was convened to ____ disputes over admissibility.",
      "o": [
-      "arbitrate",
       "adjudicate",
-      "mediate",
-      "negotiate"
+      "litigate",
+      "prosecute",
+      "legislate"
      ],
-     "a": 1,
-     "e": "„adjudicate“ = richterlich entscheiden; „arbitrate“ gehört zum privaten Schiedsverfahren, „mediate“ zur unverbindlichen Vermittlung."
+     "a": 0,
+     "e": "„to adjudicate a dispute\" heißt, als entscheidende Instanz über ihn zu befinden — die Rolle eines eigens einberufenen Spruchkörpers. Ausgeschlossen sind: „litigate\" (prozessieren — das tun die Parteien, nicht der Spruchkörper); „prosecute\" (strafrechtlich verfolgen, Sache der Anklagebehörde); „legislate\" (Gesetze erlassen, Sache des Gesetzgebers)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The tribunal found the commander ____ for failing to prevent the atrocity.",
+     "q": "The doctrine under which a superior answers for crimes committed by subordinates he failed to prevent is known as command ____.",
      "o": [
-      "accountable",
-      "liable",
-      "responsible",
-      "culpable"
+      "liability",
+      "responsibility",
+      "accountability",
+      "culpability"
      ],
-     "a": 3,
-     "e": "„culpable“ = strafrechtlich schuldhaft; „liable“ ist der zivilrechtliche Begriff für Haftung — die klassische Registerunterscheidung."
+     "a": 1,
+     "e": "Der völkerstrafrechtliche Terminus lautet „command responsibility\" — so in den Statuten der Ad-hoc-Tribunale und im Römischen Statut. Ausgeschlossen sind: „liability\" (die zivilrechtliche Einstandspflicht; „command liability\" ist kein Terminus); „accountability\" (die allgemeine Rechenschaftspflicht); „culpability\" (der Grad des Verschuldens im Einzelfall)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -6914,15 +6914,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Under no circumstances ____ disclose the identity of a protected witness.",
+     "q": "Under no circumstances ____ the identity of a protected witness be disclosed to the press.",
      "o": [
-      "would the tribunal",
-      "the tribunal will",
-      "the tribunal would",
-      "will the tribunal"
+      "does",
+      "may",
+      "is",
+      "has"
      ],
-     "a": 3,
-     "e": "Negative Inversion nach vorangestelltem „Under no circumstances“: Hilfsverb vor Subjekt („will the tribunal“)."
+     "a": 1,
+     "e": "Nach vorangestelltem „Under no circumstances\" folgt die Inversion; vor dem Passiv-Infinitiv „be disclosed\" kann nur ein Modalverb stehen: „may … be disclosed\". Ausgeschlossen sind: „does\" (nach „do\" steht der reine Infinitiv, „does … be disclosed\" ist ungrammatisch); „is\" (ergäbe „is … be disclosed\", zwei Formen von „be\" nebeneinander); „has\" (verlangte das Partizip „been\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -6955,13 +6955,13 @@
      "lvl": "C2",
      "q": "They ____ have received the summons; the registry never sent it.",
      "o": [
-      "wouldn't",
+      "shouldn't",
       "can't",
       "needn't",
       "mustn't"
      ],
      "a": 1,
-     "e": "„can't have“ = logische Unmöglichkeit im Rückblick."
+     "e": "„can't have + Partizip II\" bezeichnet den logischen Ausschluss: eine nie versandte Ladung kann niemand erhalten haben. Ausgeschlossen sind: „shouldn't have\" (Vorwurf, der den Empfang voraussetzt); „needn't have\" (unnötig, aber geschehen); „mustn't\" (Verbot statt Schlussfolgerung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -6994,13 +6994,13 @@
      "lvl": "C2",
      "q": "It was the absence of enforcement, not the absence of evidence, ____ ultimately doomed the case.",
      "o": [
-      "which",
+      "whose",
       "what",
       "that",
       "who"
      ],
      "a": 2,
-     "e": "Es-Spaltsatz („It was … that …“) zur Hervorhebung."
+     "e": "Im It-Cleft steht nach dem hervorgehobenen Satzglied das Relativum „that\" — die im Prüfungsregister feste Wahl bei sachlichem Fokus. Ausgeschlossen sind: „whose\" (Genitivrelativum, das ein folgendes Substantiv verlangt); „what\" (leitet einen freien Relativsatz ein und kann nicht auf ein bereits genanntes Satzglied zurückweisen); „who\" (bezieht sich nur auf Personen, nicht auf „the absence of enforcement\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -7334,13 +7334,13 @@
      "lvl": "C2",
      "q": "Foreign ____ filed suit in New York after the government missed its coupon payment.",
      "o": [
-      "lenders",
-      "debtors",
-      "financiers",
-      "creditors"
+      "creditors",
+      "curators",
+      "custodians",
+      "contractors"
      ],
-     "a": 3,
-     "e": "„creditors“ = Gläubiger, die eine Forderung geltend machen; „debtors“ wäre der Schuldnerstaat selbst."
+     "a": 0,
+     "e": "„creditors\" sind die Gläubiger, denen die ausgefallene Kuponzahlung zusteht — nur sie können daraus klagen. Ausgeschlossen sind: „curators\" (Kuratoren einer Sammlung); „custodians\" (Verwahrer fremder Wertpapiere, die im eigenen Namen nicht klagen); „contractors\" (Auftragnehmer, die keine Anleihe halten)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7386,13 +7386,13 @@
      "lvl": "C2",
      "q": "The state formally ____ its immunity from suit when it agreed to New York law arbitration.",
      "o": [
-      "forwent",
-      "relinquished",
-      "renounced",
-      "waived"
+      "repealed",
+      "waived",
+      "quashed",
+      "adjourned"
      ],
-     "a": 3,
-     "e": "„to waive immunity“ ist die feste rechtliche Kollokation; die übrigen Verben sind zwar sinnverwandt, aber nicht die stehende Fügung im Kontext von Immunitätsverzicht."
+     "a": 1,
+     "e": "„to waive immunity\" ist die feste Wendung für den Verzicht auf ein eigenes Recht. Ausgeschlossen sind: „repealed\" (Gesetze aufheben — nie ein Recht im Einzelfall); „quashed\" (eine Anklage oder Entscheidung aufheben, Sache eines Gerichts); „adjourned\" (eine Sitzung vertagen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7425,13 +7425,13 @@
      "lvl": "C2",
      "q": "Courts have moved away from the doctrine under which no suit against a foreign state was ever ____ .",
      "o": [
-      "permissible",
+      "permitting",
       "permission",
       "permitted",
       "permit"
      ],
      "a": 2,
-     "e": "Nach „was ever“ folgt das Partizip Perfekt als Teil des Passivs: „was ever permitted“."
+     "e": "Nach „was\" steht im Passiv das Partizip II: „was permitted\". Ausgeschlossen sind: „permitting\" (Partizip Präsens, das ein aktives Verhältnis ausdrückte); „permission\" (Substantiv, das nach „was ever\" kein Prädikat bildet); „permit\" (Grundform bzw. Substantiv, in beiden Lesarten hier unmöglich)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7490,13 +7490,13 @@
      "lvl": "C2",
      "q": "The defaulting state's legal ____ deepened as more bondholders filed parallel suits abroad.",
      "o": [
-      "vulnerability",
-      "weakness",
       "exposure",
-      "liability"
+      "exposition",
+      "expiry",
+      "expenditure"
      ],
-     "a": 2,
-     "e": "„legal exposure“ ist die gebräuchliche Fachkollokation für das Risiko, verklagt zu werden; „liability“ bezeichnet eher die konkrete Haftung selbst."
+     "a": 0,
+     "e": "„legal exposure\" ist das Maß der rechtlichen Angriffsfläche — der Fachausdruck für das Risiko, in Anspruch genommen zu werden. Ausgeschlossen sind: „exposition\" (Darlegung eines Sachverhalts bzw. Ausstellung); „expiry\" (Ablauf einer Frist); „expenditure\" (Ausgaben)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7568,13 +7568,13 @@
      "lvl": "C2",
      "q": "The tribunal found that the transaction, though initiated by the ministry, was ____ commercial.",
      "o": [
-      "substantively",
       "substantiated",
-      "substantially",
+      "substantively",
+      "substantiating",
       "substantial"
      ],
-     "a": 0,
-     "e": "„substantively commercial“ = der Sache nach kommerziell; Adverb zur Modifikation des Adjektivs „commercial“."
+     "a": 1,
+     "e": "Vor einem Adjektiv steht ein Adverb; „substantively\" bezeichnet die Beurteilung nach dem Wesen der Sache. Ausgeschlossen sind: „substantiated\" (belegt, bewiesen — Partizip, das kein Adjektiv modifizieren kann); „substantiating\" (belegend — ebenfalls Partizip); „substantial\" (Adjektiv, das vor einem weiteren Adjektiv nicht stehen kann)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7608,12 +7608,12 @@
      "q": "The only ____ still open to the bondholders was to pursue assets in a third jurisdiction.",
      "o": [
       "remedy",
-      "recourse",
       "resource",
-      "redress"
+      "remittance",
+      "remission"
      ],
      "a": 0,
-     "e": "„legal remedy“ ist die feste Kollokation für ein Rechtsmittel; „resource“ ist ein False-Friend-Distraktor zum deutschen „Ressource“."
+     "e": "„remedy\" ist im Rechtsenglischen der Rechtsbehelf — die Möglichkeit, einen Anspruch durchzusetzen. Ausgeschlossen sind: „resource\" (Mittel oder Vorrat, nicht Rechtsbehelf); „remittance\" (Geldüberweisung); „remission\" (Erlass einer Strafe oder Schuld — hier wird nichts erlassen, sondern verfolgt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -7683,7 +7683,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "____ the reserves ever leave the central bank's custody, the creditors' claim would collapse.",
+     "q": "____ the gold reserve ever leave the central bank's custody, the creditors' claim would collapse.",
      "o": [
       "If",
       "Was",
@@ -7691,7 +7691,7 @@
       "Should"
      ],
      "a": 3,
-     "e": "„Should“ + Infinitiv ohne „to“ leitet einen hypothetischen Bedingungssatz mit geringerer Wahrscheinlichkeit ein."
+     "e": "„Should\" + Infinitiv ohne „to\" leitet die unwahrscheinliche Bedingung ein und ist die einzige Form, die den unflektierten „leave\" trägt. Ausgeschlossen sind: „If\" (verlangt bei „the gold reserve\" den Indikativ „leaves\"); „Was\" (Präteritum ohne Infinitivrektion); „Were\" (verlangt „to leave\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -7787,15 +7787,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "It was the commercial character of the bond, not its sovereign purpose, ____ ultimately settled the case.",
+     "q": "It was the commercial character of the bond, not its sovereign purpose, ____ ultimately governed the inquiry.",
      "o": [
       "who",
       "that",
-      "which",
+      "whose",
       "what"
      ],
      "a": 1,
-     "e": "Es-Spaltsatz („It was … that …“) zur Hervorhebung."
+     "e": "Das It-Cleft verlangt bei sachlichem Fokus das Relativum „that\". Ausgeschlossen sind: „who\" (nur bei Personen); „whose\" (Genitivrelativum ohne folgendes Substantiv); „what\" (freies Relativum ohne Rückbezug auf ein genanntes Satzglied)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -8129,13 +8129,13 @@
      "lvl": "C2",
      "q": "Washington remains wary of ceding ____ to a permanent bench of tenured judges.",
      "o": [
-      "sovereignty",
       "supremacy",
-      "authority",
-      "dominion"
+      "sovereignty",
+      "dominion",
+      "hegemony"
      ],
-     "a": 0,
-     "e": "„ceding sovereignty“ ist die im Text zentrale Fügung für den Verzicht auf staatliche Entscheidungshoheit."
+     "a": 1,
+     "e": "„to cede sovereignty\" ist die feste Wendung für die Abtretung staatlicher Hoheitsrechte an eine überstaatliche Instanz. Ausgeschlossen sind: „supremacy\" (Vorrang im Sinne eines Rangverhältnisses, den man nicht abtritt); „dominion\" (Herrschaft über ein Gebiet, historisch besetzt); „hegemony\" (faktische Vormacht, keine übertragbare Rechtsposition)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8209,11 +8209,11 @@
      "o": [
       "quantities",
       "sums",
-      "amounts",
-      "totals"
+      "volumes",
+      "magnitudes"
      ],
      "a": 1,
-     "e": "„sums“ ist die im Text verwendete, idiomatische Kollokation für Geldbeträge in diesem Kontext; die übrigen Optionen sind untypisch für Schadenssummen."
+     "e": "„sums\" ist im Englischen der stehende Ausdruck für Geldbeträge. Ausgeschlossen sind: „quantities\" (Stückzahlen oder Mengen von Gütern); „volumes\" (Umfang oder Handelsvolumen, nicht ein einzelner Betrag); „magnitudes\" (Größenordnungen in Naturwissenschaft und Statistik)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8285,13 +8285,13 @@
      "lvl": "C2",
      "q": "What has emerged is a ____ in which some investors retain robust protection and others none at all.",
      "o": [
-      "quilt",
       "patchwork",
-      "collage",
-      "mosaic"
+      "handiwork",
+      "clockwork",
+      "waxwork"
      ],
-     "a": 1,
-     "e": "„a patchwork of protection“ ist die im Text verwendete Metapher für uneinheitlichen Schutz."
+     "a": 0,
+     "e": "„a patchwork\" ist das Flickwerk aus ungleichen Teilen — das stehende Bild für ein uneinheitliches Regelungsgefüge. Ausgeschlossen sind: „handiwork\" (das Werk einer bestimmten Hand, meist mit Blick auf den Urheber); „clockwork\" (Uhrwerk, Sinnbild reibungsloser Regelmäßigkeit — das Gegenteil); „waxwork\" (Wachsfigur)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8361,15 +8361,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The dual role of arbitrators as both judges and advocates has raised ____ among observers of domestic judiciaries.",
+     "q": "The dual role of arbitrators as both judges and advocates has raised ____ among observers accustomed to stricter domestic rules.",
      "o": [
       "hopes",
-      "hackles",
       "eyebrows",
-      "doubts"
+      "spirits",
+      "standards"
      ],
-     "a": 2,
-     "e": "„to raise eyebrows“ = Verwunderung/Kritik hervorrufen; feste idiomatische Wendung."
+     "a": 1,
+     "e": "„to raise eyebrows\" heißt, Befremden oder Missbilligung hervorzurufen — die Reaktion, die der Zusatz erwarten lässt. Ausgeschlossen sind: „hopes\" und „spirits\" (beide bezeichnen eine Hebung der Stimmung, also das Gegenteil der Befremdung); „standards\" („raise standards\" heißt, Anforderungen anzuheben — eine Handlung der Beobachter, nicht deren Reaktion)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8478,7 +8478,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "____ the negotiations collapse, several states would likely withdraw from the treaty altogether.",
+     "q": "____ the negotiation collapse, several states would likely withdraw from the treaty altogether.",
      "o": [
       "Should",
       "If",
@@ -8486,7 +8486,7 @@
       "Were"
      ],
      "a": 0,
-     "e": "„Should“ + Infinitiv ohne „to“ leitet einen hypothetischen Bedingungssatz mit geringerer Wahrscheinlichkeit ein."
+     "e": "Die Inversion mit „Should\" + Infinitiv ohne „to\" leitet einen Bedingungssatz geringerer Wahrscheinlichkeit ein und ist die einzige Form, die den unflektierten „collapse\" trägt. Ausgeschlossen sind: „If\" (verlangt bei 3. Person Singular den Indikativ „collapses\"); „Was\" (Präteritum, das keinen Infinitiv regieren kann); „Were\" (verlangt den Anschluss „to collapse\", der hier fehlt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -8586,11 +8586,11 @@
      "o": [
       "who",
       "what",
-      "which",
+      "when",
       "that"
      ],
      "a": 3,
-     "e": "Es-Spaltsatz („It was … that …“) zur Hervorhebung."
+     "e": "Im It-Cleft folgt auf den sachlichen Fokus „that\". Ausgeschlossen sind: „who\" (nur bei Personen); „what\" (freies Relativum, kein Rückbezug möglich); „when\" (temporales Relativum, das einen Zeitbegriff als Bezugswort verlangt — „the size of the award\" ist keiner)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -8924,26 +8924,26 @@
      "lvl": "C2",
      "q": "National courts navigating universal jurisdiction cases face a ____ of practical and diplomatic obstacles.",
      "o": [
-      "forest",
       "thicket",
-      "jungle",
-      "maze"
+      "trellis",
+      "thatch",
+      "turf"
      ],
-     "a": 1,
-     "e": "„a thicket of obstacles“ ist die im Text verwendete feste Metapher."
+     "a": 0,
+     "e": "„a thicket of obstacles\" ist das stehende Bild für ein dichtes, schwer zu durchdringendes Geflecht von Hindernissen. Ausgeschlossen sind: „trellis\" (ein Spalier, also eine geordnete Rankhilfe); „thatch\" (Reetdach bzw. dichtes Haar); „turf\" (Rasen bzw. übertragen das eigene Revier)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "States implicated by an investigation are frequently unwilling to ____ with foreign prosecutors.",
+     "q": "States implicated by an investigation are frequently unwilling to ____ fully with foreign prosecutors.",
      "o": [
       "cooperate",
-      "coordinate",
-      "collaborate",
-      "comply"
+      "comply",
+      "coincide",
+      "collide"
      ],
      "a": 0,
-     "e": "„unwilling to cooperate with an investigation“ ist die im Text zentrale Kollokation."
+     "e": "„to cooperate fully with somebody\" ist die feste Wendung für die uneingeschränkte Zusammenarbeit mit einer Ermittlungsbehörde. Ausgeschlossen sind: „comply\" (man befolgt Anordnungen oder Vorschriften, nicht Personen — „comply with a request\", nie „comply with prosecutors\"); „coincide\" (zeitlich zusammenfallen); „collide\" (zusammenstoßen — das Gegenteil der Zusammenarbeit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9042,12 +9042,12 @@
      "q": "Even a handful of hard-won convictions may do more to ____ the principle than unexecuted warrants ever could.",
      "o": [
       "verify",
-      "validate",
       "vindicate",
-      "vilify"
+      "vilify",
+      "ventilate"
      ],
-     "a": 2,
-     "e": "„to vindicate a principle“ = einen Grundsatz bestätigen/rechtfertigen; „vilify“ ist ein lautlich naher Distraktor mit gegenteiliger Bedeutung."
+     "a": 1,
+     "e": "„to vindicate a principle\" heißt, ihn durch die Praxis bestätigt und gerechtfertigt zu sehen. Ausgeschlossen sind: „verify\" (die Richtigkeit einer Tatsachenbehauptung nachprüfen — Grundsätze werden nicht verifiziert); „vilify\" (verunglimpfen — das Gegenteil); „ventilate\" (eine Frage öffentlich erörtern, nicht bestätigen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9273,7 +9273,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "____ new witnesses come forward, the prosecution reserves the right to reopen its case.",
+     "q": "____ a new witness come forward, the prosecution reserves the right to reopen its case.",
      "o": [
       "Were",
       "If",
@@ -9281,7 +9281,7 @@
       "Should"
      ],
      "a": 3,
-     "e": "Inversion mit „Should“ für einen als eher unwahrscheinlich dargestellten Fall."
+     "e": "„Should\" + Infinitiv ohne „to\" ist die Inversionsform des Bedingungssatzes geringerer Wahrscheinlichkeit; nur sie verträgt den unflektierten „come\". Ausgeschlossen sind: „If\" (verlangt bei „a new witness\" den Indikativ „comes\"); „Was\" (Präteritum ohne Infinitivrektion); „Were\" (verlangt „to come\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -9377,15 +9377,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "It was the absence of forensic corroboration, not any doubt about credibility, ____ ultimately delayed the verdict.",
+     "q": "It was the absence of forensic corroboration, not any doubt about credibility, ____ ultimately sank the prosecution.",
      "o": [
       "who",
       "what",
       "that",
-      "which"
+      "whose"
      ],
      "a": 2,
-     "e": "It-Cleft mit „that“ nach einem Sachverhalt (nicht Person)."
+     "e": "Das It-Cleft verlangt bei sachlichem Fokus „that\". Ausgeschlossen sind: „who\" (nur bei Personen); „what\" (freies Relativum ohne Rückbezug); „whose\" (Genitivrelativum, das ein Substantiv nach sich zöge)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -9719,13 +9719,13 @@
      "lvl": "C2",
      "q": "Applying the ordinary rule strictly risks ____ claims however compelling the underlying evidence.",
      "o": [
-      "blocking",
       "barring",
-      "banning",
-      "forbidding"
+      "bartering",
+      "bargaining",
+      "barricading"
      ],
-     "a": 1,
-     "e": "„barring a claim“ ist die feste zivilprozessuale Kollokation für den Ausschluss eines Anspruchs durch Verjährung."
+     "a": 0,
+     "e": "„to bar a claim\" ist der Fachausdruck: der Anspruch ist wegen Fristablaufs ausgeschlossen. Ausgeschlossen sind: „bartering\" (tauschen, Ware gegen Ware); „bargaining\" (feilschen, verhandeln); „barricading\" (verbarrikadieren — von Zugängen, nicht von Ansprüchen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -10172,15 +10172,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "It was the missing bill of sale, not any doubt about the family's claim, ____ delayed a settlement for years.",
+     "q": "It was the missing bill of sale, not any doubt about the family's claim, ____ decided the restitution case.",
      "o": [
       "who",
-      "which",
+      "whom",
       "that",
       "what"
      ],
      "a": 2,
-     "e": "It-Cleft mit „that“ nach einem Sachverhalt."
+     "e": "Im It-Cleft folgt auf den sachlichen Fokus „that\". Ausgeschlossen sind: „who\" und „whom\" (beide beziehen sich nur auf Personen, „whom\" zusätzlich nur in Objektfunktion — hier steht das Relativum im Subjekt); „what\" (freies Relativum ohne Rückbezug)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -10863,7 +10863,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "____ the allegations prove credible on further investigation, the sending state has pledged to reconsider the waiver.",
+     "q": "____ the allegation prove credible on further investigation, the sending state has pledged to reconsider the waiver.",
      "o": [
       "Were",
       "If",
@@ -10871,7 +10871,7 @@
       "Should"
      ],
      "a": 3,
-     "e": "Inversion mit „Should“ für einen als eher unwahrscheinlich dargestellten Fall."
+     "e": "„Should\" + Infinitiv ohne „to\" bezeichnet die weniger wahrscheinliche Bedingung und trägt als einzige Form den unflektierten „prove\". Ausgeschlossen sind: „If\" (verlangt „proves\"); „Was\" (Präteritum ohne Infinitivrektion); „Were\" (verlangt „to prove\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -10967,15 +10967,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "It was the absence of a waiver, not any doubt about the facts, ____ ultimately prevented a trial.",
+     "q": "It was the absence of a waiver, not any doubt about the facts, ____ ultimately prevented the prosecution.",
      "o": [
       "who",
-      "which",
+      "whose",
       "what",
       "that"
      ],
      "a": 3,
-     "e": "It-Cleft mit „that“ nach einem Sachverhalt."
+     "e": "Das It-Cleft verlangt bei sachlichem Fokus „that\". Ausgeschlossen sind: „who\" (nur bei Personen); „whose\" (Genitivrelativum ohne folgendes Substantiv); „what\" (freies Relativum ohne Rückbezug)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -11258,12 +11258,12 @@
      "q": "The republic had been ____ on its coupon payments for nearly six months before the restructuring talks began.",
      "o": [
       "in escrow",
+      "in arrears",
       "in abeyance",
-      "in default",
-      "in arrears"
+      "in camera"
      ],
-     "a": 3,
-     "e": "Feste Wendung „to be in arrears (on sth.)“ = mit Zahlungen im Rückstand sein."
+     "a": 1,
+     "e": "„to be in arrears on something\" heißt, mit fälligen Zahlungen im Rückstand zu sein. Ausgeschlossen sind: „in escrow\" (treuhänderisch hinterlegt — es geht um Verwahrung, nicht um Rückstand); „in abeyance\" (vorläufig ruhend, von Verfahren und Ansprüchen); „in camera\" (unter Ausschluss der Öffentlichkeit, von Verhandlungen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -11348,13 +11348,13 @@
      "lvl": "C2",
      "q": "The banks agreed to a substantial ____ of the loan's principal as part of the settlement.",
      "o": [
-      "write-off",
       "write-down",
       "write-in",
-      "write-up"
+      "write-up",
+      "write-out"
      ],
-     "a": 1,
-     "e": "„Write-down“ = teilweise Wertberichtigung des Nominalbetrags, im Unterschied zur vollständigen Abschreibung („write-off“)."
+     "a": 0,
+     "e": "„a write-down\" ist die teilweise Abschreibung eines Forderungswerts — der Vorgang, den ein Vergleich über die Hauptforderung auslöst. Ausgeschlossen sind: „write-up\" (die Höherbewertung, also das Gegenteil, bzw. ein Bericht); „write-in\" (die handschriftliche Ergänzung eines Namens auf dem Stimmzettel); „write-out\" (bildet als Substantiv keine feste Fügung dieser Art)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -11517,13 +11517,13 @@
      "lvl": "C2",
      "q": "The exchange extended the average ____ of the debt stock from five to fifteen years.",
      "o": [
-      "duration",
-      "expiry",
-      "tenure",
-      "maturity"
+      "maturity",
+      "seniority",
+      "liquidity",
+      "volatility"
      ],
-     "a": 3,
-     "e": "„Maturity“ = Fälligkeit/Laufzeit einer Anleihe; feststehender Fachbegriff im Anleihekontext."
+     "a": 0,
+     "e": "„maturity\" ist die Restlaufzeit bis zur Fälligkeit — die einzige der genannten Kennzahlen, die in Jahren angegeben wird. Ausgeschlossen sind: „seniority\" (der Rang einer Forderung in der Befriedigungsreihenfolge); „liquidity\" (die Handelbarkeit eines Papiers); „volatility\" (die Schwankungsbreite des Kurses)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -11543,13 +11543,13 @@
      "lvl": "C2",
      "q": "Talks reached a ____ over which creditor class should bear the largest share of losses.",
      "o": [
-      "deadlock",
       "stalemate",
-      "logjam",
-      "standstill"
+      "checkmate",
+      "stopgap",
+      "shortfall"
      ],
-     "a": 1,
-     "e": "„reach a stalemate“ = sich in eine festgefahrene Lage manövrieren (Verhandlungsstillstand)."
+     "a": 0,
+     "e": "„to reach a stalemate\" bezeichnet die Pattsituation, in der keine Seite mehr vorankommt. Ausgeschlossen sind: „checkmate\" (das Schachmatt beendet die Partie endgültig — es gäbe nichts mehr zu verhandeln); „stopgap\" (eine Übergangslösung, also ein Ergebnis, kein Zustand des Stillstands); „shortfall\" (ein Fehlbetrag)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -11923,10 +11923,10 @@
       "as",
       "than",
       "like",
-      "so"
+      "that"
      ],
      "a": 0,
-     "e": "Vergleichskonstruktion „as + Adjektiv + as“; nach „not nearly“ ist „as … as“ die Standardform."
+     "e": "Der Vergleich der Gleichheit wird mit „as … as\" gebildet; das zweite „as\" steht bereits im Satz. Ausgeschlossen sind: „than\" (gehört zum Komparativ, den der Satz nicht enthält); „like\" (Präposition, die kein Adjektiv einleiten kann); „that\" (umgangssprachlich als Gradpartikel möglich, aber nie in der Fügung mit folgendem „as\")."
     }
    ]
   },
@@ -12379,11 +12379,11 @@
      "o": [
       "hedge",
       "brace",
-      "insure",
-      "protect"
+      "offset",
+      "forestall"
      ],
      "a": 0,
-     "e": "„to hedge against“ = sich gegen ein Risiko absichern — feste Kollokation, auch im Finanz-/Handelsjargon."
+     "e": "„to hedge against a risk\" ist der feste Ausdruck für die Absicherung durch Streuung. Ausgeschlossen sind: „brace\" (man wappnet sich „for\" etwas, nicht „against\"); „offset\" (ausgleichen — transitiv, verlangt ein direktes Objekt); „forestall\" (zuvorkommen — ebenfalls transitiv, ohne „against\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -12713,7 +12713,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "According to the original timetable, the new rules ____ into force at the start of the following quarter.",
+     "q": "According to the original timetable, the new rules ____ into force last quarter; in the event, ratification slipped by a year.",
      "o": [
       "would came",
       "came",
@@ -12721,7 +12721,7 @@
       "were to come"
      ],
      "a": 3,
-     "e": "„were to + Infinitiv“ (Future in the Past) beschreibt eine aus damaliger Sicht geplante zukünftige Handlung."
+     "e": "„was/were to + Infinitiv\" bezeichnet ein Vorhaben der Vergangenheit, das nicht eintrat — genau das, was der Nachsatz feststellt. Ausgeschlossen sind: „came\" (behauptete das tatsächliche Inkrafttreten, dem der Nachsatz widerspricht); „are to come\" (Gegenwartsbezug, unvereinbar mit „last quarter\"); „would came\" (nach „would\" steht der Infinitiv, nie das Präteritum)."
     }
    ]
   },
@@ -13352,15 +13352,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The ambassador explained that the government ____ revalue the currency if pressure persisted.",
+     "q": "The ambassador conceded that the government ____ the currency months earlier, had the pressure eased in time.",
      "o": [
-      "will",
-      "might",
-      "may",
-      "is going to"
+      "might revalue",
+      "might have revalued",
+      "may revalue",
+      "will have revalued"
      ],
      "a": 1,
-     "e": "Backshift in indirekter Rede: „may“ wird nach einem Vergangenheitsverb zu „might“ zurückverschoben."
+     "e": "Die invertierte irreale Bedingung „had the pressure eased\" verlangt in der Folge „might have + Partizip II\". Ausgeschlossen sind: „might revalue\" (Gegenwarts- bzw. Zukunftsbezug, unvereinbar mit „months earlier\"); „may revalue\" (Indikativ der Möglichkeit, mit der irrealen Bedingung unvereinbar); „will have revalued\" (Futur II, das eine reale Erwartung ausdrückt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -14916,15 +14916,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She admitted that the earlier forecasts ____ overly optimistic, given how quickly conditions had deteriorated.",
+     "q": "It was the first time the agency ____ its own forecasts publicly.",
      "o": [
-      "are",
-      "have been",
-      "were",
-      "had been"
+      "disowned",
+      "has disowned",
+      "had disowned",
+      "was disowning"
      ],
-     "a": 3,
-     "e": "Bei Backshift in der indirekten Rede wird ein einfaches Präteritum („were“) zu „had been“ (Plusquamperfekt), da sich die Aussage auf einen noch früheren Zeitpunkt bezieht."
+     "a": 2,
+     "e": "Nach „it was the first time\" steht zwingend das Past Perfect: „had disowned\". Ausgeschlossen sind: „disowned\" (Präteritum, das der Rahmen nicht zulässt); „has disowned\" (gehörte zu „it is the first time\"); „was disowning\" (Verlaufsform, die einen einmaligen Akt nicht wiedergibt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -15607,15 +15607,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "It was the finance ministry, not the security services, ____ ultimately blocked the transaction.",
+     "q": "It was the finance ministry, not the security services, ____ ultimately blocked the transfer.",
      "o": [
       "whom",
       "who",
-      "which",
+      "whose",
       "that"
      ],
      "a": 3,
-     "e": "In einem Cleft-Satz („It was X that…“) mit Bezug auf eine Institution ist „that“ die idiomatische Wahl."
+     "e": "Im It-Cleft folgt auf den Fokus „that\". Ausgeschlossen sind: „whom\" (Personenrelativum in Objektfunktion — hier steht das Relativum im Subjekt); „who\" (Personenrelativum; ein Ministerium wird im Englischen nicht mit „who\" wieder aufgenommen); „whose\" (Genitivrelativum ohne folgendes Substantiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -16548,12 +16548,12 @@
      "q": "The general would rather the operation ____ until intelligence improved.",
      "o": [
       "waits",
-      "wait",
+      "to wait",
       "waited",
       "would wait"
      ],
      "a": 2,
-     "e": "„would rather“ + Simple Past bei Gegenwarts-/Zukunftsbezug."
+     "e": "„would rather\" + Nebensatz verlangt den Konjunktiv Präteritum: „would rather the operation waited\". Ausgeschlossen sind: „waits\" (Indikativ Präsens, den diese Konstruktion nie zulässt); „to wait\" (ein to-Infinitiv kann nach „would rather\" nur ohne Subjekt stehen — hier steht eines); „would wait\" („would\" wird im Nebensatz nach „would rather\" nicht wiederholt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -16649,7 +16649,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The evacuation team ____ have rushed; the convoy was still two hours out.",
+     "q": "The evacuation team ____ have rushed; the convoy was still two hours out, and nothing was lost by the wasted effort.",
      "o": [
       "needn't",
       "mustn't",
@@ -16657,20 +16657,20 @@
       "shouldn't"
      ],
      "a": 0,
-     "e": "„needn't have + Partizip“ = unnötige, aber tatsächlich ausgeführte Handlung."
+     "e": "„needn't have + Partizip II\" bezeichnet eine tatsächlich ausgeführte, aber unnötige Handlung — genau das, was „nothing was lost\" bestätigt. Ausgeschlossen sind: „shouldn't have\" (nachträglicher Vorwurf, den der Nachsatz ausdrücklich zurückweist); „mustn't\" (Verbot, das sich auf Vergangenes nicht richten kann); „can't have\" (logischer Ausschluss — der Satz setzt voraus, dass die Eile stattfand)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ special envoy for arms control shortly after the summit.",
+     "q": "She ____ on the disarmament file since the Vienna round opened in March.",
      "o": [
-      "a",
-      "—",
-      "an",
-      "the"
+      "works",
+      "worked",
+      "has been working",
+      "is working"
      ],
-     "a": 1,
-     "e": "Nullartikel vor einmaligen Ämtern nach „appoint“."
+     "a": 2,
+     "e": "„since\" + Zeitpunkt spannt den Zeitraum bis in die Gegenwart und verlangt das Present Perfect, hier in der Verlaufsform: „has been working\". Ausgeschlossen sind: „works\" (Präsens kann keinen von einem Anfangspunkt an laufenden Zeitraum ausdrücken); „worked\" (Präteritum bezeichnete einen abgeschlossenen Zeitraum ohne Gegenwartsbezug); „is working\" (Verlaufsform der Gegenwart ohne Anschluss an „since\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -16874,13 +16874,13 @@
      "lvl": "C2",
      "q": "Disinformation operators seek to ____ genuine grievances rather than invent them outright.",
      "o": [
-      "broaden",
       "amplify",
-      "magnify",
-      "enlarge"
+      "codify",
+      "tabulate",
+      "itemise"
      ],
-     "a": 1,
-     "e": "Feste Kollokation „amplify a grievance/message“ im Kontext von Desinformation."
+     "a": 0,
+     "e": "„to amplify a grievance\" heißt, einen vorhandenen Missstand lauter und sichtbarer zu machen — genau der Gegensatz zum Erfinden. Ausgeschlossen sind: „codify\" (in Regeln fassen, von Recht und Verfahren); „tabulate\" (tabellarisch erfassen); „itemise\" (einzeln aufführen) — alle drei bezeichnen Formen der Verzeichnung, nicht der Verstärkung."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16901,12 +16901,12 @@
      "q": "Officials were reluctant to ____ the attack to a specific state without conclusive forensic evidence.",
      "o": [
       "assign",
+      "consign",
       "credit",
-      "ascribe",
       "attribute"
      ],
      "a": 3,
-     "e": "Feste Kollokation „attribute X to Y“ ist der Standardbegriff in Cyber-/Geheimdienstberichten; „ascribe“ wirkt hier literarisch, nicht fachsprachlich."
+     "e": "„to attribute an attack to somebody\" ist der Fachausdruck der Zurechnung im Cyberbereich. Ausgeschlossen sind: „assign\" (zuteilen — man weist jemandem eine Aufgabe zu, nicht eine Tat); „consign\" (übergeben, überantworten — von Waren oder dem Vergessen); „credit\" (zuschreiben im positiven Sinn, als Verdienst)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -17147,13 +17147,13 @@
      "lvl": "C2",
      "q": "The saboteurs' methods bore the unmistakable ____ of a state intelligence service.",
      "o": [
-      "stamp",
+      "watermark",
       "hallmark",
-      "trademark",
-      "brand"
+      "postmark",
+      "benchmark"
      ],
      "a": 1,
-     "e": "Idiom „bear the hallmark of“ = die charakteristischen Merkmale von etwas tragen."
+     "e": "„to bear the hallmark of something\" heißt, dessen kennzeichnende Handschrift zu tragen — ursprünglich der Feingehaltsstempel auf Edelmetall. Ausgeschlossen sind: „watermark\" (Wasserzeichen im Papier); „postmark\" (Poststempel); „benchmark\" (Vergleichsmaßstab) — keiner dieser Begriffe steht für eine wiedererkennbare Handschrift."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -17340,15 +17340,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The commander would rather the incident ____ unreported until the investigation concluded.",
+     "q": "The commander would rather the incident ____ unreported until the investigation closed.",
      "o": [
       "remains",
       "remained",
-      "remain",
+      "to remain",
       "would remain"
      ],
      "a": 1,
-     "e": "„would rather“ + Simple Past bei Gegenwarts-/Zukunftsbezug."
+     "e": "„would rather\" + Nebensatz verlangt den Konjunktiv Präteritum „remained\". Ausgeschlossen sind: „remains\" (Indikativ Präsens); „to remain\" (der to-Infinitiv steht nach „would rather\" nur ohne eigenes Subjekt); „would remain\" (kein zweites „would\" im Nebensatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -17444,7 +17444,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The border guards ____ have sounded a full alert; it was only a stray reconnaissance drone.",
+     "q": "The border guards ____ have sounded a full alert; it was only a stray reconnaissance drone, and no harm followed.",
      "o": [
       "mustn't",
       "shouldn't",
@@ -17452,20 +17452,20 @@
       "needn't"
      ],
      "a": 3,
-     "e": "„needn't have + Partizip“ = unnötige, aber tatsächlich ausgeführte Handlung."
+     "e": "„needn't have + Partizip II\" = tatsächlich getan, aber unnötig; „no harm followed\" bestätigt genau diese Lesart. Ausgeschlossen sind: „shouldn't have\" (Vorwurf, den der Nachsatz zurückweist); „mustn't\" (Verbot, auf Vergangenes nicht anwendbar); „can't have\" (behauptet, der Alarm sei nie ausgelöst worden)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was named ____ special coordinator for hybrid-threat resilience.",
+     "q": "By the time the mandate was renewed, the mission ____ for almost four years.",
      "o": [
-      "—",
-      "the",
-      "a",
-      "an"
+      "operated",
+      "had been operating",
+      "has operated",
+      "was operating"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern nach „name/appoint“."
+     "a": 1,
+     "e": "„By the time\" + Vergangenheit verlangt Vorzeitigkeit zu diesem Punkt, die Dauerangabe zusätzlich die Verlaufsform: „had been operating\". Ausgeschlossen sind: „operated\" (Präteritum drückt keine Vorzeitigkeit zu einem anderen Vergangenheitspunkt aus); „has operated\" (Present Perfect bindet an die Gegenwart, nicht an einen Punkt der Vergangenheit); „was operating\" (Verlaufsform ohne Vorzeitigkeit, mit „for almost four years\" unvereinbar)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -17631,12 +17631,12 @@
      "q": "Enrichment levels above twenty percent raise significant proliferation ____ .",
      "o": [
       "concerns",
-      "anxieties",
-      "fears",
-      "worries"
+      "conceits",
+      "concessions",
+      "conclusions"
      ],
      "a": 0,
-     "e": "Feste Kollokation „proliferation concerns“."
+     "e": "„proliferation concerns\" ist der feste Ausdruck für Bedenken hinsichtlich der Weiterverbreitung. Ausgeschlossen sind: „conceits\" (Einbildungen bzw. rhetorische Kunstgriffe); „concessions\" (Zugeständnisse in einer Verhandlung); „conclusions\" (Schlussfolgerungen, die man zieht, aber nicht „aufwirft\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -17786,26 +17786,26 @@
      "lvl": "C2",
      "q": "The inspectorate's findings were deemed ____ with the state's declared inventory.",
      "o": [
-      "congruent",
-      "compatible",
-      "coherent",
-      "consistent"
+      "consistent",
+      "persistent",
+      "insistent",
+      "resistant"
      ],
-     "a": 3,
-     "e": "„consistent with“ ist die feste Standardkollokation in Verifikationsberichten."
+     "a": 0,
+     "e": "„consistent with something\" ist die feste Fügung für Befunde, die mit einer Angabe in Einklang stehen. Ausgeschlossen sind: „persistent\" (beharrlich fortdauernd — beschreibt die Dauer, nicht die Übereinstimmung, und nimmt kein „with\"); „insistent\" (nachdrücklich fordernd, „insistent on\"); „resistant\" (widerstandsfähig, „resistant to\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The agency issued a formal ____ after the state failed to explain the discrepancy.",
      "o": [
-      "admonition",
-      "rebuke",
       "censure",
-      "reprimand"
+      "commendation",
+      "condolence",
+      "confirmation"
      ],
-     "a": 2,
-     "e": "„censure“ ist der institutionelle Fachbegriff für eine förmliche Rüge durch ein Gremium (z. B. IAEO-Gouverneursrat)."
+     "a": 0,
+     "e": "„a formal censure\" ist die förmliche Missbilligung durch ein Aufsichtsorgan — die Reaktion auf eine unerklärte Unstimmigkeit. Ausgeschlossen sind: „commendation\" (förmliche Anerkennung, also das Gegenteil); „condolence\" (Beileidsbekundung, sachlich unpassend); „confirmation\" (Bestätigung — hier war gerade nichts zu bestätigen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -17825,26 +17825,26 @@
      "lvl": "C2",
      "q": "Negotiators reached a ____ that neither side considers ideal but both can accept.",
      "o": [
-      "concession",
       "compromise",
-      "accommodation",
-      "settlement"
+      "commission",
+      "commitment",
+      "composition"
      ],
-     "a": 1,
-     "e": "„reach a compromise“ ist die gängigste Kollokation."
+     "a": 0,
+     "e": "„a compromise\" ist der beiderseitige Verzicht, den keine Seite für ideal hält — genau die Beschreibung des Relativsatzes. Ausgeschlossen sind: „commission\" (ein eingesetztes Gremium bzw. ein Auftrag); „commitment\" (eine einseitige Verpflichtung); „composition\" (die Zusammensetzung eines Gremiums; im Insolvenzrecht ein Vergleich mit Gläubigern, nicht zwischen Verhandlungsseiten)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The reactor was placed under continuous ____ following the discovery of undeclared activities.",
      "o": [
-      "supervision",
       "monitoring",
-      "observation",
-      "surveillance"
+      "maintenance",
+      "moderation",
+      "mediation"
      ],
-     "a": 1,
-     "e": "„continuous monitoring“ ist der spezifische IAEO-Fachbegriff."
+     "a": 0,
+     "e": "„under continuous monitoring\" ist der Fachausdruck der Sicherungsüberwachung: fortlaufende technische Kontrolle. Ausgeschlossen sind: „maintenance\" (Instandhaltung — eine Wartungsmaßnahme, keine Kontrolle); „moderation\" (Mäßigung bzw. Gesprächsleitung); „mediation\" (Vermittlung zwischen Streitparteien)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -17875,15 +17875,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The delegation's proposal was met with a ____ response from nuclear-armed states.",
+     "q": "The delegation's proposal met with a ____ response from nuclear-armed states: polite, but plainly without enthusiasm.",
      "o": [
-      "tepid",
+      "hostile",
       "lukewarm",
-      "cold",
-      "cool"
+      "enthusiastic",
+      "indignant"
      ],
      "a": 1,
-     "e": "„a lukewarm response“ ist die feste idiomatische Wendung."
+     "e": "„a lukewarm response\" ist die feste Wendung für höfliche, aber unbegeisterte Aufnahme — genau die Beschreibung des Nachsatzes. Ausgeschlossen sind: „hostile\" und „indignant\" (beide bezeichnen offene Ablehnung bzw. Empörung, die der Nachsatz mit „polite\" ausschließt); „enthusiastic\" (das genaue Gegenteil von „without enthusiasm\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -17903,13 +17903,13 @@
      "lvl": "C2",
      "q": "Verification measures must be ____ enough to detect covert enrichment yet not so intrusive as to compromise commercial secrets.",
      "o": [
-      "rigorous",
       "stringent",
-      "rigid",
-      "strict"
+      "astringent",
+      "contingent",
+      "stridently"
      ],
-     "a": 1,
-     "e": "„stringent“ ist die im Kontext von Verifikationsmaßnahmen gebräuchlichste Kollokation."
+     "a": 0,
+     "e": "„stringent\" bezeichnet streng gefasste, scharf greifende Vorschriften — der stehende Ausdruck bei Kontrollmaßnahmen. Ausgeschlossen sind: „astringent\" (zusammenziehend, medizinisch, bzw. bissig im Ton); „contingent\" (von einer Bedingung abhängig); „stridently\" (Adverb, das vor „enough\" nicht stehen kann)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -17942,13 +17942,13 @@
      "lvl": "C2",
      "q": "The treaty's preamble reaffirms the ____ right of all states to peaceful nuclear technology.",
      "o": [
-      "unalienable",
-      "irrevocable",
       "inalienable",
-      "undeniable"
+      "inaudible",
+      "inevitable",
+      "inadmissible"
      ],
-     "a": 2,
-     "e": "Feste Fügung „inalienable right“, entsprechend dem Wortlaut von Artikel IV des NPT."
+     "a": 0,
+     "e": "„inalienable right\" ist die feste Wendung des Vertragstextes: ein Recht, das niemandem entzogen und von niemandem abgetreten werden kann. Ausgeschlossen sind: „inaudible\" (unhörbar); „inevitable\" (unvermeidlich — es beschriebe den Eintritt eines Ereignisses, nicht die Unentziehbarkeit eines Rechts); „inadmissible\" (unzulässig, etwa von Beweismitteln — das Gegenteil der Gewährleistung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -18137,13 +18137,13 @@
      "lvl": "C2",
      "q": "The chair would rather the vote ____ until all delegations had spoken.",
      "o": [
-      "wait",
+      "to wait",
       "would wait",
       "waits",
       "waited"
      ],
      "a": 3,
-     "e": "„would rather“ + Simple Past bei Gegenwarts-/Zukunftsbezug."
+     "e": "„would rather\" + Nebensatz verlangt den Konjunktiv Präteritum „waited\". Ausgeschlossen sind: „to wait\" (to-Infinitiv nur ohne eigenes Subjekt möglich); „would wait\" (kein zweites „would\"); „waits\" (Indikativ Präsens)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -18239,7 +18239,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The technicians ____ have shut down the reactor; the anomaly proved to be a faulty sensor.",
+     "q": "The technicians ____ have shut down the reactor; the anomaly proved to be a faulty sensor, and the restart cost nothing.",
      "o": [
       "mustn't",
       "shouldn't",
@@ -18247,20 +18247,20 @@
       "can't"
      ],
      "a": 2,
-     "e": "„needn't have + Partizip“ = unnötige, aber tatsächlich ausgeführte Handlung."
+     "e": "„needn't have + Partizip II\" bezeichnet die überflüssige, aber folgenlose Handlung; „the restart cost nothing\" schließt jeden Schaden aus. Ausgeschlossen sind: „shouldn't have\" (Vorwurf ohne Grundlage); „mustn't\" (Verbot, auf Vergangenes nicht anwendbar); „can't have\" (behauptet, die Abschaltung habe nie stattgefunden)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ director general of the agency last spring.",
+     "q": "By next spring the tribunal ____ every one of the outstanding appeals.",
      "o": [
-      "the",
-      "a",
-      "—",
-      "an"
+      "will hear",
+      "will have heard",
+      "hears",
+      "has heard"
      ],
-     "a": 2,
-     "e": "Nullartikel vor einmaligen Ämtern nach „appoint“."
+     "a": 1,
+     "e": "„By\" + Zeitpunkt in der Zukunft bezeichnet den Abschluss vor diesem Punkt und verlangt das Future Perfect: „will have heard\". Ausgeschlossen sind: „will hear\" (bloßes Futur, das den Abschluss nicht markiert); „hears\" (Präsens ohne Zukunftsanker); „has heard\" (Present Perfect mit Gegenwartsbezug, unvereinbar mit „by next spring\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -18579,28 +18579,28 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Procurement officials have long recognised the problem but remain ____ to escape its underlying incentives.",
+     "q": "Procurement officials have long recognised the problem but remain ____ in the face of the underlying incentives.",
      "o": [
-      "incapable",
+      "powerless",
       "unable",
-      "helpless",
-      "powerless"
+      "incapable",
+      "unwilling"
      ],
-     "a": 3,
-     "e": "Idiomatische Wendung „powerless to escape“."
+     "a": 0,
+     "e": "„powerless in the face of something\" ist die feste Fügung: ohnmächtig gegenüber einer übermächtigen Ursache. Ausgeschlossen sind: „unable\" (verlangt zwingend einen Infinitiv — „unable to escape\"); „incapable\" (verlangt „of\" + Gerundium); „unwilling\" (bedeutet fehlenden Willen, während der Satz mit „have long recognised\" gerade die Einsicht feststellt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The shipbuilder's order book depends on maintaining a steady production ____ rather than a single large batch.",
+     "q": "The shipbuilder's order book depends on maintaining a steady production ____ rather than a single large order.",
      "o": [
-      "pace",
-      "tempo",
       "cadence",
-      "rhythm"
+      "credence",
+      "cadenza",
+      "coherence"
      ],
-     "a": 2,
-     "e": "„production cadence“ ist ein spezifischer moderner Fachbegriff der Rüstungs-/Fertigungsindustrie."
+     "a": 0,
+     "e": "„production cadence\" ist der Fachausdruck für den gleichmäßigen Takt, in dem Einheiten die Fertigung verlassen. Ausgeschlossen sind: „credence\" (Glaubwürdigkeit, „lend credence to\"); „cadenza\" (die Solokadenz eines Konzerts); „coherence\" (innere Stimmigkeit einer Argumentation)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -18646,26 +18646,26 @@
      "lvl": "C2",
      "q": "The audit found that the ministry had failed to ____ the contractor's financial stability before signing.",
      "o": [
-      "screen",
-      "check",
       "vet",
-      "verify"
+      "veto",
+      "vent",
+      "vest"
      ],
-     "a": 2,
-     "e": "„vet“ ist der idiomatische Fachbegriff für die Prüfung der Eignung/Zuverlässigkeit eines Vertragspartners."
+     "a": 0,
+     "e": "„to vet somebody or something\" heißt, vor einer Entscheidung eingehend zu überprüfen. Ausgeschlossen sind: „veto\" (ein Vorhaben durch Einspruch verhindern — es geht nicht um Ablehnung, sondern um Prüfung); „vent\" (Luft machen, einem Gefühl Ausdruck geben); „vest\" (ein Recht übertragen, „vest in\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The two ministries agreed to ____ their procurement budgets for the joint fighter programme.",
      "o": [
-      "combine",
-      "merge",
-      "unite",
-      "pool"
+      "pool",
+      "pile",
+      "pour",
+      "plough"
      ],
-     "a": 3,
-     "e": "Idiom „pool resources/budgets“."
+     "a": 0,
+     "e": "„to pool resources\" heißt, Mittel zusammenzulegen und gemeinsam zu bewirtschaften — der stehende Ausdruck bei gemeinsamen Vorhaben. Ausgeschlossen sind: „pile\" (aufhäufen, von Gegenständen); „pour\" (gießen, schütten); „plough\" (pflügen; „plough into\" hieße, Mittel in etwas hineinstecken, und verlangte eine Präposition)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -18711,13 +18711,13 @@
      "lvl": "C2",
      "q": "The ministry imposed financial ____ for every month the delivery ran late.",
      "o": [
-      "sanctions",
-      "forfeits",
       "penalties",
-      "fines"
+      "premiums",
+      "provisions",
+      "projections"
      ],
-     "a": 2,
-     "e": "„penalties“ passt am besten ins vertragsrechtliche Beschaffungsregister; „sanctions“ suggeriert eher außenpolitische Maßnahmen."
+     "a": 0,
+     "e": "„financial penalties\" sind die vertraglich vereinbarten Vertragsstrafen bei Verzug. Ausgeschlossen sind: „premiums\" (Versicherungsprämien oder Aufschläge, die niemand „auferlegt\"); „provisions\" (Rückstellungen in der Bilanz bzw. Klauseln im Vertrag); „projections\" (Vorausberechnungen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -18737,13 +18737,13 @@
      "lvl": "C2",
      "q": "The shipyard's workforce depends on a steady ____ of naval orders to remain viable.",
      "o": [
-      "supply",
-      "flow",
-      "stream",
-      "pipeline"
+      "pipeline",
+      "pipe dream",
+      "pipework",
+      "piping"
      ],
-     "a": 3,
-     "e": "„order pipeline“ ist der gängige moderne industriepolitische Fachbegriff."
+     "a": 0,
+     "e": "„a steady pipeline of orders\" ist die feste Wendung für den kontinuierlichen Nachschub an Aufträgen. Ausgeschlossen sind: „pipe dream\" (Wunschtraum, eine unerfüllbare Hoffnung); „pipework\" (das Rohrleitungssystem im wörtlichen Sinn); „piping\" (Rohrleitungen als Material bzw. Paspel an Kleidung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -18865,7 +18865,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The committee redacted the cost figures ____ they prejudice the ongoing negotiation.",
+     "q": "The committee redacted the cost figure ____ it prejudice the ongoing negotiation.",
      "o": [
       "unless",
       "so that",
@@ -18873,7 +18873,7 @@
       "lest"
      ],
      "a": 3,
-     "e": "„lest“ + Subjunktiv (Grundform)."
+     "e": "„lest\" leitet einen Absichtssatz der Abwehr ein und regiert den endungslosen Subjunktiv: „lest it prejudice\". Ausgeschlossen sind: „in case\" (verlangt den Indikativ „prejudices\"); „unless\" (bedeutet „außer wenn\" und kehrt den Sinn um); „so that\" (bezeichnet die erwünschte, nicht die abzuwehrende Folge)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -18932,13 +18932,13 @@
      "lvl": "C2",
      "q": "The minister would rather the announcement ____ until the audit concluded.",
      "o": [
-      "wait",
+      "to wait",
       "waited",
       "waits",
       "would wait"
      ],
      "a": 1,
-     "e": "„would rather“ + Simple Past bei Gegenwarts-/Zukunftsbezug."
+     "e": "„would rather\" + Nebensatz verlangt den Konjunktiv Präteritum „waited\". Ausgeschlossen sind: „to wait\" (to-Infinitiv nur ohne eigenes Subjekt); „waits\" (Indikativ Präsens); „would wait\" (kein zweites „would\" im Nebensatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -19034,7 +19034,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The ministry ____ have rushed the announcement; the contract was not due to be signed for weeks.",
+     "q": "The ministry ____ have rushed the announcement; the contract was not due for weeks, though the early notice did no damage.",
      "o": [
       "mustn't",
       "needn't",
@@ -19042,20 +19042,20 @@
       "shouldn't"
      ],
      "a": 1,
-     "e": "„needn't have + Partizip“ = unnötige, aber tatsächlich ausgeführte Handlung."
+     "e": "„needn't have + Partizip II\" = geschehen, aber unnötig; „did no damage\" hält ausdrücklich fest, dass kein Schaden entstand. Ausgeschlossen sind: „shouldn't have\" (Vorwurf, den der Nachsatz zurückweist); „mustn't\" (Verbot statt Rückblick); „can't have\" (bestreitet, dass die Ankündigung erfolgte)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was appointed ____ chief procurement officer shortly after the scandal broke.",
+     "q": "It is the first time the Council ____ on the question since 1994.",
      "o": [
-      "—",
-      "a",
-      "an",
-      "the"
+      "voted",
+      "votes",
+      "has voted",
+      "had voted"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern nach „appoint“."
+     "a": 2,
+     "e": "Nach „it is the first/second/last time\" steht im Englischen das Present Perfect. Ausgeschlossen sind: „voted\" (Präteritum, das der Rahmen „it is\" nicht zulässt); „votes\" (Präsens ohne Anschluss an „the first time\"); „had voted\" (Past Perfect verlangte den Rahmen „it was the first time\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -19205,15 +19205,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Investigators struggled to ____ the attack to a specific state actor without compromising their sources.",
+     "q": "Investigators struggled to ____ the forensic evidence with the political timeline of the attack.",
      "o": [
-      "credit",
-      "assign",
-      "ascribe",
-      "attribute"
+      "reconcile",
+      "reunite",
+      "reconvene",
+      "recompose"
      ],
-     "a": 3,
-     "e": "Feste Kollokation „attribute X to Y“ ist der Standardbegriff in Cyber-/Geheimdienstberichten."
+     "a": 0,
+     "e": "„to reconcile A with B\" heißt, zwei einander widersprechende Befunde in Übereinstimmung zu bringen. Ausgeschlossen sind: „reunite\" (wieder zusammenführen, von Personen oder Gebieten); „reconvene\" (eine Sitzung wieder einberufen); „recompose\" (neu zusammensetzen, von Texten oder Musik)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -19244,15 +19244,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Analysts found that the malware's command-and-control traffic had been deliberately ____ to defeat network monitoring tools.",
+     "q": "The attackers concealed their command traffic inside ordinary encrypted web sessions to a reputable cloud host — a technique known as ____.",
      "o": [
-      "disguised",
-      "obfuscated",
-      "masked",
-      "obscured"
+      "port scanning",
+      "domain fronting",
+      "credential stuffing",
+      "packet sniffing"
      ],
      "a": 1,
-     "e": "„obfuscate“ ist der feste IT-Sicherheits-Fachbegriff für gezielt verschleierten Code/Traffic („obfuscated traffic/code“); die anderen sind allgemeinsprachliche Synonyme ohne diese feste Fachkollokation."
+     "e": "„domain fronting\" bezeichnet genau dieses Vorgehen: der sichtbare Zielhost ist ein unverdächtiger Dienst, der tatsächliche Empfänger steht verschlüsselt im Innern der Verbindung. Ausgeschlossen sind: „port scanning\" (das Abtasten offener Ports zur Aufklärung); „credential stuffing\" (das massenhafte Ausprobieren erbeuteter Zugangsdaten); „packet sniffing\" (das Mitlesen fremden Datenverkehrs)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -19285,13 +19285,13 @@
      "lvl": "C2",
      "q": "The attack exploited a previously unknown ____ in the software.",
      "o": [
-      "defect",
-      "weakness",
       "vulnerability",
-      "flaw"
+      "liability",
+      "viability",
+      "visibility"
      ],
-     "a": 2,
-     "e": "„vulnerability“ ist der präzise Fachbegriff der IT-Sicherheit."
+     "a": 0,
+     "e": "„vulnerability\" ist der Fachausdruck für die ausnutzbare Sicherheitslücke in einem Programm. Ausgeschlossen sind: „liability\" (rechtliche Haftung, keine technische Eigenschaft); „viability\" (Lebens- bzw. Tragfähigkeit eines Vorhabens); „visibility\" (Sichtbarkeit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -19403,12 +19403,12 @@
      "q": "Analysts warned against ____ attribution, where isolated technical clues are stretched into sweeping political conclusions.",
      "o": [
       "premature",
-      "rushed",
-      "early",
-      "hasty"
+      "preparatory",
+      "preventive",
+      "prescriptive"
      ],
      "a": 0,
-     "e": "„premature attribution“ ist ein etablierter Begriff im Cyber-Sicherheitsdiskurs."
+     "e": "„premature attribution\" ist die verfrühte Zurechnung — der Fehler, aus dünner Beweislage zu weitreichenden Schlüssen zu kommen. Ausgeschlossen sind: „preparatory\" (vorbereitend — eine vorbereitende Zurechnung gibt es nicht); „preventive\" (vorbeugend, auf Schadensabwehr gerichtet); „prescriptive\" (vorschreibend, von Normen und Regeln)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -19441,26 +19441,26 @@
      "lvl": "C2",
      "q": "The victim state opted to ____ the accusation publicly rather than respond through quiet diplomatic channels.",
      "o": [
-      "lodge",
       "level",
-      "raise",
-      "launch"
+      "lever",
+      "levy",
+      "levitate"
      ],
-     "a": 1,
-     "e": "Idiom „to level an accusation at someone“."
+     "a": 0,
+     "e": "„to level an accusation at somebody\" heißt, einen Vorwurf offen zu erheben. Ausgeschlossen sind: „lever\" (mit einem Hebel bewegen, übertragen: etwas erzwingen); „levy\" (eine Abgabe erheben — nur von Steuern und Zöllen); „levitate\" (schweben)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The two agencies' assessments ____ closely, lending the joint statement additional weight.",
      "o": [
-      "corresponded",
-      "conformed",
       "converged",
-      "coincided"
+      "conversed",
+      "convened",
+      "conveyed"
      ],
-     "a": 2,
-     "e": "„converge“ passt am besten zum Bild zusammenlaufender Einschätzungen."
+     "a": 0,
+     "e": "„assessments converge\" heißt, dass unabhängige Bewertungen auf dasselbe Ergebnis zulaufen — genau das, was dem gemeinsamen Papier sein Gewicht gibt. Ausgeschlossen sind: „conversed\" (sich unterhalten — das können nur Personen); „convened\" (zusammentreten, von Gremien); „conveyed\" (übermitteln — transitiv, verlangt ein Objekt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -19507,12 +19507,12 @@
      "q": "The government imposed targeted sanctions in direct ____ to the confirmed cyber-attack.",
      "o": [
       "response",
-      "retort",
-      "riposte",
-      "reaction"
+      "resonance",
+      "residence",
+      "resemblance"
      ],
      "a": 0,
-     "e": "„response to“ ist im formellen diplomatischen Register die Standardkollokation."
+     "e": "„in direct response to something\" ist die feste Fügung für eine unmittelbar veranlasste Maßnahme. Ausgeschlossen sind: „resonance\" (Nachhall, Widerhall einer Wirkung); „residence\" (Wohnsitz); „resemblance\" (Ähnlichkeit, „bear a resemblance to\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -19634,15 +19634,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "A cluster of servers ____ traced back to a single hosting provider.",
+     "q": "Each of the servers ____ traced back to a single hosting provider.",
      "o": [
-      "has been",
       "was",
-      "is",
-      "were"
+      "were",
+      "have been",
+      "are"
      ],
-     "a": 3,
-     "e": "„a cluster of“ + Plural."
+     "a": 0,
+     "e": "„each of …\" ist grammatisch Singular, gleichgültig wie viele Einheiten folgen: „each … was traced\". Ausgeschlossen sind: „were\" und „are\" (Plural nach „each of\"); „have been\" (ebenfalls Plural und zugleich mit dem abgeschlossenen Ermittlungsvorgang im Präteritum unvereinbar)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -19725,15 +19725,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The director would rather the findings ____ confidential until the indictment was ready.",
+     "q": "The director would rather the findings ____ confidential until the indictment was filed.",
      "o": [
       "remained",
-      "remain",
+      "to remain",
       "would remain",
       "remains"
      ],
      "a": 0,
-     "e": "„would rather“ + Simple Past bei Gegenwarts-/Zukunftsbezug."
+     "e": "„would rather\" + Nebensatz verlangt den Konjunktiv Präteritum „remained\". Ausgeschlossen sind: „to remain\" (to-Infinitiv nur ohne eigenes Subjekt); „would remain\" (kein zweites „would\"); „remains\" (Indikativ Präsens)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -19829,7 +19829,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The response team ____ have escalated to full lockdown; the intrusion was confined to a single test server.",
+     "q": "The response team ____ have escalated to full lockdown; the intrusion was confined to a single test server, and the lockdown harmed nobody.",
      "o": [
       "mustn't",
       "needn't",
@@ -19837,20 +19837,20 @@
       "can't"
      ],
      "a": 1,
-     "e": "„needn't have + Partizip“ = unnötige, aber tatsächlich ausgeführte Handlung."
+     "e": "„needn't have + Partizip II\" bezeichnet die unnötige, aber schadlose Maßnahme; „harmed nobody\" schließt den Vorwurf aus. Ausgeschlossen sind: „shouldn't have\" (Vorwurf, den der Nachsatz zurückweist); „mustn't\" (Verbot statt Rückblick); „can't have\" (bestreitet die Eskalation)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was named ____ head of the national cyber-defence agency last year.",
+     "q": "Nobody told the delegation that the session ____ moved to the following week.",
      "o": [
-      "a",
-      "the",
-      "—",
-      "an"
+      "will be",
+      "is going to be",
+      "was going to be",
+      "would have been"
      ],
      "a": 2,
-     "e": "Nullartikel vor einmaligen Ämtern nach „name“."
+     "e": "In der indirekten Rede nach einem Präteritum wird die Zukunft in der Vergangenheit mit „was going to\" bzw. „would\" ausgedrückt: „was going to be moved\". Ausgeschlossen sind: „will be\" (Futur der direkten Rede, das die Zeitverschiebung nicht mitmacht); „is going to be\" (ebenso unverschoben); „would have been\" (irreale Vergangenheit, die eine Bedingung voraussetzte)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -20052,7 +20052,7 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The contract left the question of legal ____ for battlefield conduct deliberately vague.",
+     "q": "Every contractor deploying armed personnel abroad must carry insurance against third-party ____.",
      "o": [
       "responsibility",
       "accountability",
@@ -20060,20 +20060,20 @@
       "culpability"
      ],
      "a": 2,
-     "e": "„liability“ ist der präzise rechtliche Fachbegriff für Haftung; die übrigen Substantive sind sinnverwandt, aber im vertragsrechtlichen Kontext weniger exakt."
+     "e": "„third-party liability\" ist die feste versicherungsrechtliche Bezeichnung für die Haftung gegenüber Dritten. Ausgeschlossen sind: „responsibility\" und „accountability\" (bezeichnen Verantwortung und Rechenschaft, sind aber keine Versicherungskategorien); „culpability\" (der Verschuldensgrad, gegen den sich niemand versichern kann)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Legal experts warn that unregulated contractors can end up operating in a jurisdictional ____ , answerable to no state in particular.",
+     "q": "Legal experts warn that unregulated contractors can end up operating in a jurisdictional ____ that no single state is willing to fill.",
      "o": [
-      "no-man's-land",
-      "gap",
+      "deadlock",
       "vacuum",
-      "grey area"
+      "embargo",
+      "quorum"
      ],
-     "a": 2,
-     "e": "„a jurisdictional vacuum“ ist der in der Fachliteratur zu PMSC-Rechenschaftspflicht etablierte Terminus für das vollständige Fehlen zuständiger Rechtsprechung; die übrigen Optionen sind bildhafter/umgangssprachlicher."
+     "a": 1,
+     "e": "„a jurisdictional vacuum\" ist die feste Wendung für einen Raum, in dem keine Rechtsordnung tatsächlich greift — das Bild des luftleeren Raums, den der Relativsatz („no single state is willing to fill\") aufnimmt. Ausgeschlossen sind: „deadlock\" (eine Blockade zwischen handelnden Parteien, nicht deren Abwesenheit); „embargo\" (ein Handelsverbot); „quorum\" (die Mindestzahl anwesender Stimmberechtigter)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -20130,28 +20130,28 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Host governments frequently lack the ____ to investigate abuses committed by foreign contractors on their own soil.",
+     "q": "The Court may act only where a state is genuinely unwilling or unable to prosecute — the principle of ____.",
      "o": [
-      "competence",
-      "capacity",
-      "capability",
-      "ability"
+      "subsidiarity",
+      "complementarity",
+      "proportionality",
+      "reciprocity"
      ],
      "a": 1,
-     "e": "„lack the capacity to“ ist die im sicherheitspolitischen Register etablierte Standardkollokation."
+     "e": "Das Römische Statut nennt dieses Verhältnis „complementarity\": die Zuständigkeit des Gerichtshofs tritt nur ergänzend hinzu. Ausgeschlossen sind: „subsidiarity\" (das Zuständigkeitsprinzip des EU-Rechts, nicht des Statuts); „proportionality\" (Verhältnismäßigkeit einer Maßnahme); „reciprocity\" (Gegenseitigkeit zwischen Staaten)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Talks on a binding treaty have reached a ____ at the UN Human Rights Council for over a decade.",
      "o": [
-      "stonewall",
       "deadlock",
-      "gridlock",
-      "logjam"
+      "deadline",
+      "headlock",
+      "padlock"
      ],
-     "a": 1,
-     "e": "„reach a deadlock“ = sich festfahren; im UN-Kontext die gebräuchliche Formulierung für blockierte Verhandlungen."
+     "a": 0,
+     "e": "„to reach a deadlock\" bezeichnet die festgefahrene Verhandlungslage, in der keine Seite nachgibt. Ausgeschlossen sind: „deadline\" (Fristende — eine Frist erreicht man nicht „for over a decade\"); „headlock\" (ein Griff im Ringkampf); „padlock\" (ein Vorhängeschloss)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -20197,13 +20197,13 @@
      "lvl": "C2",
      "q": "Analysts warn that without external oversight, the industry risks operating with near-total ____ .",
      "o": [
-      "exoneration",
-      "exemption",
-      "immunity",
-      "impunity"
+      "impunity",
+      "importunity",
+      "impurity",
+      "imputation"
      ],
-     "a": 3,
-     "e": "„impunity“ = faktische Straflosigkeit (ein Zustand); „immunity“ bezeichnet eine formal verliehene rechtliche Immunität — der entscheidende Bedeutungsunterschied."
+     "a": 0,
+     "e": "„with impunity\" heißt, ohne Folgen fürchten zu müssen — die Straflosigkeit im tatsächlichen Sinn, nicht die rechtlich verliehene Immunität. Ausgeschlossen sind: „importunity\" (Aufdringlichkeit); „impurity\" (Verunreinigung); „imputation\" (Unterstellung, Zurechnung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -20224,25 +20224,25 @@
      "q": "Contractors who take a direct part in hostilities may forfeit any claim to civilian ____ under the law of armed conflict.",
      "o": [
       "immunity",
-      "cover",
-      "exemption",
-      "protection"
+      "impunity",
+      "indemnity",
+      "infirmity"
      ],
      "a": 0,
-     "e": "„civilian immunity“ ist der humanitärrechtliche Fachbegriff für den Schutzstatus von Zivilpersonen."
+     "e": "„civilian immunity\" bezeichnet den Schutz vor Angriffen, den das humanitäre Völkerrecht Zivilpersonen gewährt und den die unmittelbare Teilnahme an Feindseligkeiten aufhebt. Ausgeschlossen sind: „impunity\" (Straflosigkeit — kein Schutz vor Angriffen, sondern vor Verfolgung); „indemnity\" (Freistellung von finanzieller Haftung); „infirmity\" (Gebrechlichkeit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The UN working group's mandate is to ____ allegations of human-rights abuses linked to the industry.",
      "o": [
-      "examine",
       "investigate",
-      "inspect",
-      "scrutinise"
+      "instigate",
+      "invigilate",
+      "invalidate"
      ],
-     "a": 1,
-     "e": "„investigate allegations“ ist die im Menschenrechtskontext übliche Standardkollokation."
+     "a": 0,
+     "e": "„to investigate allegations\" ist die feste Wendung für die Untersuchung von Vorwürfen. Ausgeschlossen sind: „instigate\" (etwas anstiften oder in Gang setzen — das Gremium erhöbe die Vorwürfe selbst); „invigilate\" (bei einer Prüfung aufsichtführen); „invalidate\" (für ungültig erklären — das setzte die Prüfung bereits voraus)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -20275,13 +20275,13 @@
      "lvl": "C2",
      "q": "The firm's board dismissed the allegations as an attempt to ____ its reputation ahead of a major government tender.",
      "o": [
-      "blemish",
-      "smear",
-      "stain",
-      "tarnish"
+      "tarnish",
+      "varnish",
+      "burnish",
+      "furnish"
      ],
-     "a": 3,
-     "e": "„tarnish a reputation“ ist die gebräuchlichste Kollokation."
+     "a": 0,
+     "e": "„to tarnish a reputation\" heißt, ihren Glanz anlaufen zu lassen — die feste Wendung für Rufschädigung. Ausgeschlossen sind: „varnish\" (lackieren, übertünchen); „burnish\" (polieren, also den Ruf gerade aufpolieren — das Gegenteil); „furnish\" (ausstatten oder beibringen, etwa Beweise)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -20351,7 +20351,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Had the ministry vetted the firm more rigorously, the abuse ____ entirely preventable in hindsight.",
+     "q": "Had the ministry vetted the firm more rigorously, the compensation claims ____ before the courts at this moment.",
      "o": [
       "had been",
       "would be",
@@ -20359,7 +20359,7 @@
       "were"
      ],
      "a": 1,
-     "e": "Gemischter Konditional: Bedingung Vergangenheit, Folge Gegenwart."
+     "e": "Gemischter Konditional: irreale Bedingung in der Vergangenheit, Folge in der Gegenwart („at this moment\") — verlangt „would be\". Ausgeschlossen sind: „would have been\" (Folge in der Vergangenheit, mit „at this moment\" unvereinbar); „had been\" (Past Perfect gehört in die Bedingung); „were\" (Konjunktiv Präteritum, der eine Bedingung, keine Folge einleitet)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -20624,7 +20624,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The response team ____ have suspended every contract; only one unit was implicated in the abuse.",
+     "q": "The response team ____ have suspended every contract; only one unit was implicated, and no supplier suffered by the pause.",
      "o": [
       "mustn't",
       "shouldn't",
@@ -20632,20 +20632,20 @@
       "can't"
      ],
      "a": 2,
-     "e": "„needn't have + Partizip“ = unnötige, aber tatsächlich ausgeführte Handlung."
+     "e": "„needn't have + Partizip II\" = tatsächlich getan, aber unnötig; „no supplier suffered\" nimmt dem Vorwurf die Grundlage. Ausgeschlossen sind: „shouldn't have\" (Vorwurf, ausdrücklich zurückgewiesen); „mustn't\" (Verbot statt Rückblick); „can't have\" (bestreitet die Aussetzung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ independent monitor for the region's private security sector last year.",
+     "q": "The two ministries ____ share intelligence routinely, but that practice ended years ago.",
      "o": [
-      "the",
-      "an",
-      "a",
-      "—"
+      "were used to",
+      "used to",
+      "are used to",
+      "would have"
      ],
-     "a": 3,
-     "e": "Nullartikel vor einmaligen Ämtern nach „appoint“."
+     "a": 1,
+     "e": "„used to\" + Infinitiv bezeichnet eine frühere, inzwischen beendete Gewohnheit — genau das, was der Nachsatz feststellt. Ausgeschlossen sind: „were used to\" und „are used to\" (beide heißen „gewöhnt an\" und verlangen ein Gerundium, nicht den Infinitiv „share\"); „would have\" (ergäbe eine irreale Vergangenheit ohne Bedingung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -20697,7 +20697,7 @@
     {
      "cat": "Textverständnis",
      "lvl": "C2",
-     "q": "According to the passage, which region currently holds no permanent seat on the Security Council?",
+     "q": "Which region does the passage single out by name as remaining without a single permanent seat?",
      "o": [
       "Eastern Europe",
       "South America",
@@ -20705,7 +20705,7 @@
       "Africa"
      ],
      "a": 3,
-     "e": "Laut Text: „Africa, notably, remains without a single permanent seat.“",
+     "e": "Der Text nennt ausdrücklich: „Africa, notably, remains without a single permanent seat\" — nur diese Region wird als Fehlstelle eigens hervorgehoben. Ausgeschlossen sind: „South America\" und „South Asia\" (der Text erwähnt Brasilien und Indien lediglich als Bewerber unter den Aspiranten, ohne die Regionen als Fehlstelle zu benennen); „Eastern Europe\" (im Text überhaupt nicht erwähnt).",
      "passage": "The clamour for a reformed Security Council is almost as old as the Council itself, yet it has rarely sounded so insistent as it does today. Aspirant powers — India, Brazil, Germany, Japan among them — argue with some justice that a body frozen in the geometry of 1945 can no longer claim to speak for a world it barely resembles. Africa, notably, remains without a single permanent seat, an omission that successive secretaries-general have called indefensible without ever quite saying so in public.\n\nYet reform proposals founder, as they have for three decades, on the awkward arithmetic of the veto. Any amendment to the Charter requires ratification by two-thirds of the General Assembly, including all five permanent members — precisely the states least inclined to dilute a privilege they alone possess. Model A, favoured by the G4 grouping, would add new permanent seats; Model B, championed by the self-styled Uniting for Consensus caucus, would instead multiply longer-term, renewable non-permanent seats, sidestepping the veto question altogether. Neither has come close to commanding the requisite majority.\n\nWhat distinguishes the current push from earlier, equally earnest attempts is less its substance than its timing. The war in Ukraine, prosecuted by a permanent member against a UN member state, has lent the reform debate an urgency that abstract appeals to representativeness never quite achieved. Even so, sceptics note that the five incumbents have shown no discernible appetite for surrendering leverage merely because critics find its exercise embarrassing. The likeliest outcome, diplomats concede privately, is not wholesale restructuring but incremental adjustment: expanded consultation, sunset clauses on non-permanent terms, perhaps a voluntary code restraining veto use in cases of mass atrocity. Grand architecture may have to wait for a crisis graver than any yet endured — assuming, that is, the institution itself survives to be reformed."
     },
     {
@@ -21276,7 +21276,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The reform package is said ____ broad support among mid-sized powers.",
+     "q": "The reform package is said ____ broad support among mid-sized powers at present.",
      "o": [
       "enjoying",
       "to have enjoyed",
@@ -21284,7 +21284,7 @@
       "to enjoy"
      ],
      "a": 3,
-     "e": "Berichtspassiv ohne Vorzeitigkeit: gleichzeitige Handlung, daher einfacher Infinitiv „to enjoy“."
+     "e": "„be said to + Infinitiv\" bezeichnet den gegenwärtigen Zustand; „at present\" schließt jede Vorzeitigkeit aus. Ausgeschlossen sind: „to have enjoyed\" (Perfekt-Infinitiv, der die Unterstützung in die Vergangenheit verlegte); „enjoy\" und „enjoying\" (nach „be said\" steht zwingend der to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -21307,10 +21307,10 @@
       "what",
       "who",
       "that",
-      "which"
+      "when"
      ],
      "a": 2,
-     "e": "It-Cleft: „It was X that …“ — „what“ ist hier grammatisch ausgeschlossen."
+     "e": "Im It-Cleft folgt auf den sachlichen Fokus „that\". Ausgeschlossen sind: „what\" (freies Relativum ohne Rückbezug); „who\" (nur bei Personen); „when\" (verlangt einen Zeitbegriff als Bezugswort)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -21367,15 +21367,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ permanent representative to the United Nations last year.",
+     "q": "The outcome was ____ unanimous one, for the first time in a decade.",
      "o": [
-      "as a",
-      "the",
+      "an",
       "a",
+      "the",
       "—"
      ],
-     "a": 3,
-     "e": "Nullartikel vor einmaligen Ämtern nach „appoint“."
+     "a": 1,
+     "e": "„unanimous\" beginnt lautlich mit dem Halbvokal /juː/, also mit einem Konsonanten; davor steht „a\", nicht „an\". Ausgeschlossen sind: „an\" (nur vor tatsächlich vokalisch gesprochenem Anlaut); „the\" (das Prädikatsnomen mit „one\" bezeichnet hier eine von mehreren möglichen Arten, nicht die bekannte); „—\" (ein zählbares Substantiv im Singular kann im Englischen nicht artikellos stehen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -21385,10 +21385,10 @@
       "of",
       "about",
       "for",
-      "on"
+      "to"
      ],
      "a": 1,
-     "e": "Feste Rektion: „adamant about“."
+     "e": "„adamant about something\" ist die feste Rektion des Adjektivs. Ausgeschlossen sind: „of\" (verwechselt die Fügung mit „convinced of\"); „for\" (nur bei Verben des Bittens, „press for\"); „to\" (mit „adamant\" in keiner Verwendung möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22058,7 +22058,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The wording is believed ____ directly from last year's statement.",
+     "q": "The wording is believed ____ directly from last year's statement, a resemblance still visible today.",
      "o": [
       "deriving",
       "derived",
@@ -22066,7 +22066,7 @@
       "to derive"
      ],
      "a": 3,
-     "e": "Berichtspassiv, gleichzeitige Handlung: einfacher Infinitiv „to derive“."
+     "e": "„be believed to + Infinitiv\" bezeichnet den gegenwärtig bestehenden Zusammenhang, den „still visible today\" bestätigt. Ausgeschlossen sind: „to have derived\" (Perfekt-Infinitiv, der den Zusammenhang als abgeschlossen darstellte); „derived\" und „deriving\" (nach „be believed\" steht zwingend der to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22162,28 +22162,28 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was named ____ chief negotiator for the climate annex.",
+     "q": "The rapporteur submitted her findings only after she ____ every one of the sites in person.",
      "o": [
-      "the",
-      "a",
-      "—",
-      "as the"
+      "visited",
+      "had visited",
+      "has visited",
+      "was visiting"
      ],
-     "a": 2,
-     "e": "Nullartikel vor einmaligen Funktionen nach „name/appoint“."
+     "a": 1,
+     "e": "„only after\" verlangt hier ausdrückliche Vorzeitigkeit zum Hauptsatz in der Vergangenheit: „had visited\". Ausgeschlossen sind: „visited\" (Präteritum, das die Reihenfolge offen lässt und der Betonung durch „only after\" die Grundlage entzieht); „has visited\" (Present Perfect mit Gegenwartsbezug); „was visiting\" (Verlaufsform, unvereinbar mit dem abgeschlossenen „every one of the sites\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
      "q": "The delegation remained wary ____ any language that might bind future budgets.",
      "o": [
-      "about",
+      "to",
       "from",
       "against",
       "of"
      ],
      "a": 3,
-     "e": "Feste Rektion: „wary of“."
+     "e": "„wary of something\" ist die feste Rektion des Adjektivs. Ausgeschlossen sind: „to\" (mit „wary\" nicht möglich); „from\" (verwechselt die Fügung mit „refrain from\"); „against\" (mit „wary\" nicht möglich — man ist „on guard against\", aber nicht „wary against\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22582,13 +22582,13 @@
      "lvl": "C2",
      "q": "The two governments' representatives met ____ the radar of the press for months.",
      "o": [
-      "below",
       "under",
-      "beneath",
-      "off"
+      "upon",
+      "across",
+      "aboard"
      ],
-     "a": 1,
-     "e": "„under the radar“ = unbemerkt, ohne öffentliche Aufmerksamkeit."
+     "a": 0,
+     "e": "„under the radar\" ist die feste Wendung für ein Vorgehen, das der Aufmerksamkeit entgeht. Ausgeschlossen sind: „upon\", „across\" und „aboard\" — keine dieser Präpositionen bildet mit „the radar\" eine idiomatische Fügung."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -22788,7 +22788,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Never ____ the two delegations met so frequently outside formal negotiations.",
+     "q": "Never before that winter ____ the two delegations met so frequently outside formal negotiations.",
      "o": [
       "were",
       "had",
@@ -22796,7 +22796,7 @@
       "did"
      ],
      "a": 1,
-     "e": "Inversion nach „Never“ + Present Perfect."
+     "e": "„Never before that winter\" setzt einen Bezugspunkt in der Vergangenheit und verlangt in der Inversion das Past Perfect: „had … met\". Ausgeschlossen sind: „have\" (Present Perfect reicht bis in die Gegenwart und verträgt sich nicht mit dem vergangenen Bezugspunkt); „did\" (nach „do\" steht der reine Infinitiv, nicht „met\"); „were\" (Passivhilfsverb, das „met\" hier nicht tragen kann)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22840,15 +22840,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He explained that the next meeting would take place ____ , not in the capital as originally planned.",
+     "q": "He explained that the next meeting would take place ____, not in the capital as originally planned.",
      "o": [
-      "locally",
+      "anywhere",
       "here",
       "elsewhere",
       "in this city"
      ],
      "a": 2,
-     "e": "Deixisverschiebung in der Redewiedergabe: Ortsangabe wird verallgemeinert."
+     "e": "„elsewhere\" (= an einem anderen Ort) ist die einzige Angabe, die den Gegensatz zu „not in the capital\" trägt und zugleich zur indirekten Rede passt. Ausgeschlossen sind: „here\" und „in this city\" (ortsdeiktische Ausdrücke des Sprechers, die in der indirekten Rede zu „there\"/„that city\" verschoben werden müssten); „anywhere\" (bedeutet „an irgendeinem beliebigen Ort\" und ergibt hier keinen Gegensatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22957,15 +22957,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was later named ____ special envoy for the back-channel process.",
+     "q": "He served for two years as ____ honorary consul in Trieste, one of several in the region.",
      "o": [
-      "as a",
       "a",
+      "an",
       "the",
       "—"
      ],
-     "a": 3,
-     "e": "Nullartikel vor einmaligen Funktionen nach „name“."
+     "a": 1,
+     "e": "Das <h> in „honorary\" ist stumm, der Anlaut also vokalisch: „an honorary consul\". Ausgeschlossen sind: „a\" (steht nur vor konsonantisch gesprochenem Anlaut); „the\" („one of several\" schließt die eindeutige Referenz aus); „—\" (zählbarer Singular ohne Artikel ist nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -23390,13 +23390,13 @@
      "lvl": "C2",
      "q": "The rival services accused each other of running agents ____ by diplomatic immunity.",
      "o": [
-      "sheltered",
-      "shrouded",
-      "screened",
-      "shielded"
+      "shielded",
+      "shattered",
+      "shuffled",
+      "shunned"
      ],
-     "a": 3,
-     "e": "„shielded by immunity“ = durch Immunität geschützt."
+     "a": 0,
+     "e": "„shielded by immunity\" ist die feste Wendung: die Immunität wirkt als Schutzschild gegen Strafverfolgung. Ausgeschlossen sind: „shattered\" (zerschmettert); „shuffled\" (umgeschichtet, gemischt); „shunned\" (gemieden — es bezeichnete die Ächtung, nicht den Schutz)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -23583,15 +23583,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Under no circumstances ____ the embassy comment on the expelled officer's identity.",
+     "q": "Under no circumstances ____ the embassy be drawn on the expelled officer's identity.",
      "o": [
-      "had",
       "was",
       "would",
-      "did"
+      "did",
+      "has"
      ],
-     "a": 2,
-     "e": "Inversion nach vorangestelltem „Under no circumstances“."
+     "a": 1,
+     "e": "Nach der negativen Inversion steht vor dem Passiv-Infinitiv „be drawn\" zwingend ein Modalverb: „would … be drawn\". Ausgeschlossen sind: „was\" (zwei Formen von „be\" nebeneinander); „did\" (nach „do\" folgt der reine Infinitiv, nicht „be\" + Partizip); „has\" (verlangte „been\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -23648,7 +23648,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The recalled diplomat is believed ____ close ties to the security services.",
+     "q": "The recalled diplomat is believed ____ close ties to the security services to this day.",
      "o": [
       "to maintain",
       "maintain",
@@ -23656,7 +23656,7 @@
       "to have maintained"
      ],
      "a": 0,
-     "e": "Berichtspassiv, gleichzeitige Handlung: einfacher Infinitiv „to maintain“."
+     "e": "„be believed to + Infinitiv\" bezeichnet den fortbestehenden Zustand, den „to this day\" ausdrücklich bis in die Gegenwart führt. Ausgeschlossen sind: „to have maintained\" (Perfekt-Infinitiv, der die Verbindung als beendet darstellte); „maintain\" und „maintaining\" (nach „be believed\" steht zwingend der to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -23752,28 +23752,28 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was appointed ____ chargé d'affaires pending a new ambassador's arrival.",
+     "q": "The protocol will enter into ____ force on the first day of the month following ratification.",
      "o": [
-      "as a",
       "the",
+      "a",
       "—",
-      "a"
+      "its"
      ],
      "a": 2,
-     "e": "Nullartikel vor einmaligen Funktionen nach „appoint“."
+     "e": "„enter into force\" ist eine feste Rechtsformel ohne Artikel. Ausgeschlossen sind: „the\" und „a\" (die Wendung ist lexikalisiert und nimmt keinen Artikel; „into the force\" bedeutete etwas ganz anderes — eine Truppe); „its\" (ein Possessivum ist in der Formel ebenso unmöglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
      "q": "The embassy remained conspicuously silent ____ the officer's true role.",
      "o": [
-      "on",
+      "to",
       "of",
       "for",
       "about"
      ],
      "a": 3,
-     "e": "Feste Rektion: „silent about“."
+     "e": "„silent about something\" ist die geläufige Rektion für das Verschweigen eines Sachverhalts. Ausgeschlossen sind: „to\" (mit „silent\" nicht möglich); „of\" (verwechselt die Fügung mit „unaware of\"); „for\" (mit „silent\" ebenfalls nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -23830,7 +23830,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The chargé d'affaires avoided public statements ____ they inflame the crisis further.",
+     "q": "The chargé d'affaires avoided public statements ____ a stray remark inflame the crisis further.",
      "o": [
       "unless",
       "in case",
@@ -23838,7 +23838,7 @@
       "so"
      ],
      "a": 2,
-     "e": "„lest“ + Subjunktiv „inflame“ (Grundform)."
+     "e": "„lest\" + endungsloser Subjunktiv („a stray remark inflame\") bezeichnet die abzuwehrende Folge. Ausgeschlossen sind: „unless\" (kehrt die Bedingung um); „in case\" (verlangt den Indikativ „inflames\"); „so\" (leitet allein keinen Nebensatz dieser Art ein)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -24378,7 +24378,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "So obstructive ____ the upper chamber that no treaty has passed in three years.",
+     "q": "So obstructive ____ the upper chamber in recent years that no treaty has passed since 2021.",
      "o": [
       "has been",
       "was",
@@ -24386,7 +24386,7 @@
       "is"
      ],
      "a": 0,
-     "e": "Inversion nach vorangestelltem „So + Adjektiv“: Hilfsverb vor Subjekt."
+     "e": "„in recent years\" spannt einen bis in die Gegenwart reichenden Zeitraum und verlangt in der Inversion das Present Perfect. Ausgeschlossen sind: „is\" (Präsens kann den seit Jahren andauernden Zeitraum nicht ausdrücken); „was\" (Präteritum, das den Zustand als beendet darstellte); „had been\" (Vorzeitigkeit zu einem Punkt der Vergangenheit, den der Satz nicht nennt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -24443,7 +24443,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The convention is believed ____ tacit support from a majority of signatories, despite the stalled vote.",
+     "q": "The convention is believed ____ tacit support from a majority of signatories even now, despite the public criticism.",
      "o": [
       "enjoying",
       "to enjoy",
@@ -24451,7 +24451,7 @@
       "to have enjoyed"
      ],
      "a": 1,
-     "e": "Berichtspassiv, gleichzeitige Handlung: einfacher Infinitiv „to enjoy“."
+     "e": "„be believed to + Infinitiv\" bezeichnet den gegenwärtigen Zustand, den „even now\" bestätigt. Ausgeschlossen sind: „to have enjoyed\" (Perfekt-Infinitiv, der die Unterstützung in die Vergangenheit verlegte); „enjoy\" und „enjoying\" (nach „be believed\" steht zwingend der to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -24485,12 +24485,12 @@
      "q": "It was the regional assemblies, not the federal parliament, ____ ultimately blocked ratification.",
      "o": [
       "that",
-      "who",
-      "which",
+      "whose",
+      "when",
       "what"
      ],
      "a": 0,
-     "e": "It-Cleft: „It was X that …“."
+     "e": "Im It-Cleft folgt auf den Fokus das Relativum „that\", das für Institutionen wie für Sachen gilt. Ausgeschlossen sind: „whose\" (Genitivrelativum ohne folgendes Substantiv); „when\" (verlangt einen Zeitbegriff als Bezugswort); „what\" (freies Relativum, das keinen Rückbezug auf ein genanntes Satzglied herstellen kann)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -24547,15 +24547,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was elected ____ chair of the ratification committee last year.",
+     "q": "The secretariat will circulate the draft as soon as the legal service ____ its review.",
      "o": [
-      "—",
-      "the",
-      "a",
-      "as the"
+      "will complete",
+      "completes",
+      "will have completed",
+      "completed"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern nach „elect“."
+     "a": 1,
+     "e": "Nach Temporalkonjunktionen wie „as soon as\", „when\", „until\" steht im Englischen kein Futur; der Zukunftsbezug wird durch das Präsens ausgedrückt: „completes\". Ausgeschlossen sind: „will complete\" und „will have completed\" (Futurformen, die der Temporalsatz nicht zulässt); „completed\" (Präteritum, unvereinbar mit dem zukünftigen „will circulate\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -25282,10 +25282,10 @@
       "what",
       "that",
       "who",
-      "which"
+      "whose"
      ],
      "a": 1,
-     "e": "It-Cleft: „It is X that …“."
+     "e": "Das It-Cleft verlangt bei sachlichem Fokus „that\". Ausgeschlossen sind: „what\" (freies Relativum ohne Rückbezug); „who\" (nur bei Personen); „whose\" (Genitivrelativum ohne folgendes Substantiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -25342,15 +25342,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was appointed ____ special mediator for the frozen conflict in early spring.",
+     "q": "Preparations for the review conference are already well under ____ way.",
      "o": [
       "a",
       "the",
-      "as a",
-      "—"
+      "—",
+      "their"
      ],
-     "a": 3,
-     "e": "Nullartikel vor einmaligen Funktionen nach „appoint“."
+     "a": 2,
+     "e": "„under way\" ist eine feste adverbiale Fügung ohne Artikel. Ausgeschlossen sind: „a\" und „the\" (die Wendung ist lexikalisiert; „under the way\" existiert nicht); „their\" (Possessivum in der Formel ebenso unmöglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -25710,13 +25710,13 @@
      "lvl": "C2",
      "q": "The pledges were, by common ____ , unlikely to be honoured in full.",
      "o": [
-      "concession",
       "consent",
-      "accord",
-      "assent"
+      "concern",
+      "conceit",
+      "constraint"
      ],
-     "a": 1,
-     "e": "\"by common consent\" = wie allgemein eingeräumt wird."
+     "a": 0,
+     "e": "„by common consent\" ist die feste Wendung für „nach übereinstimmender Auffassung aller Beteiligten\". Ausgeschlossen sind: „concern\" (Sorge oder Anliegen — „a common concern\" gibt es, „by common concern\" nicht); „conceit\" (Einbildung bzw. rhetorischer Kunstgriff); „constraint\" (Zwang, Beschränkung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -25916,15 +25916,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ special envoy for climate finance last year.",
+     "q": "The proposal was tabled jointly by ____ Netherlands and Ireland.",
      "o": [
-      "—",
+      "a",
       "the",
-      "as a",
-      "a"
+      "—",
+      "those"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern nach \"appoint\"."
+     "a": 1,
+     "e": "Ländernamen im Plural — „the Netherlands\", „the Philippines\", „the United States\" — tragen zwingend den bestimmten Artikel. Ausgeschlossen sind: „—\" (bei Ländernamen im Plural ist der Nullartikel ausgeschlossen, anders als bei „Ireland\"); „a\" (ein Eigenname nimmt keinen unbestimmten Artikel); „those\" (Demonstrativum vor einem Eigennamen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -25957,13 +25957,13 @@
      "lvl": "C2",
      "q": "If donors ____ to double the pledge, the shortfall would still remain severe.",
      "o": [
-      "was",
+      "had been",
       "would be",
       "are",
       "were"
      ],
      "a": 3,
-     "e": "\"If ... were to\" — hypothetische Zukunft im formalen Register."
+     "e": "„If X were to do …\" ist die hypothetische Bedingung; „would still remain\" verlangt sie. Ausgeschlossen sind: „had been\" (Vorzeitigkeit, die den to-Infinitiv dieser Konstruktion nicht trägt); „would be\" (kein „would\" im Bedingungssatz); „are\" („are to\" heißt „sollen\" und kollidiert mit dem irrealen Hauptsatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26063,11 +26063,11 @@
      "o": [
       "can't",
       "mustn't",
-      "wouldn't",
+      "shouldn't",
       "needn't"
      ],
      "a": 0,
-     "e": "\"can't have\" = logische Unmöglichkeit im Rückblick."
+     "e": "„can't have + Partizip II\" ist der logische Ausschluss im Rückblick: ohne Freigabe kann kein Betrag eingegangen sein. Ausgeschlossen sind: „mustn't\" (Verbot statt Schlussfolgerung); „shouldn't have\" (Vorwurf, der den Empfang voraussetzt); „needn't have\" (unnötig, aber geschehen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26150,7 +26150,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Officials chose their words carefully ____ they concede legal liability.",
+     "q": "The spokesperson chose each word carefully ____ it concede legal liability.",
      "o": [
       "so that",
       "in case",
@@ -26158,7 +26158,7 @@
       "unless"
      ],
      "a": 2,
-     "e": "\"lest\" + Subjunktiv \"concede\"; \"in case\" verlangte \"they should concede\"."
+     "e": "„lest\" + endungsloser Subjunktiv („it concede\") benennt die abzuwehrende Folge. Ausgeschlossen sind: „so that\" (angestrebte Folge); „in case\" (verlangt „concedes\"); „unless\" (kehrt die Bedingung um)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26428,12 +26428,12 @@
      "q": "Terrestrial mining often entails the ____ of indigenous communities.",
      "o": [
       "eviction",
-      "exclusion",
-      "expulsion",
-      "evacuation"
+      "evasion",
+      "evocation",
+      "evaluation"
      ],
      "a": 0,
-     "e": "\"eviction\" = zwangsweise Räumung/Vertreibung von Land — im Text exakt so verwendet."
+     "e": "„eviction\" ist die Vertreibung von Menschen aus dem Land, das sie bewohnen. Ausgeschlossen sind: „evasion\" (Ausweichen, Umgehung, etwa von Steuern); „evocation\" (Heraufbeschwören einer Vorstellung); „evaluation\" (Bewertung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -26711,15 +26711,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was appointed ____ chief scientific adviser to the Seabed Authority.",
+     "q": "After the vote, the members rose and ____ Parliament adjourned until October.",
      "o": [
-      "—",
+      "the",
       "a",
-      "as a",
-      "the"
+      "—",
+      "this"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern."
+     "a": 2,
+     "e": "Als Institution in ihrer Funktion steht „Parliament\" im britischen Gebrauch artikellos („Parliament rose\", „Parliament will decide\"). Ausgeschlossen sind: „the\" (bezeichnete das Gebäude oder eine näher bestimmte Kammer, nicht die Institution als handelndes Organ); „a\" (Eigenname); „this\" (Demonstrativum ohne Bezugspunkt im Satz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26755,10 +26755,10 @@
       "were",
       "is",
       "would be",
-      "was"
+      "had been"
      ],
      "a": 0,
-     "e": "\"If … were to\" — formale hypothetische Zukunft."
+     "e": "„If X were to do …\" bezeichnet die hypothetische Zukunft, die „would likely follow\" voraussetzt. Ausgeschlossen sind: „is\" („is to\" heißt „soll\" und passt nicht zur irrealen Folge); „would be\" (kein „would\" im Bedingungssatz); „had been\" (Vorzeitigkeit ohne Anschluss an den to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26945,7 +26945,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Delegates hedged their statements ____ they seem to prejudge the outcome.",
+     "q": "The delegation hedged its statement ____ it seem to prejudge the outcome.",
      "o": [
       "in case",
       "lest",
@@ -26953,7 +26953,7 @@
       "so that"
      ],
      "a": 1,
-     "e": "\"lest\" + Subjunktiv."
+     "e": "„lest\" + endungsloser Subjunktiv („it seem\") bezeichnet die abzuwehrende Folge. Ausgeschlossen sind: „in case\" (verlangt „seems\"); „unless\" (kehrt die Bedingung um); „so that\" (bezeichnet die angestrebte Folge — hier soll der Eindruck gerade vermieden werden)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -27263,11 +27263,11 @@
      "o": [
       "outlier",
       "outset",
-      "outcast",
-      "outlaw"
+      "outlet",
+      "outlook"
      ],
      "a": 0,
-     "e": "\"an outlier\" = ein Ausreißer/Außenseiter innerhalb der Gruppe."
+     "e": "„an outlier\" ist der Ausreißer, der sich von allen übrigen Mitgliedern abhebt. Ausgeschlossen sind: „outset\" (der Beginn eines Vorgangs, „from the outset\"); „outlet\" (Absatzweg oder Ventil); „outlook\" (Aussicht, Einschätzung der künftigen Entwicklung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -27378,13 +27378,13 @@
      "lvl": "C2",
      "q": "The scramble for continental-shelf claims has ____ old alliances.",
      "o": [
-      "fractured",
+      "frayed",
       "fringed",
       "frazzled",
-      "frayed"
+      "freighted"
      ],
-     "a": 3,
-     "e": "\"fray\" = zermürben/dünn werden (von Beziehungen); \"fracture\" impliziert einen plötzlichen Bruch, nicht schleichende Abnutzung."
+     "a": 0,
+     "e": "„to fray\" heißt ausfransen; „frayed alliances\" ist das stehende Bild für Bündnisse, die an den Rändern aufgehen, ohne schon zerrissen zu sein. Ausgeschlossen sind: „fringed\" (mit Fransen besetzt — ein Schmuckelement, kein Verschleiß); „frazzled\" (zerzaust, entnervt — nur von Personen); „freighted\" (beladen, „freighted with meaning\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -27506,15 +27506,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was elected ____ chair of the Arctic science working group.",
+     "q": "The ambassador ____ three languages fluently long before her first posting abroad.",
      "o": [
-      "a",
-      "the",
-      "—",
-      "as the"
+      "was speaking",
+      "spoke",
+      "has spoken",
+      "had been speaking"
      ],
-     "a": 2,
-     "e": "Nullartikel vor einmaligen Ämtern."
+     "a": 1,
+     "e": "„speak a language\" bezeichnet einen Zustand, keine laufende Handlung, und steht im schlichten Präteritum. Ausgeschlossen sind: „was speaking\" (Verlaufsform, die bei Zustandsverben nicht möglich ist); „has spoken\" (Present Perfect, unvereinbar mit dem abgeschlossenen „long before her first posting\"); „had been speaking\" (Verlaufsform des Past Perfect, bei einem Zustandsverb ebenso ausgeschlossen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -27545,15 +27545,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If Russia ____ to leave the Council altogether, its scientific programmes would stall entirely.",
+     "q": "If Russia ____ to leave the Council altogether, its scientific programmes would suffer first.",
      "o": [
-      "was",
+      "had been",
       "would be",
       "were",
       "is"
      ],
      "a": 2,
-     "e": "\"If … were to\"."
+     "e": "„If X were to do …\" ist die hypothetische Bedingung; „would suffer\" verlangt sie. Ausgeschlossen sind: „had been\" (Vorzeitigkeit ohne Anschluss); „would be\" (kein „would\" im Bedingungssatz); „is\" („is to\" heißt „soll\" — eine Planaussage, keine Hypothese)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -28301,15 +28301,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ chief negotiator on the border levy.",
+     "q": "____ of the amendment took a further eighteen months.",
      "o": [
-      "as a",
-      "the",
-      "—",
-      "a"
+      "A ratification",
+      "Ratification",
+      "The ratification",
+      "Its ratification"
      ],
      "a": 2,
-     "e": "Nullartikel."
+     "e": "Ein durch eine nachgestellte of-Bestimmung eindeutig festgelegtes Abstraktum trägt den bestimmten Artikel: „the ratification of the amendment\". Ausgeschlossen sind: „Ratification\" (der Nullartikel bezeichnete den Vorgang allgemein, hier ist ein bestimmter gemeint); „A ratification\" (der unbestimmte Artikel widerspricht der eindeutigen Festlegung durch „of the amendment\"); „Its ratification\" (das Possessivum hat im Satz keinen Bezugspunkt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -28345,10 +28345,10 @@
       "were",
       "is",
       "would be",
-      "was"
+      "had been"
      ],
      "a": 0,
-     "e": "\"If … were to\"."
+     "e": "„If X were to do …\" bezeichnet die hypothetische Zukunft. Ausgeschlossen sind: „is\" („is to\" = geplante Absicht, unvereinbar mit „would follow\"); „would be\" (kein „would\" im Bedingungssatz); „had been\" (Vorzeitigkeit ohne Anschluss an den to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -29096,15 +29096,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She was appointed ____ special mediator for the basin dispute.",
+     "q": "Two of the observers were injured and remain in ____ hospital in the capital.",
      "o": [
+      "the",
       "a",
-      "as a",
       "—",
-      "the"
+      "that"
      ],
      "a": 2,
-     "e": "Nullartikel."
+     "e": "Im britischen Gebrauch steht „in hospital\" ohne Artikel, wenn es um den Aufenthalt als Patient geht — wie „at school\", „in prison\". Ausgeschlossen sind: „the\" (bezeichnete das Gebäude als Ort, nicht die Behandlung); „a\" (rückte ein beliebiges Haus in den Blick statt des Zustands); „that\" (Demonstrativum ohne Bezugspunkt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -29135,15 +29135,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If Ethiopia ____ to accelerate filling the reservoir further, tensions would sharpen immediately.",
+     "q": "If Ethiopia ____ to accelerate filling the reservoir further, tensions would sharpen at once.",
      "o": [
       "is",
       "would be",
       "were",
-      "was"
+      "had been"
      ],
      "a": 2,
-     "e": "\"If … were to\"."
+     "e": "„If X were to do …\" ist die hypothetische Bedingung, die „would sharpen\" verlangt. Ausgeschlossen sind: „is\" („is to\" = geplante Absicht); „would be\" (kein „would\" im Bedingungssatz); „had been\" (Vorzeitigkeit ohne Anschluss)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -29891,15 +29891,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He was appointed ____ special envoy for the coal transition.",
+     "q": "The revised text attracted ____ great deal of criticism from the smaller delegations.",
      "o": [
-      "—",
       "the",
-      "as a",
-      "a"
+      "a",
+      "—",
+      "much"
      ],
-     "a": 0,
-     "e": "Nullartikel."
+     "a": 1,
+     "e": "„a great deal of\" ist eine feste Mengenangabe vor nicht zählbaren Substantiven und trägt zwingend „a\". Ausgeschlossen sind: „the\" (die Fügung ist lexikalisiert und kennt keinen bestimmten Artikel); „—\" (ohne Artikel ergibt „great deal of\" keine mögliche Fügung); „much\" (ergäbe „much great deal of\", eine doppelte Mengenangabe)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -29934,11 +29934,11 @@
      "o": [
       "would be",
       "are",
-      "was",
+      "had been",
       "were"
      ],
      "a": 3,
-     "e": "\"If … were to\" — gilt für alle Personen im hypothetischen Konditional."
+     "e": "„If X were to do …\" bezeichnet die hypothetische Zukunft; „would ease\" setzt sie voraus. Ausgeschlossen sind: „would be\" (kein „would\" im Bedingungssatz); „are\" („are to\" = geplante Absicht); „had been\" (Vorzeitigkeit ohne Anschluss an den to-Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -30125,7 +30125,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Officials hedged their public statements ____ they seem to concede the model's failure.",
+     "q": "The ministry hedged its public statement ____ it seem to concede the model's failure.",
      "o": [
       "so that",
       "lest",
@@ -30133,7 +30133,7 @@
       "unless"
      ],
      "a": 1,
-     "e": "\"lest\" + Subjunktiv."
+     "e": "„lest\" regiert den endungslosen Subjunktiv „seem\" und benennt die abzuwehrende Folge. Ausgeschlossen sind: „so that\" (angestrebte statt abzuwehrende Folge); „in case\" (verlangt den Indikativ „seems\"); „unless\" (kehrt die Bedingung um)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -30507,12 +30507,12 @@
      "q": "Resettlement figures fell far short of pledges, leaving a ____ that host states were left to absorb.",
      "o": [
       "shortfall",
-      "drought",
-      "deficit",
-      "shortage"
+      "shortcut",
+      "shorthand",
+      "shortlist"
      ],
      "a": 0,
-     "e": "„shortfall“ = Fehlbetrag zwischen Zusage und Erfüllung; „drought“ passt nur bildhaft für Wassermangel."
+     "e": "„a shortfall\" ist die Fehlmenge zwischen Zugesagtem und Geleistetem — genau das, was „fell far short of pledges\" beschreibt. Ausgeschlossen sind: „shortcut\" (Abkürzung); „shorthand\" (Kurzschrift bzw. verkürzte Redeweise); „shortlist\" (engere Auswahl von Bewerbern)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -31262,13 +31262,13 @@
      "lvl": "C2",
      "q": "Formal ____ of one nationality is sometimes demanded as a condition for acquiring another.",
      "o": [
-      "abdication",
-      "relinquishment",
-      "resignation",
-      "renunciation"
+      "renunciation",
+      "renovation",
+      "remuneration",
+      "reunification"
      ],
-     "a": 3,
-     "e": "„renunciation of nationality“ ist die feststehende rechtliche Fügung; „abdication“ gilt nur für Monarchen."
+     "a": 0,
+     "e": "„renunciation of nationality\" ist der staatsangehörigkeitsrechtliche Fachausdruck für die förmliche Aufgabe der bisherigen Staatsangehörigkeit. Ausgeschlossen sind: „renovation\" (bauliche Erneuerung); „remuneration\" (Vergütung); „reunification\" (Wiedervereinigung von Staaten oder Familien)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -31405,13 +31405,13 @@
      "lvl": "C2",
      "q": "Lawyers eventually found a ____ in the old code that let dual nationals retain both passports.",
      "o": [
-      "gap",
       "loophole",
-      "crevice",
-      "breach"
+      "keyhole",
+      "threshold",
+      "watershed"
      ],
-     "a": 1,
-     "e": "„loophole“ = Gesetzeslücke, die sich zugunsten Betroffener nutzen lässt."
+     "a": 0,
+     "e": "„a loophole\" ist die Gesetzeslücke, durch die sich eine an sich verbotene Gestaltung doch noch erreichen lässt. Ausgeschlossen sind: „keyhole\" (Schlüsselloch, im wörtlichen Sinn); „threshold\" (eine Schwelle, ab der eine Regel greift — gerade keine Lücke); „watershed\" (Wendepunkt einer Entwicklung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -31457,13 +31457,13 @@
      "lvl": "C2",
      "q": "Denied recognition by either state, the family remained in a kind of legal ____ for over a generation.",
      "o": [
-      "void",
-      "suspension",
       "limbo",
-      "abeyance"
+      "lineage",
+      "licence",
+      "liquidation"
      ],
-     "a": 2,
-     "e": "„legal limbo“ ist die feststehende Metapher für einen ungeklärten, schwebenden Rechtszustand."
+     "a": 0,
+     "e": "„in legal limbo\" ist die feste Wendung für einen ungeklärten Schwebezustand, in dem niemand zuständig ist. Ausgeschlossen sind: „lineage\" (Abstammungslinie); „licence\" (behördliche Erlaubnis); „liquidation\" (Abwicklung eines Unternehmens)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -31715,15 +31715,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He explained that the registry office had been closed ____ day before, delaying every pending case.",
+     "q": "He explained that the registry office had been closed ____ day before, delaying every filing.",
      "o": [
       "that",
-      "this",
+      "its",
       "the",
-      "a"
+      "this"
      ],
      "a": 2,
-     "e": "„the day before“ ersetzt „yesterday“ in der indirekten Rede."
+     "e": "In der indirekten Rede wird „yesterday\" zu „the day before\" — eine feste Fügung mit bestimmtem Artikel. Ausgeschlossen sind: „that\" (ergäbe „that day before\", eine im Englischen unmögliche Verbindung von Demonstrativum und Fügung); „this\" (ebenso unmöglich und zusätzlich sprecherdeiktisch); „its\" (ein Possessivum kann in dieser Zeitangabe nicht stehen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -31940,13 +31940,13 @@
      "lvl": "C2",
      "q": "The ____ held for barely six hours before shelling resumed along the front line.",
      "o": [
-      "truce",
-      "armistice",
-      "standstill",
-      "ceasefire"
+      "ceasefire",
+      "crossfire",
+      "countdown",
+      "courtyard"
      ],
-     "a": 3,
-     "e": "„ceasefire“ bezeichnet die zeitlich begrenzte, meist lokale Feuerpause; „armistice“ impliziert ein umfassenderes, formelleres Kriegsende."
+     "a": 0,
+     "e": "„a ceasefire holds\" ist die feste Wendung für eine Feuerpause, die (noch) eingehalten wird. Ausgeschlossen sind: „crossfire\" (Kreuzfeuer — es bezeichnet gerade den Beschuss, nicht dessen Aussetzung); „countdown\" (Countdown, der abläuft und nicht „hält\"); „courtyard\" (Innenhof)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -31966,13 +31966,13 @@
      "lvl": "C2",
      "q": "The ____ enclave had received no food deliveries in over six weeks.",
      "o": [
-      "surrounded",
-      "blockaded",
-      "encircled",
-      "besieged"
+      "besieged",
+      "bereaved",
+      "bewildered",
+      "bedevilled"
      ],
-     "a": 3,
-     "e": "„besieged“ ist der übliche Begriff für ein von feindlichen Kräften eingeschlossenes Gebiet unter anhaltendem Beschuss."
+     "a": 0,
+     "e": "„a besieged enclave\" ist das belagerte Gebiet, von der Versorgung abgeschnitten. Ausgeschlossen sind: „bereaved\" (hinterblieben nach einem Todesfall — nur von Personen); „bewildered\" (verwirrt — ebenfalls nur von Personen); „bedevilled\" (von Schwierigkeiten geplagt, verlangt die Angabe „by …\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -32512,13 +32512,13 @@
      "lvl": "C2",
      "q": "He told the delegation the checkpoint had been closed ____ day before without warning.",
      "o": [
-      "a",
+      "its",
       "the",
       "that",
       "this"
      ],
      "a": 1,
-     "e": "„the day before“ ersetzt „yesterday“ in der indirekten Rede."
+     "e": "„the day before\" ist die feste Entsprechung von „yesterday\" in der indirekten Rede. Ausgeschlossen sind: „that\" und „this\" (beide bilden mit „day before\" keine mögliche Fügung, „this\" ist zudem sprecherdeiktisch); „its\" (Possessivum in einer Zeitangabe dieser Art nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -32980,15 +32980,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Persistent ____ eventually triggered the suspension of the supplier's contract.",
+     "q": "Persistent ____ with the audit requirements eventually triggered the suspension of the supplier's contract.",
      "o": [
       "non-compliance",
-      "disobedience",
-      "violation",
-      "infraction"
+      "non-alignment",
+      "non-attendance",
+      "non-disclosure"
      ],
      "a": 0,
-     "e": "„non-compliance“ ist der Standardbegriff für die Nichteinhaltung vertraglicher oder gesetzlicher Pflichten."
+     "e": "„non-compliance with a requirement\" ist der Fachausdruck für die anhaltende Nichterfüllung vertraglicher Auflagen. Ausgeschlossen sind: „non-alignment\" (die außenpolitische Bündnisfreiheit eines Staates); „non-attendance\" (das Fernbleiben von Sitzungen); „non-disclosure\" (die Geheimhaltung, üblicherweise vertraglich gerade geschuldet)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -33307,13 +33307,13 @@
      "lvl": "C2",
      "q": "He told investigators the shipment had been released ____ day before the ban took effect.",
      "o": [
-      "a",
+      "its",
       "this",
       "the",
       "that"
      ],
      "a": 2,
-     "e": "„the day before“ ersetzt „yesterday“ in der indirekten Rede."
+     "e": "„the day before\" ist die feste Zeitangabe der indirekten Rede. Ausgeschlossen sind: „this\" und „that\" (mit „day before\" nicht kombinierbar; „this\" zusätzlich sprecherdeiktisch); „its\" (Possessivum in dieser Zeitangabe nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -34104,11 +34104,11 @@
      "o": [
       "that",
       "this",
-      "a",
+      "its",
       "the"
      ],
      "a": 3,
-     "e": "„the day before“ ersetzt „yesterday“ in der indirekten Rede."
+     "e": "„the day before\" ist die feste Zeitangabe der indirekten Rede. Ausgeschlossen sind: „that\" und „this\" (mit „day before\" nicht kombinierbar); „its\" (Possessivum in dieser Zeitangabe nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -34898,12 +34898,12 @@
      "q": "She told reporters the electoral roll had been updated ____ day before the announcement.",
      "o": [
       "the",
-      "a",
+      "its",
       "that",
       "this"
      ],
      "a": 0,
-     "e": "„the day before“ ersetzt „yesterday“ in der indirekten Rede."
+     "e": "„the day before\" ist die feste Zeitangabe der indirekten Rede. Ausgeschlossen sind: „that\" und „this\" (mit „day before\" nicht kombinierbar); „its\" (Possessivum in dieser Zeitangabe nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -35300,15 +35300,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Without enforcement powers, the new body risked becoming ____.",
+     "q": "Without enforcement powers, the new body risked becoming ____ .",
      "o": [
-      "powerless",
-      "harmless",
-      "useless",
-      "toothless"
+      "toothless",
+      "ruthless",
+      "feckless",
+      "listless"
      ],
-     "a": 3,
-     "e": "„toothless“ = zahnlos/wirkungslos, feste idiomatische Wendung für Gremien ohne Durchsetzungsmacht."
+     "a": 0,
+     "e": "„toothless\" ist das stehende Bild für ein Gremium ohne Durchsetzungsmittel — es hat keine Zähne, um zuzubeißen. Ausgeschlossen sind: „ruthless\" (rücksichtslos — es bezeichnete gerade übergroße Härte); „feckless\" (verantwortungslos, untüchtig — eine Charakterschwäche, kein fehlendes Mandat); „listless\" (lustlos, matt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -35393,13 +35393,13 @@
      "lvl": "C2",
      "q": "The reform aims to strengthen ____ toward the European Parliament.",
      "o": [
-      "culpability",
-      "answerability",
       "accountability",
-      "liability"
+      "affordability",
+      "availability",
+      "adaptability"
      ],
-     "a": 2,
-     "e": "„accountability“ = Rechenschaftspflicht; „liability“/„culpability“ beziehen sich auf Schuld/Haftung, nicht auf demokratische Rechenschaft."
+     "a": 0,
+     "e": "„accountability toward a body\" ist die Rechenschaftspflicht gegenüber einem Kontrollorgan. Ausgeschlossen sind: „affordability\" (Bezahlbarkeit); „availability\" (Verfügbarkeit); „adaptability\" (Anpassungsfähigkeit) — keine dieser Eigenschaften besteht „gegenüber\" einem Parlament."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -35508,7 +35508,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If the court ____ jurisdiction, the case would still be pending today.",
+     "q": "If the court ____ jurisdiction at the time of filing, the case would still be pending today.",
      "o": [
       "has lacked",
       "had lacked",
@@ -35516,7 +35516,7 @@
       "lacks"
      ],
      "a": 1,
-     "e": "Gemischter Konditional: vergangene Ursache (had lacked), gegenwärtige Folge (would still be pending)."
+     "e": "Gemischter Konditional: Bedingung in der Vergangenheit („at the time of filing\"), Folge in der Gegenwart („today\") — verlangt „had lacked\". Ausgeschlossen sind: „lacked\" (Typ-2-Konditional, dessen Bedingung sich auf die Gegenwart bezöge und mit „at the time of filing\" kollidiert); „lacks\" (Indikativ Präsens, unvereinbar mit „would\"); „has lacked\" (Present Perfect, das im Bedingungssatz dieser Art nicht steht)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -35586,15 +35586,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "He claimed he ____ the file weeks before the leak became public.",
+     "q": "He wished he ____ the file before speaking to the press.",
      "o": [
-      "sees",
+      "saw",
       "had seen",
       "was seeing",
-      "saw"
+      "sees"
      ],
      "a": 1,
-     "e": "Past Perfect für Vorzeitigkeit in indirekter Rede."
+     "e": "„wish\" + Past Perfect bezeichnet das Bedauern über eine versäumte Handlung der Vergangenheit. Ausgeschlossen sind: „saw\" (das Präteritum nach „wish\" bezöge sich auf einen gegenwärtigen Zustand); „was seeing\" (Verlaufsform, bei einem Wahrnehmungsverb ohnehin nicht möglich); „sees\" (Präsens nach „wish\" ausgeschlossen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -35729,15 +35729,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She was appointed ____ special envoy to the region shortly after the ceasefire.",
+     "q": "____ number of member states have already signalled their opposition.",
      "o": [
-      "as a",
-      "a",
-      "the",
-      "—"
+      "The",
+      "A",
+      "—",
+      "Much"
      ],
-     "a": 3,
-     "e": "Nullartikel vor einmaligen Ämtern/Funktionen nach „appoint“."
+     "a": 1,
+     "e": "„a number of\" ist die feste Mengenangabe und verlangt das Plural-Prädikat „have\", das der Satz zeigt. Ausgeschlossen sind: „The\" („the number of … has\" bezeichnete die Zahl selbst und verlangte den Singular); „—\" (die Fügung ist ohne Artikel nicht möglich); „Much\" (steht nur vor nicht zählbaren Substantiven)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -36164,11 +36164,11 @@
      "o": [
       "hard-won",
       "hardly earning",
-      "hard-earned",
-      "hardly won"
+      "hardly won",
+      "hard-wearing"
      ],
      "a": 0,
-     "e": "„hard-won compromise“ = mühsam erkämpfter Kompromiss; feste Kollokation."
+     "e": "„hard-won\" bezeichnet das mühsam Errungene — die feste Fügung nach langem Ringen. Ausgeschlossen sind: „hardly won\" („hardly\" heißt „kaum\" und verkehrt die Aussage ins Gegenteil); „hardly earning\" (Partizip Präsens, das kein Substantiv attribuieren kann); „hard-wearing\" (strapazierfähig — von Material, nicht von Vereinbarungen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -36186,15 +36186,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Critics called the laboratory's internal testing process worryingly ____.",
+     "q": "Critics called the laboratory's internal testing process worryingly ____ .",
      "o": [
-      "obscure",
-      "vague",
-      "murky",
-      "opaque"
+      "opaque",
+      "opulent",
+      "optional",
+      "operatic"
      ],
-     "a": 3,
-     "e": "„opaque“ ist im Governance-Register das feste Gegenteil von „transparent“ und die übliche Kollokation für undurchsichtige Verfahren."
+     "a": 0,
+     "e": "„opaque\" ist der stehende Ausdruck für ein Verfahren, in das von außen niemand hineinsehen kann. Ausgeschlossen sind: „opulent\" (üppig, aufwendig); „optional\" (freigestellt — es beschriebe die Verbindlichkeit, nicht die Einsehbarkeit); „operatic\" (opernhaft, theatralisch)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -36303,7 +36303,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If the treaty ____ verification clauses, compliance would be far easier to assess now.",
+     "q": "If the treaty ____ verification clauses when it was signed, compliance would be far easier to assess now.",
      "o": [
       "had included",
       "included",
@@ -36311,7 +36311,7 @@
       "has included"
      ],
      "a": 0,
-     "e": "Gemischter Konditional: vergangene Ursache (had included), gegenwärtige Folge (would be)."
+     "e": "Gemischter Konditional: Bedingung in der Vergangenheit („when it was signed\"), Folge in der Gegenwart („now\") — verlangt „had included\". Ausgeschlossen sind: „included\" (Typ 2, dessen Bedingung gegenwartsbezogen wäre); „includes\" (Indikativ Präsens, unvereinbar mit „would\"); „has included\" (Present Perfect im Bedingungssatz nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -36381,15 +36381,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She admitted she ____ the draft text before the leak occurred.",
+     "q": "By the time the leak became public, she ____ the draft text twice.",
      "o": [
       "saw",
       "was seeing",
-      "sees",
-      "had seen"
+      "had seen",
+      "sees"
      ],
-     "a": 3,
-     "e": "Past Perfect für Vorzeitigkeit in indirekter Rede."
+     "a": 2,
+     "e": "„By the time\" + Vergangenheit verlangt Vorzeitigkeit: „had seen\". Ausgeschlossen sind: „saw\" (Präteritum ohne Vorzeitigkeit); „was seeing\" (Verlaufsform, bei einem Wahrnehmungsverb nicht möglich); „sees\" (Präsens im Vergangenheitsrahmen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -36524,15 +36524,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She was appointed ____ special rapporteur on emerging technologies shortly after the summit.",
+     "q": "It was ____ most contentious session the committee had held in twenty years.",
      "o": [
-      "as a",
-      "—",
+      "a",
       "the",
-      "a"
+      "—",
+      "its"
      ],
      "a": 1,
-     "e": "Nullartikel vor einmaligen Ämtern/Funktionen nach „appoint“."
+     "e": "Der Superlativ mit nachfolgendem einschränkendem Relativsatz verlangt den bestimmten Artikel: „the most contentious session … the committee had held\". Ausgeschlossen sind: „a\" (der unbestimmte Artikel ist mit der Einzigartigkeit des Superlativs unvereinbar); „—\" (zählbarer Singular ohne Artikel); „its\" (ergäbe eine Zugehörigkeit, die der Relativsatz bereits ausdrückt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -36853,13 +36853,13 @@
      "lvl": "C2",
      "q": "The talks were repeatedly ____ by last-minute procedural objections from a single delegation.",
      "o": [
-      "hindered",
       "derailed",
-      "hampered",
-      "impeded"
+      "detained",
+      "defrayed",
+      "denounced"
      ],
-     "a": 1,
-     "e": "„derailed by“ = durch etwas komplett zum Scheitern gebracht/entgleist — im Kontext wiederholter, gezielter Verfahrensblockaden die treffendste Wahl; die anderen bezeichnen eher graduelle Erschwernis, nicht ein wiederholtes Entgleisen."
+     "a": 0,
+     "e": "„to derail talks\" heißt, Verhandlungen aus der Spur zu werfen — das Bild des entgleisten Zuges. Ausgeschlossen sind: „detained\" (festhalten, in Gewahrsam nehmen — nur von Personen); „defrayed\" (Kosten bestreiten); „denounced\" (öffentlich anprangern — Verhandlungen werden nicht durch Einwände angeprangert)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -36892,13 +36892,13 @@
      "lvl": "C2",
      "q": "Legal scholars remain sharply ____ over whether the accord reflects genuine customary practice.",
      "o": [
-      "parted",
-      "cleaved",
       "divided",
-      "split"
+      "divisive",
+      "dividing",
+      "divisible"
      ],
-     "a": 2,
-     "e": "„sharply divided over“ ist die feste Kollokation für tiefgreifende Meinungsverschiedenheit unter Fachleuten."
+     "a": 0,
+     "e": "„to remain divided over something\" ist die feste Fügung für anhaltende Uneinigkeit. Ausgeschlossen sind: „divisive\" (spaltend — es beschriebe die Streitfrage, nicht die Fachleute); „dividing\" (Partizip Präsens, das ein aktives Teilen ausdrückte); „divisible\" (teilbar, von Größen und Zahlen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -36970,13 +36970,13 @@
      "lvl": "C2",
      "q": "Extraction rights remain a legal ____ that no court has yet been asked to resolve.",
      "o": [
-      "grey spot",
-      "grey zone",
-      "grey field",
-      "grey area"
+      "grey area",
+      "grey matter",
+      "grey market",
+      "grey literature"
      ],
-     "a": 3,
-     "e": "„grey area“ = rechtlich ungeklärter Graubereich; nur diese Kollokation ist idiomatisch etabliert."
+     "a": 0,
+     "e": "„a grey area\" ist der Bereich, in dem die Rechtslage weder eindeutig erlaubend noch eindeutig verbietend ist. Ausgeschlossen sind: „grey matter\" (die graue Hirnsubstanz, übertragen der Verstand); „grey market\" (der Handel mit Originalware außerhalb autorisierter Vertriebswege); „grey literature\" (nicht förmlich verlegte Fachpublikationen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37022,13 +37022,13 @@
      "lvl": "C2",
      "q": "Delegates called the ruling a ____ moment for the future governance of celestial resources.",
      "o": [
-      "turning point",
-      "milestone",
-      "landmark",
-      "watershed"
+      "watershed",
+      "watermark",
+      "waterline",
+      "waterway"
      ],
-     "a": 3,
-     "e": "„watershed moment“ ist die feste Kollokation für einen entscheidenden Wendepunkt; die anderen Substantive kollokieren weniger natürlich mit „moment“."
+     "a": 0,
+     "e": "„a watershed moment\" ist der Wendepunkt, von dem an die Entwicklung in eine andere Richtung läuft — das Bild der Wasserscheide. Ausgeschlossen sind: „watermark\" (Wasserzeichen); „waterline\" (Wasserlinie am Schiffsrumpf); „waterway\" (Wasserstraße)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -37098,7 +37098,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If the drafters ____ commercial mining, the treaty's wording would look very different now.",
+     "q": "If the drafters ____ commercial mining in 1967, the treaty's wording would look very different today.",
      "o": [
       "anticipate",
       "anticipated",
@@ -37106,7 +37106,7 @@
       "have anticipated"
      ],
      "a": 2,
-     "e": "Gemischter Konditional: vergangene Ursache (had anticipated), gegenwärtige Folge (would look)."
+     "e": "Gemischter Konditional: Bedingung in der Vergangenheit („in 1967\"), Folge in der Gegenwart („today\") — verlangt „had anticipated\". Ausgeschlossen sind: „anticipated\" (Typ 2 mit Gegenwartsbezug, unvereinbar mit der Jahresangabe); „anticipate\" (Indikativ Präsens); „have anticipated\" (Present Perfect im Bedingungssatz nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -37176,15 +37176,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She explained that the committee ____ the proposal months earlier.",
+     "q": "It was the third time that year the committee ____ a proposal of that kind.",
      "o": [
       "rejects",
       "rejected",
-      "rejecting",
-      "had rejected"
+      "had rejected",
+      "was rejecting"
      ],
-     "a": 3,
-     "e": "Past Perfect für Vorzeitigkeit in indirekter Rede."
+     "a": 2,
+     "e": "Nach „it was the third time\" steht zwingend das Past Perfect: „had rejected\". Ausgeschlossen sind: „rejected\" (Präteritum, das der Rahmen nicht zulässt); „rejects\" (Präsens im Vergangenheitsrahmen); „was rejecting\" (Verlaufsform für einen abgeschlossenen Einzelakt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -37319,15 +37319,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She was appointed ____ rapporteur on space resource governance last year.",
+     "q": "The consignment was shipped by ____ sea rather than by air to avoid the export controls.",
      "o": [
-      "—",
-      "as a",
+      "the",
       "a",
-      "the"
+      "—",
+      "that"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern/Funktionen nach „appoint“."
+     "a": 2,
+     "e": "Verkehrsmittel nach „by\" stehen artikellos: „by sea\", „by air\", „by rail\". Ausgeschlossen sind: „the\" („by the sea\" heißt „am Meer gelegen\" und bezeichnet einen Ort, kein Transportmittel); „a\" (unbestimmter Artikel in der Fügung nicht möglich); „that\" (Demonstrativum ohne Bezugspunkt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -37750,15 +37750,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The largest cloud providers have quietly turned localisation rules to their own ____.",
+     "q": "The largest cloud providers have quietly turned localisation rules to their own ____ .",
      "o": [
-      "profit",
-      "benefit",
-      "gain",
-      "advantage"
+      "advantage",
+      "advent",
+      "adventure",
+      "advertisement"
      ],
-     "a": 3,
-     "e": "„turn something to one's advantage“ ist die feste idiomatische Wendung für das geschickte Ausnutzen einer Situation."
+     "a": 0,
+     "e": "„to turn something to one's advantage\" ist die feste Wendung dafür, eine an sich hinderliche Lage für sich nutzbar zu machen. Ausgeschlossen sind: „advent\" (das Aufkommen einer Sache); „adventure\" (Abenteuer); „advertisement\" (Anzeige, Werbung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37971,15 +37971,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She admitted the ministry ____ the smaller firms' objections before finalising the rule.",
+     "q": "If only the ministry ____ the smaller firms' objections less lightly.",
      "o": [
-      "had ignored",
-      "ignored",
+      "had taken",
+      "took",
       "ignoring",
-      "ignores"
+      "takes"
      ],
      "a": 0,
-     "e": "Past Perfect für Vorzeitigkeit in indirekter Rede."
+     "e": "„if only\" + Past Perfect bezeichnet das Bedauern über ein vergangenes Versäumnis. Ausgeschlossen sind: „took\" (Präteritum nach „if only\" bezöge sich auf die Gegenwart); „takes\" (Präsens nach „if only\" ausgeschlossen); „ignoring\" (Partizip, das keine finite Verbform ersetzen kann)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -38114,15 +38114,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She was appointed ____ chief data-protection officer shortly after the rule took effect.",
+     "q": "____ Diplomacy of this kind rarely survives a change of government.",
      "o": [
-      "a",
-      "as a",
+      "The",
+      "A",
       "—",
-      "the"
+      "Its"
      ],
      "a": 2,
-     "e": "Nullartikel vor einmaligen Ämtern/Funktionen nach „appoint“."
+     "e": "Ein Abstraktum in allgemeiner Bedeutung steht artikellos; „of this kind\" schränkt die Art ein, macht den Begriff aber nicht zu einem bestimmten Einzelfall. Ausgeschlossen sind: „The\" (bezeichnete eine zuvor eingeführte, bestimmte Diplomatie); „A\" (Abstrakta dieser Art sind nicht zählbar); „Its\" (Possessivum ohne Bezugspunkt im Satz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -38153,7 +38153,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The drafters worded the exemption cautiously ____ larger providers exploit it disproportionately.",
+     "q": "The drafters worded the exemption cautiously ____ a larger provider exploit it disproportionately.",
      "o": [
       "lest",
       "so that",
@@ -38161,7 +38161,7 @@
       "in case"
      ],
      "a": 0,
-     "e": "„lest“ + Subjunktiv „exploit“ (ohne -s); „in case“ verlangte „they should exploit“."
+     "e": "„lest\" + endungsloser Subjunktiv („a larger provider exploit\") bezeichnet die abzuwehrende Gefahr. Ausgeschlossen sind: „so that\" (angestrebte Folge); „unless\" (kehrt die Bedingung um); „in case\" (verlangt den Indikativ „exploits\")."
     }
    ]
   },
@@ -38443,13 +38443,13 @@
      "lvl": "C2",
      "q": "Manufacturers were reluctant to ____ their patents even temporarily, despite mounting pressure.",
      "o": [
-      "concede",
       "surrender",
-      "cede",
-      "yield"
+      "surmount",
+      "surpass",
+      "survey"
      ],
-     "a": 1,
-     "e": "„to surrender a patent“ ist der patentrechtliche Fachbegriff für die (auch vorübergehende) Aufgabe der Rechte; „cede“ bezieht sich typischerweise auf Territorium, „concede“ auf ein Zugeständnis im Streit, „yield“ auf allgemeines Nachgeben."
+     "a": 0,
+     "e": "„to surrender a patent\" heißt, das Schutzrecht aufzugeben oder freizugeben. Ausgeschlossen sind: „surmount\" (überwinden, von Hindernissen); „surpass\" (übertreffen); „survey\" (vermessen bzw. eine Erhebung durchführen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -38766,7 +38766,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She admitted the ministry ____ the shipment figures before the audit began.",
+     "q": "By the time the audit began, the ministry ____ the shipment figures three times.",
      "o": [
       "had revised",
       "revises",
@@ -38774,7 +38774,7 @@
       "revising"
      ],
      "a": 0,
-     "e": "Past Perfect für Vorzeitigkeit in indirekter Rede."
+     "e": "„By the time\" + Vergangenheit verlangt Vorzeitigkeit: „had revised\". Ausgeschlossen sind: „revised\" (Präteritum ohne Vorzeitigkeit); „revises\" (Präsens im Vergangenheitsrahmen); „revising\" (Partizip ohne finite Form)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -38909,15 +38909,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She was appointed ____ special envoy for pandemic preparedness shortly after the treaty talks began.",
+     "q": "Both delegations submitted ____ same amendment within an hour of each other.",
      "o": [
-      "—",
-      "as a",
       "a",
-      "the"
+      "the",
+      "—",
+      "their"
      ],
-     "a": 0,
-     "e": "Nullartikel vor einmaligen Ämtern/Funktionen nach „appoint“."
+     "a": 1,
+     "e": "„same\" verlangt im Englischen zwingend den bestimmten Artikel: „the same amendment\". Ausgeschlossen sind: „a\" (mit „same\" nicht kombinierbar); „—\" (auch im Plural stünde „the same\"); „their\" (ergäbe „their same amendment\", eine im Englischen unmögliche Fügung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -39199,13 +39199,13 @@
      "lvl": "C2",
      "q": "Independent courts and a free press are essential ____ against the abuse of such powers.",
      "o": [
-      "barriers",
-      "fences",
       "safeguards",
-      "guardrails"
+      "signposts",
+      "stopgaps",
+      "showpieces"
      ],
-     "a": 2,
-     "e": "„safeguards against abuse“ ist die feste Kollokation im Rechtsstaatsdiskurs."
+     "a": 0,
+     "e": "„safeguards against something\" sind die institutionellen Sicherungen, die einen Missbrauch verhindern sollen. Ausgeschlossen sind: „signposts\" (Wegweiser, die orientieren, aber nichts abwehren); „stopgaps\" (Übergangslösungen, die etwas vorläufig ersetzen); „showpieces\" (Vorzeigestücke)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -39381,13 +39381,13 @@
      "lvl": "C2",
      "q": "The think tank was later exposed as a ____ for a foreign state's messaging operations.",
      "o": [
-      "surrogate",
       "proxy",
-      "stand-in",
-      "substitute"
+      "patron",
+      "protégé",
+      "precursor"
      ],
-     "a": 1,
-     "e": "„proxy“ ist im geheimdienstlich-diplomatischen Register der Standardbegriff für eine vorgeschobene Mittlerorganisation."
+     "a": 0,
+     "e": "„a proxy\" ist der vorgeschobene Akteur, über den ein Staat verdeckt wirkt — der feste Ausdruck der Sicherheitsliteratur. Ausgeschlossen sind: „patron\" (der Förderer, also die Gegenrolle: er handelt nicht für einen anderen, sondern lässt handeln); „protégé\" (der Geförderte als Person, nicht als Instrument einer Kampagne); „precursor\" (Vorläufer in zeitlicher Hinsicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -39483,7 +39483,7 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "If the drafters ____ the civil-society consultations, the bill's wording might be far more precise now.",
+     "q": "If the drafters ____ the civil-society consultations back in 2019, the bill's wording might be far less contested now.",
      "o": [
       "heed",
       "heeded",
@@ -39491,7 +39491,7 @@
       "have heeded"
      ],
      "a": 2,
-     "e": "Gemischter Konditional: vergangene Ursache (had heeded), gegenwärtige Folge (might be)."
+     "e": "Gemischter Konditional: Bedingung in der Vergangenheit („back in 2019\"), Folge in der Gegenwart („now\") — verlangt „had heeded\". Ausgeschlossen sind: „heeded\" (Typ 2 mit Gegenwartsbezug, der zur Jahresangabe nicht passt); „heed\" (Indikativ Präsens); „have heeded\" (Present Perfect im Bedingungssatz nicht möglich)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -39561,15 +39561,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She admitted the ministry ____ the consultation responses before finalising the bill.",
+     "q": "The consultation body would rather the ministry ____ its responses at all than misquote them.",
      "o": [
+      "would ignore",
       "had ignored",
-      "ignoring",
       "ignores",
-      "ignored"
+      "ignoring"
      ],
-     "a": 0,
-     "e": "Past Perfect für Vorzeitigkeit in indirekter Rede."
+     "a": 1,
+     "e": "„would rather\" mit Bezug auf Vergangenes verlangt das Past Perfect: „had ignored\". Ausgeschlossen sind: „ignores\" (Indikativ Präsens, den diese Konstruktion nie zulässt); „would ignore\" (kein zweites „would\" im Nebensatz); „ignoring\" (Partizip ohne finite Form)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -39704,15 +39704,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "She was appointed ____ independent reviewer of the foreign-interference legislation last year.",
+     "q": "He had been in ____ office barely three weeks when the crisis broke.",
      "o": [
       "the",
-      "as a",
+      "an",
       "—",
-      "a"
+      "his"
      ],
      "a": 2,
-     "e": "Nullartikel vor einmaligen Ämtern/Funktionen nach „appoint“."
+     "e": "„in office\" bezeichnet artikellos die Amtsausübung. Ausgeschlossen sind: „the\" („in the office\" heißt „im Büro\" und bezeichnet einen Raum); „an\" (unbestimmter Artikel in der Fügung nicht möglich); „his\" („in his office\" wäre erneut der Raum, nicht das Amt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -40010,12 +40010,12 @@
      "q": "The minister ____ short of openly condemning the decision.",
      "o": [
       "held",
-      "fell",
+      "stopped",
       "cut",
-      "stopped"
+      "drew"
      ],
-     "a": 3,
-     "e": "„to stop short of (doing)“ = es gerade nicht so weit treiben."
+     "a": 1,
+     "e": "„to stop short of doing something\" heißt, kurz vor einem Schritt innezuhalten — die feste Wendung für die zurückgenommene Kritik. Ausgeschlossen sind: „held\" („hold short of\" gibt es nicht; „hold short\" stammt aus der Luftfahrt und verlangt kein „of\"); „cut\" („cut short\" heißt abbrechen und nimmt kein „of\"); „drew\" („draw short\" bildet keine Fügung mit „of\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
