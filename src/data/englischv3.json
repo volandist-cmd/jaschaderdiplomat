@@ -3131,15 +3131,15 @@
     },
     {
      "cat": "Register & Near-Synonyms",
-     "q": "The report's conclusions were met with considerable ____ from independent observers.",
+     "q": "The report's conclusions were met with considerable ____ from several member states.",
      "o": [
       "side-eye",
-      "scepticism",
-      "doubtiness",
-      "not buying it"
+      "head-scratching",
+      "not buying it",
+      "scepticism"
      ],
-     "a": 1,
-     "e": "\"scepticism\" ist der formelle Begriff; die anderen Optionen sind umgangssprachlich oder keine echten Wörter."
+     "a": 3,
+     "e": "„scepticism\" ist der einzige Ausdruck im Register eines förmlichen Berichts. Ausgeschlossen sind: „side-eye\" (umgangssprachlich für einen skeptischen Seitenblick); „head-scratching\" (umgangssprachlich für ratloses Kopfkratzen); „not buying it\" (Umgangssprache und zudem syntaktisch keine Nominalphrase)."
     },
     {
      "q": "The permanent representative was among the first to formally ____ the new framework governing the trade embargo.",
@@ -3424,15 +3424,15 @@
     },
     {
      "cat": "Mixed Grammar",
-     "q": "____ its earlier objections, the delegation ultimately voted in favour of the compromise text.",
+     "q": "____ its earlier objections, the delegation ultimately voted in favour.",
      "o": [
-      "Notwithstand",
       "Notwithstanding",
-      "Notwithstood",
-      "To notwithstand"
+      "Albeit",
+      "Whereas",
+      "Regardless"
      ],
-     "a": 1,
-     "e": "\"Notwithstanding + Nominalphrase\" = \"Despite\", ohne \"of\"."
+     "a": 0,
+     "e": "Nur „notwithstanding\" kann als Präposition unmittelbar vor einer Nominalphrase stehen. Ausgeschlossen sind: „Regardless\" (verlangt „of\": „regardless of its objections\"); „Albeit\" (leitet eine Einräumung mit Adjektiv oder Nebensatz ein, keine bloße Nominalphrase); „Whereas\" (Konjunktion, die ein finites Verb verlangt)."
     }
    ]
   },
@@ -7591,13 +7591,13 @@
      "cat": "Mixed Grammar",
      "q": "____ its stated neutrality, the organisation was repeatedly accused of favouring one side.",
      "o": [
-      "Notwithstand",
-      "Notwithstood",
-      "To notwithstand",
-      "Notwithstanding"
+      "Regardless",
+      "Albeit",
+      "Notwithstanding",
+      "Whereas"
      ],
-     "a": 3,
-     "e": "\"Notwithstanding + Nominalphrase\" = \"Despite\", ohne \"of\"."
+     "a": 2,
+     "e": "Nur „notwithstanding\" kann als Präposition unmittelbar vor einer Nominalphrase stehen. Ausgeschlossen sind: „Regardless\" (verlangt „of\"); „Albeit\" (leitet eine Einräumung mit Adjektiv oder Nebensatz ein, keine bloße Nominalphrase); „Whereas\" (Konjunktion, die ein finites Verb verlangt)."
     }
    ]
   },

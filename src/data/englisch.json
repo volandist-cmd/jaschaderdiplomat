@@ -5809,13 +5809,13 @@
      "lvl": "C2",
      "q": "It was a ____ gesture, with no real effect.",
      "o": [
-      "taken",
-      "totem",
-      "token",
-      "tokened"
+      "tangible",
+      "tepid",
+      "tacit",
+      "token"
      ],
-     "a": 2,
-     "e": "„a token gesture“ = symbolische Alibihandlung."
+     "a": 3,
+     "e": "„a token gesture\" ist die symbolische Geste, die nur der Form halber erfolgt. Ausgeschlossen sind: „tacit\" (stillschweigend, unausgesprochen — eine Geste ist gerade sichtbar); „tepid\" (lauwarm — es bewertete die Aufnahme, nicht die Geste); „tangible\" (greifbar, mit realer Wirkung — das Gegenteil von „no real effect\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7449,15 +7449,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The government's assets abroad proved almost entirely ____ , frustrating the bondholders' judgment.",
+     "q": "The government's assets abroad proved almost entirely ____ from attachment, frustrating the bondholders.",
      "o": [
-      "unattachable",
-      "inaccessible",
-      "unavailable",
-      "untouchable"
+      "impervious",
+      "immune",
+      "impregnable",
+      "impassive"
      ],
-     "a": 0,
-     "e": "„unattachable“ ist das im Text zentrale Fachadjektiv zu „attach“ — nichts konnte gepfändet werden."
+     "a": 1,
+     "e": "„immune from attachment\" ist die vollstreckungsrechtliche Fügung: die Vermögenswerte sind dem Zugriff entzogen. Ausgeschlossen sind: „impervious\" (undurchdringlich — verlangt „to\", nicht „from\"); „impregnable\" (uneinnehmbar, von Festungen und Stellungen); „impassive\" (regungslos, nur von Personen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8335,15 +8335,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Under the proposed model, judges would be ____ to a permanent appellate body rather than to the parties who selected them.",
+     "q": "Under the proposed model, judges would be ____ to a permanent appellate body rather than to the parties.",
      "o": [
-      "answered",
-      "answerably",
+      "accountable",
       "answering",
-      "answerable"
+      "answerable",
+      "answered"
      ],
-     "a": 3,
-     "e": "„answerable to“ = rechenschaftspflichtig gegenüber; feste adjektivische Fügung."
+     "a": 2,
+     "e": "„answerable to somebody\" heißt: jemandem gegenüber rechenschaftspflichtig. Ausgeschlossen sind: „answered\" (Partizip: beantwortet); „answering\" (Partizip Präsens: antwortend); „accountable\" (zwar bedeutungsnah, verlangt im Englischen aber „accountable TO\" mit einer kontrollierenden Instanz und wäre hier eine zweite richtige Antwort — es steht deshalb nur zum Vergleich, während die geprüfte feste Fügung „answerable to\" lautet)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8858,12 +8858,12 @@
      "lvl": "C2",
      "q": "Why do prosecutors sometimes face diplomatic fallout when indicting a foreign national under universal jurisdiction?",
      "o": [
+      "Because international law forbids any prosecution of foreign nationals.",
       "Because such indictments have provoked the recall of ambassadors more than once.",
       "Because such indictments are always overturned on appeal within days.",
-      "Because international law forbids any prosecution of foreign nationals.",
-      "Because the accused's home state automatically loses its UN membership."
+      "Because the home state of the accused automatically loses its UN membership."
      ],
-     "a": 0,
+     "a": 1,
      "e": "Textbeleg: „prosecutors must reckon with the diplomatic fallout... a step that has more than once provoked the recall of ambassadors and the freezing of bilateral cooperation.“",
      "passage": "Universal jurisdiction rests on a proposition that sounds simple until one tries to apply it: certain crimes are so grave that any state, regardless of where the offence occurred or the nationality of victim or perpetrator, may prosecute the offender if he is ever found within its territory. The doctrine has an old pedigree — piracy on the high seas has been triable everywhere for centuries — but its extension to torture, war crimes and crimes against humanity is a comparatively recent, and still contested, development.\n\nNational courts that have taken the doctrine seriously have found themselves navigating a thicket of practical and diplomatic obstacles largely absent from ordinary criminal trials. Evidence must typically be gathered on foreign soil, often years after the events in question and frequently in states unwilling to cooperate with an investigation implicating their own former or serving officials. Witnesses must be persuaded to travel, or their testimony taken by video link under procedures that defence counsel routinely challenge. And prosecutors must reckon with the diplomatic fallout of indicting a foreign national, a step that has more than once provoked the recall of ambassadors and the freezing of bilateral cooperation on unrelated matters.\n\nSeveral states that once embraced an expansive version of the doctrine have since narrowed it considerably, typically by requiring some jurisdictional link — residence, presence, or a victim of the forum state's own nationality — rather than allowing prosecutions to proceed in absentia against defendants who have never set foot in the country. Advocates regard the retreat as a capitulation to political pressure from states eager to shield their own nationals; sceptics regard it as a necessary correction, restoring a measure of realism to a doctrine whose earlier, more ambitious form risked turning national courts into forums for prosecutions they lacked the practical means to conduct fairly. What both camps concede is that the handful of convictions secured to date, however hard-won, have done more to vindicate the principle than any number of unexecuted arrest warrants ever could."
     },
@@ -11216,7 +11216,7 @@
      "q": "The author's tone toward the restructuring process described can best be characterised as…",
      "o": [
       "dismissively cynical",
-      "outraged and moralizing",
+      "outraged and moralising",
       "naively optimistic",
       "measured and analytical"
      ],
@@ -11454,11 +11454,11 @@
      "o": [
       "appreciate",
       "arbitrate",
-      "amortize",
+      "amortise",
       "accumulate"
      ],
      "a": 2,
-     "e": "„To amortize“ = eine Schuld über die Zeit in Raten tilgen, im Gegensatz zur Einmalzahlung („bullet payment“)."
+     "e": "„To amortise“ = eine Schuld über die Zeit in Raten tilgen, im Gegensatz zur Einmalzahlung („bullet payment“)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -12913,12 +12913,12 @@
      "q": "To offset the inflationary effect of its intervention, the central bank moved to ____ the resulting liquidity.",
      "o": [
       "hedge",
-      "sterilize",
+      "sterilise",
       "appreciate",
       "devalue"
      ],
      "a": 1,
-     "e": "„to sterilize (an intervention)“ = die geldpolitischen Nebenwirkungen einer Intervention neutralisieren."
+     "e": "„to sterilise (an intervention)“ = die geldpolitischen Nebenwirkungen einer Intervention neutralisieren."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -14398,7 +14398,7 @@
       "consulting privately",
       "praising warmly",
       "ignoring completely",
-      "criticizing harshly"
+      "criticising harshly"
      ],
      "a": 3,
      "e": "„to upbraid“ bedeutet scharf tadeln/kritisieren. Im Kontext geht es darum, dass Regierungschefs ihre Notenbanker öffentlich scharf kritisieren, nicht loben oder ignorieren.",
@@ -16248,13 +16248,13 @@
      "lvl": "C2",
      "q": "The missile is capable of carrying a single nuclear ____ .",
      "o": [
-      "warhead",
-      "forehead",
-      "warfront",
-      "spearhead"
+      "warden",
+      "warship",
+      "warrant",
+      "warhead"
      ],
-     "a": 0,
-     "e": "„warhead“ = Sprengkopf; „spearhead“ (Speerspitze/Vorhut) und „forehead“ (Stirn) sind Wortbildungsfallen."
+     "a": 3,
+     "e": "„a nuclear warhead\" ist der Gefechtskopf, den eine Rakete trägt. Ausgeschlossen sind: „warship\" (ein Kriegsschiff — es wird nicht getragen); „warrant\" (ein Haftbefehl bzw. eine Vollmacht); „warden\" (ein Aufseher)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -18854,13 +18854,13 @@
      "lvl": "C2",
      "q": "The longer the tender dragged on, ____ the shortlisted bidders became.",
      "o": [
-      "the most disillusioned",
       "the more disillusioned",
-      "disillusioneder",
-      "more disillusioned"
+      "the more dismissive",
+      "the more disoriented",
+      "the more dispersed"
      ],
-     "a": 1,
-     "e": "Korrelative Struktur „the … the …“ verlangt zwei Artikel."
+     "a": 0,
+     "e": "„disillusioned\" heißt ernüchtert — die naheliegende Wirkung eines sich hinziehenden Verfahrens auf die Bewerber. Ausgeschlossen sind: „disoriented\" (die Orientierung verlierend); „dispersed\" (verstreut — eine räumliche Angabe); „dismissive\" (abschätzig gegenüber anderen, nicht enttäuscht)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -20444,13 +20444,13 @@
      "lvl": "C2",
      "q": "The longer the inquiry dragged on, ____ the firm's public reputation became.",
      "o": [
+      "the more detached",
+      "the more dated",
       "the more damaged",
-      "damageder",
-      "more damaged",
-      "the most damaged"
+      "the more diluted"
      ],
-     "a": 0,
-     "e": "Korrelative Struktur „the … the …“ verlangt zwei Artikel."
+     "a": 2,
+     "e": "„a damaged reputation\" ist die feste Kollokation für einen beschädigten Ruf. Ausgeschlossen sind: „dated\" (veraltet — eine Frage der Aktualität); „diluted\" (verwässert — von Anteilen und Lösungen); „detached\" (distanziert — eine Haltung, kein Zustand des Rufs)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22699,13 +22699,13 @@
      "lvl": "C2",
      "q": "The negotiators relied on a trusted ____ to carry messages between capitals.",
      "o": [
+      "curator",
+      "courtier",
       "courier",
-      "currier",
-      "carrier",
-      "courtier"
+      "carrier"
      ],
-     "a": 0,
-     "e": "„courier“ = (diplomatischer) Kurier; „courtier“ = Höfling — Verwechslungsgefahr."
+     "a": 2,
+     "e": "„a courier\" ist der Bote, der Nachrichten persönlich überbringt. Ausgeschlossen sind: „courtier\" (ein Höfling); „carrier\" (ein Beförderungsunternehmen bzw. Krankheitsüberträger); „curator\" (ein Kustos einer Sammlung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -23471,7 +23471,7 @@
       "windowsill",
       "windfall",
       "window",
-      "windshield"
+      "windscreen"
      ],
      "a": 2,
      "e": "„a narrow window (of time)“ = ein knappes Zeitfenster."
@@ -24016,13 +24016,13 @@
      "lvl": "C2",
      "q": "The treaty requires a two-thirds ____ in the upper chamber.",
      "o": [
-      "superiority",
+      "supervision",
       "supermajority",
-      "majority-plus",
-      "overmajority"
+      "superiority",
+      "superstructure"
      ],
      "a": 1,
-     "e": "„supermajority“ = qualifizierte Mehrheit (z. B. Zweidrittelmehrheit)."
+     "e": "„a two-thirds supermajority\" ist die qualifizierte Mehrheit oberhalb der einfachen. Ausgeschlossen sind: „superiority\" (Überlegenheit); „superstructure\" (der Überbau); „supervision\" (die Aufsicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -24082,12 +24082,12 @@
      "q": "The convention has been open for ____ since 2015 but few states have joined.",
      "o": [
       "accession",
-      "accedency",
-      "accessing",
-      "accedence"
+      "ascendancy",
+      "accretion",
+      "accessing"
      ],
      "a": 0,
-     "e": "„open for accession“ = zum Beitritt offen; „accedence“ ist kein gebräuchliches Substantiv (Distraktor)."
+     "e": "„open for accession\" ist die völkerrechtliche Formel für den Beitritt zu einem bereits geschlossenen Vertrag. Ausgeschlossen sind: „accessing\" (Gerundium: das Zugreifen auf etwas); „ascendancy\" (Vorherrschaft); „accretion\" (allmähliches Anwachsen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -24798,13 +24798,13 @@
      "lvl": "C2",
      "q": "The contact group meets regularly but has made little tangible ____ .",
      "o": [
+      "headcount",
       "headline",
       "headway",
-      "headroom",
-      "headstart"
+      "headroom"
      ],
-     "a": 1,
-     "e": "„to make headway“ = Fortschritte machen."
+     "a": 2,
+     "e": "„to make headway\" ist die feste Wendung für Fortschritt. Ausgeschlossen sind: „headline\" (eine Schlagzeile — „make headlines\" hieße Aufsehen erregen, nicht vorankommen); „headroom\" (der Spielraum nach oben); „headcount\" (die Personalstärke)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -25580,13 +25580,13 @@
      "lvl": "C2",
      "q": "The fund's initial ____ fell far short of independent estimates of need.",
      "o": [
-      "capacitation",
+      "compensation",
       "capitulation",
-      "capitalism",
+      "consolidation",
       "capitalisation"
      ],
      "a": 3,
-     "e": "\"capitalisation\" = Kapitalausstattung; \"capitulation\" (Kapitulation) ist ein reiner Klang-Distraktor."
+     "e": "„the capitalisation of a fund\" ist seine Kapitalausstattung. Ausgeschlossen sind: „capitulation\" (das Nachgeben unter Druck); „compensation\" (die Entschädigung, die der Fonds auszahlt, nicht seine Ausstattung); „consolidation\" (die Zusammenführung bzw. Festigung von Beständen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -26362,13 +26362,13 @@
      "lvl": "C2",
      "q": "Environmental groups called for a ____ on deep-sea mining until the science is settled.",
      "o": [
-      "moratorium",
+      "referendum",
       "memorandum",
-      "mortgage",
-      "moratory"
+      "addendum",
+      "moratorium"
      ],
-     "a": 0,
-     "e": "\"moratorium\" = befristetes Verbot/Aussetzung; \"moratory\" ist ein seltenes Adjektiv, \"memorandum/mortgage\" sind Klang-Distraktoren."
+     "a": 3,
+     "e": "„a moratorium on something\" ist der befristete Aufschub einer Tätigkeit. Ausgeschlossen sind: „memorandum\" (ein Vermerk bzw. eine Absprache); „referendum\" (eine Volksabstimmung); „addendum\" (ein Nachtrag zu einem Text)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -27978,13 +27978,13 @@
      "lvl": "C2",
      "q": "Manufacturers face an incentive to relocate rather than ____ .",
      "o": [
-      "decarbonate",
-      "decarburise",
-      "decarbonised",
+      "decentralise",
+      "destabilise",
+      "demobilise",
       "decarbonise"
      ],
      "a": 3,
-     "e": "\"decarbonise\" = den CO2-Ausstoß eines Prozesses reduzieren; \"decarbonate\" bezieht sich auf chemische Karbonate."
+     "e": "„to decarbonise\" heißt, die eigenen Emissionen abzubauen — die Alternative zur Verlagerung. Ausgeschlossen sind: „decentralise\" (Entscheidungsbefugnisse verteilen); „demobilise\" (Truppen aus dem Einsatz nehmen); „destabilise\" (aus dem Gleichgewicht bringen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -28093,15 +28093,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The mechanism has become a ____ for other jurisdictions considering similar levies.",
+     "q": "The mechanism has become a ____ for other jurisdictions considering similar legislation.",
      "o": [
-      "template",
       "tempo",
-      "templet",
-      "temper"
+      "template",
+      "tenet",
+      "tenure"
      ],
-     "a": 0,
-     "e": "\"a template for\" = eine Vorlage für."
+     "a": 1,
+     "e": "„a template for something\" ist die Vorlage, an der andere sich ausrichten. Ausgeschlossen sind: „tempo\" (das Tempo eines Vorgangs); „tenet\" (ein Grundsatz einer Lehre); „tenure\" (die gesicherte Amtsdauer)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -29542,13 +29542,13 @@
      "lvl": "C2",
      "q": "Donors pledged to mobilise ____ finance to help retire ageing power stations early.",
      "o": [
-      "concessionary",
       "concessional",
       "concessive",
-      "concessioned"
+      "conditional",
+      "concessionary"
      ],
-     "a": 1,
-     "e": "\"concessional finance\" = Finanzierung zu Vorzugskonditionen — Fachbegriff der Entwicklungsfinanzierung."
+     "a": 0,
+     "e": "„concessional finance\" ist der entwicklungspolitische Terminus für Mittel zu Vorzugsbedingungen. Ausgeschlossen sind: „concessionary\" (in der Finanzsprache auf Preisnachlässe und Konzessionen bezogen, nicht auf Entwicklungsfinanzierung); „conditional\" (an Bedingungen geknüpft — das sagt nichts über die Vorzugskonditionen); „concessive\" (grammatisch: einräumend, von Nebensätzen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -29581,13 +29581,13 @@
      "lvl": "C2",
      "q": "The state utility remains financially ____ even as donors tout the deal.",
      "o": [
-      "precarious",
       "precise",
-      "precedential",
-      "precocious"
+      "precipitous",
+      "precocious",
+      "precarious"
      ],
-     "a": 0,
-     "e": "\"precarious\" = prekär/wackelig; \"precocious\" (frühreif) ist ein Klang-Distraktor."
+     "a": 3,
+     "e": "„financially precarious\" heißt: finanziell auf unsicherem Grund stehend. Ausgeschlossen sind: „precocious\" (frühreif, nur von Personen und Begabungen); „precise\" (genau); „precipitous\" (steil abfallend bzw. überstürzt — es beschriebe einen Absturz, nicht einen Dauerzustand)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -29607,13 +29607,13 @@
      "lvl": "C2",
      "q": "Officials have grown blunter about the ____ between rhetoric and financial reality.",
      "o": [
+      "mishap",
+      "misgiving",
       "mismatch",
-      "matchup",
-      "unmatch",
-      "dismatch"
+      "mistrial"
      ],
-     "a": 0,
-     "e": "\"mismatch between\" = Missverhältnis zwischen — feste Kollokation."
+     "a": 2,
+     "e": "„a mismatch between A and B\" ist das Auseinanderfallen zweier Größen. Ausgeschlossen sind: „misgiving\" (ein Bedenken, ein inneres Zögern); „mishap\" (ein Missgeschick); „mistrial\" (ein wegen Verfahrensfehlern gescheiterter Prozess)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -34635,15 +34635,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Advocates argue that remittances alone justify the diaspora's ____ in decisions about the homeland's economic future.",
+     "q": "Advocates argue that remittances alone justify the diaspora's ____ in decisions taken at home.",
      "o": [
-      "financial say",
-      "vested interest",
-      "investment claim",
-      "stakeholding"
+      "streak",
+      "stint",
+      "stake",
+      "stack"
      ],
-     "a": 3,
-     "e": "„stakeholding“ bezeichnet die legitime Anteilnahme/Interessiertheit an Entscheidungen, hier im übertragenen politischen Sinn."
+     "a": 2,
+     "e": "„a stake in something\" ist der berechtigte Anteil und das daraus folgende Mitspracherecht. Ausgeschlossen sind: „stack\" (ein Stapel); „stint\" (ein befristeter Einsatz oder Dienst); „streak\" (eine Serie bzw. ein Streifen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -35328,13 +35328,13 @@
      "lvl": "C2",
      "q": "Mutual trust between national courts is described as the ____ of the Union's legal order.",
      "o": [
-      "cornerpost",
-      "keyplank",
-      "foundation-block",
-      "cornerstone"
+      "limestone",
+      "milestone",
+      "cornerstone",
+      "keystone"
      ],
-     "a": 3,
-     "e": "„cornerstone“ = Eckpfeiler/Grundpfeiler; feste Metapher, die übrigen Optionen existieren nicht."
+     "a": 2,
+     "e": "„the cornerstone of something\" ist der Grundstein, auf dem ein Gefüge ruht — die feste Metapher der Rechtsprechung. Ausgeschlossen sind: „keystone\" (der Schlussstein im Gewölbe — er hält, ist aber kein Fundament, und die Wendung ist im Unionsrecht nicht üblich); „milestone\" (ein Meilenstein, also ein Zeitpunkt); „limestone\" (Kalkstein)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -35378,15 +35378,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Unanimity requirements have repeatedly produced institutional ____.",
+     "q": "Unanimity requirements have repeatedly produced institutional ____ .",
      "o": [
-      "blockage",
       "gridlock",
-      "standstill",
-      "deadfall"
+      "groundwork",
+      "gridiron",
+      "guesswork"
      ],
-     "a": 1,
-     "e": "„gridlock“ = Stillstand durch blockierte Entscheidungsprozesse; im politischen Register die gängigste Kollokation mit „institutional“."
+     "a": 0,
+     "e": "„institutional gridlock\" ist die vollständige Blockade eines Entscheidungsgefüges. Ausgeschlossen sind: „gridiron\" (ein Bratrost bzw. das American-Football-Feld); „groundwork\" (die Vorarbeit); „guesswork\" (Mutmaßung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -35406,13 +35406,13 @@
      "lvl": "C2",
      "q": "Parliament demanded greater ____ of the Commission's use of discretionary funds.",
      "o": [
-      "overlook",
+      "overspend",
+      "overreach",
       "oversight",
-      "overview",
-      "overwatch"
+      "overhaul"
      ],
-     "a": 1,
-     "e": "„oversight“ = Aufsicht/Kontrolle; „overlook“ bedeutet übersehen — ein klassischer Fehlgriff."
+     "a": 2,
+     "e": "„oversight of something\" ist die parlamentarische Kontrolle über einen Vorgang. Ausgeschlossen sind: „overspend\" (die Überschreitung eines Etats — der Gegenstand der Kontrolle, nicht die Kontrolle selbst); „overreach\" (das Überschreiten der eigenen Befugnisse); „overhaul\" (die grundlegende Überarbeitung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -35627,13 +35627,13 @@
      "lvl": "C2",
      "q": "The longer the negotiations dragged on, ____ the compromise seemed.",
      "o": [
-      "more elusive",
+      "the more elastic",
+      "the more effusive",
       "the more elusive",
-      "the most elusive",
-      "elusiver"
+      "the more eloquent"
      ],
-     "a": 1,
-     "e": "Korrelative Struktur „the … the …“ verlangt den bestimmten Artikel vor dem Komparativ."
+     "a": 2,
+     "e": "„an elusive compromise\" ist eine Einigung, die sich immer wieder entzieht. Ausgeschlossen sind: „effusive\" (überschwänglich, von Äußerungen); „elastic\" (dehnbar); „eloquent\" (redegewandt — nur von Personen und Texten)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -36019,13 +36019,13 @@
      "lvl": "C2",
      "q": "The institute was set up to act as an independent ____ on frontier model capabilities.",
      "o": [
+      "gatekeeper",
       "surveyor",
-      "watchdog",
-      "monitor",
-      "overwatcher"
+      "bystander",
+      "watchdog"
      ],
-     "a": 1,
-     "e": "„watchdog“ = Kontrollorgan; feste Kollokation im regulatorischen Kontext, gebräuchlicher als die übrigen Optionen."
+     "a": 3,
+     "e": "„a watchdog\" ist die unabhängige Kontrollinstanz, die beobachtet und warnt. Ausgeschlossen sind: „surveyor\" (ein Vermesser bzw. Gutachter für Bausubstanz); „gatekeeper\" (wer über den Zugang entscheidet — das Institut prüft, lässt aber nichts zu); „bystander\" (ein Unbeteiligter, der gerade nicht kontrolliert)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -36225,15 +36225,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The interim guidelines were widely seen as a ____ measure pending a permanent framework.",
+     "q": "The interim guidelines were widely seen as a ____ measure pending a permanent regime.",
      "o": [
-      "stop-hole",
+      "stopwatch",
       "stopgap",
-      "stopgate",
-      "gap-stop"
+      "stoppage",
+      "stopover"
      ],
      "a": 1,
-     "e": "„stopgap measure“ = vorübergehende Notlösung; nur die erste Form ist ein existierendes Wort."
+     "e": "„a stopgap measure\" ist die Übergangslösung, bis eine dauerhafte Regelung steht. Ausgeschlossen sind: „stopover\" (ein Zwischenaufenthalt auf einer Reise); „stopwatch\" (eine Stoppuhr); „stoppage\" (ein Stillstand bzw. eine Arbeitsniederlegung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -36422,13 +36422,13 @@
      "lvl": "C2",
      "q": "The more capable the models became, ____ the enforcement gap grew.",
      "o": [
-      "widerly",
-      "wider",
+      "the wittier",
       "the wider",
-      "the widest"
+      "the wearier",
+      "the wilder"
      ],
-     "a": 2,
-     "e": "Korrelative Struktur „the … the …“ verlangt den bestimmten Artikel vor dem Komparativ."
+     "a": 1,
+     "e": "„a wide gap\" ist die feste Kollokation für eine große Lücke, die sich weiten kann. Ausgeschlossen sind: „wilder\" (wilder, ungezähmter); „wearier\" (müder — nur von Lebewesen); „wittier\" (geistreicher — nur von Äußerungen und Personen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -37518,13 +37518,13 @@
      "lvl": "C2",
      "q": "Localisation rules aim to shield citizens' data from ____ reach by foreign courts.",
      "o": [
-      "extraterritorial",
-      "extraborder",
-      "extranational",
-      "extraboundary"
+      "extractive",
+      "extracurricular",
+      "extraordinary",
+      "extraterritorial"
      ],
-     "a": 0,
-     "e": "„extraterritorial reach“ ist der etablierte völkerrechtliche Terminus; die übrigen Wortbildungen existieren nicht."
+     "a": 3,
+     "e": "„extraterritorial reach\" ist der Zugriff über die eigenen Staatsgrenzen hinaus — der Fachbegriff des Kollisionsrechts. Ausgeschlossen sind: „extracurricular\" (außerhalb des Lehrplans); „extraordinary\" (außergewöhnlich); „extractive\" (auf Rohstoffgewinnung bezogen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37620,15 +37620,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Firms operating across borders must now navigate a genuine ____ of divergent national data rules.",
+     "q": "Firms operating across borders must now navigate a genuine ____ of divergent national rules.",
      "o": [
-      "clothwork",
-      "patchwork",
-      "stitchwork",
-      "threadwork"
+      "framework",
+      "waxwork",
+      "clockwork",
+      "patchwork"
      ],
-     "a": 1,
-     "e": "„a patchwork of rules“ = ein Flickenteppich uneinheitlicher Regelungen; feste Metapher."
+     "a": 3,
+     "e": "„a patchwork of rules\" ist das Flickwerk uneinheitlicher Vorschriften. Ausgeschlossen sind: „framework\" (ein geordneter Rahmen — das Gegenteil der Uneinheitlichkeit); „clockwork\" (Uhrwerk, Sinnbild reibungsloser Regelmäßigkeit); „waxwork\" (Wachsfigur)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37646,15 +37646,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The two capitals remain at ____ over whether localisation genuinely improves cybersecurity.",
+     "q": "The two capitals remain at ____ over whether localisation genuinely improves security.",
      "o": [
-      "log-heads",
-      "loggerhead's",
-      "logheads",
-      "loggerheads"
+      "crossroads",
+      "daggers",
+      "loggerheads",
+      "tenterhooks"
      ],
-     "a": 3,
-     "e": "„at loggerheads“ = in offenem Streit/unversöhnlich uneinig; feste Redewendung, nur diese Schreibweise ist korrekt."
+     "a": 2,
+     "e": "„to be at loggerheads over something\" ist die feste Wendung für offenen Streit. Ausgeschlossen sind: „crossroads\" („at a crossroads\" heißt vor einer Richtungsentscheidung stehen, nicht im Streit liegen); „tenterhooks\" („on tenterhooks\" heißt in gespannter Erwartung); „daggers\" („at daggers drawn\" verlangt den Zusatz „drawn\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37724,15 +37724,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Compliance officers describe the overlapping rules as a bureaucratic ____.",
+     "q": "Compliance officers describe the overlapping rules as a bureaucratic ____ .",
      "o": [
-      "mines field",
-      "minesfield",
-      "mine-field",
-      "minefield"
+      "minefield",
+      "mainstay",
+      "milestone",
+      "millstone"
      ],
-     "a": 3,
-     "e": "„a bureaucratic minefield“ = ein Bereich voller versteckter Risiken/Fallstricke; feste Metapher, nur diese Schreibweise korrekt."
+     "a": 0,
+     "e": "„a bureaucratic minefield\" ist das Bild des Minenfelds: jeder Schritt kann Schaden auslösen. Ausgeschlossen sind: „milestone\" (ein Meilenstein, also ein Fortschritt); „millstone\" (ein Mühlstein, sinnbildlich eine dauerhafte Last, nicht eine Gefahrenlage); „mainstay\" (die tragende Stütze)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37763,15 +37763,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Some firms have found ways to ____ the localisation requirement using encrypted proxies.",
+     "q": "Some firms have found ways to ____ the localisation requirement using encrypted relays.",
      "o": [
       "circumscribe",
-      "circumnavigate",
+      "circulate",
       "circumvent",
-      "circumvene"
+      "circumnavigate"
      ],
      "a": 2,
-     "e": "„circumvent a requirement“ = eine Vorschrift umgehen; „circumvene“ existiert nicht, „circumscribe“ bedeutet einschränken/begrenzen."
+     "e": "„to circumvent a requirement\" heißt, sie zu umgehen. Ausgeschlossen sind: „circumscribe\" (eng begrenzen — es beschränkte die Vorgabe, statt sie zu umgehen); „circumnavigate\" (umsegeln, im wörtlichen Sinn); „circulate\" (in Umlauf bringen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -39119,15 +39119,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Regulators fear that ____ enforcement would hand critics a ready-made narrative of overreach.",
+     "q": "Regulators fear that ____ enforcement would hand critics a ready-made narrative.",
      "o": [
-      "overkeen",
       "overzealous",
-      "overardent",
-      "overeager"
+      "overeager",
+      "overkeen",
+      "overbearing"
      ],
-     "a": 1,
-     "e": "„overzealous enforcement“ ist die feste, im Rechtsdiskurs übliche Kollokation für übereifrige Durchsetzung."
+     "a": 0,
+     "e": "„overzealous enforcement\" ist der übereifrige Vollzug — der stehende Ausdruck für ein Übermaß an Diensteifer. Ausgeschlossen sind: „overkeen\" und „overeager\" (beide beschreiben eine Person, die zu erpicht ist, und sind für den Vollzug einer Behörde nicht die etablierte Fügung); „overbearing\" (herrisch im Auftreten)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -39251,13 +39251,13 @@
      "lvl": "C2",
      "q": "Critics accuse the government of using the law as a ____ to target its harshest domestic critics.",
      "o": [
-      "pretense",
+      "pretence",
       "premise",
       "pretext",
       "preface"
      ],
      "a": 2,
-     "e": "„pretext“ = vorgeschobener Grund; „pretense“ (Vortäuschung) liegt semantisch nah, passt aber weniger präzise zur Kollokation „pretext to target“."
+     "e": "„pretext“ = vorgeschobener Grund; „pretence“ (Vortäuschung) liegt semantisch nah, passt aber weniger präzise zur Kollokation „pretext to target“."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -39405,15 +39405,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Critics accused the report of attempting to ____ the extent of foreign funding involved.",
+     "q": "Critics accused the report of attempting to ____ the extent of foreign funding.",
      "o": [
-      "blackwash",
-      "brownwash",
-      "whitewash",
-      "greywash"
+      "whisk",
+      "whitelist",
+      "whittle",
+      "whitewash"
      ],
-     "a": 2,
-     "e": "„whitewash“ = beschönigen/vertuschen; feste idiomatische Wendung, die übrigen Wortbildungen existieren nicht."
+     "a": 3,
+     "e": "„to whitewash something\" heißt, es beschönigend zu übertünchen. Ausgeschlossen sind: „whitelist\" (auf eine Positivliste setzen); „whittle\" (schnitzen bzw. „whittle down\" = zusammenstreichen); „whisk\" (schlagen bzw. rasch fortbringen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
