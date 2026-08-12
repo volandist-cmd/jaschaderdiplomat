@@ -682,13 +682,13 @@
     {
      "q": "Only when the report on the arms control talks was finally published ____ the full scale of the problem become clear.",
      "o": [
-      "was",
-      "did",
       "has",
-      "had"
+      "did",
+      "is",
+      "was"
      ],
      "a": 1,
-     "e": "Nach \"Only when...\" am Satzanfang wird im Simple Past mit \"did\" invertiert: \"did the full scale... become clear\".",
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the full scale … become\"), den nur ein Modalverb oder do-support regieren kann — „did the full scale … become\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv.",
      "cat": "Inversion"
     },
     {
@@ -940,13 +940,13 @@
      "cat": "Inversion",
      "q": "Under no circumstances ____ the identity of the informant be disclosed to either party.",
      "o": [
-      "will",
+      "has",
+      "does",
       "should",
-      "the identity will",
-      "the identity should"
+      "is"
      ],
-     "a": 1,
-     "e": "Negative Inversion nach vorangestelltem \"Under no circumstances\": Hilfsverb vor Subjekt (\"should the identity\")."
+     "a": 2,
+     "e": "Negative Inversion: Nach dem vorangestellten negativen Adverbial steht das Hilfsverb vor dem Subjekt. Da nach dem Subjekt „be + Partizip II\" folgt, kann die Lücke nur ein Modalverb aufnehmen — „should the identity of the informant be disclosed\". Die drei anderen Optionen scheiden aus: „has\" verlangt ein Partizip II statt „be\" („has … been …\"); „is\" verlangt ein Partizip II oder eine -ing-Form direkt danach, nicht „be\"; „does\" verlangt den reinen Infinitiv eines Vollverbs und kann kein „be + Partizip II\" regieren."
     },
     {
      "q": "It is essential that every party ____ fully informed before the vote on the summit declaration.",
@@ -1249,13 +1249,13 @@
     {
      "q": "The commission ____ to reconsider its position on the security briefing, given the mounting evidence presented at the hearing.",
      "o": [
+      "should",
       "ought",
       "have",
-      "must to",
-      "should to"
+      "must"
      ],
-     "a": 0,
-     "e": "\"ought to\" ist eine formelle Alternative zu \"should\" und drückt eine Empfehlung oder moralische Verpflichtung aus; anders als \"should\" wird es stets mit \"to\" konstruiert.",
+     "a": 1,
+     "e": "Nur „ought\" bildet mit dem folgenden „to\" eine gültige Fügung: „ought to reconsider\" — die formelle Alternative zu „should\". Die drei anderen Optionen scheiden aus: „must\" und „should\" sind Modalverben, die den reinen Infinitiv ohne „to\" verlangen („must reconsider\", nicht „must to reconsider\"); „have\" verlangt bei einem Subjekt im Singular die Form „has to\".",
      "cat": "Modal Verbs"
     },
     {
@@ -1429,25 +1429,25 @@
     {
      "q": "Under no circumstances ____ the delegation release the confidential annex to the peace accord.",
      "o": [
-      "the delegation will",
-      "delegation will",
-      "will",
-      "will the"
+      "is",
+      "has",
+      "was",
+      "will"
      ],
-     "a": 2,
-     "e": "Nach \"Under no circumstances\" muss das Subjekt mit dem Hilfsverb invertiert werden: \"will the delegation release\", nicht die reguläre Wortstellung.",
+     "a": 3,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the delegation release\"), den nur ein Modalverb oder do-support regieren kann — „will the delegation release\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv.",
      "cat": "Inversion"
     },
     {
      "q": "On no account ____ observers be permitted to attend the closed session on the trade negotiations.",
      "o": [
-      "observers should",
-      "not should",
-      "should observers not",
-      "should"
+      "do",
+      "should",
+      "are",
+      "have"
      ],
-     "a": 3,
-     "e": "Nach \"On no account\" (unter keinen Umständen) folgt die invertierte Wortstellung: \"should observers be permitted\".",
+     "a": 1,
+     "e": "Negative Inversion: Nach dem vorangestellten „On no account\" steht das Hilfsverb vor dem Subjekt. Da nach dem Subjekt „be permitted\" folgt, kann die Lücke nur ein Modalverb aufnehmen — „should observers be permitted\". Die drei anderen Optionen scheiden aus (alle im Plural, passend zu „observers\", der Fehler liegt also allein in der Form): „are\" verlangt danach ein Partizip oder eine -ing-Form, nicht „be\"; „do\" verlangt den reinen Infinitiv eines Vollverbs; „have\" verlangt ein Partizip II („have been permitted\").",
      "cat": "Inversion"
     },
     {
@@ -1908,13 +1908,13 @@
      "cat": "Inversion",
      "q": "Little ____ the negotiators realise how close the two sides already were to an agreement.",
      "o": [
-      "had",
+      "have",
       "did",
-      "the negotiators did",
-      "the negotiators had"
+      "are",
+      "were"
      ],
      "a": 1,
-     "e": "Negative Inversion nach vorangestelltem \"Little\": \"did the negotiators realise\"."
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the negotiators realise\"), den nur ein Modalverb oder do-support regieren kann — „did the negotiators realise\". Die drei anderen Optionen scheiden aus (alle im Plural, der Fehler liegt also allein in der Form): „have\" verlangt ein Partizip II; „are\" und „were\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -1956,13 +1956,13 @@
      "cat": "Mixed Grammar",
      "q": "____ any formal objection within the stated period, the proposal was deemed adopted by default.",
      "o": [
-      "Raise",
-      "With no formal objection raised",
-      "To raise",
-      "Having raised"
+      "Absented",
+      "Absence of",
+      "Absent",
+      "Absenting"
      ],
-     "a": 1,
-     "e": "Idiomatische reduzierte Konstruktion \"With no X raised\" ersetzt einen vollständigen Bedingungssatz."
+     "a": 2,
+     "e": "„Absent\" wird im gehobenen, besonders juristischen Englisch als Präposition im Sinne von „mangels/in Ermangelung\" gebraucht: „Absent any formal objection …\" = „Sofern kein förmlicher Einspruch erhoben wird …\". Die drei anderen Optionen scheiden aus: „Absented\" ist ein Partizip II und verlangt ein Bezugssubjekt; „Absence of\" ist ein Substantiv und bräuchte die Einleitung „In the absence of\"; „Absenting\" ist ein Partizip Präsens und bezöge sich fälschlich auf „the proposal\" als Handelnden."
     }
    ]
   },
@@ -2153,13 +2153,13 @@
      "cat": "Inversion",
      "q": "Nowhere ____ the treaty's text define precisely what constitutes a material breach.",
      "o": [
-      "the treaty's text does",
-      "the treaty's text did",
-      "did",
-      "does"
+      "has",
+      "does",
+      "is",
+      "was"
      ],
-     "a": 3,
-     "e": "Negative Inversion nach vorangestelltem \"Nowhere\": Hilfsverb vor Subjekt."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the treaty's text define\"), den nur ein Modalverb oder do-support regieren kann — „does the treaty's text define\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "q": "The head of mission formally requested that the ruling on the diplomatic protocol ____ reviewed by an independent panel.",
@@ -2900,13 +2900,13 @@
      "cat": "Inversion",
      "q": "Only when the audit was finally released ____ the true scale of the shortfall become public.",
      "o": [
+      "has",
       "did",
-      "it does",
-      "it did",
-      "does"
+      "is",
+      "was"
      ],
-     "a": 0,
-     "e": "Nach einem vorangestellten „Only when …\"-Adverbialsatz folgt die Inversion mit dem Hilfsverb allein: „… **did** the true scale of the shortfall become public\". Ein zusätzliches „it\" erzeugte ein zweites Subjekt."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the true scale … become\"), den nur ein Modalverb oder do-support regieren kann — „did the true scale … become\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "q": "It is imperative that the panel ____ its recommendations on the election monitoring mission before the funding round closes.",
@@ -3636,24 +3636,24 @@
      "q": "Seldom ____ a single witness so thoroughly undermine the prosecution's central argument.",
      "o": [
       "has",
-      "does",
-      "had",
-      "is"
+      "was",
+      "is",
+      "does"
      ],
-     "a": 1,
-     "e": "„Seldom\" am Satzanfang erzwingt die Inversion mit „do\": „Seldom **does** a single witness so thoroughly undermine …\". „has\" verlangte das Partizip „undermined\", nicht den Infinitiv."
+     "a": 3,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („a single witness … undermine\"), den nur ein Modalverb oder do-support regieren kann — „does a single witness … undermine\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Inversion",
      "q": "On no account ____ classified material be shared with a party outside the formal proceedings.",
      "o": [
-      "classified material should",
-      "classified material shall",
-      "shall",
+      "does",
+      "has",
+      "is",
       "should"
      ],
      "a": 3,
-     "e": "Negative Inversion nach vorangestelltem \"On no account\": Hilfsverb vor Subjekt (\"should classified material\")."
+     "e": "Negative Inversion: Nach dem vorangestellten negativen Adverbial steht das Hilfsverb vor dem Subjekt. Da nach dem Subjekt „be + Partizip II\" folgt, kann die Lücke nur ein Modalverb aufnehmen — „should classified material be shared\". Die drei anderen Optionen scheiden aus: „has\" verlangt ein Partizip II statt „be\" („has … been …\"); „is\" verlangt ein Partizip II oder eine -ing-Form direkt danach, nicht „be\"; „does\" verlangt den reinen Infinitiv eines Vollverbs und kann kein „be + Partizip II\" regieren."
     },
     {
      "cat": "Subjunctive",
@@ -3699,13 +3699,13 @@
     {
      "q": "The newly appointed envoy ____ to reconsider their position on the refugee crisis, given the mounting evidence presented at the hearing.",
      "o": [
-      "ought",
-      "must to",
       "have",
-      "should to"
+      "ought",
+      "must",
+      "should"
      ],
-     "a": 0,
-     "e": "\"ought to\" ist eine formelle Alternative zu \"should\" und drückt eine Empfehlung oder moralische Verpflichtung aus; anders als \"should\" wird es stets mit \"to\" konstruiert.",
+     "a": 1,
+     "e": "Nur „ought\" bildet mit dem folgenden „to\" eine gültige Fügung: „ought to reconsider\" — die formelle Alternative zu „should\". Die drei anderen Optionen scheiden aus: „must\" und „should\" sind Modalverben, die den reinen Infinitiv ohne „to\" verlangen („must reconsider\", nicht „must to reconsider\"); „have\" verlangt bei einem Subjekt im Singular die Form „has to\".",
      "cat": "Modal Verbs"
     },
     {
@@ -3880,13 +3880,13 @@
      "cat": "Inversion",
      "q": "Not only ____ the audit uncover financial irregularities, it also exposed a pattern of falsified reporting.",
      "o": [
-      "does",
       "did",
-      "it does",
-      "it did"
+      "has",
+      "was",
+      "is"
      ],
-     "a": 1,
-     "e": "Negative Inversion nach vorangestelltem \"Not only\": \"did the audit uncover\"."
+     "a": 0,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the audit uncover\"), den nur ein Modalverb oder do-support regieren kann — „did the audit uncover\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -4137,13 +4137,13 @@
      "cat": "Inversion",
      "q": "Only in exceptional circumstances ____ the committee waive the standard notice period.",
      "o": [
-      "the committee may",
-      "will",
-      "the committee will",
-      "may"
+      "may",
+      "was",
+      "is",
+      "has"
      ],
-     "a": 3,
-     "e": "Restrictive Inversion nach vorangestelltem \"Only in exceptional circumstances\": Hilfsverb vor Subjekt."
+     "a": 0,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the committee waive\"), den nur ein Modalverb oder do-support regieren kann — „may the committee waive\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -4346,12 +4346,12 @@
      "cat": "Conditionals",
      "q": "If the fund ____ short of its target, several pledged projects would have to be scaled back.",
      "o": [
-      "falls",
+      "were to fall",
+      "would fall",
       "fell",
-      "falls short",
-      "were to fall"
+      "falls"
      ],
-     "a": 3,
+     "a": 0,
      "e": "\"were to fall\" — formelle Variante des Type-2-Konditionals für eine als eher unwahrscheinlich dargestellte Zukunft."
     },
     {
@@ -4614,13 +4614,13 @@
     {
      "q": "Seldom ____ a proposal on the joint communiqué received such unanimous support at first reading.",
      "o": [
-      "has",
+      "did",
       "does",
-      "had",
-      "have"
+      "is",
+      "has"
      ],
-     "a": 0,
-     "e": "Nach dem vorangestellten \"Seldom\" (selten) wird das Subjekt mit dem Hilfsverb invertiert: \"has a proposal received\" statt \"a proposal has received\".",
+     "a": 3,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Partizip bzw. ein Prädikativ („a proposal … received\") — deshalb „has\". Die drei anderen Optionen scheiden aus (alle im Singular): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „is\" passt nicht zu der hier geforderten Form.",
      "cat": "Inversion"
     },
     {
@@ -4860,13 +4860,13 @@
      "cat": "Inversion",
      "q": "So divided ____ the council on the question that the vote had to be postponed twice.",
      "o": [
-      "the council had been",
-      "had been",
-      "the council was",
-      "was"
+      "was",
+      "did",
+      "has",
+      "does"
      ],
-     "a": 3,
-     "e": "Nach \"So + Adjektiv\" am Satzanfang folgt Inversion: \"was the council\"."
+     "a": 0,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the council … (Prädikativ „So divided\")\") — deshalb „was\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt allein in der Form): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „has\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "q": "Never ____ the two delegations been closer to a lasting agreement on the refugee crisis than they were that evening.",
@@ -5117,13 +5117,13 @@
      "cat": "Inversion",
      "q": "Only with great reluctance ____ the ministry agree to release even a partial version of the report.",
      "o": [
+      "has",
+      "was",
       "did",
-      "the ministry does",
-      "the ministry did",
-      "does"
+      "is"
      ],
-     "a": 0,
-     "e": "Restrictive Inversion nach vorangestelltem \"Only with great reluctance\": \"did the ministry agree\"."
+     "a": 2,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the ministry agree\"), den nur ein Modalverb oder do-support regieren kann — „did the ministry agree\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -5607,13 +5607,13 @@
      "cat": "Inversion",
      "q": "At no point during the crisis ____ the two governments break off formal contact entirely.",
      "o": [
-      "had",
-      "the governments did",
+      "were",
       "did",
-      "the governments had"
+      "have",
+      "are"
      ],
-     "a": 2,
-     "e": "Negative Inversion nach vorangestelltem \"At no point\": Hilfsverb vor Subjekt (\"did the governments\")."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the two governments break off\"), den nur ein Modalverb oder do-support regieren kann — „did the two governments break off\". Die drei anderen Optionen scheiden aus (alle im Plural, der Fehler liegt also allein in der Form): „have\" verlangt ein Partizip II; „are\" und „were\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -5852,13 +5852,13 @@
      "cat": "Inversion",
      "q": "Never before ____ the council faced a veto on a humanitarian resolution.",
      "o": [
-      "it had",
-      "had",
       "did",
-      "has"
+      "does",
+      "had",
+      "is"
      ],
-     "a": 1,
-     "e": "Negative Inversion nach vorangestelltem \"Never before...\": Past Perfect \"had the council faced\"."
+     "a": 2,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Partizip bzw. ein Prädikativ („the council faced\") — deshalb „had\". Die drei anderen Optionen scheiden aus (alle im Singular): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „is\" passt nicht zu der hier geforderten Form."
     },
     {
      "q": "The protocol requires that every delegate ____ formal credentials before entering the chamber.",
@@ -6576,24 +6576,24 @@
      "q": "Never once ____ the ambassador raise her voice, even during the most heated exchanges.",
      "o": [
       "has",
-      "the ambassador did",
       "did",
-      "the ambassador has"
+      "was",
+      "is"
      ],
-     "a": 2,
-     "e": "Negative Inversion nach vorangestelltem \"Never once\": \"did the ambassador raise\"."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the ambassador raise\"), den nur ein Modalverb oder do-support regieren kann — „did the ambassador raise\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Inversion",
      "q": "Under no circumstances ____ the tribunal reveal the identities of protected witnesses to the press.",
      "o": [
-      "the tribunal will",
       "should",
-      "the tribunal would",
-      "will"
+      "has",
+      "is",
+      "was"
      ],
-     "a": 1,
-     "e": "Negative Inversion nach vorangestelltem \"Under no circumstances\": Hilfsverb vor Subjekt (\"should the tribunal\")."
+     "a": 0,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the tribunal reveal\"), den nur ein Modalverb oder do-support regieren kann — „should the tribunal reveal\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -7077,13 +7077,13 @@
      "cat": "Inversion",
      "q": "In no way ____ the ruling be interpreted as an endorsement of either party's position.",
      "o": [
+      "is",
       "can",
-      "the ruling could",
-      "could",
-      "the ruling can"
+      "does",
+      "has"
      ],
-     "a": 0,
-     "e": "Negative Inversion nach vorangestelltem \"In no way\": Hilfsverb vor Subjekt."
+     "a": 1,
+     "e": "Negative Inversion: Nach dem vorangestellten negativen Adverbial steht das Hilfsverb vor dem Subjekt. Da nach dem Subjekt „be + Partizip II\" folgt, kann die Lücke nur ein Modalverb aufnehmen — „can the ruling be interpreted\". Die drei anderen Optionen scheiden aus: „has\" verlangt ein Partizip II statt „be\" („has … been …\"); „is\" verlangt ein Partizip II oder eine -ing-Form direkt danach, nicht „be\"; „does\" verlangt den reinen Infinitiv eines Vollverbs und kann kein „be + Partizip II\" regieren."
     },
     {
      "cat": "Subjunctive",
@@ -7322,13 +7322,13 @@
      "cat": "Inversion",
      "q": "Rarely ____ a single ruling reshape an entire field of international law so quickly.",
      "o": [
+      "was",
       "does",
       "has",
-      "did",
       "is"
      ],
-     "a": 0,
-     "e": "Nach „Rarely\" steht die Inversion mit „do\" + Grundform: „Rarely **does** a single ruling reshape …\". „has\" verlangte „reshaped\"."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („a single ruling reshape\"), den nur ein Modalverb oder do-support regieren kann — „does a single ruling reshape\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "q": "The committee recommended that the funding for the bilateral treaty ____ increased significantly.",
@@ -7555,13 +7555,13 @@
      "cat": "Inversion",
      "q": "So contentious ____ the clause that three separate drafting sessions failed to resolve it.",
      "o": [
-      "the clause had been",
-      "had been",
       "was",
-      "the clause was"
+      "has",
+      "did",
+      "does"
      ],
-     "a": 2,
-     "e": "Nach \"So + Adjektiv\" am Satzanfang folgt Inversion: \"was the clause\"."
+     "a": 0,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the clause … (Prädikativ „So contentious\")\") — deshalb „was\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt allein in der Form): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „has\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "cat": "Subjunctive",
@@ -8057,13 +8057,13 @@
      "cat": "Inversion",
      "q": "In no case ____ the tribunal depart from its own established procedural rules.",
      "o": [
-      "the tribunal may",
-      "will",
-      "the tribunal will",
-      "may"
+      "is",
+      "was",
+      "may",
+      "has"
      ],
-     "a": 3,
-     "e": "Negative Inversion nach vorangestelltem \"In no case\": Hilfsverb vor Subjekt (\"may the tribunal\")."
+     "a": 2,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the tribunal depart\"), den nur ein Modalverb oder do-support regieren kann — „may the tribunal depart\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "q": "The signatory state proposed that the deadline for the border dispute ____ extended by two weeks.",
@@ -8780,13 +8780,13 @@
      "cat": "Inversion",
      "q": "Only by working through the night ____ the drafting committee able to finish the text before dawn.",
      "o": [
-      "the committee had been",
+      "does",
+      "did",
       "was",
-      "the committee was",
-      "had been"
+      "has"
      ],
-     "a": 1,
-     "e": "Restrictive Inversion nach vorangestelltem \"Only by...\": Hilfsverb vor Subjekt."
+     "a": 2,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the drafting committee able\") — deshalb „was\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt allein in der Form): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „has\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "cat": "Subjunctive",
@@ -9515,25 +9515,25 @@
      "cat": "Inversion",
      "q": "At no time ____ the delegation authorised to make binding commitments on the government's behalf.",
      "o": [
-      "the delegation was",
-      "the delegation had been",
+      "has",
       "was",
-      "had been"
+      "did",
+      "does"
      ],
-     "a": 2,
-     "e": "Negative Inversion nach vorangestelltem \"At no time\": Hilfsverb vor Subjekt (\"was the delegation\")."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the delegation authorised\") — deshalb „was\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt allein in der Form): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „has\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "cat": "Inversion",
      "q": "Only after independent experts confirmed the findings ____ the ministry finally act.",
      "o": [
-      "the ministry does",
+      "is",
+      "was",
       "did",
-      "the ministry did",
-      "does"
+      "has"
      ],
-     "a": 1,
-     "e": "Restrictive Inversion nach vorangestelltem \"Only after...\": \"did the ministry finally act\"."
+     "a": 2,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the ministry finally act\"), den nur ein Modalverb oder do-support regieren kann — „did the ministry finally act\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -10005,13 +10005,13 @@
      "cat": "Inversion",
      "q": "Hardly ____ the interim government installed when protests erupted demanding a full transition timeline.",
      "o": [
-      "had",
-      "has",
       "did",
-      "was"
+      "was",
+      "has",
+      "does"
      ],
-     "a": 3,
-     "e": "\"Hardly...when\" mit Simple Past Passive-Inversion: \"was the interim government installed\"."
+     "a": 1,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the interim government installed\") — deshalb „was\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt allein in der Form): „does\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „has\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "cat": "Subjunctive",
@@ -10238,13 +10238,13 @@
      "cat": "Inversion",
      "q": "Never ____ the two delegations closer to a breakthrough than in the final hour of talks.",
      "o": [
-      "the delegations had been",
-      "had been",
-      "were",
-      "the delegations were"
+      "have",
+      "did",
+      "do",
+      "were"
      ],
-     "a": 2,
-     "e": "Negative Inversion nach vorangestelltem \"Never\": Hilfsverb vor Subjekt (\"were the delegations\")."
+     "a": 3,
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the two delegations closer\") — deshalb „were\". Die drei anderen Optionen scheiden aus (alle im Plural, der Fehler liegt allein in der Form): „do\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „have\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "cat": "Inversion",
@@ -10314,13 +10314,13 @@
     {
      "q": "The permanent representative ____ to reconsider their position on the summit declaration, given the mounting evidence presented at the hearing.",
      "o": [
-      "must to",
       "have",
-      "should to",
-      "ought"
+      "must",
+      "ought",
+      "should"
      ],
-     "a": 3,
-     "e": "\"ought to\" ist eine formelle Alternative zu \"should\" und drückt eine Empfehlung oder moralische Verpflichtung aus; anders als \"should\" wird es stets mit \"to\" konstruiert.",
+     "a": 2,
+     "e": "Nur „ought\" bildet mit dem folgenden „to\" eine gültige Fügung: „ought to reconsider\" — die formelle Alternative zu „should\". Die drei anderen Optionen scheiden aus: „must\" und „should\" sind Modalverben, die den reinen Infinitiv ohne „to\" verlangen („must reconsider\", nicht „must to reconsider\"); „have\" verlangt bei einem Subjekt im Singular die Form „has to\".",
      "cat": "Modal Verbs"
     },
     {
@@ -11487,13 +11487,13 @@
      "cat": "Inversion",
      "q": "Only once the final report was tabled ____ the full extent of the mismanagement become clear.",
      "o": [
-      "it did",
-      "does",
+      "has",
+      "was",
       "did",
-      "it does"
+      "is"
      ],
      "a": 2,
-     "e": "Restrictive Inversion nach vorangestelltem \"Only once...\": \"did the full extent become clear\"."
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the full extent … become\"), den nur ein Modalverb oder do-support regieren kann — „did the full extent … become\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
     },
     {
      "cat": "Subjunctive",
@@ -11720,13 +11720,13 @@
      "cat": "Inversion",
      "q": "Only by granting full access ____ the inspectors able to complete their assessment on schedule.",
      "o": [
-      "the inspectors were",
-      "had been",
-      "the inspectors had been",
+      "do",
+      "did",
+      "have",
       "were"
      ],
      "a": 3,
-     "e": "Restrictive Inversion nach vorangestelltem \"Only by...\": Hilfsverb vor Subjekt."
+     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt kein reiner Infinitiv, sondern ein Prädikativ bzw. ein Partizip („the inspectors able\") — deshalb „were\". Die drei anderen Optionen scheiden aus (alle im Plural, der Fehler liegt allein in der Form): „do\" und „did\" sind do-support und verlangen zwingend den reinen Infinitiv eines Vollverbs; „have\" verlangt danach ein Partizip II, das hier nicht steht."
     },
     {
      "q": "It is imperative that the panel ____ its recommendations on the arms control talks before the funding round closes.",
@@ -11784,13 +11784,13 @@
     {
      "q": "The lead negotiator ____ to reconsider their position on the humanitarian corridor, given the mounting evidence presented at the hearing.",
      "o": [
-      "must to",
-      "should to",
       "ought",
-      "have"
+      "must",
+      "have",
+      "should"
      ],
-     "a": 2,
-     "e": "\"ought to\" ist eine formelle Alternative zu \"should\" und drückt eine Empfehlung oder moralische Verpflichtung aus; anders als \"should\" wird es stets mit \"to\" konstruiert.",
+     "a": 0,
+     "e": "Nur „ought\" bildet mit dem folgenden „to\" eine gültige Fügung: „ought to reconsider\" — die formelle Alternative zu „should\". Die drei anderen Optionen scheiden aus: „must\" und „should\" sind Modalverben, die den reinen Infinitiv ohne „to\" verlangen („must reconsider\", nicht „must to reconsider\"); „have\" verlangt bei einem Subjekt im Singular die Form „has to\".",
      "cat": "Modal Verbs"
     },
     {

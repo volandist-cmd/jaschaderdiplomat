@@ -421,7 +421,7 @@
       "provided"
      ],
      "a": 0,
-     "e": "Verlangt ist „providing\" — Partizip Präsens / Gerundium (-ing) von „provide\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (provide, provides, provided).",
+     "e": "Verlaufsform (Present Continuous): „are\" + **Partizip Präsens** — „are providing\". Die drei anderen Optionen scheiden aus: „provides\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „provide\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „provided\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform.",
      "cat": "Verben"
     },
     {
@@ -445,7 +445,7 @@
       "accuses"
      ],
      "a": 1,
-     "e": "Verlangt ist „accusing\" — Partizip Präsens / Gerundium (-ing) von „accuse\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (accuse, accuses, accused).",
+     "e": "Present Perfect Continuous: „have been\" + **Partizip Präsens** — „have been accusing\". Die drei anderen Optionen scheiden aus: „accused\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „accuse\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „accuses\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -643,7 +643,7 @@
       "suggests"
      ],
      "a": 0,
-     "e": "Verlangt ist „suggested\" — Past Simple von „suggest\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (suggest, suggests, suggesting).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has suggested\". Die drei anderen Optionen scheiden aus: „suggesting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „suggest\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „suggests\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -913,7 +913,7 @@
       "alleges"
      ],
      "a": 1,
-     "e": "Verlangt ist „alleged\" — Past Simple von „allege\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (allege, alleges, alleging).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has alleged\". Die drei anderen Optionen scheiden aus: „allege\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „alleging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „alleges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -937,7 +937,7 @@
       "offer"
      ],
      "a": 1,
-     "e": "Verlangt ist „offered\" — Past Simple von „offer\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (offer, offers, offering).",
+     "e": "Perfekt-Infinitiv: „to have\" + **Partizip II** — „to have offered\". Die drei anderen Optionen scheiden aus: „offers\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „offering\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „offer\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -1135,7 +1135,7 @@
       "gave"
      ],
      "a": 0,
-     "e": "Verlangt ist „given\" — Partizip Perfekt (3. Form) von „give\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (give, gives, gave).",
+     "e": "Perfekt-Infinitiv im Passiv: „to have been\" + **Partizip II** — „to have been given\". Die drei anderen Optionen scheiden aus: „give\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „gives\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „gave\" = Past Simple — eine finite Form; die Position verlangt das Partizip II.",
      "cat": "Verben"
     },
     {
@@ -1159,7 +1159,7 @@
       "publish"
      ],
      "a": 2,
-     "e": "Verlangt ist „published\" — Past Simple von „publish\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (publish, publishes, publishing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has published\". Die drei anderen Optionen scheiden aus: „publishes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „publishing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „publish\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -1405,7 +1405,7 @@
       "helps"
      ],
      "a": 1,
-     "e": "Verlangt ist „helping\" — Partizip Präsens / Gerundium (-ing) von „help\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (help, helps, helped).",
+     "e": "Verlaufsform (Present Continuous): „is\" + **Partizip Präsens** — „is helping\". Die drei anderen Optionen scheiden aus: „helped\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „help\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „helps\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -1417,7 +1417,7 @@
       "proposing"
      ],
      "a": 0,
-     "e": "Verlangt ist „proposed\" — Past Simple von „propose\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (propose, proposes, proposing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has proposed\". Die drei anderen Optionen scheiden aus: „proposes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „propose\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „proposing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -1429,7 +1429,7 @@
       "petitions"
      ],
      "a": 0,
-     "e": "Verlangt ist „petitioned\" — Past Simple von „petition\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (petition, petitions, petitioning).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has petitioned\". Die drei anderen Optionen scheiden aus: „petitioning\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „petition\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „petitions\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -1663,7 +1663,7 @@
       "governing"
      ],
      "a": 1,
-     "e": "Verlangt ist „governed\" — Past Simple von „govern\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (govern, governs, governing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has governed\". Die drei anderen Optionen scheiden aus: „governs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „govern\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „governing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -1885,7 +1885,7 @@
       "determine"
      ],
      "a": 0,
-     "e": "Verlangt ist „determined\" — Past Simple von „determine\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (determine, determines, determining).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is determined\". Die drei anderen Optionen scheiden aus: „determines\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „determining\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „determine\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -2143,7 +2143,7 @@
       "tells"
      ],
      "a": 1,
-     "e": "Verlangt ist „told\" — Past Simple von „tell\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (tell, tells, telling).",
+     "e": "Past Perfect: „had\" + **Partizip II** — „had told\". Die drei anderen Optionen scheiden aus: „tell\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „telling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „tells\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2377,7 +2377,7 @@
       "unveils"
      ],
      "a": 2,
-     "e": "Verlangt ist „unveiled\" — Past Simple von „unveil\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (unveil, unveils, unveiling).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was unveiled\". Die drei anderen Optionen scheiden aus: „unveil\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „unveiling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „unveils\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2401,7 +2401,7 @@
       "re-routed"
      ],
      "a": 3,
-     "e": "Verlangt ist „re-routed\" — Past Simple von „re-route\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (re-route, re-routes, re-routing).",
+     "e": "Present Perfect im Passiv: „have been\" + **Partizip II** — „have been re-routed\". Die drei anderen Optionen scheiden aus: „re-route\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „re-routing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „re-routes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2611,7 +2611,7 @@
       "approved"
      ],
      "a": 3,
-     "e": "Verlangt ist „approved\" — Past Simple von „approve\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (approve, approves, approving).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has approved\". Die drei anderen Optionen scheiden aus: „approve\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „approving\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „approves\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2635,7 +2635,7 @@
       "replaces"
      ],
      "a": 2,
-     "e": "Verlangt ist „replaced\" — Past Simple von „replace\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (replace, replaces, replacing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was replaced\". Die drei anderen Optionen scheiden aus: „replace\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „replacing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „replaces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2647,7 +2647,7 @@
       "plunging"
      ],
      "a": 2,
-     "e": "Verlangt ist „plunged\" — Past Simple von „plunge\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (plunge, plunges, plunging).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have plunged\". Die drei anderen Optionen scheiden aus: „plunges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „plunge\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „plunging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -2659,7 +2659,7 @@
       "merges"
      ],
      "a": 0,
-     "e": "Verlangt ist „merging\" — Partizip Präsens / Gerundium (-ing) von „merge\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (merge, merges, merged).",
+     "e": "Verlaufsform (Present Continuous): „are\" + **Partizip Präsens** — „are merging\". Die drei anderen Optionen scheiden aus: „merged\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „merge\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „merges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2857,7 +2857,7 @@
       "imposed"
      ],
      "a": 3,
-     "e": "Verlangt ist „imposed\" — Past Simple von „impose\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (impose, imposes, imposing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has imposed\". Die drei anderen Optionen scheiden aus: „impose\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „imposing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „imposes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2881,7 +2881,7 @@
       "voiced"
      ],
      "a": 3,
-     "e": "Verlangt ist „voiced\" — Past Simple von „voice\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (voice, voices, voicing).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have voiced\". Die drei anderen Optionen scheiden aus: „voicing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „voices\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „voice\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -2893,7 +2893,7 @@
       "forces"
      ],
      "a": 1,
-     "e": "Verlangt ist „forced\" — Past Simple von „force\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (force, forces, forcing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was forced\". Die drei anderen Optionen scheiden aus: „force\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „forcing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „forces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -2905,7 +2905,7 @@
       "dragging"
      ],
      "a": 3,
-     "e": "Verlangt ist „dragging\" — Partizip Präsens / Gerundium (-ing) von „drag\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (drag, drags, dragged).",
+     "e": "Present Perfect Continuous: „have been\" + **Partizip Präsens** — „have been dragging\". Die drei anderen Optionen scheiden aus: „dragged\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „drags\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „drag\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -3139,7 +3139,7 @@
       "undermines"
      ],
      "a": 1,
-     "e": "Verlangt ist „undermined\" — Past Simple von „undermine\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (undermine, undermines, undermining).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has undermined\". Die drei anderen Optionen scheiden aus: „undermining\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „undermine\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „undermines\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -3361,7 +3361,7 @@
       "sentences"
      ],
      "a": 2,
-     "e": "Verlangt ist „sentenced\" — Past Simple von „sentence\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (sentence, sentences, sentencing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was sentenced\". Die drei anderen Optionen scheiden aus: „sentence\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „sentencing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „sentences\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -3373,7 +3373,7 @@
       "call"
      ],
      "a": 0,
-     "e": "Verlangt ist „called\" — Past Simple von „call\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (call, calls, calling).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was called\". Die drei anderen Optionen scheiden aus: „calls\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „calling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „call\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -3385,7 +3385,7 @@
       "dismissed"
      ],
      "a": 3,
-     "e": "Verlangt ist „dismissed\" — Past Simple von „dismiss\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (dismiss, dismisses, dismissing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was dismissed\". Die drei anderen Optionen scheiden aus: „dismissing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „dismisses\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „dismiss\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -3397,7 +3397,7 @@
       "find"
      ],
      "a": 0,
-     "e": "Verlangt ist „found\" — Past Simple von „find\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (find, finds, finding).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has found\". Die drei anderen Optionen scheiden aus: „finds\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „finding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „find\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -3577,12 +3577,12 @@
     {
      "q": "The two sides remain far ____ on the key issue of funding.",
      "o": [
-      "on",
+      "through",
+      "aside",
       "apart",
-      "out",
-      "through"
+      "out"
      ],
-     "a": 1,
+     "a": 2,
      "e": "„to be far apart on an issue“ = in einer Sache weit auseinanderliegen.",
      "cat": "Vokabeltest"
     },
@@ -3607,7 +3607,7 @@
       "breaches"
      ],
      "a": 2,
-     "e": "Verlangt ist „breached\" — Past Simple von „breach\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (breach, breaches, breaching).",
+     "e": "Perfekt-Infinitiv: „to have\" + **Partizip II** — „to have breached\". Die drei anderen Optionen scheiden aus: „breaching\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „breach\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „breaches\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -3619,7 +3619,7 @@
       "delivering"
      ],
      "a": 2,
-     "e": "Verlangt ist „delivered\" — Past Simple von „deliver\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (deliver, delivers, delivering).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has delivered\". Die drei anderen Optionen scheiden aus: „deliver\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „delivers\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „delivering\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -3631,7 +3631,7 @@
       "released"
      ],
      "a": 3,
-     "e": "Verlangt ist „released\" — Past Simple von „release\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (release, releases, releasing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was released\". Die drei anderen Optionen scheiden aus: „releases\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „releasing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „release\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -3643,7 +3643,7 @@
       "sought"
      ],
      "a": 0,
-     "e": "Verlangt ist „seeking\" — Partizip Präsens / Gerundium (-ing) von „seek\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (seek, seeks, sought).",
+     "e": "Verlaufsform (Present Continuous): „is\" + **Partizip Präsens** — „is seeking\". Die drei anderen Optionen scheiden aus: „seek\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „seeks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „sought\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform.",
      "cat": "Verben"
     },
     {
@@ -3841,7 +3841,7 @@
       "pledged"
      ],
      "a": 3,
-     "e": "Verlangt ist „pledged\" — Past Simple von „pledge\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (pledge, pledges, pledging).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has pledged\". Die drei anderen Optionen scheiden aus: „pledge\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „pledging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „pledges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -3865,7 +3865,7 @@
       "designing"
      ],
      "a": 0,
-     "e": "Verlangt ist „designed\" — Past Simple von „design\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (design, designs, designing).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is designed\". Die drei anderen Optionen scheiden aus: „design\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „designs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „designing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -3877,7 +3877,7 @@
       "fines"
      ],
      "a": 2,
-     "e": "Verlangt ist „fined\" — Past Simple von „fine\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (fine, fines, fining).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was fined\". Die drei anderen Optionen scheiden aus: „fining\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „fine\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „fines\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -3889,7 +3889,7 @@
       "launched"
      ],
      "a": 3,
-     "e": "Verlangt ist „launched\" — Past Simple von „launch\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (launch, launches, launching).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have launched\". Die drei anderen Optionen scheiden aus: „launches\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „launching\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „launch\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4087,7 +4087,7 @@
       "drawn"
      ],
      "a": 3,
-     "e": "Verlangt ist „drawn\" — Partizip Perfekt (3. Form) von „draw\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (draw, draws, drew).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has drawn\". Die drei anderen Optionen scheiden aus: „draws\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „drew\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „draw\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4099,7 +4099,7 @@
       "intending"
      ],
      "a": 0,
-     "e": "Verlangt ist „intended\" — Past Simple von „intend\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (intend, intends, intending).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is intended\". Die drei anderen Optionen scheiden aus: „intend\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „intends\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „intending\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -4111,7 +4111,7 @@
       "come"
      ],
      "a": 3,
-     "e": "Verlangt ist „come\" — Infinitiv/Grundform von „come\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (comes, came, coming).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has come\". Die drei anderen Optionen scheiden aus: „came\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „coming\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „comes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -4123,7 +4123,7 @@
       "unveil"
      ],
      "a": 1,
-     "e": "Verlangt ist „unveiled\" — Past Simple von „unveil\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (unveil, unveils, unveiling).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has unveiled\". Die drei anderen Optionen scheiden aus: „unveils\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „unveiling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „unveil\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4135,7 +4135,7 @@
       "reports"
      ],
      "a": 1,
-     "e": "Verlangt ist „reported\" — Past Simple von „report\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (report, reports, reporting).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have reported\". Die drei anderen Optionen scheiden aus: „reporting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „report\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „reports\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -4381,7 +4381,7 @@
       "avoided"
      ],
      "a": 3,
-     "e": "Verlangt ist „avoided\" — Past Simple von „avoid\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (avoid, avoids, avoiding).",
+     "e": "Present Perfect im Passiv: „have been\" + **Partizip II** — „have been avoided\". Die drei anderen Optionen scheiden aus: „avoids\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „avoiding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „avoid\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4549,12 +4549,12 @@
     {
      "q": "The board decided to carry ____ with the plan despite the objections.",
      "o": [
-      "with",
       "on",
       "through",
+      "over",
       "up"
      ],
-     "a": 1,
+     "a": 0,
      "e": "„to carry on with a plan“ = einen Plan fortsetzen.",
      "cat": "Vokabeltest"
     },
@@ -4603,7 +4603,7 @@
       "exclude"
      ],
      "a": 0,
-     "e": "Verlangt ist „excluded\" — Past Simple von „exclude\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (exclude, excludes, excluding).",
+     "e": "Passiv nach Präposition + Gerundium: „to being\" + **Partizip II** — „to being excluded\". Die drei anderen Optionen scheiden aus: „excludes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „excluding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „exclude\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4627,7 +4627,7 @@
       "tell"
      ],
      "a": 2,
-     "e": "Verlangt ist „told\" — Past Simple von „tell\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (tell, tells, telling).",
+     "e": "Past Perfect: „had\" + **Partizip II** — „had told\". Die drei anderen Optionen scheiden aus: „telling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „tells\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „tell\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4825,7 +4825,7 @@
       "agrees"
      ],
      "a": 1,
-     "e": "Verlangt ist „agreed\" — Past Simple von „agree\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (agree, agrees, agreeing).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have agreed\". Die drei anderen Optionen scheiden aus: „agree\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „agreeing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „agrees\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -4837,7 +4837,7 @@
       "recall"
      ],
      "a": 1,
-     "e": "Verlangt ist „recalled\" — Past Simple von „recall\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (recall, recalls, recalling).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was recalled\". Die drei anderen Optionen scheiden aus: „recalls\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „recalling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „recall\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -4849,7 +4849,7 @@
       "imposing"
      ],
      "a": 2,
-     "e": "Verlangt ist „imposed\" — Past Simple von „impose\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (impose, imposes, imposing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has imposed\". Die drei anderen Optionen scheiden aus: „imposes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „impose\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „imposing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -4861,7 +4861,7 @@
       "held"
      ],
      "a": 3,
-     "e": "Verlangt ist „held\" — Past Simple von „hold\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (hold, holds, holding).",
+     "e": "Verlaufsform im Passiv: „are being\" + **Partizip II** — „are being held\". Die drei anderen Optionen scheiden aus: „holding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „hold\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „holds\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -4873,7 +4873,7 @@
       "ratified"
      ],
      "a": 3,
-     "e": "Verlangt ist „ratified\" — Past Simple von „ratify\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (ratify, ratifies, ratifying).",
+     "e": "Passiv-Infinitiv: „be\" + **Partizip II** — „be ratified\". Die drei anderen Optionen scheiden aus: „ratifies\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „ratify\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „ratifying\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -5041,12 +5041,12 @@
     {
      "q": "The two companies decided to team ____ on the new research project.",
      "o": [
-      "up",
+      "back",
       "through",
-      "on",
-      "back"
+      "in",
+      "up"
      ],
-     "a": 0,
+     "a": 3,
      "e": "„to team up with somebody“ = sich mit jemandem zusammenschließen.",
      "cat": "Vokabeltest"
     },
@@ -5071,7 +5071,7 @@
       "tasks"
      ],
      "a": 1,
-     "e": "Verlangt ist „tasked\" — Past Simple von „task\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (task, tasks, tasking).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was tasked\". Die drei anderen Optionen scheiden aus: „tasking\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „task\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „tasks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5095,7 +5095,7 @@
       "extended"
      ],
      "a": 3,
-     "e": "Verlangt ist „extended\" — Past Simple von „extend\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (extend, extends, extending).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was extended\". Die drei anderen Optionen scheiden aus: „extend\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „extending\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „extends\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5119,7 +5119,7 @@
       "grant"
      ],
      "a": 1,
-     "e": "Verlangt ist „granted\" — Past Simple von „grant\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (grant, grants, granting).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was granted\". Die drei anderen Optionen scheiden aus: „grants\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „granting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „grant\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -5317,7 +5317,7 @@
       "triggered"
      ],
      "a": 3,
-     "e": "Verlangt ist „triggered\" — Past Simple von „trigger\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (trigger, triggers, triggering).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has triggered\". Die drei anderen Optionen scheiden aus: „trigger\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „triggers\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „triggering\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -5329,7 +5329,7 @@
       "casts"
      ],
      "a": 0,
-     "e": "Verlangt ist „cast\" — Infinitiv/Grundform von „cast\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (casts, casting, has cast).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have cast\". Die drei anderen Optionen scheiden aus: „has cast\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „casting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „casts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5365,7 +5365,7 @@
       "forcing"
      ],
      "a": 1,
-     "e": "Verlangt ist „forced\" — Past Simple von „force\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (force, forces, forcing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was forced\". Die drei anderen Optionen scheiden aus: „forces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „force\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „forcing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -5587,7 +5587,7 @@
       "comes"
      ],
      "a": 0,
-     "e": "Verlangt ist „come\" — Infinitiv/Grundform von „come\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (comes, came, coming).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has come\". Die drei anderen Optionen scheiden aus: „came\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „coming\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „comes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5599,7 +5599,7 @@
       "sparks"
      ],
      "a": 2,
-     "e": "Verlangt ist „sparked\" — Past Simple von „spark\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (spark, sparks, sparking).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have sparked\". Die drei anderen Optionen scheiden aus: „sparking\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „spark\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „sparks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5611,7 +5611,7 @@
       "accuses"
      ],
      "a": 1,
-     "e": "Verlangt ist „accused\" — Past Simple von „accuse\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (accuse, accuses, accusing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was accused\". Die drei anderen Optionen scheiden aus: „accuse\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „accusing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „accuses\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5809,7 +5809,7 @@
       "pledges"
      ],
      "a": 1,
-     "e": "Verlangt ist „pledged\" — Past Simple von „pledge\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (pledge, pledges, pledging).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have pledged\". Die drei anderen Optionen scheiden aus: „pledging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „pledge\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „pledges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5821,7 +5821,7 @@
       "prompts"
      ],
      "a": 1,
-     "e": "Verlangt ist „prompted\" — Past Simple von „prompt\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (prompt, prompts, prompting).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have prompted\". Die drei anderen Optionen scheiden aus: „prompt\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „prompting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „prompts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -5833,7 +5833,7 @@
       "pledge"
      ],
      "a": 1,
-     "e": "Verlangt ist „pledged\" — Past Simple von „pledge\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (pledge, pledges, pledging).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has pledged\". Die drei anderen Optionen scheiden aus: „pledges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „pledging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „pledge\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -5857,7 +5857,7 @@
       "raised"
      ],
      "a": 3,
-     "e": "Verlangt ist „raised\" — Past Simple von „raise\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (raise, raises, raising).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has raised\". Die drei anderen Optionen scheiden aus: „raises\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „raise\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „raising\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -6055,7 +6055,7 @@
       "asks"
      ],
      "a": 0,
-     "e": "Verlangt ist „asked\" — Past Simple von „ask\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (ask, asks, asking).",
+     "e": "Passiv (Präteritum): „were\" + **Partizip II** — „were asked\". Die drei anderen Optionen scheiden aus: „ask\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „asking\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „asks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -6067,7 +6067,7 @@
       "draw"
      ],
      "a": 1,
-     "e": "Verlangt ist „drawn\" — Partizip Perfekt (3. Form) von „draw\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (draw, draws, drew).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have drawn\". Die drei anderen Optionen scheiden aus: „drew\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „draws\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „draw\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -6079,7 +6079,7 @@
       "vowed"
      ],
      "a": 3,
-     "e": "Verlangt ist „vowed\" — Past Simple von „vow\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (vow, vows, vowing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has vowed\". Die drei anderen Optionen scheiden aus: „vow\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „vows\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „vowing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -6103,7 +6103,7 @@
       "locked"
      ],
      "a": 3,
-     "e": "Verlangt ist „locked\" — Past Simple von „lock\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (lock, locks, locking).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „are\" + **Partizip II** — „are locked\". Die drei anderen Optionen scheiden aus: „lock\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „locks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „locking\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -6301,7 +6301,7 @@
       "downplays"
      ],
      "a": 1,
-     "e": "Verlangt ist „downplayed\" — Past Simple von „downplay\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (downplay, downplays, downplaying).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has downplayed\". Die drei anderen Optionen scheiden aus: „downplaying\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „downplay\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „downplays\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -6313,7 +6313,7 @@
       "forcing"
      ],
      "a": 2,
-     "e": "Verlangt ist „forced\" — Past Simple von „force\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (force, forces, forcing).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was forced\". Die drei anderen Optionen scheiden aus: „forces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „force\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „forcing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -6325,7 +6325,7 @@
       "excluding"
      ],
      "a": 1,
-     "e": "Verlangt ist „excluded\" — Past Simple von „exclude\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (exclude, excludes, excluding).",
+     "e": "Passiv (Präteritum): „were\" + **Partizip II** — „were excluded\". Die drei anderen Optionen scheiden aus: „excludes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „exclude\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „excluding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -6583,19 +6583,19 @@
       "monitoring"
      ],
      "a": 3,
-     "e": "Verlangt ist „monitoring\" — Partizip Präsens / Gerundium (-ing) von „monitor\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (monitor, monitors, monitored).",
+     "e": "Verlaufsform (Present Continuous): „is\" + **Partizip Präsens** — „is monitoring\". Die drei anderen Optionen scheiden aus: „monitor\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „monitored\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „monitors\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
      "q": "A full-day simulation has ____ (put) participants through a realistic crisis scenario.",
      "o": [
-      "putting",
       "put",
-      "has put",
-      "puts"
+      "putted",
+      "puts",
+      "putting"
      ],
-     "a": 1,
-     "e": "Verlangt ist „put\" — Infinitiv/Grundform von „put\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (puts, putting, has put).",
+     "a": 0,
+     "e": "Present Perfect: „has\" + **Partizip II** — „has put\". Die drei anderen Optionen scheiden aus: „putting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „has put\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „puts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -6793,7 +6793,7 @@
       "encouraging"
      ],
      "a": 1,
-     "e": "Verlangt ist „encouraged\" — Past Simple von „encourage\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (encourage, encourages, encouraging).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „are\" + **Partizip II** — „are encouraged\". Die drei anderen Optionen scheiden aus: „encourage\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „encourages\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „encouraging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -6805,7 +6805,7 @@
       "helps"
      ],
      "a": 1,
-     "e": "Verlangt ist „helped\" — Past Simple von „help\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (help, helps, helping).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has helped\". Die drei anderen Optionen scheiden aus: „helping\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „help\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „helps\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -6817,7 +6817,7 @@
       "required"
      ],
      "a": 3,
-     "e": "Verlangt ist „required\" — Past Simple von „require\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (require, requires, requiring).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is required\". Die drei anderen Optionen scheiden aus: „requiring\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „requires\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „require\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -6829,7 +6829,7 @@
       "designing"
      ],
      "a": 2,
-     "e": "Verlangt ist „designed\" — Past Simple von „design\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (design, designs, designing).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have designed\". Die drei anderen Optionen scheiden aus: „designs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „design\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „designing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7039,7 +7039,7 @@
       "coaches"
      ],
      "a": 1,
-     "e": "Verlangt ist „coached\" — Past Simple von „coach\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (coach, coaches, coaching).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was coached\". Die drei anderen Optionen scheiden aus: „coach\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „coaching\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „coaches\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -7051,7 +7051,7 @@
       "rotate"
      ],
      "a": 2,
-     "e": "Verlangt ist „rotated\" — Past Simple von „rotate\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (rotate, rotates, rotating).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „are\" + **Partizip II** — „are rotated\". Die drei anderen Optionen scheiden aus: „rotates\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „rotating\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „rotate\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -7063,7 +7063,7 @@
       "equipped"
      ],
      "a": 3,
-     "e": "Verlangt ist „equipped\" — Past Simple von „equip\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (equip, equips, equipping).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has equipped\". Die drei anderen Optionen scheiden aus: „equipping\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „equips\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „equip\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -7075,7 +7075,7 @@
       "given"
      ],
      "a": 3,
-     "e": "Verlangt ist „given\" — Partizip Perfekt (3. Form) von „give\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (give, gives, gave).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is given\". Die drei anderen Optionen scheiden aus: „give\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „gives\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „gave\" = Past Simple — eine finite Form; die Position verlangt das Partizip II.",
      "cat": "Verben"
     },
     {
@@ -7285,7 +7285,7 @@
       "avoided"
      ],
      "a": 3,
-     "e": "Verlangt ist „avoided\" — Past Simple von „avoid\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (avoid, avoids, avoiding).",
+     "e": "Present Perfect im Passiv: „have been\" + **Partizip II** — „have been avoided\". Die drei anderen Optionen scheiden aus: „avoid\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „avoids\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „avoiding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7309,7 +7309,7 @@
       "forcing"
      ],
      "a": 0,
-     "e": "Verlangt ist „forced\" — Past Simple von „force\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (force, forces, forcing).",
+     "e": "Passiv-Infinitiv: „be\" + **Partizip II** — „be forced\". Die drei anderen Optionen scheiden aus: „force\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „forces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „forcing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7321,7 +7321,7 @@
       "heed"
      ],
      "a": 2,
-     "e": "Verlangt ist „heeded\" — Past Simple von „heed\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (heed, heeds, heeding).",
+     "e": "Passiv: „been\" + **Partizip II** — „been heeded\". Die drei anderen Optionen scheiden aus: „heeding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „heeds\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „heed\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -7531,7 +7531,7 @@
       "avoiding"
      ],
      "a": 2,
-     "e": "Verlangt ist „avoided\" — Past Simple von „avoid\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (avoid, avoids, avoiding).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have avoided\". Die drei anderen Optionen scheiden aus: „avoids\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „avoid\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „avoiding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7555,7 +7555,7 @@
       "succeeds"
      ],
      "a": 0,
-     "e": "Verlangt ist „succeeded\" — Past Simple von „succeed\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (succeed, succeeds, succeeding).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have succeeded\". Die drei anderen Optionen scheiden aus: „succeed\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „succeeding\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „succeeds\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -7567,7 +7567,7 @@
       "secures"
      ],
      "a": 2,
-     "e": "Verlangt ist „secured\" — Past Simple von „secure\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (secure, secures, securing).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is secured\". Die drei anderen Optionen scheiden aus: „securing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „secure\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „secures\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -7777,7 +7777,7 @@
       "expecting"
      ],
      "a": 0,
-     "e": "Verlangt ist „expected\" — Past Simple von „expect\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (expect, expects, expecting).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is expected\". Die drei anderen Optionen scheiden aus: „expects\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „expect\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „expecting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7789,7 +7789,7 @@
       "presenting"
      ],
      "a": 2,
-     "e": "Verlangt ist „presented\" — Past Simple von „present\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (present, presents, presenting).",
+     "e": "Passiv (Präteritum): „were\" + **Partizip II** — „were presented\". Die drei anderen Optionen scheiden aus: „present\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „presents\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „presenting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7801,7 +7801,7 @@
       "reviewing"
      ],
      "a": 1,
-     "e": "Verlangt ist „reviewed\" — Past Simple von „review\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (review, reviews, reviewing).",
+     "e": "Verlaufsform im Passiv: „is being\" + **Partizip II** — „is being reviewed\". Die drei anderen Optionen scheiden aus: „reviews\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „review\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „reviewing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -7813,7 +7813,7 @@
       "criticises"
      ],
      "a": 1,
-     "e": "Verlangt ist „criticised\" — Past Simple von „criticise\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (criticise, criticises, criticising).",
+     "e": "Present Perfect im Passiv: „has been\" + **Partizip II** — „has been criticised\". Die drei anderen Optionen scheiden aus: „criticise\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „criticising\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „criticises\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -7825,7 +7825,7 @@
       "evacuate"
      ],
      "a": 1,
-     "e": "Verlangt ist „evacuated\" — Past Simple von „evacuate\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (evacuate, evacuates, evacuating).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was evacuated\". Die drei anderen Optionen scheiden aus: „evacuating\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „evacuates\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „evacuate\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -8023,7 +8023,7 @@
       "reviewing"
      ],
      "a": 1,
-     "e": "Verlangt ist „reviewed\" — Past Simple von „review\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (review, reviews, reviewing).",
+     "e": "Passiv-Infinitiv: „be\" + **Partizip II** — „be reviewed\". Die drei anderen Optionen scheiden aus: „reviews\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „review\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „reviewing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -8035,7 +8035,7 @@
       "informs"
      ],
      "a": 1,
-     "e": "Verlangt ist „informed\" — Past Simple von „inform\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (inform, informs, informing).",
+     "e": "Passiv (Präteritum): „were\" + **Partizip II** — „were informed\". Die drei anderen Optionen scheiden aus: „inform\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „informing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „informs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -8047,7 +8047,7 @@
       "sign"
      ],
      "a": 0,
-     "e": "Verlangt ist „signed\" — Past Simple von „sign\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (sign, signs, signing).",
+     "e": "Passiv: „been\" + **Partizip II** — „been signed\". Die drei anderen Optionen scheiden aus: „signing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „signs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „sign\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -8059,7 +8059,7 @@
       "enforces"
      ],
      "a": 2,
-     "e": "Verlangt ist „enforced\" — Past Simple von „enforce\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (enforce, enforces, enforcing).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „are\" + **Partizip II** — „are enforced\". Die drei anderen Optionen scheiden aus: „enforcing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „enforce\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „enforces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -8071,7 +8071,7 @@
       "announce"
      ],
      "a": 1,
-     "e": "Verlangt ist „announced\" — Past Simple von „announce\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (announce, announces, announcing).",
+     "e": "Passiv-Infinitiv: „to be\" + **Partizip II** — „to be announced\". Die drei anderen Optionen scheiden aus: „announces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „announcing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „announce\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -8773,7 +8773,7 @@
       "accuses"
      ],
      "a": 1,
-     "e": "Verlangt ist „accused\" — Past Simple von „accuse\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (accuse, accuses, accusing).",
+     "e": "Present Perfect im Passiv: „has been\" + **Partizip II** — „has been accused\". Die drei anderen Optionen scheiden aus: „accuse\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „accusing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „accuses\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -8785,7 +8785,7 @@
       "launch"
      ],
      "a": 2,
-     "e": "Verlangt ist „launched\" — Past Simple von „launch\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (launch, launches, launching).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was launched\". Die drei anderen Optionen scheiden aus: „launching\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „launches\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „launch\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -9019,7 +9019,7 @@
       "reignited"
      ],
      "a": 3,
-     "e": "Verlangt ist „reignited\" — Past Simple von „reignite\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (reignite, reignites, reigniting).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has reignited\". Die drei anderen Optionen scheiden aus: „reignites\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „reigniting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „reignite\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -9031,7 +9031,7 @@
       "design"
      ],
      "a": 2,
-     "e": "Verlangt ist „designed\" — Past Simple von „design\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (design, designs, designing).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is designed\". Die drei anderen Optionen scheiden aus: „designs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „designing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „design\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -9043,7 +9043,7 @@
       "making"
      ],
      "a": 1,
-     "e": "Verlangt ist „made\" — Past Simple von „make\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (make, makes, making).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has made\". Die drei anderen Optionen scheiden aus: „make\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „makes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „making\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -9277,7 +9277,7 @@
       "shows"
      ],
      "a": 1,
-     "e": "Verlangt ist „showing\" — Partizip Präsens / Gerundium (-ing) von „show\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (show, shows, showed).",
+     "e": "Verlaufsform (Present Continuous): „is\" + **Partizip Präsens** — „is showing\". Die drei anderen Optionen scheiden aus: „show\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „showed\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „shows\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -9289,7 +9289,7 @@
       "greeting"
      ],
      "a": 2,
-     "e": "Verlangt ist „greeted\" — Past Simple von „greet\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (greet, greets, greeting).",
+     "e": "Present Perfect im Passiv: „has been\" + **Partizip II** — „has been greeted\". Die drei anderen Optionen scheiden aus: „greets\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „greet\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „greeting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -9505,25 +9505,25 @@
     {
      "q": "The finance ministry has ____ (cut) subsidies for the third year running.",
      "o": [
-      "has cut",
       "cuts",
-      "cutting",
-      "cut"
+      "cutted",
+      "cut",
+      "cutting"
      ],
-     "a": 3,
-     "e": "Verlangt ist „cut\" — Infinitiv/Grundform von „cut\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (cuts, cutting, has cut).",
+     "a": 2,
+     "e": "Present Perfect: „has\" + **Partizip II** — „has cut\". Die drei anderen Optionen scheiden aus: „has cut\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „cuts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „cutting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
      "q": "The report has ____ (cast) fresh doubt on the agency's monitoring standards.",
      "o": [
-      "has cast",
       "casts",
+      "casted",
       "cast",
       "casting"
      ],
      "a": 2,
-     "e": "Verlangt ist „cast\" — Infinitiv/Grundform von „cast\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (casts, casting, has cast).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has cast\". Die drei anderen Optionen scheiden aus: „has cast\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „casts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „casting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -9535,7 +9535,7 @@
       "blocks"
      ],
      "a": 1,
-     "e": "Verlangt ist „blocked\" — Past Simple von „block\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (block, blocks, blocking).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was blocked\". Die drei anderen Optionen scheiden aus: „blocking\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „block\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „blocks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -9547,7 +9547,7 @@
       "throws"
      ],
      "a": 0,
-     "e": "Verlangt ist „thrown\" — Partizip Perfekt (3. Form) von „throw\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (throw, throws, threw).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has thrown\". Die drei anderen Optionen scheiden aus: „throw\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „threw\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „throws\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -9769,7 +9769,7 @@
       "stirs"
      ],
      "a": 2,
-     "e": "Verlangt ist „stirred\" — Past Simple von „stir\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (stir, stirs, stirring).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has stirred\". Die drei anderen Optionen scheiden aus: „stirring\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „stir\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „stirs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -9781,7 +9781,7 @@
       "saying"
      ],
      "a": 1,
-     "e": "Verlangt ist „said\" — Past Simple von „say\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (say, says, saying).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „are\" + **Partizip II** — „are said\". Die drei anderen Optionen scheiden aus: „says\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „say\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „saying\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -9793,7 +9793,7 @@
       "took"
      ],
      "a": 0,
-     "e": "Verlangt ist „taken\" — Partizip Perfekt (3. Form) von „take\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (take, takes, took).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has taken\". Die drei anderen Optionen scheiden aus: „take\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „takes\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „took\" = Past Simple — eine finite Form; die Position verlangt das Partizip II.",
      "cat": "Verben"
     },
     {
@@ -9991,7 +9991,7 @@
       "sign"
      ],
      "a": 0,
-     "e": "Verlangt ist „signed\" — Past Simple von „sign\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (sign, signs, signing).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have signed\". Die drei anderen Optionen scheiden aus: „signs\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „signing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „sign\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -10003,7 +10003,7 @@
       "met"
      ],
      "a": 3,
-     "e": "Verlangt ist „met\" — Past Simple von „meet\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (meet, meets, meeting).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was met\". Die drei anderen Optionen scheiden aus: „meet\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „meeting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „meets\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -10015,7 +10015,7 @@
       "adopt"
      ],
      "a": 0,
-     "e": "Verlangt ist „adopted\" — Past Simple von „adopt\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (adopt, adopts, adopting).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was adopted\". Die drei anderen Optionen scheiden aus: „adopts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „adopting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „adopt\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -10039,7 +10039,7 @@
       "mediates"
      ],
      "a": 1,
-     "e": "Verlangt ist „mediating\" — Partizip Präsens / Gerundium (-ing) von „mediate\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (mediate, mediates, mediated).",
+     "e": "Verlaufsform (Present Continuous): „is\" + **Partizip Präsens** — „is mediating\". Die drei anderen Optionen scheiden aus: „mediated\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „mediate\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „mediates\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -10249,7 +10249,7 @@
       "granting"
      ],
      "a": 0,
-     "e": "Verlangt ist „granted\" — Past Simple von „grant\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (grant, grants, granting).",
+     "e": "Present Perfect im Passiv: „has been\" + **Partizip II** — „has been granted\". Die drei anderen Optionen scheiden aus: „grants\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „grant\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „granting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -10273,7 +10273,7 @@
       "vowing"
      ],
      "a": 0,
-     "e": "Verlangt ist „vowed\" — Past Simple von „vow\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (vow, vows, vowing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has vowed\". Die drei anderen Optionen scheiden aus: „vow\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „vows\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „vowing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -10285,7 +10285,7 @@
       "agreeing"
      ],
      "a": 0,
-     "e": "Verlangt ist „agreed\" — Past Simple von „agree\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (agree, agrees, agreeing).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have agreed\". Die drei anderen Optionen scheiden aus: „agree\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „agrees\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „agreeing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -10483,7 +10483,7 @@
       "poises"
      ],
      "a": 0,
-     "e": "Verlangt ist „poised\" — Past Simple von „poise\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (poise, poises, poising).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is poised\". Die drei anderen Optionen scheiden aus: „poise\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „poising\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „poises\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -10495,7 +10495,7 @@
       "met"
      ],
      "a": 3,
-     "e": "Verlangt ist „met\" — Past Simple von „meet\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (meet, meets, meeting).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was met\". Die drei anderen Optionen scheiden aus: „meets\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „meet\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „meeting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -10507,7 +10507,7 @@
       "reduced"
      ],
      "a": 3,
-     "e": "Verlangt ist „reduced\" — Past Simple von „reduce\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (reduce, reduces, reducing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has reduced\". Die drei anderen Optionen scheiden aus: „reduces\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „reducing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „reduce\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -10519,7 +10519,7 @@
       "aims"
      ],
      "a": 2,
-     "e": "Verlangt ist „aimed\" — Past Simple von „aim\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (aim, aims, aiming).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is aimed\". Die drei anderen Optionen scheiden aus: „aiming\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „aim\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „aims\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -10531,7 +10531,7 @@
       "pressures"
      ],
      "a": 0,
-     "e": "Verlangt ist „pressured\" — Past Simple von „pressure\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (pressure, pressures, pressuring).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was pressured\". Die drei anderen Optionen scheiden aus: „pressuring\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „pressure\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „pressures\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -10741,7 +10741,7 @@
       "attract"
      ],
      "a": 0,
-     "e": "Verlangt ist „attracted\" — Past Simple von „attract\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (attract, attracts, attracting).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has attracted\". Die drei anderen Optionen scheiden aus: „attracting\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „attracts\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „attract\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -10753,7 +10753,7 @@
       "lowering"
      ],
      "a": 2,
-     "e": "Verlangt ist „lowered\" — Past Simple von „lower\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (lower, lowers, lowering).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has lowered\". Die drei anderen Optionen scheiden aus: „lowers\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „lower\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „lowering\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -10777,7 +10777,7 @@
       "lodge"
      ],
      "a": 1,
-     "e": "Verlangt ist „lodged\" — Past Simple von „lodge\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (lodge, lodges, lodging).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have lodged\". Die drei anderen Optionen scheiden aus: „lodges\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „lodging\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „lodge\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -10987,7 +10987,7 @@
       "ordering"
      ],
      "a": 1,
-     "e": "Verlangt ist „ordered\" — Past Simple von „order\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (order, orders, ordering).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was ordered\". Die drei anderen Optionen scheiden aus: „orders\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „order\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „ordering\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -11011,7 +11011,7 @@
       "liken"
      ],
      "a": 0,
-     "e": "Verlangt ist „likened\" — Past Simple von „liken\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (liken, likens, likening).",
+     "e": "Present Perfect im Passiv: „has been\" + **Partizip II** — „has been likened\". Die drei anderen Optionen scheiden aus: „likens\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „likening\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „liken\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -11023,7 +11023,7 @@
       "reach"
      ],
      "a": 0,
-     "e": "Verlangt ist „reached\" — Past Simple von „reach\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (reach, reaches, reaching).",
+     "e": "Present Perfect: „have\" + **Partizip II** — „have reached\". Die drei anderen Optionen scheiden aus: „reaches\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „reaching\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „reach\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -11191,12 +11191,12 @@
     {
      "q": "The talks collapsed after the delegation walked ____ in protest.",
      "o": [
-      "in",
+      "out",
       "at",
-      "from",
-      "out"
+      "onto",
+      "from"
      ],
-     "a": 3,
+     "a": 0,
      "e": "„to walk out“ = den Raum/die Verhandlung aus Protest verlassen.",
      "cat": "Vokabeltest"
     },
@@ -11221,7 +11221,7 @@
       "says"
      ],
      "a": 2,
-     "e": "Verlangt ist „said\" — Past Simple von „say\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (say, says, saying).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „are\" + **Partizip II** — „are said\". Die drei anderen Optionen scheiden aus: „say\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „saying\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „says\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -11233,7 +11233,7 @@
       "trim"
      ],
      "a": 0,
-     "e": "Verlangt ist „trimmed\" — Past Simple von „trim\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (trim, trims, trimming).",
+     "e": "Passiv (Präteritum): „were\" + **Partizip II** — „were trimmed\". Die drei anderen Optionen scheiden aus: „trimming\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „trims\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „trim\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -11245,7 +11245,7 @@
       "watered"
      ],
      "a": 3,
-     "e": "Verlangt ist „watered\" — Past Simple von „water\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (water, waters, watering).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was watered\". Die drei anderen Optionen scheiden aus: „water\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „waters\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „watering\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt.",
      "cat": "Verben"
     },
     {
@@ -11479,7 +11479,7 @@
       "scaled"
      ],
      "a": 3,
-     "e": "Verlangt ist „scaled\" — Past Simple von „scale\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (scale, scales, scaling).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was scaled\". Die drei anderen Optionen scheiden aus: „scaling\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „scale\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „scales\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -11515,7 +11515,7 @@
       "looking"
      ],
      "a": 3,
-     "e": "Verlangt ist „looking\" — Partizip Präsens / Gerundium (-ing) von „look\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (look, looks, looked).",
+     "e": "Verlaufsform (Present Continuous): „is\" + **Partizip Präsens** — „is looking\". Die drei anderen Optionen scheiden aus: „looked\" = Partizip II — ergäbe Perfekt bzw. Passiv statt der Verlaufsform; „looks\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „look\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -11713,7 +11713,7 @@
       "suspend"
      ],
      "a": 2,
-     "e": "Verlangt ist „suspended\" — Past Simple von „suspend\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (suspend, suspends, suspending).",
+     "e": "Passiv (Präteritum): „were\" + **Partizip II** — „were suspended\". Die drei anderen Optionen scheiden aus: „suspends\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „suspending\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „suspend\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -11749,7 +11749,7 @@
       "postpones"
      ],
      "a": 1,
-     "e": "Verlangt ist „postponed\" — Past Simple von „postpone\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (postpone, postpones, postponing).",
+     "e": "Passiv-Infinitiv: „had to be\" + **Partizip II** — „had to be postponed\". Die drei anderen Optionen scheiden aus: „postponing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „postpone\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „postpones\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -11959,7 +11959,7 @@
       "anticipates"
      ],
      "a": 2,
-     "e": "Verlangt ist „anticipated\" — Past Simple von „anticipate\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (anticipate, anticipates, anticipating).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is anticipated\". Die drei anderen Optionen scheiden aus: „anticipate\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „anticipating\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „anticipates\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -11971,7 +11971,7 @@
       "expresses"
      ],
      "a": 2,
-     "e": "Verlangt ist „expressed\" — Past Simple von „express\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (express, expresses, expressing).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has expressed\". Die drei anderen Optionen scheiden aus: „expressing\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „express\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „expresses\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -11983,7 +11983,7 @@
       "draws"
      ],
      "a": 2,
-     "e": "Verlangt ist „drawn\" — Partizip Perfekt (3. Form) von „draw\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (draw, draws, drew).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has drawn\". Die drei anderen Optionen scheiden aus: „draw\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „drew\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „draws\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
@@ -11995,7 +11995,7 @@
       "intended"
      ],
      "a": 3,
-     "e": "Verlangt ist „intended\" — Past Simple von „intend\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (intend, intends, intending).",
+     "e": "Passiv- bzw. Zustandskonstruktion: „is\" + **Partizip II** — „is intended\". Die drei anderen Optionen scheiden aus: „intending\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „intends\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „intend\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -12205,7 +12205,7 @@
       "see"
      ],
      "a": 0,
-     "e": "Verlangt ist „seen\" — Partizip Perfekt (3. Form) von „see\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (see, sees, saw).",
+     "e": "Passiv (Präteritum): „was\" + **Partizip II** — „was seen\". Die drei anderen Optionen scheiden aus: „sees\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen; „saw\" = Past Simple — eine finite Form; die Position verlangt das Partizip II; „see\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen.",
      "cat": "Verben"
     },
     {
@@ -12241,7 +12241,7 @@
       "reiterated"
      ],
      "a": 3,
-     "e": "Verlangt ist „reiterated\" — Past Simple von „reiterate\". Die übrigen Optionen sind Formen desselben Verbs, passen aber nicht in die Zeit-/Diathesenlogik des Satzes (reiterate, reiterates, reiterating).",
+     "e": "Present Perfect: „has\" + **Partizip II** — „has reiterated\". Die drei anderen Optionen scheiden aus: „reiterate\" = Grundform (Infinitiv) — kann in dieser Position nicht stehen; „reiterating\" = Partizip Präsens — ergäbe eine Verlaufsform, die der Satz nicht verlangt; „reiterates\" = finite Präsensform der 3. Person Singular — nach einem Hilfsverb ausgeschlossen.",
      "cat": "Verben"
     },
     {
