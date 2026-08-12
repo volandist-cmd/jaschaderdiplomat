@@ -255,15 +255,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "He was made redundant and now draws a modest ____ .",
+     "q": "He took early retirement and now draws a modest ____ .",
      "o": [
       "rent",
-      "gratification",
-      "salary",
-      "pension"
+      "pension",
+      "gratuity",
+      "salary"
      ],
-     "a": 3,
-     "e": "False Friend: dt. „Rente“ = „pension“; engl. „rent“ = Miete."
+     "a": 1,
+     "e": "„to draw a pension\" ist die feste Wendung für den Bezug eines Ruhegeldes. Ausgeschlossen sind: „rent\" (Miete, die man zahlt oder einnimmt, aber nicht „zieht\" im Sinne eines Bezugs); „gratuity\" (eine einmalige Abfindung oder ein Trinkgeld, keine laufende Leistung); „salary\" (das Gehalt aus einem bestehenden Arbeitsverhältnis)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -1427,15 +1427,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She ____ the award by the committee chair.",
+     "q": "She was presented ____ the award by the committee chair.",
      "o": [
-      "has presented",
-      "was presented",
-      "was presenting",
-      "presented"
+      "for",
+      "to",
+      "with",
+      "by"
      ],
-     "a": 1,
-     "e": "Passiv des Doppelobjekt-Verbs: „she was presented the award by …“."
+     "a": 2,
+     "e": "„to present somebody WITH something\" ist die feste Rektion; im Passiv wird die Person zum Subjekt und die Sache bleibt mit „with\" angeschlossen. Ausgeschlossen sind: „by\" (führt bereits den Handelnden ein — „by the committee chair\" steht schon im Satz); „to\" (gehört zur umgekehrten Fügung „present something TO somebody\", bei der die SACHE Subjekt wäre); „for\" (bezeichnete einen Zweck oder Anlass)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -1925,13 +1925,13 @@
      "lvl": "C2",
      "q": "He made a very ____ impression on the committee.",
      "o": [
-      "simpatico",
-      "sympathetic",
-      "likeable",
-      "pathetic"
+      "fleeting",
+      "flippant",
+      "favourable",
+      "forbidding"
      ],
      "a": 2,
-     "e": "False Friend: dt. „sympathisch“ = „likeable“; „sympathetic“ = mitfühlend."
+     "e": "„to make a favourable impression\" ist die feste Wendung für einen guten Eindruck. Ausgeschlossen sind: „flippant\" (respektlos-leichthin — es beschriebe sein Verhalten, nicht den erzielten Eindruck); „fleeting\" (flüchtig, kurz — es sagte etwas über die Dauer, nicht über die Wirkung); „forbidding\" (abweisend, einschüchternd — der gegenteilige Eindruck)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -2352,15 +2352,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "I can't put ____ his arrogance any longer.",
+     "q": "The chair made clear that the committee would no longer put ____ repeated interruptions from the floor.",
      "o": [
-      "away with",
-      "down to",
       "off",
-      "up with"
+      "down to",
+      "up with",
+      "away with"
      ],
-     "a": 3,
-     "e": "Dreiteiliges Phrasal Verb: „put up with“ = ertragen."
+     "a": 2,
+     "e": "„to put up with something\" heißt, es hinzunehmen. Ausgeschlossen sind: „put away with\" (existiert nicht; „do away with\" hieße abschaffen); „put down to\" (etwas auf eine Ursache zurückführen); „put off\" (aufschieben bzw. abschrecken)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -19361,15 +19361,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The ministry's incident-response team moved swiftly to ____ the breach before it spread further.",
+     "q": "The ministry's incident-response team moved swiftly to ____ the affected servers from the rest of the network.",
      "o": [
-      "restrain",
-      "detain",
-      "contain",
-      "retain"
+      "insulate",
+      "instigate",
+      "install",
+      "isolate"
      ],
-     "a": 2,
-     "e": "„contain a breach“ = eindämmen; die anderen Verben kollokieren nicht mit „breach“."
+     "a": 3,
+     "e": "„to isolate something from something else\" heißt, es abzutrennen, damit es keinen Schaden weitertragen kann. Ausgeschlossen sind: „insulate\" (gegen Kälte, Lärm oder Risiken abschirmen — es verlangt „against\" bzw. „from\" im übertragenen Sinn, meint aber Schutz von außen, nicht die Abtrennung eines Herds); „instigate\" (anstiften, in Gang setzen); „install\" (einrichten, aufspielen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -22411,15 +22411,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Both governments maintained ____ deniability throughout the secret talks.",
+     "q": "Both governments were careful to keep the channel at ____ length throughout the secret talks.",
      "o": [
-      "possible",
-      "plausible",
-      "provable",
-      "probable"
+      "reach's",
+      "elbow's",
+      "hand's",
+      "arm's"
      ],
-     "a": 1,
-     "e": "„plausible deniability“ = glaubhafte Abstreitbarkeit, fester Terminus."
+     "a": 3,
+     "e": "„to keep something at arm's length\" ist die feste Wendung für bewusst gewahrte Distanz. Ausgeschlossen sind: „elbow's\", „hand's\" und „reach's\" — keine dieser Fügungen existiert; die Redewendung ist auf „arm's\" festgelegt."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -24666,7 +24666,7 @@
      ],
      "a": 2,
      "e": "Kernaussage: fehlender Handlungsdruck plus mögliches strategisches Interesse am Status quo erschweren die Vermittlung.",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer.",
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer.",
      "src": "Übungstext im Stil von Foreign Affairs / The Economist (nicht offiziell)"
     },
     {
@@ -24681,7 +24681,7 @@
      ],
      "a": 3,
      "e": "Text: „whose original urgency has long since evaporated even as its bureaucratic apparatus persists.“",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Textverständnis",
@@ -24695,7 +24695,7 @@
      ],
      "a": 2,
      "e": "Text: „their principal achievement in many such settings is not resolution but management.“",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Textverständnis",
@@ -24709,7 +24709,7 @@
      ],
      "a": 1,
      "e": "Text: „a contact group, a minsk-style process, a rotating chairmanship“.",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Textverständnis",
@@ -24723,7 +24723,7 @@
      ],
      "a": 2,
      "e": "Aus dem Text: wenn der Status quo strategische Zwecke erfüllt, hat die betreffende Partei wenig echtes Interesse an einer endgültigen Einigung.",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Textverständnis",
@@ -24737,7 +24737,7 @@
      ],
      "a": 2,
      "e": "„to calcify“ = übertragen: erstarren, sich verhärten/verfestigen — nicht rechtlich anerkannt, nur faktisch fixiert (‚de facto‘).",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Textverständnis",
@@ -24751,7 +24751,7 @@
      ],
      "a": 1,
      "e": "Der Text analysiert nüchtern und lässt durchgehend Skepsis gegenüber echten Lösungschancen durchklingen, ohne polemisch zu werden.",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Textverständnis",
@@ -24765,7 +24765,7 @@
      ],
      "a": 0,
      "e": "Der Absatz führt die These ein, dass Stillstand bewusst bevorzugt werden kann, was die Vermittlerrolle von einer technischen zu einer gegnerischen Aufgabe macht.",
-     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
+     "passage": "Frozen conflicts earn their name from a deceptive stillness: the guns fall silent, front lines calcify into de facto borders, and the world's attention drifts elsewhere, yet no peace treaty is ever signed and no side abandons its underlying claims. It is precisely this suspended animation that makes such disputes so resistant to mediation. Where an active war creates pressure — casualties mount, economies buckle, populations demand an end to the fighting — a frozen conflict generates none of that urgency. The status quo, however unsatisfactory, is one that most parties can live with indefinitely, which is exactly the problem confronting anyone hoping to broker a settlement.\n\nInternational mediators arriving in such a theatre typically inherit a negotiating format inherited from an earlier, more acute phase of the dispute — a contact group, a Minsk-style process, a rotating chairmanship — whose original urgency has long since evaporated even as its bureaucratic apparatus persists. Meetings convene, communiqués are issued, and yet the underlying territorial dispute remains exactly where it stood a decade earlier. Mediators candidly admit, in private if rarely in public, that their principal achievement in many such settings is not resolution but management: preventing the frozen conflict from reheating into open confrontation, even as a durable settlement recedes ever further from reach.\n\nSome scholars argue that this very durability of stalemate is itself a policy choice, tacitly preferred by at least one party for whom an unresolved dispute serves strategic purposes a final settlement would foreclose. If that diagnosis holds, then the mediator's task is not merely technical but adversarial: persuading a party to relinquish an arrangement that, however costly in principle, continues to serve its interests rather better than any negotiated alternative on offer."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -25225,15 +25225,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She said the talks would resume ____ , not the following month as originally scheduled.",
+     "q": "She said the talks would resume ____ , not the following week as originally scheduled.",
      "o": [
-      "this week",
+      "next week",
       "that same week",
-      "the coming week",
-      "next week"
+      "this week",
+      "the coming week"
      ],
      "a": 1,
-     "e": "Deixisverschiebung in der Redewiedergabe."
+     "e": "In der indirekten Rede nach einem Präteritum wird „this week\" zu „that same week\" verschoben. Ausgeschlossen sind: „this week\" und „next week\" (sprecherdeiktische Angaben, die in der indirekten Rede verschoben werden müssen); „the coming week\" (bezeichnet die folgende Woche — genau das, was der Nachsatz ausschließt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26072,15 +26072,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The clause ____ they objected has since been redrafted.",
+     "q": "The report ____ the ministry had relied proved incomplete in three respects.",
      "o": [
-      "that",
-      "to which",
-      "which",
-      "to that"
+      "on which",
+      "for which",
+      "with which",
+      "in which"
      ],
-     "a": 1,
-     "e": "\"object to\" verlangt bei vorangestellter Präposition \"which\", nie \"that\"."
+     "a": 0,
+     "e": "„to rely ON something\" verlangt diese Präposition, die bei vorangestelltem Relativum mitwandert. Ausgeschlossen sind: „in which\" (bezeichnete einen Rahmen oder Ort); „for which\" (einen Zweck); „with which\" (ein Mittel oder eine Begleitung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -26648,13 +26648,13 @@
      "lvl": "C2",
      "q": "The compromise text was criticised as ____ , unable to bind any party to real commitments.",
      "o": [
-      "toothless",
-      "useless",
-      "meaningless",
-      "harmless"
+      "declaratory",
+      "derivative",
+      "discretionary",
+      "deliberative"
      ],
      "a": 0,
-     "e": "\"a toothless agreement\" = eine zahnlose, wirkungslose Vereinbarung — feste Metapher."
+     "e": "„declaratory\" heißt: bloß feststellend, ohne rechtsbegründende Wirkung — genau die Kritik, die der Nachsatz erläutert. Ausgeschlossen sind: „deliberative\" (beratend, auf Erörterung angelegt — es beschriebe ein Gremium, nicht einen Text); „discretionary\" (im Ermessen stehend — dann bestünde immerhin eine Befugnis); „derivative\" (abgeleitet, unoriginell)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -34572,13 +34572,13 @@
      "lvl": "C2",
      "q": "The revolution drew significant funding from the ____ in Europe and North America.",
      "o": [
-      "departed collective",
+      "émigré community",
       "exile network",
-      "emigre community",
+      "departed collective",
       "displaced circle"
      ],
-     "a": 2,
-     "e": "„emigre community“ bezeichnet eine im Ausland lebende, oft politisch aktive Auswanderergemeinschaft."
+     "a": 0,
+     "e": "„the émigré community\" ist der etablierte Ausdruck für die politisch motivierte Auswanderergemeinde; im gepflegten Register trägt er beide Akzente. Ausgeschlossen sind: „exile network\" (ein Netzwerk Verbannter — es betont die Organisation, nicht die Gemeinschaft, und ist keine feste Fügung); „departed collective\" und „displaced circle\" (beides sind keine im Englischen gebräuchlichen Bezeichnungen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -37085,15 +37085,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Had the treaty addressed extraction explicitly, this dispute ____ simply today.",
+     "q": "Had the treaty addressed extraction explicitly, this dispute ____ today.",
      "o": [
       "would not exist",
-      "did not exist",
+      "would not have existed",
       "had not existed",
-      "would not have existed"
+      "did not exist"
      ],
      "a": 0,
-     "e": "Gemischter Konditional: Bedingung Vergangenheit (Had addressed), Folge Gegenwart (today)."
+     "e": "Gemischter Konditional: irreale Bedingung in der Vergangenheit, Folge in der Gegenwart („today\") — verlangt „would not exist\". Ausgeschlossen sind: „would not have existed\" (Folge in der Vergangenheit, mit „today\" unvereinbar); „had not existed\" (Past Perfect gehört in den Bedingungssatz); „did not exist\" (Indikativ Präteritum, unvereinbar mit der irrealen Bedingung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -39275,15 +39275,15 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Analysts noted that the new licensing regime could have a ____ on independent research funding.",
+     "q": "Analysts noted that the new licensing regime could act as a ____ on independent research funding.",
      "o": [
-      "chilling effect",
-      "freezing outcome",
-      "dampening result",
-      "cooling impact"
+      "brace",
+      "beacon",
+      "bridge",
+      "brake"
      ],
-     "a": 0,
-     "e": "„a chilling effect on something“ = eine einschüchternde/abschreckende Wirkung auf etwas; feste Kollokation, die übrigen Optionen sind keine etablierten Wendungen."
+     "a": 3,
+     "e": "„to act as a brake on something\" ist die feste Wendung für eine bremsende Wirkung. Ausgeschlossen sind: „brace\" (eine Stütze bzw. Verstrebung — sie hielte etwas aufrecht, statt es zu bremsen); „bridge\" (eine Brücke, die verbindet); „beacon\" (ein Leuchtfeuer, ein Signal der Orientierung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",

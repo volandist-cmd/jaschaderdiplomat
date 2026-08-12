@@ -13,7 +13,7 @@
      "q": "Neither side was willing to compromise on ____ single provision relating to the summit declaration.",
      "o": [
       "an",
-      "(no article)",
+      "—",
       "the",
       "a"
      ],
@@ -258,7 +258,7 @@
      "q": "The head of mission stated that ____ position on the summit declaration would not change without further amendments.",
      "o": [
       "the",
-      "(no article)",
+      "—",
       "an",
       "a"
      ],
@@ -502,7 +502,7 @@
     {
      "q": "Only a handful of states raised objections to the climate resolution; ____ few of them offered a concrete alternative.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "an",
       "the"
@@ -515,7 +515,7 @@
      "q": "The signatory state briefed journalists on the peace accord, describing it as a matter of ____ utmost urgency.",
      "o": [
       "the",
-      "(no article)",
+      "—",
       "a",
       "an"
      ],
@@ -750,7 +750,7 @@
       "an",
       "a",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "Bei allgemeinen Aussagen über einen abstrakten, unzählbaren Begriff (hier: diplomacy) steht im Englischen kein Artikel.",
@@ -994,7 +994,7 @@
      "o": [
       "a",
       "some",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 2,
@@ -1239,7 +1239,7 @@
      "o": [
       "an",
       "a",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 3,
@@ -1486,7 +1486,7 @@
       "A",
       "An",
       "The",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "„the bulk of\" ist eine feste Wendung und steht immer mit bestimmtem Artikel; „a bulk of\" gibt es nicht."
@@ -1729,7 +1729,7 @@
      "o": [
       "the",
       "an",
-      "(no article)",
+      "—",
       "a"
      ],
      "a": 0,
@@ -1741,7 +1741,7 @@
      "o": [
       "a",
       "the",
-      "(no article)",
+      "—",
       "an"
      ],
      "a": 2,
@@ -1972,7 +1972,7 @@
     {
      "q": "The Ministry of Foreign Affairs confirmed that it would attend ____ meeting of foreign ministers next week.",
      "o": [
-      "(no article)",
+      "—",
       "an",
       "the",
       "a"
@@ -2220,7 +2220,7 @@
       "an",
       "the",
       "a",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "\"every\" steht nie mit Artikel; es bezieht sich distributiv auf jedes einzelne Mitglied ohne Einschränkung.",
@@ -2464,7 +2464,7 @@
      "o": [
       "an",
       "a",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 2,
@@ -2709,7 +2709,7 @@
      "o": [
       "A",
       "An",
-      "(no article)",
+      "—",
       "The"
      ],
      "a": 3,
@@ -2956,7 +2956,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "Die Ergebnisse einer bereits genannten, konkreten Untersuchung werden mit dem bestimmten Artikel wiederaufgenommen."
@@ -3199,7 +3199,7 @@
      "q": "He was elected ____ chair of the drafting committee at the opening session.",
      "o": [
       "an",
-      "(no article)",
+      "—",
       "a",
       "the"
      ],
@@ -3210,7 +3210,7 @@
      "q": "The report on the election monitoring mission, released under mounting international pressure, was compiled by ____ independent panel of experts appointed by the Secretary-General.",
      "o": [
       "the",
-      "(no article)",
+      "—",
       "an",
       "a"
      ],
@@ -3224,7 +3224,7 @@
       "the",
       "a",
       "an",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "In der festen Wendung \"of utmost urgency/importance\" steht kein Artikel vor \"utmost\".",
@@ -3445,7 +3445,7 @@
       "an",
       "the",
       "a",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "Bei allgemeinen Aussagen über einen abstrakten, unzählbaren Begriff (hier: diplomacy) steht im Englischen kein Artikel.",
@@ -3690,7 +3690,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "Superlative (most experienced) verlangen im Englischen den bestimmten Artikel \"the\".",
@@ -3932,7 +3932,7 @@
     {
      "q": "The Security Council stated that ____ position on the refugee crisis would not change without further amendments.",
      "o": [
-      "(no article)",
+      "—",
       "an",
       "the",
       "a"
@@ -4178,7 +4178,7 @@
      "q": "____ NATO issued a joint statement shortly after the ministry of foreign affairs concluded talks on the diplomatic protocol.",
      "o": [
       "The",
-      "(no article)",
+      "—",
       "A",
       "An"
      ],
@@ -4426,7 +4426,7 @@
       "the",
       "a",
       "an",
-      "(no article)"
+      "—"
      ],
      "a": 1,
      "e": "Unbestimmter Artikel: \"a troubling pattern\", keine bestimmte, bereits erwähnte Sache."
@@ -4436,7 +4436,7 @@
      "q": "The auditors identified ____ single transaction that accounted for most of the discrepancy.",
      "o": [
       "a",
-      "(no article)",
+      "—",
       "an",
       "the"
      ],
@@ -4668,7 +4668,7 @@
      "cat": "Articles & Determiners",
      "q": "The committee could not agree on ____ single amendment to the draft text.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "the",
       "an"
@@ -4913,7 +4913,7 @@
      "q": "Despite repeated appeals, ____ little progress has been made on the security briefing this year.",
      "o": [
       "the",
-      "(no article)",
+      "—",
       "a",
       "an"
      ],
@@ -4927,7 +4927,7 @@
       "an",
       "a",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "Bei allgemeinen Aussagen über einen abstrakten, unzählbaren Begriff (hier: diplomacy) steht im Englischen kein Artikel.",
@@ -4940,7 +4940,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 1,
      "e": "Nach der Verneinung „not one … raised\" steht der unbestimmte Artikel; „objection\" beginnt mit einem Vokallaut, daher „an\"."
@@ -5161,7 +5161,7 @@
       "a",
       "the",
       "an",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "Nullartikel vor einmaligen Ämtern nach \"appoint\", wenn das Amt selbst (nicht eine Person darunter) benannt wird."
@@ -5403,7 +5403,7 @@
      "cat": "Articles & Determiners",
      "q": "The board approved ____ single exception to the otherwise strict eligibility criteria.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "the",
       "an"
@@ -5418,7 +5418,7 @@
       "A",
       "An",
       "The",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "Gemeint ist eine bestimmte, im Statut festgelegte Mehrheit; der Relativbezug („required to amend the statute\") macht den bestimmten Artikel zwingend."
@@ -5651,7 +5651,7 @@
       "an",
       "a",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "Bestimmter Artikel, da auf ein konkretes, bereits erwähntes Beweismaterial Bezug genommen wird."
@@ -5662,7 +5662,7 @@
      "o": [
       "an",
       "a",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 2,
@@ -5672,7 +5672,7 @@
      "q": "The report on the climate resolution, released ahead of the vote, was compiled by ____ independent panel of experts appointed by the Secretary-General.",
      "o": [
       "the",
-      "(no article)",
+      "—",
       "an",
       "a"
      ],
@@ -5894,7 +5894,7 @@
      "o": [
       "a",
       "an",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 2,
@@ -6138,7 +6138,7 @@
      "cat": "Articles & Determiners",
      "q": "The panel found ____ clear pattern of procurement irregularities across several contracts.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "an",
       "the"
@@ -6383,7 +6383,7 @@
      "q": "The visiting minister said that ____ every member state would be consulted before a final decision on the diplomatic protocol.",
      "o": [
       "an",
-      "(no article)",
+      "—",
       "a",
       "the"
      ],
@@ -6394,7 +6394,7 @@
     {
      "q": "____ NATO issued a joint statement shortly after the committee concluded talks on the sanctions regime.",
      "o": [
-      "(no article)",
+      "—",
       "A",
       "An",
       "The"
@@ -6408,7 +6408,7 @@
      "q": "She was subsequently named ____ acting director of the secretariat.",
      "o": [
       "a",
-      "(no article)",
+      "—",
       "the",
       "an"
      ],
@@ -6627,7 +6627,7 @@
     {
      "q": "____ NATO issued a joint statement shortly after the special rapporteur concluded talks on the border dispute.",
      "o": [
-      "(no article)",
+      "—",
       "A",
       "An",
       "The"
@@ -6641,7 +6641,7 @@
      "o": [
       "An",
       "A",
-      "(no article)",
+      "—",
       "The"
      ],
      "a": 2,
@@ -6876,7 +6876,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 0,
      "e": "„without a single …\" ist die feste Verstärkung der Verneinung; „the/an\" sind hier ausgeschlossen."
@@ -7117,7 +7117,7 @@
     {
      "q": "The tribunal said that ____ every member state would be consulted before a final decision on the border dispute.",
      "o": [
-      "(no article)",
+      "—",
       "an",
       "a",
       "the"
@@ -7133,7 +7133,7 @@
       "the",
       "a",
       "an",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "Nullartikel vor einem einmaligen Amtstitel nach \"install someone [title]\"."
@@ -7145,7 +7145,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 0,
      "e": "„by a clear margin\" ist die feste Wendung für einen Abstimmungsabstand."
@@ -7365,7 +7365,7 @@
      "o": [
       "an",
       "a",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 1,
@@ -7609,7 +7609,7 @@
      "q": "____ bulk of the humanitarian convoy was cleared through the checkpoint without incident.",
      "o": [
       "The",
-      "(no article)",
+      "—",
       "A",
       "An"
      ],
@@ -7622,7 +7622,7 @@
      "o": [
       "an",
       "the",
-      "(no article)",
+      "—",
       "a"
      ],
      "a": 3,
@@ -7856,7 +7856,7 @@
       "A",
       "An",
       "The",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "Der Relativsatz identifiziert die Stimme eindeutig; identifizierende Nachbestimmungen verlangen den bestimmten Artikel."
@@ -8098,7 +8098,7 @@
      "cat": "Articles & Determiners",
      "q": "She was subsequently confirmed ____ permanent representative to the organisation.",
      "o": [
-      "(no article)",
+      "—",
       "the",
       "an",
       "a"
@@ -8346,7 +8346,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "In der Wendung „the support of X\" steht der bestimmte Artikel, weil „of X\" die Unterstützung eindeutig bestimmt."
@@ -8588,7 +8588,7 @@
      "q": "The permanent representative stated that ____ position on the joint communiqué would not change without further amendments.",
      "o": [
       "the",
-      "(no article)",
+      "—",
       "a",
       "an"
      ],
@@ -8599,7 +8599,7 @@
     {
      "q": "The commission stated that ____ position on the humanitarian corridor would not change without further amendments.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "the",
       "an"
@@ -8836,7 +8836,7 @@
       "the",
       "an",
       "a",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "Nullartikel vor einem einmaligen Amtstitel in prädikativer Stellung."
@@ -9079,7 +9079,7 @@
      "q": "He was eventually appointed ____ resident coordinator for the affected region.",
      "o": [
       "an",
-      "(no article)",
+      "—",
       "a",
       "the"
      ],
@@ -9092,7 +9092,7 @@
       "an",
       "the",
       "a",
-      "(no article)"
+      "—"
      ],
      "a": 3,
      "e": "\"every\" steht nie mit Artikel; es bezieht sich distributiv auf jedes einzelne Mitglied ohne Einschränkung.",
@@ -9326,7 +9326,7 @@
       "A",
       "An",
       "The",
-      "(no article)"
+      "—"
      ],
      "a": 2,
      "e": "Das nachgestellte Partizipialattribut („still unallocated\") identifiziert den Anteil eindeutig."
@@ -9568,7 +9568,7 @@
      "cat": "Articles & Determiners",
      "q": "The court dismissed ____ single count in the otherwise extensive indictment.",
      "o": [
-      "(no article)",
+      "—",
       "an",
       "a",
       "the"
@@ -9812,7 +9812,7 @@
     {
      "q": "The report on the bilateral treaty, released following the summit, was compiled by ____ independent panel of experts appointed by the Secretary-General.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "the",
       "an"
@@ -10060,7 +10060,7 @@
      "o": [
       "a",
       "an",
-      "(no article)",
+      "—",
       "the"
      ],
      "a": 2,
@@ -10072,7 +10072,7 @@
      "o": [
       "the",
       "a",
-      "(no article)",
+      "—",
       "an"
      ],
      "a": 1,
@@ -10305,7 +10305,7 @@
       "an",
       "the",
       "a",
-      "(no article)"
+      "—"
      ],
      "a": 0,
      "e": "Vor einem vokalisch beginnenden Adjektiv (independent) steht \"an\", nicht \"a\".",
@@ -10550,7 +10550,7 @@
      "o": [
       "the",
       "a",
-      "(no article)",
+      "—",
       "an"
      ],
      "a": 2,
@@ -10563,7 +10563,7 @@
       "a",
       "an",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 0,
      "e": "„a great deal\" ist eine feste Mengenangabe und steht immer mit unbestimmtem Artikel."
@@ -10794,7 +10794,7 @@
      "o": [
       "The",
       "A",
-      "(no article)",
+      "—",
       "An"
      ],
      "a": 2,
@@ -11039,7 +11039,7 @@
      "o": [
       "the",
       "an",
-      "(no article)",
+      "—",
       "a"
      ],
      "a": 2,
@@ -11284,7 +11284,7 @@
      "q": "He was designated ____ special envoy for the region shortly after the ceasefire took effect.",
      "o": [
       "an",
-      "(no article)",
+      "—",
       "a",
       "the"
      ],
@@ -11529,7 +11529,7 @@
      "o": [
       "a",
       "the",
-      "(no article)",
+      "—",
       "an"
      ],
      "a": 2,
@@ -11773,7 +11773,7 @@
      "cat": "Articles & Determiners",
      "q": "The reviewers noted ____ single inconsistency that undermined confidence in the wider report.",
      "o": [
-      "(no article)",
+      "—",
       "a",
       "the",
       "an"
@@ -12020,7 +12020,7 @@
       "an",
       "a",
       "the",
-      "(no article)"
+      "—"
      ],
      "a": 0,
      "e": "Vor einem vokalisch beginnenden Adjektiv (independent) steht \"an\", nicht \"a\".",
