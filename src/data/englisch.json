@@ -1104,26 +1104,26 @@
      "lvl": "C2",
      "q": "The damage to the reactor proved ____ .",
      "o": [
-      "disreversible",
+      "reversible",
       "irreversible",
-      "unreversible",
-      "non-reversed"
+      "reversed",
+      "reversionary"
      ],
      "a": 1,
-     "e": "Negationspräfix: ir- vor r („irreversible“)."
+     "e": "„irreversible\" = nicht rückgängig zu machen — die Vorsilbe „ir-\" vor „r\" ist die einzige mögliche Verneinung dieses Stamms. Ausgeschlossen sind: „reversible\" (das genaue Gegenteil: rückgängig zu machen); „reversed\" (Partizip: bereits umgekehrt, nicht: nicht umkehrbar); „reversionary\" (erbrechtlicher Fachbegriff für ein Anwartschaftsrecht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Her ____ to comment fuelled the speculation.",
      "o": [
-      "reluctancy",
-      "reluctation",
-      "reluctantness",
-      "reluctance"
+      "reluctance",
+      "relevance",
+      "reliance",
+      "resilience"
      ],
-     "a": 3,
-     "e": "Korrekte Nominalisierung: „reluctance“."
+     "a": 0,
+     "e": "„reluctance to do something\" ist das Zögern, etwas zu tun — die einzige Fügung, die den Infinitiv „to comment\" trägt. Ausgeschlossen sind: „relevance\" (Erheblichkeit, verlangt „to\" + Nominalphrase); „reliance\" (Verlass, „reliance on\"); „resilience\" (Widerstandsfähigkeit, ebenfalls ohne Infinitivanschluss)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -1899,13 +1899,13 @@
      "lvl": "C2",
      "q": "Their claims are mutually ____ .",
      "o": [
-      "excluding",
       "exclusive",
-      "excluded",
-      "exclusionary"
+      "decisive",
+      "extensive",
+      "permissive"
      ],
-     "a": 1,
-     "e": "„mutually exclusive“ = schließen einander aus."
+     "a": 0,
+     "e": "„mutually exclusive\" ist die feste Fügung: die Ansprüche schließen einander aus. Ausgeschlossen sind: „decisive\" (entscheidend — „mutually decisive\" ergibt keine Aussage über das Verhältnis der Ansprüche); „extensive\" (umfangreich); „permissive\" (nachgiebig, freizügig)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -1913,12 +1913,12 @@
      "q": "Serious doubts surround the ____ of the plan.",
      "o": [
       "feasibility",
-      "feasibleness",
-      "possibleness",
-      "feasance"
+      "flexibility",
+      "fragility",
+      "frugality"
      ],
      "a": 0,
-     "e": "Korrekte Ableitung: „feasibility“."
+     "e": "„feasibility\" ist die Durchführbarkeit — genau das, woran Zweifel bestehen können. Ausgeschlossen sind: „flexibility\" (Anpassungsfähigkeit); „fragility\" (Zerbrechlichkeit); „frugality\" (Sparsamkeit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -2538,13 +2538,13 @@
      "lvl": "C2",
      "q": "The two ministries take ____ different approaches.",
      "o": [
-      "rootedly",
-      "groundly",
-      "foundationally",
-      "radically"
+      "radically",
+      "rapidly",
+      "rarely",
+      "readily"
      ],
-     "a": 3,
-     "e": "„radically different“ — feste Intensivierung."
+     "a": 0,
+     "e": "„radically different\" ist die feste Verstärkung: von Grund auf verschieden. Ausgeschlossen sind: „rapidly\" (schnell — ein Tempo, kein Grad des Unterschieds); „rarely\" (selten — eine Häufigkeit); „readily\" (bereitwillig, mühelos)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -2694,26 +2694,26 @@
      "lvl": "C2",
      "q": "His remarks were distinctly ____ .",
      "o": [
-      "disjudicious",
       "injudicious",
-      "misjudicious",
-      "unjudicious"
+      "judicious",
+      "judicial",
+      "prejudicial"
      ],
-     "a": 1,
-     "e": "Korrektes Präfix: „injudicious“ = unklug."
+     "a": 0,
+     "e": "„injudicious\" = unklug, unbedacht; „in-\" ist die einzige mögliche Verneinung dieses Stamms. Ausgeschlossen sind: „judicious\" (das Gegenteil: wohlüberlegt); „judicial\" (gerichtlich, auf Gerichte bezogen); „prejudicial\" (nachteilig, verlangt „to\" + Objekt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Both sides value the ____ of diplomatic relations.",
      "o": [
-      "maintainment",
-      "maintention",
-      "upkeeping",
-      "maintenance"
+      "maintenance",
+      "sustenance",
+      "countenance",
+      "ordinance"
      ],
-     "a": 3,
-     "e": "Korrekte Nominalisierung: „maintenance“."
+     "a": 0,
+     "e": "„the maintenance of relations\" ist die feste Wendung für deren Aufrechterhaltung. Ausgeschlossen sind: „sustenance\" (Nahrung, Lebensunterhalt); „countenance\" (Gesichtsausdruck bzw. Billigung); „ordinance\" (eine Verordnung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -3489,13 +3489,13 @@
      "lvl": "C2",
      "q": "His conduct was wholly ____ .",
      "o": [
-      "undefensible",
-      "disdefensible",
-      "non-defended",
-      "indefensible"
+      "indefensible",
+      "defensible",
+      "defensive",
+      "indefinable"
      ],
-     "a": 3,
-     "e": "Negationspräfix: „indefensible“ = nicht zu rechtfertigen."
+     "a": 0,
+     "e": "„indefensible\" = nicht zu rechtfertigen; „in-\" ist die etablierte Verneinung dieses Stamms. Ausgeschlossen sind: „defensible\" (das Gegenteil: vertretbar); „defensive\" (abwehrend, auf Verteidigungshaltung bezogen); „indefinable\" (nicht bestimmbar — es ginge um Begrifflichkeit, nicht um Rechtfertigung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -3503,12 +3503,12 @@
      "q": "The ____ of the argument escaped no one.",
      "o": [
       "significance",
-      "signification",
-      "significancy",
-      "significantness"
+      "signature",
+      "signatory",
+      "signalling"
      ],
      "a": 0,
-     "e": "Korrekte Nominalisierung: „significance“."
+     "e": "„the significance of an argument\" ist dessen Tragweite. Ausgeschlossen sind: „signature\" (Unterschrift); „signatory\" (der Unterzeichnerstaat, eine Person bzw. Partei); „signalling\" (das Aussenden von Signalen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4284,13 +4284,13 @@
      "lvl": "C2",
      "q": "His reasoning was patently ____ .",
      "o": [
-      "unlogical",
-      "dislogical",
       "illogical",
-      "non-logic"
+      "logical",
+      "illegible",
+      "illicit"
      ],
-     "a": 2,
-     "e": "Negationspräfix: „illogical“."
+     "a": 0,
+     "e": "„illogical\" = unlogisch; vor „l\" lautet die Verneinung „il-\". Ausgeschlossen sind: „logical\" (das Gegenteil); „illegible\" (unleserlich — es ginge um die Schrift, nicht um den Gedankengang); „illicit\" (unerlaubt, rechtswidrig)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4298,12 +4298,12 @@
      "q": "The board expressed its ____ with the outcome.",
      "o": [
       "dissatisfaction",
-      "dissatisfy",
-      "dissatisfyingness",
-      "unsatisfaction"
+      "dissertation",
+      "dissonance",
+      "distinction"
      ],
      "a": 0,
-     "e": "Korrekte Nominalisierung: „dissatisfaction“."
+     "e": "„to express dissatisfaction with something\" ist die feste Wendung für geäußerten Unmut. Ausgeschlossen sind: „dissertation\" (wissenschaftliche Abhandlung); „dissonance\" (Missklang, in der Psychologie „cognitive dissonance\"); „distinction\" (Unterscheidung bzw. Auszeichnung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -4975,13 +4975,13 @@
      "lvl": "C2",
      "q": "The chair sought to ____ over the divisions.",
      "o": [
+      "smooth",
       "soothe",
-      "sooth",
-      "smoothe",
-      "smooth"
+      "soften",
+      "sweeten"
      ],
-     "a": 3,
-     "e": "„to smooth over“ = glätten; „soothe“ = beruhigen (Personen)."
+     "a": 0,
+     "e": "„to smooth over differences\" ist das feste Phrasal Verb für das Glätten von Gegensätzen. Ausgeschlossen sind: „soothe\" (beruhigen — transitiv, ohne „over\"); „soften\" („soften up\" gibt es, „soften over\" nicht); „sweeten\" („sweeten the deal\" ist die Fügung, „sweeten over\" existiert nicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -5079,26 +5079,26 @@
      "lvl": "C2",
      "q": "The evidence was ruled ____ .",
      "o": [
-      "unadmissible",
-      "disadmissible",
-      "non-admitted",
-      "inadmissible"
+      "inadmissible",
+      "admissible",
+      "indispensable",
+      "indefensible"
      ],
-     "a": 3,
-     "e": "Negationspräfix: „inadmissible“ (Beweismittel)."
+     "a": 0,
+     "e": "„to rule evidence inadmissible\" ist die feste Wendung des Prozessrechts: das Beweismittel wird nicht zugelassen. Ausgeschlossen sind: „admissible\" (das Gegenteil: zulässig); „indispensable\" (unentbehrlich — ein Werturteil über die Bedeutung, keine Zulassungsentscheidung); „indefensible\" (nicht zu rechtfertigen, von Verhalten und Positionen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The court noted the ____ of the two accounts.",
      "o": [
-      "divergement",
-      "divergency",
       "divergence",
-      "diversion"
+      "diversion",
+      "diversity",
+      "division"
      ],
-     "a": 2,
-     "e": "Korrekte Nominalisierung: „divergence“."
+     "a": 0,
+     "e": "„the divergence of two accounts\" bezeichnet deren Auseinandergehen — Abweichungen zwischen zwei Darstellungen. Ausgeschlossen sind: „diversion\" (Ablenkung bzw. Umleitung); „diversity\" (Vielfalt, die eine Mehrzahl voraussetzt); „division\" (Teilung oder Spaltung, nicht das Abweichen zweier Aussagen voneinander)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -5875,12 +5875,12 @@
      "q": "The target proved wholly ____ .",
      "o": [
       "unattainable",
-      "non-attained",
-      "disattainable",
-      "inattainable"
+      "attainable",
+      "unavailable",
+      "unattended"
      ],
      "a": 0,
-     "e": "Negationspräfix: „unattainable“."
+     "e": "„unattainable\" = nicht erreichbar; „un-\" ist die etablierte Verneinung dieses Stamms. Ausgeschlossen sind: „attainable\" (das Gegenteil); „unavailable\" (nicht verfügbar — von Personen und Mitteln, nicht von Zielen); „unattended\" (unbeaufsichtigt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -5888,12 +5888,12 @@
      "q": "The summit's ____ was widely questioned.",
      "o": [
       "credibility",
-      "credence",
-      "creditability",
-      "credibleness"
+      "credulity",
+      "credentials",
+      "credit"
      ],
      "a": 0,
-     "e": "Korrekte Nominalisierung: „credibility“."
+     "e": "„credibility\" ist die Glaubwürdigkeit — das, was in Zweifel gezogen wird. Ausgeschlossen sind: „credulity\" (Leichtgläubigkeit, eine Eigenschaft des Publikums, nicht des Gipfels); „credentials\" (Beglaubigungsschreiben bzw. Qualifikationen, stets im Plural); „credit\" (Anerkennung bzw. Kredit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -7098,13 +7098,13 @@
      "lvl": "C1+",
      "q": "____ its jurisdictional limits, the Court has still secured a number of convictions.",
      "o": [
-      "In spite",
       "Although",
       "Notwithstanding",
-      "Despite of"
+      "Whereas",
+      "However"
      ],
-     "a": 2,
-     "e": "„notwithstanding“ + Nominalphrase (ohne „of“); „despite of“ ist falsch, „although“ verlangt einen Nebensatz."
+     "a": 1,
+     "e": "„notwithstanding\" ist die einzige der vier Formen, die als Präposition unmittelbar eine Nominalphrase regieren kann. Ausgeschlossen sind: „Although\" und „Whereas\" (Konjunktionen, die einen vollständigen Nebensatz mit finitem Verb verlangen — „Although its limits are …\"); „However\" (Adverb, das einen eigenen Hauptsatz einleitet und durch Komma abgetrennt wird)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -7122,15 +7122,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The prosecutor read the file and ____ before the hearing.",
+     "q": "The prosecutor read the file and ____ its main findings before the hearing.",
      "o": [
-      "summarised to it",
       "summarised",
-      "it summarised",
-      "summarised it"
+      "commented",
+      "remarked",
+      "alluded"
      ],
-     "a": 3,
-     "e": "Pronominales Objekt „it“ ist nach transitivem „summarise“ obligatorisch."
+     "a": 0,
+     "e": "„to summarise something\" ist transitiv und nimmt das Objekt ohne Präposition. Ausgeschlossen sind: „commented\" (verlangt „on\": „commented on its findings\"); „remarked\" (verlangt „on\" bzw. „upon\"); „alluded\" (verlangt „to\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -7893,13 +7893,13 @@
      "lvl": "C1+",
      "q": "____ the restrictive doctrine, several states still resist any narrowing of their immunity.",
      "o": [
-      "Although",
+      "Whereas",
       "Notwithstanding",
-      "Despite of",
-      "In spite"
+      "However",
+      "Although"
      ],
      "a": 1,
-     "e": "„notwithstanding“ + Nominalphrase (ohne „of“); „despite of“ ist falsch, „although“ verlangt einen Nebensatz."
+     "e": "Nur „notwithstanding\" kann als Präposition direkt vor einer Nominalphrase stehen. Ausgeschlossen sind: „Whereas\" und „Although\" (verlangen einen finiten Nebensatz); „However\" (Adverb, das einen eigenständigen Hauptsatz einleitet)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -7917,15 +7917,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The clerk read the filing and ____ before the hearing began.",
+     "q": "The clerk read the filing and ____ the discrepancy before the hearing began.",
      "o": [
-      "logged it",
-      "logged",
-      "it logged",
-      "logged to it"
+      "reported",
+      "objected",
+      "protested",
+      "complained"
      ],
      "a": 0,
-     "e": "Pronominales Objekt „it“ ist nach transitivem „log“ obligatorisch."
+     "e": "„to report something\" ist transitiv und nimmt das Objekt unmittelbar. Ausgeschlossen sind: „objected\" (verlangt „to\"); „protested\" (im britischen Gebrauch „protested against\"); „complained\" (verlangt „about\" bzw. „of\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -8075,28 +8075,28 @@
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "The investor initiated ____ proceedings against the host state before a three-member tribunal.",
+     "q": "The investor initiated proceedings before a three-member ____ tribunal.",
      "o": [
-      "arbitrary",
       "arbitral",
-      "arbitration's",
-      "arbitrated"
+      "arbitrary",
+      "appellate",
+      "advisory"
      ],
-     "a": 1,
-     "e": "„arbitral proceedings“ ist die feste Fachkollokation; „arbitrary“ ist ein Homophon-naher False-Friend-Distraktor (willkürlich)."
+     "a": 0,
+     "e": "„an arbitral tribunal\" ist das Schiedsgericht — der stehende Ausdruck des Investitionsschutzrechts. Ausgeschlossen sind: „arbitrary\" (willkürlich — ein Werturteil über das Verfahren, keine Verfahrensart); „appellate\" (eine Rechtsmittelinstanz, die nicht erstinstanzlich angerufen wird); „advisory\" (ein beratendes Gremium erlässt Gutachten, vor ihm werden keine Verfahren eingeleitet)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The tribunal issued an ____ ordering the state to pay several hundred million dollars in compensation.",
      "o": [
-      "reward",
-      "awarding",
-      "awardment",
-      "award"
+      "award",
+      "accord",
+      "edict",
+      "estimate"
      ],
-     "a": 3,
-     "e": "„arbitral award“ = Schiedsspruch; „reward“ ist ein False-Friend-Distraktor (Belohnung)."
+     "a": 0,
+     "e": "„an award\" ist der Schiedsspruch — die Entscheidung, mit der ein Schiedsgericht das Verfahren beendet. Ausgeschlossen sind: „accord\" (eine Übereinkunft, die die Parteien schließen, nicht das Gericht erlässt); „edict\" (ein obrigkeitlicher Erlass, historisch von Herrschern); „estimate\" (eine Schätzung, keine vollstreckbare Anordnung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8116,13 +8116,13 @@
      "lvl": "C2",
      "q": "Brussels favours replacing ad hoc panels with a standing court answerable to an ____ body.",
      "o": [
-      "appealed",
-      "appealing",
       "appellate",
-      "appeal's"
+      "appealing",
+      "apparent",
+      "applicable"
      ],
-     "a": 2,
-     "e": "„appellate body“ = Berufungsinstanz; feste institutionelle Bezeichnung."
+     "a": 0,
+     "e": "„an appellate body\" ist die Rechtsmittelinstanz — der feststehende Ausdruck, wie beim Appellate Body der WTO. Ausgeschlossen sind: „appealing\" (ansprechend, reizvoll); „apparent\" (offenkundig); „applicable\" (anwendbar — von Regeln, nicht von Gremien)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8156,25 +8156,25 @@
      "q": "The ____ argued that the state's new tobacco-packaging law amounted to indirect expropriation.",
      "o": [
       "investor",
-      "investment",
-      "investing",
-      "invested"
+      "inventor",
+      "investigator",
+      "instigator"
      ],
      "a": 0,
-     "e": "„the investor“ = die klagende Partei im ISDS-Verfahren; die übrigen Formen sind grammatisch unpassend als Subjekt."
+     "e": "Nur der „investor\" kann sich auf eine indirekte Enteignung berufen — er ist Träger des geschützten Rechts. Ausgeschlossen sind: „inventor\" (der Erfinder, dessen Rechte im Patentrecht liegen); „investigator\" (ein Ermittler, der keine eigenen Ansprüche geltend macht); „instigator\" (der Anstifter einer Handlung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The ____ state maintained that the measure fell squarely within its regulatory prerogative.",
      "o": [
-      "host's",
-      "hosted",
-      "hosting",
-      "host"
+      "host",
+      "guest",
+      "hostage",
+      "refuge"
      ],
-     "a": 3,
-     "e": "„host state“ = der beklagte Staat, auf dessen Territorium investiert wurde; feste ISDS-Terminologie."
+     "a": 0,
+     "e": "„the host state\" ist der Gaststaat, in dem die Investition liegt — der Terminus des Investitionsschutzrechts. Ausgeschlossen sind: „guest\" (den Begriff „guest state\" kennt das Investitionsrecht nicht); „hostage\" (eine Geisel — als Attribut ergäbe es keinen Sinn); „refuge\" (Zuflucht, ein Ort, kein Staatstyp)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8182,12 +8182,12 @@
      "q": "A growing number of states have terminated the underlying ____ rather than wait for reform.",
      "o": [
       "treaty",
-      "treaty's",
+      "treatise",
       "treatment",
-      "treatise"
+      "entreaty"
      ],
      "a": 0,
-     "e": "„terminate a treaty“ ist die feste völkerrechtliche Kollokation; „treatise“ ist ein Homophon-naher False Friend (wissenschaftliche Abhandlung)."
+     "e": "„to terminate a treaty\" heißt, den völkerrechtlichen Vertrag zu kündigen. Ausgeschlossen sind: „treatise\" (eine wissenschaftliche Abhandlung); „treatment\" (die Behandlung, im Investitionsrecht der Standard „fair and equitable treatment\", aber nichts Kündbares); „entreaty\" (eine inständige Bitte)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8233,39 +8233,39 @@
      "lvl": "C2",
      "q": "A standing court would be staffed by tenured judges rather than by party-appointed ____ .",
      "o": [
-      "adjudications",
-      "adjudicants",
-      "adjudicatives",
-      "adjudicators"
+      "adjudicators",
+      "administrators",
+      "auditors",
+      "archivists"
      ],
-     "a": 3,
-     "e": "„adjudicators“ = Entscheidungsträger; die übrigen Formen existieren so nicht im gebräuchlichen Englisch."
+     "a": 0,
+     "e": "„adjudicators\" sind die Entscheidenden — nur sie stehen im Gegensatz zu fest angestellten Richtern. Ausgeschlossen sind: „administrators\" (Verwaltungspersonal ohne Entscheidungsbefugnis); „auditors\" (Rechnungsprüfer); „archivists\" (Archivare)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The reform proposal would narrow the ____ tribunals currently enjoy when awarding damages.",
      "o": [
+      "discretion",
       "discrepancy",
-      "discretion's",
-      "discreetness",
-      "discretion"
+      "discourse",
+      "disclosure"
      ],
-     "a": 3,
-     "e": "„narrow the discretion“ ist die im Text verwendete Kollokation für eingeschränkten Ermessensspielraum."
+     "a": 0,
+     "e": "„discretion\" ist der Ermessensspielraum, den eine Reform einengen kann. Ausgeschlossen sind: „discrepancy\" (eine Abweichung zwischen zwei Angaben); „discourse\" (der Diskurs, die Erörterung); „disclosure\" (die Offenlegung von Informationen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Washington prefers tightening the ____ standards investors may invoke rather than replacing the arbitral model.",
      "o": [
-      "substantiated",
-      "substantial",
       "substantive",
-      "substantiating"
+      "substantial",
+      "subsidiary",
+      "subsequent"
      ],
-     "a": 2,
-     "e": "„substantive standards“ = materiell-rechtliche Maßstäbe, im Gegensatz zu verfahrensrechtlichen Fragen."
+     "a": 0,
+     "e": "„substantive standards\" sind die materiellrechtlichen Schutzstandards — im Gegensatz zu den Verfahrensregeln. Ausgeschlossen sind: „substantial\" (beträchtlich, dem Umfang nach — es sagte etwas über die Größe, nicht über die Rechtsnatur); „subsidiary\" (nachrangig, hilfsweise geltend); „subsequent\" (nachfolgend, zeitlich)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8390,25 +8390,25 @@
      "q": "Defenders of reform argue that the mere ____ of a claim can chill legitimate regulation before any tribunal even convenes.",
      "o": [
       "threat",
-      "threateningly",
-      "threatening",
-      "threatened"
+      "threshold",
+      "thrust",
+      "throughput"
      ],
      "a": 0,
-     "e": "„the mere threat of a claim“ ist die im Text zentrale Nominalphrase."
+     "e": "„the mere threat of a claim\" ist die bloße Androhung — sie wirkt schon vor jedem Verfahren. Ausgeschlossen sind: „threshold\" (eine Schwelle, ab der etwas gilt); „thrust\" (die Stoßrichtung eines Arguments); „throughput\" (die Durchsatzmenge eines Systems)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "A losing party may petition a domestic court to ____ the award on narrow procedural grounds.",
      "o": [
-      "evacuate",
       "vacate",
-      "vacation",
-      "vacant"
+      "evacuate",
+      "vacillate",
+      "validate"
      ],
-     "a": 1,
-     "e": "„to vacate an award“ = einen Schiedsspruch gerichtlich aufheben; nicht zu verwechseln mit „evacuate“ (evakuieren)."
+     "a": 0,
+     "e": "„to vacate an award\" heißt, den Schiedsspruch aufzuheben — genau das Ziel eines Aufhebungsantrags. Ausgeschlossen sind: „evacuate\" (räumen, in Sicherheit bringen); „vacillate\" (schwanken, unentschlossen sein — intransitiv); „validate\" (bestätigen, für gültig erklären — das Gegenteil des Begehrens)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -8686,41 +8686,41 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C1+",
-     "q": "____ its structural flaws, the current arbitral model still commands broad support among investors.",
+     "q": "____ its structural flaws, the current arbitral model still commands broad support.",
      "o": [
+      "However",
       "Although",
       "Notwithstanding",
-      "Despite of",
-      "In spite"
+      "Whereas"
      ],
-     "a": 1,
-     "e": "„notwithstanding“ + Nominalphrase (ohne „of“); „despite of“ ist falsch, „although“ verlangt einen Nebensatz."
+     "a": 2,
+     "e": "Nur „notwithstanding\" regiert als Präposition unmittelbar eine Nominalphrase. Ausgeschlossen sind: „Although\" und „Whereas\" (Konjunktionen, die ein finites Verb nach sich ziehen); „However\" (Adverb mit eigenem Hauptsatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She read the award and ____ within the statutory deadline.",
+     "q": "She read the award and ____ its findings within the statutory deadline.",
      "o": [
-      "challenged to it",
-      "it challenged",
-      "challenged against it",
-      "challenged it"
+      "challenged",
+      "objected",
+      "dissented",
+      "demurred"
      ],
-     "a": 3,
-     "e": "Pronominales Objekt steht zwingend unmittelbar nach dem transitiven Verb; keine Partikel oder Präposition ist hier nötig."
+     "a": 0,
+     "e": "„to challenge something\" ist transitiv und nimmt das Objekt unmittelbar. Ausgeschlossen sind: „objected\" (verlangt „to\"); „dissented\" (verlangt „from\"); „demurred\" (verlangt „at\" bzw. steht absolut)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The counsel drafted the memorandum and ____ before the deadline.",
+     "q": "The counsel drafted the memorandum and ____ it before the deadline.",
      "o": [
-      "it filed",
       "filed",
-      "filed to it",
-      "filed it"
+      "complied",
+      "conformed",
+      "adhered"
      ],
-     "a": 3,
-     "e": "Pronominales Objekt „it“ ist nach transitivem „file“ obligatorisch."
+     "a": 0,
+     "e": "„to file something\" ist transitiv: das Schriftstück wird eingereicht. Ausgeschlossen sind: „complied\" (verlangt „with\"); „conformed\" (verlangt „to\"); „adhered\" (verlangt „to\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -8885,13 +8885,13 @@
      "lvl": "C2",
      "q": "Offences committed on the ____ have long fallen within the reach of any state's courts.",
      "o": [
-      "open ocean",
       "high seas",
-      "deep water",
-      "open sea's"
+      "deep sea",
+      "open water",
+      "coastal shelf"
      ],
-     "a": 1,
-     "e": "„the high seas“ ist der feste völkerrechtliche Terminus, nicht „open ocean“ oder „deep water“."
+     "a": 0,
+     "e": "„the high seas\" ist der seerechtliche Terminus für den Bereich jenseits jeder nationalen Hoheit — dort greift die universelle Zuständigkeit. Ausgeschlossen sind: „deep sea\" (die Tiefsee als geographische, nicht als rechtliche Kategorie); „open water\" (offenes Gewässer, ohne rechtliche Bedeutung); „coastal shelf\" (der Festlandsockel, der gerade der Küstenstaatshoheit unterliegt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -8950,26 +8950,26 @@
      "lvl": "C2",
      "q": "Witnesses reluctant to travel may give ____ by video link instead.",
      "o": [
-      "witnessing",
-      "evidence's",
       "testimony",
-      "deposing"
+      "testament",
+      "testimonial",
+      "attestation"
      ],
-     "a": 2,
-     "e": "„to give testimony“ ist die feste prozessuale Kollokation für die Zeugenaussage."
+     "a": 0,
+     "e": "„to give testimony\" ist die feste Wendung für die Zeugenaussage. Ausgeschlossen sind: „testament\" (ein Testament bzw. ein Beleg für etwas); „testimonial\" (ein Empfehlungsschreiben oder eine Würdigung); „attestation\" (die Beglaubigung eines Schriftstücks, kein mündlicher Aussagevorgang)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Advocates of the older, broader doctrine regard its retreat as a ____ to political pressure.",
      "o": [
-      "concession's",
-      "yielding",
-      "surrendering",
-      "capitulation"
+      "capitulation",
+      "recapitulation",
+      "captivation",
+      "cultivation"
      ],
-     "a": 3,
-     "e": "„a capitulation to pressure“ ist die im Text gewählte Formulierung; die übrigen Optionen sind grammatisch unpassend oder untypisch als Substantiv-Kollokation."
+     "a": 0,
+     "e": "„a capitulation to pressure\" ist das Nachgeben unter Druck — der Vorwurf, den die Befürworter erheben. Ausgeschlossen sind: „recapitulation\" (die zusammenfassende Wiederholung); „captivation\" (die Bezauberung); „cultivation\" (die Pflege bzw. der Anbau)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9054,13 +9054,13 @@
      "lvl": "C2",
      "q": "Many arrest warrants under this doctrine remain ____ for years, if not decades.",
      "o": [
-      "unaccomplished",
       "unexecuted",
-      "unenacted",
-      "uncarried"
+      "executive",
+      "executory",
+      "executable"
      ],
-     "a": 1,
-     "e": "„an unexecuted warrant“ ist die im Text verwendete feste Kollokation."
+     "a": 0,
+     "e": "„an unexecuted warrant\" ist der nicht vollstreckte Haftbefehl. Ausgeschlossen sind: „executive\" (die vollziehende Gewalt betreffend); „executory\" (im Vertragsrecht: noch zu erfüllen — von Verträgen, nicht von Haftbefehlen); „executable\" (vollstreckbar — es bezeichnete die Möglichkeit, nicht das Unterbleiben)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9081,25 +9081,25 @@
      "q": "Indicting a foreign official has more than once provoked diplomatic ____ .",
      "o": [
       "fallout",
-      "backlash's",
-      "aftermath's",
-      "repercussion"
+      "falloff",
+      "fallacy",
+      "fallowness"
      ],
      "a": 0,
-     "e": "„diplomatic fallout“ ist die im Text verwendete feste Kollokation für die politischen Folgen."
+     "e": "„diplomatic fallout\" ist die feste Wendung für die unerwünschten Folgewirkungen eines Schritts. Ausgeschlossen sind: „falloff\" (ein Rückgang von Mengen oder Zahlen); „fallacy\" (ein Denkfehler); „fallowness\" (das Brachliegen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Some governments responded to the indictment by ordering the ____ of their ambassador.",
      "o": [
-      "reclaiming",
-      "recallment",
       "recall",
-      "recalling"
+      "recollection",
+      "reconciliation",
+      "reclamation"
      ],
-     "a": 2,
-     "e": "„the recall of an ambassador“ ist die feste diplomatische Kollokation."
+     "a": 0,
+     "e": "„the recall of an ambassador\" ist die Abberufung — die schärfste Missfallensbekundung unterhalb des Abbruchs der Beziehungen. Ausgeschlossen sind: „recollection\" (die Erinnerung an etwas); „reconciliation\" (die Aussöhnung, also das Gegenteil); „reclamation\" (die Rückgewinnung von Land oder Material)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9119,39 +9119,39 @@
      "lvl": "C2",
      "q": "____ of the restrictive-immunity doctrine argue it leaves too many state commercial actors exposed.",
      "o": [
-      "Proponent's",
       "Critics",
-      "Supporters'",
-      "Advocates"
+      "Criteria",
+      "Chronicles",
+      "Crises"
      ],
-     "a": 1,
-     "e": "„critics of X argue“ ist die grammatisch korrekte Kollokation (Plural, kein Apostroph als Subjekt); die übrigen Optionen sind fehlerhaft dekliniert oder passen inhaltlich nicht zur kritischen Position."
+     "a": 0,
+     "e": "„critics of a doctrine\" sind die Kritiker, die eine Auffassung vertreten können — nur sie „argue\". Ausgeschlossen sind: „Criteria\" (Maßstäbe, die nichts vorbringen); „Chronicles\" (Chroniken); „Crises\" (Krisen) — keine dieser Größen kann Träger einer Argumentation sein."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "____ of the retreat regard it instead as a necessary correction.",
      "o": [
-      "Cynic's",
-      "Doubter's",
-      "Disbeliever's",
-      "Sceptics"
+      "Sceptics",
+      "Spectres",
+      "Spectators",
+      "Sceptres"
      ],
-     "a": 3,
-     "e": "„sceptics of X“ ist die im Text verwendete Kollokation; die übrigen Optionen sind grammatisch fehlerhaft."
+     "a": 0,
+     "e": "„sceptics\" sind die Zweifler, die eine eigene Bewertung vornehmen können. Ausgeschlossen sind: „Spectres\" (Gespenster); „Spectators\" (Zuschauer — sie beobachten, ohne die Sache zu beurteilen); „Sceptres\" (Zepter, Herrschaftsinsignien)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The narrower doctrine is said to restore a measure of ____ to an otherwise ambitious legal principle.",
      "o": [
-      "realistic",
-      "reality's",
-      "realness",
-      "realism"
+      "realism",
+      "ritualism",
+      "realisation",
+      "rationing"
      ],
-     "a": 3,
-     "e": "„restoring a measure of realism“ ist die im Text verwendete Nominalphrase."
+     "a": 0,
+     "e": "„a measure of realism\" ist das Maß an Wirklichkeitssinn, das eine überdehnte Konstruktion wieder erdet. Ausgeschlossen sind: „ritualism\" (das Festhalten an Formen um ihrer selbst willen); „realisation\" (das Erkennen bzw. die Verwirklichung eines Vorhabens); „rationing\" (die Zuteilung knapper Güter)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9171,39 +9171,39 @@
      "lvl": "C2",
      "q": "Only a handful of convictions have been ____ under this doctrine to date.",
      "o": [
-      "won's",
-      "gained",
-      "obtaining",
-      "secured"
+      "secured",
+      "ensured",
+      "insured",
+      "assured"
      ],
-     "a": 3,
-     "e": "„convictions secured“ ist die im Text verwendete feste Kollokation."
+     "a": 0,
+     "e": "„to secure a conviction\" ist die feste Wendung der Anklagebehörde: eine Verurteilung erwirken. Ausgeschlossen sind: „ensured\" (sicherstellen, dass etwas geschieht — man stellt keine Verurteilung sicher); „insured\" (versichern gegen ein Risiko); „assured\" (jemandem etwas zusichern)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "An ____ version of the doctrine once allowed prosecutions with almost no jurisdictional link at all.",
      "o": [
-      "expansion's",
       "expansive",
-      "expanded",
-      "expanding"
+      "expensive",
+      "expendable",
+      "expedient"
      ],
-     "a": 1,
-     "e": "„an expansive version of the doctrine“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„an expansive version\" ist die weite, ausgreifende Lesart einer Lehre. Ausgeschlossen sind: „expensive\" (teuer); „expendable\" (entbehrlich, verzichtbar); „expedient\" (zweckdienlich im Sinne von opportun)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The court could not compel the ____ to appear, since he had never entered its territory.",
      "o": [
-      "offense",
-      "offence's",
       "offender",
-      "offending"
+      "offering",
+      "offensive",
+      "offence"
      ],
-     "a": 2,
-     "e": "„the offender“ = der Täter; die übrigen Formen sind grammatisch fehlerhaft als Subjektsnomen."
+     "a": 0,
+     "e": "„the offender\" ist der Täter — nur eine Person kann zum Erscheinen verpflichtet werden. Ausgeschlossen sind: „offering\" (eine Gabe bzw. ein Angebot); „offensive\" (ein militärischer Vorstoß bzw. das Adjektiv „anstößig\"); „offence\" (die Tat selbst, die nicht erscheinen kann)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -9481,41 +9481,41 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "____ the tribunal's limited resources, the trial chamber still managed to hear over sixty witnesses.",
+     "q": "____ the tribunal's limited resources, the trial chamber still managed to hear one hundred witnesses.",
      "o": [
-      "Despite of",
       "Although",
-      "In spite",
+      "Whereas",
+      "However",
       "Notwithstanding"
      ],
      "a": 3,
-     "e": "„Notwithstanding + Nominalphrase“, ohne „of“."
+     "e": "Nur „notwithstanding\" steht als Präposition direkt vor der Nominalphrase. Ausgeschlossen sind: „Although\" und „Whereas\" (verlangen einen finiten Nebensatz); „However\" (Adverb, das einen eigenen Hauptsatz einleitet)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She reviewed the transcript and ____ within the hour.",
+     "q": "She reviewed the transcript and ____ it within the hour.",
      "o": [
-      "it annotated",
-      "annotated it",
-      "annotated against it",
-      "annotated to it"
-     ],
-     "a": 1,
-     "e": "Pronomen-Objekt-Stellung nach Phrasal-Verb-losem Vollverb: „annotated it“."
-    },
-    {
-     "cat": "Grammatik/Zeitformen",
-     "lvl": "C2",
-     "q": "The clerk copied the exhibit list and ____ before the recess.",
-     "o": [
-      "filed it",
-      "it filed",
-      "filed to it",
-      "filed against it"
+      "annotated",
+      "commented",
+      "remarked",
+      "elaborated"
      ],
      "a": 0,
-     "e": "Pronomen-Objekt-Stellung: „filed it“."
+     "e": "„to annotate something\" ist transitiv. Ausgeschlossen sind: „commented\" (verlangt „on\"); „remarked\" (verlangt „on\" bzw. „upon\"); „elaborated\" (verlangt „on\")."
+    },
+    {
+     "cat": "Grammatik/Zeitformen",
+     "lvl": "C2",
+     "q": "The clerk copied the exhibit list and ____ it before the recess.",
+     "o": [
+      "circulated",
+      "disposed",
+      "presided",
+      "embarked"
+     ],
+     "a": 0,
+     "e": "„to circulate something\" ist transitiv: die Liste wird in Umlauf gegeben. Ausgeschlossen sind: „disposed\" (verlangt „of\"); „presided\" (verlangt „over\"); „embarked\" (verlangt „on\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -9668,12 +9668,12 @@
      "q": "Many objects now claimed were removed under conditions amounting to outright ____ during periods of conquest.",
      "o": [
       "plunder",
-      "raiding",
-      "looting's",
-      "pillaging's"
+      "plunge",
+      "blunder",
+      "pledge"
      ],
      "a": 0,
-     "e": "„outright plunder“ ist die im Text verwendete Kollokation; die übrigen Optionen sind grammatisch unpassend oder untypisch."
+     "e": "„plunder\" ist die gewaltsame Wegnahme im Zuge einer Eroberung — der Ausdruck, den „outright\" verstärkt. Ausgeschlossen sind: „plunge\" (ein Sturz oder ein jäher Rückgang); „blunder\" (ein grober Fehler); „pledge\" (ein Versprechen bzw. ein Pfand)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9681,38 +9681,38 @@
      "q": "Establishing an object's ____ has become central to any restitution claim.",
      "o": [
       "provenance",
-      "origin's",
-      "background",
-      "source's"
+      "providence",
+      "province",
+      "prominence"
      ],
      "a": 0,
-     "e": "„provenance“ ist der feste kunsthistorisch-rechtliche Fachbegriff für die Herkunftsgeschichte eines Objekts."
+     "e": "„provenance\" ist die lückenlose Herkunfts- und Eigentumsgeschichte eines Objekts — der Fachbegriff des Kunsthandels. Ausgeschlossen sind: „providence\" (Vorsehung bzw. Vorsorglichkeit); „province\" (eine Verwaltungsregion bzw. ein Zuständigkeitsbereich); „prominence\" (Bekanntheit, Bedeutung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The ____ argued that decades of archival research supported the claim's underlying facts.",
      "o": [
-      "claiming party's",
-      "claimant's",
-      "claimer",
-      "claimant"
+      "claimant",
+      "defendant",
+      "custodian",
+      "appraiser"
      ],
-     "a": 3,
-     "e": "„the claimant“ = die anspruchsstellende Partei; die übrigen Formen sind grammatisch fehlerhaft als Subjekt."
+     "a": 0,
+     "e": "„the claimant\" ist die anspruchstellende Partei — nur sie trägt die eigenen Anspruchstatsachen vor. Ausgeschlossen sind: „defendant\" (die beklagte Partei, die den Anspruch gerade bestreitet); „custodian\" (der Verwahrer, der keine eigene Forderung erhebt); „appraiser\" (der Schätzgutachter, der bewertet, aber nicht vorträgt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Ordinary ____ periods were never designed with century-old claims of this kind in mind.",
      "o": [
-      "limited",
       "limitation",
-      "limitation's",
-      "limiting"
+      "delimitation",
+      "elimination",
+      "illumination"
      ],
-     "a": 1,
-     "e": "„limitation period“ ist der feste zivilrechtliche Fachbegriff für die Verjährungsfrist."
+     "a": 0,
+     "e": "„limitation periods\" sind die Verjährungsfristen. Ausgeschlossen sind: „delimitation\" (die Abgrenzung von Gebieten oder Zuständigkeiten, ohne Fristbezug); „elimination\" (die Beseitigung — im Versicherungswesen als „elimination period\" ein Karenzzeitraum, nicht die Verjährung); „illumination\" (Beleuchtung bzw. Erhellung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9732,13 +9732,13 @@
      "lvl": "C2",
      "q": "The claimant alleged ____ taking during a period when the territory was under foreign occupation.",
      "o": [
-      "wronging",
-      "wrongdoer's",
       "wrongful",
-      "wronged"
+      "lawful",
+      "rightful",
+      "tactful"
      ],
-     "a": 2,
-     "e": "„wrongful taking“ ist die feste Fachkollokation für widerrechtliche Wegnahme."
+     "a": 0,
+     "e": "„wrongful taking\" ist der rechtswidrige Entzug — die Voraussetzung eines Rückgabeanspruchs. Ausgeschlossen sind: „lawful\" (rechtmäßig, also das Gegenteil des Vorwurfs); „rightful\" (rechtmäßig zustehend — es beschreibt den berechtigten Eigentümer, nicht die Wegnahme); „tactful\" (taktvoll)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9758,13 +9758,13 @@
      "lvl": "C2",
      "q": "A court must ultimately decide who holds legal ____ to the disputed object.",
      "o": [
-      "entitlement's",
-      "ownership's",
       "title",
-      "possession's"
+      "tenure",
+      "tenancy",
+      "tariff"
      ],
-     "a": 2,
-     "e": "„legal title“ ist die im Text verwendete Fachkollokation für das Eigentumsrecht."
+     "a": 0,
+     "e": "„legal title to something\" ist das Eigentumsrecht an einer Sache — der Ausdruck, über den ein Restitutionsstreit entschieden wird. Ausgeschlossen sind: „tenure\" (die gesicherte Innehabung eines Amtes oder von Grund und Boden); „tenancy\" (das Mietverhältnis an einer Immobilie); „tariff\" (ein Zoll- oder Gebührensatz)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9772,12 +9772,12 @@
      "q": "Some institutions have opted for ____ returns rather than face protracted litigation.",
      "o": [
       "voluntary",
-      "volunteer",
-      "volunteering",
-      "voluntarily"
+      "involuntary",
+      "vicarious",
+      "vexatious"
      ],
      "a": 0,
-     "e": "„voluntary returns“ ist die im Text verwendete adjektivische Kollokation."
+     "e": "„voluntary returns\" sind die freiwilligen Rückgaben — der Gegenbegriff zum gerichtlich erzwungenen Ergebnis. Ausgeschlossen sind: „involuntary\" (unfreiwillig, also gerade das Gegenteil des selbst gewählten Wegs); „vicarious\" (stellvertretend, im Haftungsrecht „vicarious liability\"); „vexatious\" (schikanös, von missbräuchlichen Klagen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9797,13 +9797,13 @@
      "lvl": "C2",
      "q": "The museum reached a negotiated ____ that avoided a formal ruling on legal title.",
      "o": [
-      "settling",
       "settlement",
-      "resolving",
-      "settlement's"
+      "resettlement",
+      "entitlement",
+      "instalment"
      ],
-     "a": 1,
-     "e": "„a negotiated settlement“ ist die im Text zentrale Kollokation."
+     "a": 0,
+     "e": "„a negotiated settlement\" ist der ausgehandelte Vergleich, der ein Urteil entbehrlich macht. Ausgeschlossen sind: „resettlement\" (die Umsiedlung von Menschen); „entitlement\" (der Anspruch selbst, nicht seine Beilegung); „instalment\" (eine Ratenzahlung bzw. eine Folge in einer Reihe)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9824,12 +9824,12 @@
      "q": "Some claims rest on decades of ____ research into shipping records and auction catalogues.",
      "o": [
       "archival",
-      "archiving",
-      "archived",
-      "archive's"
+      "archaic",
+      "architectural",
+      "anecdotal"
      ],
      "a": 0,
-     "e": "„archival research“ ist die im Text verwendete adjektivische Kollokation."
+     "e": "„archival research\" ist die Arbeit in Archivbeständen — genau das, was Frachtpapiere und Auktionskataloge verlangen. Ausgeschlossen sind: „archaic\" (altertümlich, veraltet — eine Eigenschaft der Sprache oder Sitten); „architectural\" (baukundlich); „anecdotal\" (auf Einzelerzählungen gestützt — das Gegenteil systematischer Quellenarbeit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9837,25 +9837,25 @@
      "q": "Establishing provenance across a century often requires ____ , methodical work by specialist researchers.",
      "o": [
       "exacting",
-      "painful",
-      "painsome",
-      "painstaken"
+      "exacted",
+      "exorbitant",
+      "exclusive"
      ],
      "a": 0,
-     "e": "„exacting work“ = anspruchsvolle, akribische Arbeit; die übrigen Formen sind entweder inhaltlich unpassend oder keine gebräuchlichen englischen Wörter."
+     "e": "„exacting work\" ist Arbeit, die höchste Genauigkeit fordert — die passende Ergänzung zu „methodical\". Ausgeschlossen sind: „exacted\" (Partizip: eingefordert, erzwungen); „exorbitant\" (übermäßig hoch, von Preisen und Forderungen); „exclusive\" (ausschließlich bzw. exklusiv)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Some claims rest on little more than the ____ that objects taken during conquest changed hands unwillingly.",
      "o": [
-      "presuming",
       "presumption",
-      "presumption's",
-      "presumed"
+      "presumptuousness",
+      "resumption",
+      "consumption"
      ],
-     "a": 1,
-     "e": "„the presumption that…“ ist die im Text verwendete Nominalphrase gefolgt von einem that-Satz."
+     "a": 0,
+     "e": "„the presumption that …\" ist die widerlegliche Annahme, auf die sich ein Anspruch stützen kann. Ausgeschlossen sind: „presumptuousness\" (Anmaßung als Charaktereigenschaft); „resumption\" (die Wiederaufnahme eines Vorgangs); „consumption\" (der Verbrauch)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9875,65 +9875,65 @@
      "lvl": "C2",
      "q": "Claimants must cross a legal ____ that differs sharply from one jurisdiction to the next.",
      "o": [
-      "landscape's",
       "terrain",
-      "territory's",
-      "ground"
+      "terrace",
+      "threshold",
+      "tribunal"
      ],
-     "a": 1,
-     "e": "„legal terrain“ ist die im Text verwendete Metapher für das rechtliche Umfeld."
+     "a": 0,
+     "e": "„legal terrain\" ist das Bild der Rechtslandschaft, die man durchqueren muss. Ausgeschlossen sind: „terrace\" (eine Terrasse bzw. Häuserzeile); „threshold\" (eine einzelne Schwelle, kein zu durchquerendes Gelände); „tribunal\" (ein Spruchkörper, den man nicht „durchquert\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Museums and other ____ once treated their collections as permanent and largely unquestionable.",
      "o": [
-      "institutional bodies",
       "institutions",
-      "establishment's",
-      "institution's"
+      "instructions",
+      "installations",
+      "insinuations"
      ],
-     "a": 1,
-     "e": "„institutions“ ist die im Text verwendete Sammelbezeichnung für Museen und ähnliche Einrichtungen."
+     "a": 0,
+     "e": "„institutions\" fasst Museen, Bibliotheken und Archive als Trägerorganisationen zusammen — nur sie können Sammlungen halten. Ausgeschlossen sind: „instructions\" (Anweisungen); „installations\" (Anlagen bzw. Installationen als Kunstform); „insinuations\" (Unterstellungen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The object's ownership remained ____ for decades before the claim was finally filed.",
      "o": [
-      "contestable",
-      "contesting",
-      "contestant",
-      "contested"
+      "contested",
+      "contextual",
+      "consented",
+      "conceded"
      ],
-     "a": 3,
-     "e": "„contested ownership“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„ownership remained contested\" heißt, das Eigentum blieb strittig. Ausgeschlossen sind: „contextual\" (auf den Zusammenhang bezogen); „consented\" (Partizip zu „einwilligen\" — man willigt in etwas ein, ein Eigentum „bleibt\" nicht eingewilligt); „conceded\" (zugestanden — es hieße, der Streit sei beendet)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Rather than litigate, the parties chose to ____ a voluntary return.",
      "o": [
-      "negotiation",
-      "negotiable",
       "negotiate",
-      "negotiator"
+      "navigate",
+      "nominate",
+      "necessitate"
      ],
-     "a": 2,
-     "e": "„to negotiate a return“ ist die im Text verwendete verbale Kollokation."
+     "a": 0,
+     "e": "„to negotiate a return\" heißt, die Rückgabe im Verhandlungsweg zu vereinbaren — der Gegensatz zu „litigate\". Ausgeschlossen sind: „navigate\" (sich durch etwas hindurchbewegen); „nominate\" (jemanden benennen); „necessitate\" (etwas erforderlich machen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Claims once ____ out of hand are now taken seriously enough to negotiate over.",
      "o": [
-      "dismissive",
-      "dismissal's",
-      "dismissing",
-      "dismissed"
+      "dismissed",
+      "dismantled",
+      "disbursed",
+      "dispatched"
      ],
-     "a": 3,
-     "e": "„dismissed out of hand“ ist die im Text verwendete feste Wendung für die sofortige, unbegründete Zurückweisung."
+     "a": 0,
+     "e": "„to dismiss a claim out of hand\" heißt, ihn ohne nähere Prüfung zurückzuweisen. Ausgeschlossen sind: „dismantled\" (abgebaut, zerlegt — von Anlagen und Strukturen); „disbursed\" (ausgezahlt, von Geldern); „dispatched\" (versandt bzw. rasch erledigt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -9941,64 +9941,64 @@
      "q": "The claim rested on evidence of ____ dating back to a period of foreign occupation.",
      "o": [
       "wrongdoing",
-      "wrongfulness",
-      "wrongness",
-      "wronging's"
+      "misgiving",
+      "undertaking",
+      "undoing"
      ],
      "a": 0,
-     "e": "„evidence of wrongdoing“ ist die feste Kollokation für den Nachweis eines Fehlverhaltens."
+     "e": "„evidence of wrongdoing\" ist der stehende Ausdruck für Belege eines Fehlverhaltens. Ausgeschlossen sind: „misgiving\" (ein Bedenken, ein inneres Zögern); „undertaking\" (ein Vorhaben bzw. eine verbindliche Zusage); „undoing\" (der Untergang, das, woran jemand scheitert)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Some courts hold that the clock begins running only once the current ____ becomes known to the claimant.",
      "o": [
-      "possession's",
-      "possessed",
-      "possessing",
-      "possessor"
+      "possessor",
+      "predecessor",
+      "processor",
+      "professor"
      ],
-     "a": 3,
-     "e": "„the current possessor“ = der gegenwärtige Besitzer; feste Fügung aus dem Text."
+     "a": 0,
+     "e": "„the current possessor\" ist der gegenwärtige Besitzer, dessen Identität die Frist auslöst. Ausgeschlossen sind: „predecessor\" (der Vorgänger — dessen Identität ändert an der Fristfrage nichts); „processor\" (eine verarbeitende Stelle bzw. ein Rechenwerk); „professor\" (ein Hochschullehrer)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Some courts bar claims however ____ the underlying evidence of wrongful taking may be.",
      "o": [
-      "compulsion's",
-      "compelled",
       "compelling",
-      "compellable"
+      "compulsive",
+      "compliant",
+      "competitive"
      ],
-     "a": 2,
-     "e": "„however compelling the evidence“ ist die im Text verwendete konzessive Fügung."
+     "a": 0,
+     "e": "„compelling evidence\" ist zwingendes, überzeugendes Beweismaterial. Ausgeschlossen sind: „compulsive\" (zwanghaft — eine Eigenschaft des Verhaltens, nicht der Beweise); „compliant\" (regelkonform, fügsam); „competitive\" (wettbewerbsfähig)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Good-faith doctrines protect a buyer regardless of the object's ____ , tainted provenance.",
      "o": [
-      "underlain",
       "underlying",
-      "underlie's",
-      "underlaying"
+      "underlined",
+      "undermined",
+      "understated"
      ],
-     "a": 1,
-     "e": "„underlying provenance“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„the underlying provenance\" ist die zugrunde liegende, hinter dem Erwerb stehende Herkunftsgeschichte. Ausgeschlossen sind: „underlined\" (unterstrichen, im wörtlichen Sinn); „undermined\" (untergraben, geschwächt); „understated\" (zu niedrig angegeben bzw. zurückhaltend dargestellt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The direction of travel on restitution claims is by now ____ , even to sceptical observers.",
      "o": [
-      "mistakeless",
-      "unmistaken",
       "unmistakable",
-      "undismissible"
+      "unremarkable",
+      "unmentionable",
+      "unmanageable"
      ],
-     "a": 2,
-     "e": "„the direction of travel is unmistakable“ ist die im Text verwendete Schlussformel."
+     "a": 0,
+     "e": "„unmistakable\" = unverkennbar; die Entwicklung ist nicht zu übersehen, auch nicht von Skeptikern. Ausgeschlossen sind: „unremarkable\" (unauffällig — das Gegenteil der Aussage); „unmentionable\" (unaussprechlich, anstößig); „unmanageable\" (nicht zu bewältigen)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -10276,41 +10276,41 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "____ the strength of the claimant's documentation, the museum initially refused to enter negotiations at all.",
+     "q": "____ the strength of the claimant's documentation, the museum initially refused to negotiate.",
      "o": [
-      "Despite of",
+      "Whereas",
+      "However",
       "Notwithstanding",
-      "In spite",
       "Although"
      ],
-     "a": 1,
-     "e": "„Notwithstanding + Nominalphrase“, ohne „of“."
+     "a": 2,
+     "e": "Nur „notwithstanding\" kann eine Nominalphrase unmittelbar regieren. Ausgeschlossen sind: „Whereas\" und „Although\" (Konjunktionen mit finitem Nebensatz); „However\" (Adverb mit eigenem Hauptsatz)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "She examined the ledger and ____ within a week of receiving it.",
+     "q": "She examined the ledger and ____ it within a week of receiving it.",
      "o": [
-      "it authenticated",
-      "authenticated against it",
-      "authenticated it",
-      "authenticated to it"
+      "authenticated",
+      "vouched",
+      "testified",
+      "deposed"
      ],
-     "a": 2,
-     "e": "Pronomen-Objekt-Stellung: „authenticated it“."
+     "a": 0,
+     "e": "„to authenticate something\" ist transitiv: die Echtheit wird bestätigt. Ausgeschlossen sind: „vouched\" (verlangt „for\"); „testified\" (verlangt „to\" bzw. einen dass-Satz); „deposed\" (bedeutet im Verfahrensrecht, jemanden eidlich zu vernehmen — das Objekt wäre eine Person)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The archivist copied the correspondence and ____ before the hearing.",
+     "q": "The archivist copied the correspondence and ____ it before the hearing.",
      "o": [
-      "it translated",
-      "translated to it",
-      "translated it",
-      "translated against it"
+      "translated",
+      "referred",
+      "alluded",
+      "pointed"
      ],
-     "a": 2,
-     "e": "Pronomen-Objekt-Stellung: „translated it“."
+     "a": 0,
+     "e": "„to translate something\" ist transitiv. Ausgeschlossen sind: „referred\" (verlangt „to\"); „alluded\" (verlangt „to\"); „pointed\" (verlangt „to\" bzw. „out\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -10462,117 +10462,117 @@
      "lvl": "C2",
      "q": "The accused ____ was recalled by his government within days of the allegation becoming public.",
      "o": [
-      "envoy's",
-      "enviable",
       "envoy",
-      "envoyed"
+      "envoi",
+      "entourage",
+      "entrepôt"
      ],
-     "a": 2,
-     "e": "„the envoy“ = der Diplomat/Gesandte; die übrigen Formen sind grammatisch fehlerhaft oder unpassend."
+     "a": 0,
+     "e": "„envoy\" ist der entsandte Diplomat — nur eine Person kann abberufen werden. Ausgeschlossen sind: „envoi\" (die Schlussstrophe eines Gedichts); „entourage\" (das Gefolge als Gruppe, das nicht „der Beschuldigte\" sein kann); „entrepôt\" (ein Umschlagplatz für Waren)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The employee in question worked at the diplomatic ____ rather than the consulate.",
      "o": [
+      "mission",
       "missive",
-      "missionary",
       "emission",
-      "mission"
+      "omission"
      ],
-     "a": 3,
-     "e": "„the diplomatic mission“ ist der feste Fachbegriff für die Auslandsvertretung; die übrigen Wörter sind lautlich ähnliche False Friends."
+     "a": 0,
+     "e": "„a diplomatic mission\" ist die Auslandsvertretung — der Gegenbegriff zum Konsulat. Ausgeschlossen sind: „missive\" (ein förmliches Schreiben); „emission\" (ein Ausstoß, etwa von Gasen); „omission\" (eine Unterlassung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Under the Convention, the ____ state may declare a diplomat persona non grata at any time.",
      "o": [
-      "receiver's",
       "receiving",
-      "receptive",
-      "received"
+      "sending",
+      "neighbouring",
+      "succeeding"
      ],
-     "a": 1,
-     "e": "„the receiving state“ = der Gaststaat, der eine Vertretung empfängt; feste völkerrechtliche Terminologie."
+     "a": 0,
+     "e": "Nur der Empfangsstaat kann einen Diplomaten zur unerwünschten Person erklären — er ist Herr des Zugangs zu seinem Hoheitsgebiet. Ausgeschlossen sind: „sending\" (der Entsendestaat kann seinen eigenen Diplomaten abberufen, ihn aber nicht zur unerwünschten Person erklären); „neighbouring\" (ein Nachbarstaat hat mit der Akkreditierung nichts zu tun); „succeeding\" (der Nachfolgestaat betrifft Fragen der Staatennachfolge)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The ____ state remains free to waive immunity or prosecute the individual under its own law.",
      "o": [
-      "sent",
-      "sender's",
       "sending",
-      "sendable"
+      "receiving",
+      "neighbouring",
+      "succeeding"
      ],
-     "a": 2,
-     "e": "„the sending state“ = der Entsendestaat; feste völkerrechtliche Terminologie, Gegenstück zu „receiving state“."
+     "a": 0,
+     "e": "Nur der Entsendestaat kann auf die Immunität verzichten — sie steht ihm, nicht der Person zu. Ausgeschlossen sind: „receiving\" (der Empfangsstaat kann ausweisen, aber nicht über eine fremde Immunität verfügen); „neighbouring\" (ohne jede Rolle im Verhältnis); „succeeding\" (betrifft die Staatennachfolge)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "A diplomat who commits an offence remains ____ guilty of it even though local courts cannot try him.",
      "o": [
-      "formalised",
-      "formal",
       "formally",
-      "formality's"
+      "formerly",
+      "forcibly",
+      "formidably"
      ],
-     "a": 2,
-     "e": "„remains formally guilty“ ist die im Text verwendete adverbiale Kollokation."
+     "a": 0,
+     "e": "„formally guilty\" heißt: der Form nach schuldig, auch wenn die Verfolgung ausgeschlossen ist. Ausgeschlossen sind: „formerly\" (früher, ehemals — eine Zeitangabe); „forcibly\" (gewaltsam); „formidably\" (beeindruckend, furchteinflößend)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Immunity exists to protect the ____ the envoy performs, not the individual himself.",
      "o": [
-      "functioning",
       "function",
-      "functional",
-      "functionality"
+      "faction",
+      "fiction",
+      "fraction"
      ],
-     "a": 1,
-     "e": "„to protect the function“ ist die im Text zentrale Nominalphrase."
+     "a": 0,
+     "e": "„the function an envoy performs\" ist die Aufgabe, die er wahrnimmt — der Schutzgegenstand der Konvention. Ausgeschlossen sind: „faction\" (eine Gruppierung innerhalb einer größeren Einheit); „fiction\" (eine Erfindung bzw. Rechtsfiktion); „fraction\" (ein Bruchteil)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Neither remedy the Convention provides can ____ a sending state to prosecute its own official.",
      "o": [
-      "compelled",
       "compel",
-      "compelling",
-      "compulsion"
+      "compile",
+      "compose",
+      "compensate"
      ],
-     "a": 1,
-     "e": "„to compel somebody to do something“ ist die im Kontext passende Verbform nach dem Modalverb „can“."
+     "a": 0,
+     "e": "„to compel somebody to do something\" heißt, jemanden zu einem Tun zu zwingen — genau das, was der Konvention fehlt. Ausgeschlossen sind: „compile\" (zusammenstellen, etwa Daten); „compose\" (verfassen bzw. zusammensetzen); „compensate\" (entschädigen — es verlangt zudem „for\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The sending state remains formally encouraged to ____ immunity or prosecute the individual once he returns home.",
      "o": [
-      "relinquishing",
-      "relinquishment",
       "relinquish",
-      "relinquished"
+      "replenish",
+      "relish",
+      "refurbish"
      ],
-     "a": 2,
-     "e": "„to relinquish immunity“ = auf Immunität verzichten; nach „to“ steht der bloße Infinitiv, nicht die Partizip- oder Substantivform."
+     "a": 0,
+     "e": "„to relinquish immunity\" heißt, auf sie zu verzichten. Ausgeschlossen sind: „replenish\" (wieder auffüllen, von Vorräten); „relish\" (etwas genießen); „refurbish\" (aufarbeiten, renovieren)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Prosecuting an official who never returns home requires a domestic system willing to ____ the case regardless.",
      "o": [
-      "persecute",
-      "prosecutor",
       "prosecute",
-      "prosecution's"
+      "persecute",
+      "proscribe",
+      "prosper"
      ],
-     "a": 2,
-     "e": "„to prosecute a case“ ist die korrekte Verbform; „persecute“ (verfolgen im Sinne von schikanieren) ist ein klassischer False-Friend-Distraktor."
+     "a": 0,
+     "e": "„to prosecute a case\" heißt, es strafrechtlich zu verfolgen. Ausgeschlossen sind: „persecute\" (verfolgen im Sinne von schikanieren — der klassische falsche Freund); „proscribe\" (ächten, verbieten); „prosper\" (gedeihen — intransitiv)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -10580,116 +10580,116 @@
      "q": "Waiver requires the sending government to make an uncomfortable ____ about its own official's conduct.",
      "o": [
       "admission",
-      "admitting",
-      "admittance",
-      "admitted"
+      "admonition",
+      "emission",
+      "omission"
      ],
      "a": 0,
-     "e": "„to make an admission“ = ein Eingeständnis machen; „admittance“ bezeichnet nur den physischen Zutritt."
+     "e": "„to make an admission\" heißt, etwas einzuräumen — hier das mögliche Fehlverhalten des eigenen Beamten. Ausgeschlossen sind: „admonition\" (eine Ermahnung, die man erteilt, nicht ablegt); „emission\" (ein Ausstoß); „omission\" (eine Unterlassung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Prosecution at home depends on evidence and witnesses that remain, ____ , in another country entirely.",
      "o": [
-      "inconveniencing",
-      "inconvenience",
-      "inconvenient",
-      "inconveniently"
+      "inconveniently",
+      "inconsistently",
+      "incoherently",
+      "incompetently"
      ],
-     "a": 3,
-     "e": "„remain, inconveniently, in another country“ ist die im Text verwendete adverbiale Einschiebung."
+     "a": 0,
+     "e": "„inconveniently\" bezeichnet den misslichen Umstand: Beweise und Zeugen liegen ungünstigerweise im Ausland. Ausgeschlossen sind: „inconsistently\" (widersprüchlich — es bewertete die Aussagen, nicht ihren Ort); „incoherently\" (zusammenhanglos); „incompetently\" (unfähig — ein Vorwurf an handelnde Personen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Some reformers have proposed ____ waiver clauses for the gravest categories of offence.",
      "o": [
-      "automation's",
-      "automated",
-      "automatically",
-      "automatic"
+      "automatic",
+      "autonomous",
+      "automotive",
+      "autocratic"
      ],
-     "a": 3,
-     "e": "„automatic waiver clauses“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„automatic waiver clauses\" greifen von selbst, ohne Ermessensentscheidung des Entsendestaats. Ausgeschlossen sind: „autonomous\" (eigenständig handelnd, von Einrichtungen und Fahrzeugen); „automotive\" (das Kraftfahrzeugwesen betreffend); „autocratic\" (alleinherrschaftlich)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Other proposals favour ____ schemes that compensate victims regardless of whether prosecution ever follows.",
      "o": [
-      "insured",
       "insurance",
-      "insuring",
-      "insurer's"
+      "endurance",
+      "clearance",
+      "remembrance"
      ],
-     "a": 1,
-     "e": "„insurance schemes“ ist die im Text verwendete Kollokation."
+     "a": 0,
+     "e": "„insurance schemes\" sind Entschädigungssysteme, die unabhängig vom Ausgang eines Verfahrens zahlen. Ausgeschlossen sind: „endurance\" (Ausdauer); „clearance\" (eine Freigabe bzw. Sicherheitsüberprüfung); „remembrance\" (das Gedenken)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "A more ____ expulsion procedure has also been proposed to replace the current opaque practice.",
      "o": [
-      "transparently",
-      "transparency's",
-      "transparence",
-      "transparent"
+      "transparent",
+      "transient",
+      "transitive",
+      "translucent"
      ],
-     "a": 3,
-     "e": "„a transparent procedure“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„transparent\" ist der Gegenbegriff zu „opaque\", das der Satz selbst nennt: nachvollziehbar statt undurchsichtig. Ausgeschlossen sind: „transient\" (vorübergehend, flüchtig); „transitive\" (grammatisch: ein Objekt regierend); „translucent\" (lichtdurchlässig im physikalischen Sinn, nicht im übertragenen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Faster ____ procedures were also proposed, though none has been widely adopted.",
      "o": [
-      "expel's",
       "expulsion",
-      "expelling's",
-      "expulsive"
+      "explosion",
+      "expansion",
+      "exposition"
      ],
-     "a": 1,
-     "e": "„expulsion procedures“ ist die im Text verwendete nominale Kollokation."
+     "a": 0,
+     "e": "„expulsion procedures\" sind die Verfahren zur Ausweisung. Ausgeschlossen sind: „explosion\" (eine Detonation); „expansion\" (eine Ausdehnung); „exposition\" (eine Darlegung bzw. Ausstellung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Receiving states have grown more willing to ____ diplomatic staff even without a formal waiver.",
      "o": [
-      "expend",
       "expel",
-      "exile",
-      "expulse"
+      "expend",
+      "expedite",
+      "exempt"
      ],
-     "a": 1,
-     "e": "„to expel a diplomat“ ist die korrekte, gebräuchliche Kollokation; „expulse“ existiert im Englischen nicht als Standardverb."
+     "a": 0,
+     "e": "„to expel staff\" heißt, sie des Landes zu verweisen — die Maßnahme, für die es keines Verzichts bedarf. Ausgeschlossen sind: „expend\" (aufwenden, verbrauchen); „expedite\" (beschleunigen); „exempt\" (von einer Pflicht befreien — es verstärkte die Immunität, statt sie zu beenden)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Governments accept a ____ bilateral relationship as preferable to visible impunity.",
      "o": [
-      "straining",
-      "strainful",
-      "strain's",
-      "strained"
+      "strained",
+      "stranded",
+      "strengthened",
+      "streamlined"
      ],
-     "a": 3,
-     "e": "„a strained relationship“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„a strained relationship\" ist das belastete Verhältnis, das man als geringeres Übel hinnimmt. Ausgeschlossen sind: „stranded\" (gestrandet, festsitzend — von Personen und Gütern); „strengthened\" (gestärkt — das Gegenteil der Hinnahme eines Nachteils); „streamlined\" (verschlankt, gestrafft)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The alternative to expulsion is often ____ impunity playing out in the domestic press.",
      "o": [
-      "visibility's",
-      "visualised",
-      "visibly",
-      "visible"
+      "visible",
+      "viable",
+      "volatile",
+      "venerable"
      ],
-     "a": 3,
-     "e": "„visible impunity“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„visible impunity\" ist die für alle sichtbare Straflosigkeit — deshalb der Druck der heimischen Presse. Ausgeschlossen sind: „viable\" (lebensfähig, durchführbar); „volatile\" (unbeständig, sprunghaft); „venerable\" (ehrwürdig)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -10697,38 +10697,38 @@
      "q": "Critics argue that unpunished offences abroad amount to diplomatic ____ .",
      "o": [
       "impunity",
-      "immunity's",
+      "immunity",
       "impurity",
-      "impugnity"
+      "impudence"
      ],
      "a": 0,
-     "e": "„impunity“ = Straflosigkeit; „impurity“ ist ein lautlich naher False-Friend-Distraktor."
+     "e": "„impunity\" ist die tatsächliche Straflosigkeit — das Ergebnis, das die Kritiker beklagen. Ausgeschlossen sind: „immunity\" (der rechtliche Status, der die Verfolgung sperrt — er ist die Ursache, nicht der beklagte Zustand, und wird nicht „erreicht\"); „impurity\" (Verunreinigung); „impudence\" (Unverfrorenheit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The ____ tension between function and public perception shows no sign of resolving itself.",
      "o": [
-      "underlay's",
-      "underlain",
-      "underlying's",
-      "underlying"
+      "underlying",
+      "underhand",
+      "underdone",
+      "underfoot"
      ],
-     "a": 3,
-     "e": "„the underlying tension“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„the underlying tension\" ist der zugrunde liegende, strukturelle Widerspruch. Ausgeschlossen sind: „underhand\" (hinterhältig, verdeckt — ein Werturteil über Handlungen); „underdone\" (nicht gar, von Speisen); „underfoot\" (unter den Füßen, im Weg)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Diplomatic immunity protects an ____ function of the international system, not a personal privilege.",
      "o": [
-      "indispensable's",
-      "dispensed",
       "indispensable",
-      "dispensable"
+      "dispensable",
+      "indisputable",
+      "indistinct"
      ],
-     "a": 2,
-     "e": "„an indispensable function“ ist die im Text verwendete adjektivische Kollokation."
+     "a": 0,
+     "e": "„an indispensable function\" ist die unverzichtbare Aufgabe, um deretwillen die Immunität besteht. Ausgeschlossen sind: „dispensable\" (entbehrlich — das Gegenteil); „indisputable\" (unbestreitbar — es beträfe die Richtigkeit einer Behauptung); „indistinct\" (undeutlich)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -10736,64 +10736,64 @@
      "q": "Reform proposals have ____ surfaced for decades without ever being widely adopted.",
      "o": [
       "periodically",
-      "periodic",
-      "period's",
-      "periodical"
+      "peripherally",
+      "perpetually",
+      "permanently"
      ],
      "a": 0,
-     "e": "„periodically surfaced“ ist die im Text verwendete adverbiale Kollokation."
+     "e": "„periodically\" bezeichnet das wiederkehrende Auftauchen in Abständen — genau das Bild von Vorschlägen, die immer wieder erscheinen und verschwinden. Ausgeschlossen sind: „peripherally\" (am Rande, nebenbei); „perpetually\" und „permanently\" (beide behaupteten ein ununterbrochenes Bestehen, das dem wiederholten Auftauchen widerspricht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Reform proposals have periodically ____ , only to fade again without securing ratification.",
      "o": [
-      "surface",
-      "surfacing",
-      "surfaces",
-      "surfaced"
+      "surfaced",
+      "surfeited",
+      "submerged",
+      "subsided"
      ],
-     "a": 3,
-     "e": "„have periodically surfaced“ verlangt das Partizip Perfekt nach „have“."
+     "a": 0,
+     "e": "„to surface\" heißt hier: an die Oberfläche kommen, sichtbar werden — die Voraussetzung dafür, danach wieder zu verblassen. Ausgeschlossen sind: „surfeited\" (übersättigt); „submerged\" und „subsided\" (beide bezeichnen das Absinken bzw. Abklingen, also genau das, was der Nachsatz erst als Folge nennt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "No proposal has attracted enough support to close the gap ____ across every jurisdiction.",
      "o": [
-      "uniformity's",
-      "uniform",
-      "unify",
-      "uniformly"
+      "uniformly",
+      "unilaterally",
+      "unanimously",
+      "uncritically"
      ],
-     "a": 3,
-     "e": "„to close the gap uniformly“ ist die im Text verwendete adverbiale Kollokation."
+     "a": 0,
+     "e": "„uniformly\" heißt: einheitlich, überall auf dieselbe Weise — die Voraussetzung dafür, eine Lücke flächendeckend zu schließen. Ausgeschlossen sind: „unilaterally\" (einseitig, von nur einer Seite her); „unanimously\" (einstimmig — es beschriebe die Abstimmung, nicht die Wirkung); „uncritically\" (unkritisch)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Receiving states now expel staff even ____ a formal waiver from the sending government.",
      "o": [
-      "absence",
-      "absently",
-      "absented",
-      "absent"
+      "absent",
+      "abroad",
+      "abreast",
+      "absolved"
      ],
-     "a": 3,
-     "e": "„even absent a waiver“ = auch ohne einen Verzicht; präpositionaler Gebrauch von „absent“ im gehobenen Register."
+     "a": 0,
+     "e": "„absent\" steht im gehobenen Register als Präposition für „in Ermangelung von\" und regiert unmittelbar eine Nominalphrase. Ausgeschlossen sind: „abroad\" (Adverb: im Ausland — es kann keine Nominalphrase regieren); „abreast\" (nebeneinander, „abreast of\"); „absolved\" (Partizip: freigesprochen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "After the incident, the embassy requested the ____ of its most senior attaché.",
      "o": [
-      "recallment",
-      "reclamation",
       "recall",
-      "recalling"
+      "recital",
+      "recess",
+      "recourse"
      ],
-     "a": 2,
-     "e": "„the recall of an official“ ist die feste diplomatische Kollokation."
+     "a": 0,
+     "e": "„the recall of a diplomat\" ist dessen Abberufung durch den eigenen Staat. Ausgeschlossen sind: „recital\" (ein Vortrag bzw. die Erwägungsgründe eines Rechtsakts); „recess\" (eine Sitzungspause); „recourse\" (der Rückgriff auf ein Mittel, „recourse to\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -11073,39 +11073,39 @@
      "lvl": "C2",
      "q": "____ the gravity of the allegation, the sending state initially declined to comment at all.",
      "o": [
-      "Despite of",
-      "In spite",
       "Although",
-      "Notwithstanding"
-     ],
-     "a": 3,
-     "e": "„Notwithstanding + Nominalphrase“, ohne „of“."
-    },
-    {
-     "cat": "Grammatik/Zeitformen",
-     "lvl": "C2",
-     "q": "She read the diplomatic note and ____ within the hour.",
-     "o": [
-      "it forwarded",
-      "forwarded against it",
-      "forwarded it",
-      "forwarded to it"
+      "Whereas",
+      "Notwithstanding",
+      "However"
      ],
      "a": 2,
-     "e": "Pronomen-Objekt-Stellung: „forwarded it“."
+     "e": "Nur „notwithstanding\" kann als Präposition unmittelbar vor einer Nominalphrase stehen. Ausgeschlossen sind: „Although\" und „Whereas\" (Konjunktionen, die ein finites Verb verlangen); „However\" (Adverb, das einen eigenen Hauptsatz einleitet)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The clerk logged the request and ____ before the deadline.",
+     "q": "She read the diplomatic note and ____ it to the ministry within the hour.",
      "o": [
-      "it filed",
-      "filed it",
-      "filed to it",
-      "filed against it"
+      "forwarded",
+      "replied",
+      "responded",
+      "reverted"
      ],
-     "a": 1,
-     "e": "Pronomen-Objekt-Stellung: „filed it“."
+     "a": 0,
+     "e": "„to forward something to somebody\" ist transitiv und nimmt das Objekt unmittelbar. Ausgeschlossen sind: „replied\" (verlangt „to\" vor dem Bezugsgegenstand und nimmt kein direktes Objekt); „responded\" (ebenso); „reverted\" (verlangt „to\" und bedeutet zudem „zurückkehren\")."
+    },
+    {
+     "cat": "Grammatik/Zeitformen",
+     "lvl": "C2",
+     "q": "The clerk logged the request and ____ it before the deadline.",
+     "o": [
+      "processed",
+      "attended",
+      "adhered",
+      "subscribed"
+     ],
+     "a": 0,
+     "e": "„to process something\" ist transitiv: der Antrag wird bearbeitet. Ausgeschlossen sind: „attended\" (in dieser Bedeutung „attend to\"); „adhered\" (verlangt „to\"); „subscribed\" (verlangt „to\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -11712,13 +11712,13 @@
      "lvl": "C2",
      "q": "She told reporters that the committee ____ its decision the following week.",
      "o": [
-      "announces",
       "would announce",
-      "had announce",
-      "will announce"
+      "announces",
+      "has announced",
+      "is announcing"
      ],
-     "a": 1,
-     "e": "Backshift: „will“ wird in indirekter Rede zu „would“, wenn das einleitende Verb in der Vergangenheit steht."
+     "a": 0,
+     "e": "In der indirekten Rede nach einem Präteritum wird die Zukunft zu „would + Infinitiv\"; „the following week\" bestätigt den Zukunftsbezug aus der Sicht des Berichteten. Ausgeschlossen sind: „announces\" (Gegenwartsform ohne Zeitverschiebung); „has announced\" (Present Perfect — es widerspricht der noch bevorstehenden Ankündigung); „is announcing\" (Verlaufsform der Gegenwart, ebenfalls ohne Verschiebung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -11790,39 +11790,39 @@
      "lvl": "C2",
      "q": "The plan ____ addressed the arrears but also restored access to capital markets.",
      "o": [
-      "not even",
-      "no only",
-      "not",
-      "not only"
+      "not only",
+      "no sooner",
+      "not once",
+      "not yet"
      ],
-     "a": 3,
-     "e": "Korrelative Konjunktion „not only … but also …“."
+     "a": 0,
+     "e": "„not only … but also\" ist das feste Korrelatpaar; der Nachsatz mit „but also\" verlangt es. Ausgeschlossen sind: „no sooner\" (verlangt „than\" und die Inversion); „not once\" (bedeutet „kein einziges Mal\" und verkehrt die Aussage); „not yet\" (bedeutet „noch nicht\" und verträgt sich nicht mit dem Präteritum „addressed\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
      "q": "The terms ____ the debt was restructured left the sovereign considerably better off.",
      "o": [
-      "which",
-      "that",
-      "where",
-      "under which"
+      "under which",
+      "above which",
+      "beside which",
+      "within which"
      ],
-     "a": 3,
-     "e": "Vorangestellte Präposition im Relativsatz: „the terms under which…“ ist das formellere Register statt „which… under“."
+     "a": 0,
+     "e": "Eine Umschuldung erfolgt zu bestimmten Bedingungen: „the terms under which the debt was restructured\". Ausgeschlossen sind: „above which\" und „beside which\" (räumliche Verhältnisse); „within which\" (ein Rahmen, in dem etwas liegt — Bedingungen sind kein Behälter)."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
      "q": "This is precisely the impasse ____ the mediators had been warning.",
      "o": [
-      "what",
-      "which",
       "about which",
-      "that"
+      "beyond which",
+      "beneath which",
+      "beside which"
      ],
-     "a": 2,
-     "e": "Formeller Relativsatz mit vorangestellter Präposition: „warn about sth.“ → „the impasse about which…“."
+     "a": 0,
+     "e": "„to warn about something\" verlangt diese Präposition, die bei vorangestelltem Relativum mitwandert. Ausgeschlossen sind: „beyond which\", „beneath which\" und „beside which\" — alle drei stellen räumliche Verhältnisse her, die zu „warn\" keine Rektion bilden."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -11879,15 +11879,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "The committee had already scheduled the vote, but ultimately decided to ____.",
+     "q": "The committee had already scheduled the vote, but ultimately decided to ____ it until the autumn.",
      "o": [
-      "put off",
-      "put it",
-      "put it off",
-      "put off it"
+      "postpone",
+      "prolong",
+      "protract",
+      "proscribe"
      ],
-     "a": 2,
-     "e": "Bei trennbaren Phrasal Verbs muss ein Pronomen-Objekt zwischen Verb und Partikel stehen: „put it off“, nicht „put off it“."
+     "a": 0,
+     "e": "„to postpone something until …\" heißt, es auf einen späteren Zeitpunkt zu verschieben. Ausgeschlossen sind: „prolong\" (etwas Laufendes verlängern — die Abstimmung hat noch nicht begonnen); „protract\" (in die Länge ziehen, ebenfalls von bereits Laufendem); „proscribe\" (ächten, verbieten)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -11945,7 +11945,7 @@
       "Extraterritorial rules have proven entirely ineffective against circumvention."
      ],
      "a": 0,
-     "e": "Kernthese im ersten Absatz: „What was once the preserve of customs officials and legal counsel has become… a lever wielded by cabinets.“ Option D widerspricht dem Schluss, der Koordination als „scarcest commodity“ bezeichnet.",
+     "e": "Kernthese des ersten Absatzes: „What was once the preserve of customs officials and legal counsel has become … a lever wielded by cabinets.\" Ausgeschlossen sind: „Extraterritorial rules have proven entirely ineffective\" (der Schluss nennt die Koordination, nicht die Regeln, als „scarcest commodity\"); „Allied governments have already achieved full coordination\" (der Text sagt das Gegenteil); „Lithography firms should be nationalised\" (eine Forderung, die der Text nirgends erhebt).",
      "passage": "Few instruments of statecraft have migrated so swiftly from the technical annex to the front page as the export licence. What was once the preserve of customs officials and legal counsel has become, in the contest over chokepoint technologies, a lever wielded by cabinets and summoned by name in communiqués. The mechanics are unglamorous — a widened entity list here, a tightened definition of dual-use goods there — yet the cumulative effect has been to redraw, quietly but unmistakably, the map of who may sell what to whom.\n\nNowhere is this more visible than in the contest over advanced lithography. The handful of firms capable of etching circuits at the smallest nodes sit, whether they relish it or not, at a genuine chokepoint: deny them a licence to ship to a given foundry, and years of downstream ambition stall on a factory floor. Governments have grasped this leverage and, increasingly, have sought to extend it beyond their own borders through rules that reach any product built, however distantly, on their equipment or designs. Trading partners grumble at what they regard as an extraterritorial overreach; officials in Washington and Brussels counter that a chokepoint left ungoverned is a chokepoint someone else will exploit.\n\nWhether this amounts to decoupling or merely a more cautious de-risking is, in practice, a distinction without much of a difference for the engineers now redrawing supply chains. Firms once content to single-source a wafer fabrication step are quietly building redundancy, at real cost, into designs that assumed none would be needed. Some of this hedging is prudent; some is theatre performed for boards anxious to be seen taking precautions. What should trouble policymakers more than either is the growing appetite among intermediaries for helping targeted buyers route around the rules altogether — a shadow trade that no entity list, however long, can fully anticipate. Coordination among allied capitals remains the likeliest antidote, yet it is also, for now, the scarcest commodity in the toolkit.",
      "src": "Übungstext im Stil von Foreign Affairs / The Economist (nicht offiziell)"
     },
@@ -12494,13 +12494,13 @@
      "lvl": "C2",
      "q": "The committee identified the precise mechanism ____ which components were being rerouted through third countries.",
      "o": [
-      "with",
-      "for",
       "by",
-      "at"
+      "at",
+      "from",
+      "into"
      ],
-     "a": 2,
-     "e": "Formelles Relativsatzmuster mit vorangestellter Präposition „…mechanism by which…“ (= „…rerouted by this mechanism“)."
+     "a": 0,
+     "e": "„the mechanism by which something happens\" ist die feste Fügung für das Mittel oder Verfahren. Ausgeschlossen sind: „at which\" (bezeichnete einen Zeitpunkt oder Ort); „from which\" (einen Ausgangspunkt); „into which\" (eine Zielrichtung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -12531,15 +12531,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Once the front company was identified, investigators wasted no time in ____.",
+     "q": "Once the front company was identified, investigators wasted no time in ____ its remaining accounts.",
      "o": [
-      "to track down it",
-      "tracking down it",
-      "tracking it down",
-      "track it down"
+      "freezing",
+      "frozen",
+      "freeze",
+      "to freeze"
      ],
-     "a": 2,
-     "e": "Bei trennbaren Phrasal Verbs mit Pronomen-Objekt steht das Pronomen zwingend zwischen Verb und Partikel: „tracking it down“, nicht „tracking down it“."
+     "a": 0,
+     "e": "„waste no time in doing something\" — nach der Präposition „in\" steht zwingend das Gerundium. Ausgeschlossen sind: „frozen\" (Partizip II, das nach einer Präposition keine Verbalhandlung ausdrücken kann); „freeze\" (die bloße Grundform); „to freeze\" (der to-Infinitiv, den „in\" nicht regiert)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -12596,15 +12596,15 @@
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
-     "q": "Under no circumstances ____ be shipped without a valid end-user certificate.",
+     "q": "On no account ____ end-user certificates be waived for dual-use goods.",
      "o": [
-      "equipment the may",
-      "may the equipment",
-      "may equipment the",
-      "the equipment may"
+      "may",
+      "does",
+      "is",
+      "has"
      ],
-     "a": 1,
-     "e": "Nach vorangestelltem negativen Ausdruck „Under no circumstances“ muss das Hilfsverb vor das Subjekt treten: „may the equipment be shipped“, nicht die normale Wortstellung „the equipment may“."
+     "a": 0,
+     "e": "Nach vorangestelltem „On no account\" folgt die Inversion; vor dem Passiv-Infinitiv „be waived\" ist nur ein Modalverb möglich. Ausgeschlossen sind: „does\" (nach „do\" steht der reine Infinitiv, nicht „be\" + Partizip); „is\" (zwei Formen von „be\" nebeneinander, zudem Numerusfehler beim Plural „certificates\"); „has\" (verlangte das Partizip „been\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -12638,12 +12638,12 @@
      "q": "____ the allied coordination achieved last spring, the controls would already have been circumvented wholesale.",
      "o": [
       "Were it not for",
-      "Unless it were for",
-      "If it were not that for",
-      "Were not it for"
+      "Had it not been",
+      "If it were not",
+      "Save for"
      ],
      "a": 0,
-     "e": "„Were it not for X, …\" ist die invertierte irreale Bedingung ohne „if\". Die übrigen Formen existieren nicht: „unless\" verträgt keinen Konjunktiv dieser Art, und die Inversion setzt „Were\" zwingend an den Satzanfang."
+     "e": "„Were it not for X\" ist die invertierte irreale Bedingung: ohne X wäre die Folge eingetreten. Ausgeschlossen sind: „Had it not been\" (unvollständig — die Fügung lautet „Had it not been FOR\"); „If it were not\" (ebenso: ohne „for\" bleibt der Anschluss offen); „Save for\" (bedeutet „mit Ausnahme von\" und stellt keine irreale Bedingung her)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -13264,12 +13264,12 @@
      "q": "____ with mounting pressure from exporters, the government reluctantly agreed to devalue.",
      "o": [
       "Faced",
-      "Have faced",
       "Facing",
+      "Having faced",
       "To face"
      ],
      "a": 0,
-     "e": "Verkürzter Partizipialsatz mit Partizip Perfekt Passiv „Faced with“, da das Subjekt dem Druck ausgesetzt ist."
+     "e": "„faced with something\" ist die feste passivische Fügung: die Regierung sieht sich dem Druck ausgesetzt. Ausgeschlossen sind: „Facing\" (aktiv und ohne „with\" — „facing mounting pressure\" wäre richtig, „facing with\" nicht); „Having faced\" (Perfektpartizip, das eine abgeschlossene Vorgeschichte behauptete, und ebenfalls ohne „with\"); „To face\" (Infinitiv, der keine adverbiale Bestimmung dieser Art bildet)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -13303,12 +13303,12 @@
      "q": "The summit ____ the ministers finally reached agreement was held in Basel.",
      "o": [
       "at which",
-      "where which",
-      "which",
-      "that"
+      "to which",
+      "from which",
+      "for which"
      ],
      "a": 0,
-     "e": "Formelles Register: vorangestellte Präposition vor dem Relativpronomen („at which“) statt nachgestelltem „which… at“."
+     "e": "Ein Ereignis, bei dem etwas geschieht, wird mit „at which\" wieder aufgenommen. Ausgeschlossen sind: „to which\" (bezeichnete eine Richtung oder einen Adressaten); „from which\" (einen Ausgangspunkt); „for which\" (einen Zweck oder Grund) — keine dieser Beziehungen stellt der Satz her."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -13432,13 +13432,13 @@
      "lvl": "C2",
      "q": "The two governments signed a currency swap agreement ____ each could draw on the other's reserves in an emergency.",
      "o": [
-      "whereat",
-      "by which that",
-      "wherein which",
-      "whereby"
+      "whereby",
+      "wherein",
+      "whereupon",
+      "whereat"
      ],
-     "a": 3,
-     "e": "„whereby“ = formelles Relativadverb für „wodurch/durch das“, typisch für Vertragssprache."
+     "a": 0,
+     "e": "„whereby\" heißt „wodurch, kraft dessen\" und leitet die Regelung ein, die das Abkommen schafft. Ausgeschlossen sind: „wherein\" (worin — es verweist auf einen Ort oder eine Textstelle, nicht auf den Mechanismus); „whereupon\" (woraufhin — zeitliche Folge); „whereat\" (woraufhin bzw. woran, im heutigen Gebrauch nur noch archaisch)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -13941,13 +13941,13 @@
      "lvl": "C2",
      "q": "The tribunal acknowledged the ____ effect of the dumped imports on smaller competitors.",
      "o": [
-      "cumulative",
-      "circumventive",
-      "suppressive",
-      "injurious"
+      "injurious",
+      "industrious",
+      "ingenious",
+      "ingenuous"
      ],
-     "a": 3,
-     "e": "injurious effect = schädigende Wirkung; 'injurious' ist das passende Adjektiv zu 'injury'."
+     "a": 0,
+     "e": "„injurious effect\" ist der schädigende Effekt — im Antidumpingrecht die Voraussetzung des Schadensnachweises. Ausgeschlossen sind: „industrious\" (fleißig, von Personen); „ingenious\" (erfinderisch, geistreich); „ingenuous\" (arglos, treuherzig)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -14060,11 +14060,11 @@
      "o": [
       "Squeezed",
       "Squeezing",
-      "Having squeeze",
+      "Having squeezed",
       "To squeeze"
      ],
      "a": 0,
-     "e": "Partizip-Perfekt-Konstruktion (Passiv): 'Squeezed by...' = 'Because it was squeezed by...', verkürzter Passiv-Partizipialsatz."
+     "e": "„squeezed by something\" ist das Passivpartizip: die Branche gerät unter Druck, sie übt ihn nicht aus. Ausgeschlossen sind: „Squeezing\" (aktiv — die Branche würde die Überkapazität bedrängen); „Having squeezed\" (aktives Perfektpartizip mit derselben Umkehrung); „To squeeze\" (Infinitiv ohne adverbiale Funktion)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -14084,13 +14084,13 @@
      "lvl": "C2",
      "q": "The regulation ____ the duties were imposed has since been amended.",
      "o": [
-      "under that",
       "under which",
-      "which under",
-      "that under"
+      "over which",
+      "against which",
+      "beyond which"
      ],
-     "a": 1,
-     "e": "Vorangestellte Präposition im Relativsatz (formeller Stil): 'under which' statt 'which... under'."
+     "a": 0,
+     "e": "Zölle werden auf der Grundlage einer Verordnung erhoben: „the regulation under which the duties were imposed\". Ausgeschlossen sind: „over which\" (bezeichnete einen Streitgegenstand, nicht die Rechtsgrundlage); „against which\" (eine Richtung des Widerspruchs); „beyond which\" (eine Grenze, über die hinaus etwas gilt)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -14254,12 +14254,12 @@
      "q": "The specific product ____ the complaint was filed fell outside the initial scope.",
      "o": [
       "for which",
-      "that for",
-      "for that",
-      "which for"
+      "from which",
+      "beyond which",
+      "without which"
      ],
      "a": 0,
-     "e": "Formelle Relativkonstruktion mit vorangestellter Präposition: 'for which' statt 'which... for'."
+     "e": "Eine Beschwerde wird für ein bestimmtes Erzeugnis eingereicht: „the product for which the complaint was filed\". Ausgeschlossen sind: „from which\" (ein Ausgangspunkt); „beyond which\" (eine Grenze); „without which\" (eine Bedingung, ohne die etwas nicht bestünde)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -14330,7 +14330,7 @@
       "Central banks have lost all practical independence from elected governments in most major economies over the past decade."
      ],
      "a": 0,
-     "e": "Der Text argumentiert, dass der aktuelle Druck auf Notenbanken sich vor allem in seiner öffentlichen, offenen Form von den früheren „slow, deniable channels“ unterscheidet und dass Finanzmärkte auf solche Einmischung reagieren („Financial markets tend to punish such interference swiftly“). Die Optionen B, C und D widersprechen dem Text.",
+     "e": "Der Text nennt zwei Punkte: der heutige Druck unterscheidet sich von den früheren „slow, deniable channels\" durch seine Öffentlichkeit, und die Märkte reagieren darauf („Financial markets tend to punish such interference swiftly\"). Ausgeschlossen sind: „Financial markets are indifferent to political interference\" (der Text sagt ausdrücklich das Gegenteil); „independence was never a genuine constraint … largely symbolic\" (der Text behandelt sie als wirksame, wenn auch abgestufte Bindung); „Central banks have lost all practical independence\" (zu absolut — der Text beschreibt Druck, nicht Kapitulation).",
      "passage": "Central bank independence, once regarded as a settled tenet of macroeconomic orthodoxy, is again being tested by politicians who resent monetary policymakers' refusal to bend to electoral timetables. The doctrine rests on a simple insight: governments facing re-election have a structural incentive to loosen monetary policy before voters go to the polls, even at the cost of higher inflation further down the road. Insulating rate-setters from short-term political pressure, the argument runs, allows them to pursue price stability over a longer horizon than any elected government could credibly commit to. Yet this insulation has always been a matter of degree rather than an absolute firewall, and the past decade has exposed just how contingent it can be.\n\nIn several economies, heads of government have taken to publicly upbraiding their central bankers for keeping borrowing costs too high, framing restrictive policy as an act of economic sabotage rather than a technical judgement about inflation risk. Some have gone further, floating legislation that would curtail a central bank's statutory mandate or allow the executive to remove a sitting governor before the end of a fixed term. Financial markets tend to punish such interference swiftly: currencies depreciate, long-term bond yields rise, and investors demand a fatter premium for the privilege of holding sovereign debt whose issuer's monetary authority can no longer be trusted to resist short-term political calculation.\n\nWhat makes the current wave of pressure distinctive is not merely its intensity but the manner in which it is conducted. Rather than working through the slow, deniable channels of appointments and budgetary leverage, critics of independence now air their grievances in public, turning what was once a quiet institutional tug-of-war into a spectacle staged for a domestic audience. Central bankers, for their part, have had to cultivate a new kind of political dexterity, one that lets them defend their mandate without appearing to defy the elected government outright. Whether that balancing act can be sustained indefinitely remains an open question, and one that will shape the credibility of monetary institutions for years to come.",
      "src": "Übungstext im Stil von Foreign Affairs / The Economist (nicht offiziell)"
     },
@@ -14387,7 +14387,7 @@
       "Pressure today relies exclusively on legal action, whereas past pressure was purely informal."
      ],
      "a": 2,
-     "e": "Der dritte Absatz kontrastiert die früheren „slow, deniable channels of appointments and budgetary leverage“ mit dem heutigen öffentlichen Austragen von Konflikten („air their grievances in public ... a spectacle staged for a domestic audience“), was Option A stützt.",
+     "e": "Der dritte Absatz stellt die früheren „slow, deniable channels of appointments and budgetary leverage\" dem heutigen öffentlichen Austragen gegenüber („air their grievances in public … a spectacle staged for a domestic audience\") — genau die Aussage „public and visible, where it once relied on quieter means\". Ausgeschlossen sind: „no longer have any means of pressuring\" (der Absatz beschreibt gerade wirksame Mittel); „has become weaker overall\" (der Text spricht von unveränderter, nur anders geführter Intensität); „relies exclusively on legal action\" (Gesetzesvorhaben sind nur eines der genannten Mittel).",
      "passage": "Central bank independence, once regarded as a settled tenet of macroeconomic orthodoxy, is again being tested by politicians who resent monetary policymakers' refusal to bend to electoral timetables. The doctrine rests on a simple insight: governments facing re-election have a structural incentive to loosen monetary policy before voters go to the polls, even at the cost of higher inflation further down the road. Insulating rate-setters from short-term political pressure, the argument runs, allows them to pursue price stability over a longer horizon than any elected government could credibly commit to. Yet this insulation has always been a matter of degree rather than an absolute firewall, and the past decade has exposed just how contingent it can be.\n\nIn several economies, heads of government have taken to publicly upbraiding their central bankers for keeping borrowing costs too high, framing restrictive policy as an act of economic sabotage rather than a technical judgement about inflation risk. Some have gone further, floating legislation that would curtail a central bank's statutory mandate or allow the executive to remove a sitting governor before the end of a fixed term. Financial markets tend to punish such interference swiftly: currencies depreciate, long-term bond yields rise, and investors demand a fatter premium for the privilege of holding sovereign debt whose issuer's monetary authority can no longer be trusted to resist short-term political calculation.\n\nWhat makes the current wave of pressure distinctive is not merely its intensity but the manner in which it is conducted. Rather than working through the slow, deniable channels of appointments and budgetary leverage, critics of independence now air their grievances in public, turning what was once a quiet institutional tug-of-war into a spectacle staged for a domestic audience. Central bankers, for their part, have had to cultivate a new kind of political dexterity, one that lets them defend their mandate without appearing to defy the elected government outright. Whether that balancing act can be sustained indefinitely remains an open question, and one that will shape the credibility of monetary institutions for years to come."
     },
     {
@@ -14879,13 +14879,13 @@
      "lvl": "C1+",
      "q": "____ under mounting political pressure, the governor nonetheless refused to deviate from the bank's inflation target.",
      "o": [
-      "Placing",
       "Placed",
+      "Placing",
       "Having placed",
-      "Place"
+      "To place"
      ],
-     "a": 1,
-     "e": "Partizip-Perfekt-Konstruktion (Past Participle) „Placed under...“ ersetzt einen passiven Nebensatz („Although she was placed under...“)."
+     "a": 0,
+     "e": "„placed under pressure\" ist das Passivpartizip: der Druck lastet auf dem Zentralbankchef. Ausgeschlossen sind: „Placing\" (aktiv — er selbst übte den Druck aus); „Having placed\" (aktives Perfektpartizip mit derselben Umkehrung); „To place\" (Infinitiv ohne adverbiale Funktion)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -14984,25 +14984,25 @@
      "q": "The extent ____ the bank can act independently of the government remains a matter of ongoing legal debate.",
      "o": [
       "to which",
-      "which",
       "of which",
-      "that"
+      "in which",
+      "by which"
      ],
      "a": 0,
-     "e": "Bei formellem Stil steht die Präposition vor dem Relativpronomen: „the extent to which ...“ statt eines nachgestellten „which ... to“."
+     "e": "„the extent to which …\" ist die feste Fügung für das Ausmaß, in dem etwas zutrifft. Ausgeschlossen sind: „of which\" (bezeichnete eine Zugehörigkeit); „in which\" (einen Rahmen oder Ort); „by which\" (ein Mittel) — keine dieser Beziehungen bildet mit „extent\" eine Fügung."
     },
     {
      "cat": "Grammatik/Zeitformen",
      "lvl": "C2",
      "q": "The legislation ____ the governor's dismissal would be based has not yet been drafted in detail.",
      "o": [
-      "with which",
       "on which",
-      "which",
-      "that"
+      "in which",
+      "for which",
+      "with which"
      ],
-     "a": 1,
-     "e": "„the legislation on which X would be based“ – eine formelle Relativsatzkonstruktion mit vorangestellter Präposition (von „based on the legislation“ zu „on which“)."
+     "a": 0,
+     "e": "„to be based ON something\" verlangt diese Präposition, die bei vorangestelltem Relativum mitwandert. Ausgeschlossen sind: „in which\" (bezeichnete einen Rahmen); „for which\" (einen Zweck); „with which\" (ein Mittel oder eine Begleitung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -15232,104 +15232,104 @@
      "lvl": "C2",
      "q": "Rising ____ into the ports sector prompted lawmakers to draft new screening legislation.",
      "o": [
-      "foreign direct intervention",
       "foreign direct investment",
-      "foreign direct interest",
-      "foreign indirect investment"
+      "portfolio investment",
+      "sovereign lending",
+      "development aid"
      ],
-     "a": 1,
-     "e": "„foreign direct investment“ (FDI) ist der feste Fachbegriff für ausländische Direktinvestitionen; die anderen Varianten existieren so nicht."
+     "a": 0,
+     "e": "„foreign direct investment\" ist die Beteiligung mit unternehmerischem Einfluss — nur sie löst eine Investitionsprüfung aus. Ausgeschlossen sind: „portfolio investment\" (reine Finanzanlage ohne Kontrolle, deshalb regelmäßig von der Prüfung ausgenommen); „sovereign lending\" (Kreditvergabe an Staaten, keine Beteiligung); „development aid\" (Entwicklungshilfe, die keine Eigentumsrechte begründet)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The proposed takeover of the chipmaker was referred for a full ____ before any clearance could be considered.",
      "o": [
-      "national-security remedy",
-      "national-security remark",
       "national-security review",
-      "national-security relay"
+      "competition inquiry",
+      "environmental audit",
+      "tax assessment"
      ],
-     "a": 2,
-     "e": "„national-security review“ ist der feste Fachbegriff für eine sicherheitspolitische Überprüfung von Investitionen."
+     "a": 0,
+     "e": "Eine „national-security review\" ist die sicherheitspolitische Investitionsprüfung, an deren Ende die Freigabe steht. Ausgeschlossen sind: „competition inquiry\" (kartellrechtliche Prüfung, die nach Marktmacht fragt, nicht nach Sicherheit); „environmental audit\" (Umweltprüfung); „tax assessment\" (Steuerfestsetzung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Power grids, ports and telecommunications networks are routinely classified as ____.",
+     "q": "Power grids, ports and telecommunications networks are routinely classified as ____ .",
      "o": [
-      "criticised infrastructure",
-      "critic's infrastructure",
       "critical infrastructure",
-      "critical infrastructural"
+      "capital goods",
+      "strategic reserves",
+      "public amenities"
      ],
-     "a": 2,
-     "e": "„critical infrastructure“ ist die feste Kollokation für sicherheitsrelevante Grundversorgungsanlagen."
+     "a": 0,
+     "e": "„critical infrastructure\" ist der feststehende Begriff für Anlagen, deren Ausfall das Gemeinwesen unmittelbar gefährdet. Ausgeschlossen sind: „capital goods\" (Investitionsgüter, also Produktionsmittel, keine Netze); „strategic reserves\" (staatliche Vorräte an Rohstoffen); „public amenities\" (öffentliche Einrichtungen der Daseinsvorsorge wie Parks und Bäder)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Semiconductors are widely regarded as a ____ in which foreign control is closely watched.",
      "o": [
-      "strategy section",
-      "strategised sector",
       "strategic sector",
-      "strategic session"
+      "regulated market",
+      "emerging economy",
+      "captive market"
      ],
-     "a": 2,
-     "e": "„strategic sector“ bezeichnet eine für die nationale Sicherheit/Wirtschaft besonders wichtige Branche."
+     "a": 0,
+     "e": "„a strategic sector\" ist ein Wirtschaftszweig von sicherheitspolitischer Bedeutung — deshalb die Kontrolle ausländischer Beteiligungen. Ausgeschlossen sind: „regulated market\" (ein Markt mit besonderer Aufsicht, etwa Energie oder Bahn, ohne Sicherheitsbezug); „emerging economy\" (eine Volkswirtschaft, kein Wirtschaftszweig); „captive market\" (ein Markt ohne Ausweichmöglichkeit für Käufer)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Even after privatisation, the ministry retained a ____ that allowed it to veto any sale of the port to a foreign buyer.",
      "o": [
-      "golden stake",
       "golden share",
-      "golden ledger",
-      "golden bond"
+      "golden handshake",
+      "golden parachute",
+      "golden hello"
      ],
-     "a": 1,
-     "e": "„golden share“ ist eine spezielle Vorzugsaktie mit Vetorecht, die dem Staat nach Privatisierungen verbleibt."
+     "a": 0,
+     "e": "Eine „golden share\" ist die Sonderaktie, die dem Staat ein Vetorecht bei bestimmten Beschlüssen sichert. Ausgeschlossen sind: „golden handshake\" (Abfindung beim Ausscheiden); „golden parachute\" (Abfindungszusage für den Fall einer Übernahme); „golden hello\" (Antrittsprämie) — alle drei betreffen die Vergütung von Führungskräften, nicht Gesellschaftsrechte."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Having failed to obtain clearance, the fund was hit with a ____ requiring it to sell the terminal within a year.",
      "o": [
-      "divestiture warning",
       "divestment order",
-      "divesting notice",
-      "divestment appeal"
+      "letter of comfort",
+      "letter of intent",
+      "memorandum of understanding"
      ],
-     "a": 1,
-     "e": "„divestment order“ ist die feste Bezeichnung für eine behördliche Veräußerungsanordnung."
+     "a": 0,
+     "e": "Ein „divestment order\" ist die behördliche Anordnung, eine Beteiligung abzustoßen — nur sie kann zum Verkauf verpflichten. Ausgeschlossen sind: „letter of comfort\" (unverbindliche Patronatserklärung); „letter of intent\" (Absichtserklärung vor Vertragsschluss); „memorandum of understanding\" (Absprache ohne Rechtsbindung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The ____ of the shipyard by a state-linked buyer drew scrutiny from three separate ministries.",
      "o": [
-      "acquisitive",
-      "acquiring",
-      "acquirement",
-      "acquisition"
+      "acquisition",
+      "acquittal",
+      "acquiescence",
+      "accretion"
      ],
-     "a": 3,
-     "e": "„acquisition“ (Erwerb/Übernahme) ist das gebräuchliche Substantiv; die anderen Formen sind unidiomatisch in diesem Kontext."
+     "a": 0,
+     "e": "„the acquisition of a company\" ist der Unternehmenserwerb. Ausgeschlossen sind: „acquittal\" (der Freispruch im Strafverfahren); „acquiescence\" (stillschweigende Hinnahme); „accretion\" (allmähliches Anwachsen, im Völkerrecht der Landzuwachs)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Over eighteen months, the fund quietly built up a sizeable ____ in the utility company.",
      "o": [
-      "staking",
-      "stakeholder",
-      "staked",
-      "stake"
+      "stake",
+      "stack",
+      "strand",
+      "streak"
      ],
-     "a": 3,
-     "e": "„a stake in a company“ = ein Anteil an einem Unternehmen; die übrigen Formen passen grammatisch nicht in die Lücke."
+     "a": 0,
+     "e": "„a stake in a company\" ist die Beteiligung am Kapital. Ausgeschlossen sind: „stack\" (ein Stapel); „strand\" (ein Strang bzw. Faden, übertragen ein Handlungsstrang); „streak\" (eine Serie oder ein Streifen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -15349,65 +15349,65 @@
      "lvl": "C2",
      "q": "The deal finally received regulatory ____ once the buyer agreed to divest the port terminal.",
      "o": [
-      "clearing",
       "clearance",
       "clarity",
-      "cleared"
+      "closure",
+      "clemency"
      ],
-     "a": 1,
-     "e": "„regulatory clearance“ = behördliche Freigabe; die anderen Formen sind kein feststehender Fachbegriff."
+     "a": 0,
+     "e": "„regulatory clearance\" ist die aufsichtsrechtliche Freigabe eines Zusammenschlusses. Ausgeschlossen sind: „clarity\" (Klarheit einer Darstellung); „closure\" (Abschluss bzw. Schließung); „clemency\" (Gnade im Strafvollzug)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Critics complained that the exemption for portfolio investors left a ____ wide enough for state funds to slip through.",
      "o": [
-      "loop",
-      "loopy gap",
       "loophole",
-      "looped hole"
+      "porthole",
+      "bolthole",
+      "pothole"
      ],
-     "a": 2,
-     "e": "„loophole“ = Gesetzeslücke, feste Kollokation; die übrigen Ausdrücke existieren so nicht."
+     "a": 0,
+     "e": "„a loophole\" ist die Regelungslücke, durch die eine an sich erfasste Gestaltung entkommt. Ausgeschlossen sind: „porthole\" (ein Bullauge); „bolthole\" (ein Schlupfwinkel, in den man sich zurückzieht — kein Weg durch eine Regelung); „pothole\" (ein Schlagloch)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The new clause was billed as a ____ against covert foreign control of the grid operator.",
      "o": [
-      "safe-keep",
       "safeguard",
-      "safeguarding act",
-      "safety-net article"
+      "safe haven",
+      "safety valve",
+      "safe conduct"
      ],
-     "a": 1,
-     "e": "„safeguard against“ = Schutzmaßnahme gegen; die Alternativen sind keine gängigen Ausdrücke."
+     "a": 0,
+     "e": "„a safeguard against something\" ist die Schutzvorkehrung gegen eine Gefahr. Ausgeschlossen sind: „safe haven\" (ein Zufluchtsort bzw. eine sichere Anlage); „safety valve\" (ein Überdruckventil, das Spannung ableitet, statt etwas abzuwehren); „safe conduct\" (freies Geleit für eine Person)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Even a minority stake can, over time, translate into disproportionate ____ over a company's strategic decisions.",
      "o": [
-      "levering",
-      "leveraged",
-      "leverance",
-      "leverage"
+      "leverage",
+      "levy",
+      "levity",
+      "liability"
      ],
-     "a": 3,
-     "e": "„leverage over“ = Einfluss/Hebelwirkung auf; die übrigen Formen sind grammatisch unpassend."
+     "a": 0,
+     "e": "„leverage over something\" ist der Einfluss, der sich hebelartig aus einer Position ergibt. Ausgeschlossen sind: „levy\" (eine Abgabe); „levity\" (Leichtfertigkeit im Ton); „liability\" (Haftung — sie belastet den Inhaber, statt ihm Einfluss zu geben)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The sovereign fund agreed to ____ a substantial share of the terminal's construction costs.",
      "o": [
-      "underwriting",
       "underwrite",
-      "underwritten",
-      "underwrote"
+      "undercut",
+      "undermine",
+      "undergo"
      ],
-     "a": 1,
-     "e": "Nach „agreed to“ folgt der reine Infinitiv: „to underwrite“ = finanziell absichern/übernehmen."
+     "a": 0,
+     "e": "„to underwrite costs\" heißt, für sie einzustehen und sie abzusichern. Ausgeschlossen sind: „undercut\" (unterbieten, etwa im Preis); „undermine\" (untergraben, schwächen); „undergo\" (etwas erdulden oder durchlaufen — Kosten durchläuft man nicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -15415,25 +15415,25 @@
      "q": "The conglomerate's ____ in the domestic energy sector had expanded quietly for a decade before regulators noticed.",
      "o": [
       "footprint",
-      "footing mark",
-      "footpath",
-      "foothold step"
+      "footnote",
+      "footbridge",
+      "footpath"
      ],
      "a": 0,
-     "e": "„footprint“ = wirtschaftliche Präsenz/Reichweite eines Unternehmens in einem Sektor."
+     "e": "„a footprint in a sector\" ist die Gesamtheit der Präsenz eines Unternehmens in einem Bereich — sie kann wachsen. Ausgeschlossen sind: „footnote\" (eine Anmerkung im Text); „footbridge\" (eine Fußgängerbrücke); „footpath\" (ein Fußweg)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Investigators complained that the fund's ownership structure was frustratingly ____.",
+     "q": "Investigators complained that the fund's ownership structure was frustratingly ____ .",
      "o": [
-      "opaqued",
-      "opacity",
-      "opaquely",
-      "opaque"
+      "opaque",
+      "obtuse",
+      "oblique",
+      "obsolete"
      ],
-     "a": 3,
-     "e": "„opaque“ (Adjektiv) = undurchsichtig; nach „was frustratingly“ wird ein Adjektiv benötigt."
+     "a": 0,
+     "e": "„opaque\" heißt undurchsichtig — genau die Klage der Ermittler über eine Eigentümerstruktur. Ausgeschlossen sind: „obtuse\" (begriffsstutzig, von Personen, bzw. stumpf, von Winkeln); „oblique\" (schräg bzw. indirekt formuliert — von Äußerungen, nicht von Strukturen); „obsolete\" (veraltet, überholt)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -15441,12 +15441,12 @@
      "q": "The takeover bid came under unprecedented ____ from no fewer than three regulators.",
      "o": [
       "scrutiny",
-      "scrutinising",
-      "scrutinised",
-      "scrutinise"
+      "scarcity",
+      "sanctity",
+      "serenity"
      ],
      "a": 0,
-     "e": "„come under scrutiny“ = einer Prüfung unterzogen werden; die Lücke verlangt das Substantiv."
+     "e": "„to come under scrutiny\" ist die feste Wendung: etwas gerät unter eingehende Prüfung. Ausgeschlossen sind: „scarcity\" (Knappheit); „sanctity\" (Unantastbarkeit, Heiligkeit); „serenity\" (Gelassenheit)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -15454,77 +15454,77 @@
      "q": "The fund is legally ____ in a jurisdiction with minimal disclosure requirements.",
      "o": [
       "domiciled",
-      "domiciliary",
-      "domicile",
-      "domiciling"
+      "domesticated",
+      "dominated",
+      "dominant"
      ],
      "a": 0,
-     "e": "„to be domiciled in“ = seinen (Rechts-)Sitz haben in; Partizip Perfekt nach „is“."
+     "e": "„to be domiciled in a jurisdiction\" heißt, dort seinen rechtlichen Sitz zu haben. Ausgeschlossen sind: „domesticated\" (gezähmt, von Tieren, bzw. häuslich); „dominated\" (beherrscht — von einem Akteur, nicht von einem Ort); „dominant\" (vorherrschend, marktbeherrschend)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The consortium's ____ for the port operator was ultimately rejected on national-security grounds.",
      "o": [
-      "bade",
-      "bidder",
-      "bidding",
-      "bid"
+      "bid",
+      "bond",
+      "bounty",
+      "budget"
      ],
-     "a": 3,
-     "e": "„a bid for something“ = ein Übernahmeangebot; die übrigen Formen passen nicht in die Lücke."
+     "a": 0,
+     "e": "„a bid for a company\" ist das Übernahmeangebot, das angenommen oder abgelehnt wird. Ausgeschlossen sind: „bond\" (eine Anleihe bzw. eine Bürgschaft); „bounty\" (eine ausgesetzte Belohnung); „budget\" (ein Haushaltsplan)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Investigators suspected the shell company served merely as a ____ for capital originating with a foreign ministry.",
      "o": [
-      "conduce",
       "conduit",
-      "conductor",
-      "conduct"
+      "conduct",
+      "condiment",
+      "condominium"
      ],
-     "a": 1,
-     "e": "„conduit for“ = Kanal/Durchleitungsstelle für (Kapital); Verwechslung mit „conduct“ ist die typische Falle."
+     "a": 0,
+     "e": "„a conduit for capital\" ist der Durchleitungskanal, über den Mittel weitergereicht werden. Ausgeschlossen sind: „conduct\" (Verhalten bzw. Führung); „condiment\" (ein Gewürz); „condominium\" (Miteigentum bzw. im Völkerrecht die gemeinsame Gebietsherrschaft)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The sale proceeds gave the fund a welcome ____ against falling commodity revenues.",
      "o": [
-      "cushioning",
-      "cushiony",
       "cushion",
-      "cushioned"
+      "caution",
+      "cauldron",
+      "coalition"
      ],
-     "a": 2,
-     "e": "„a cushion against“ = ein finanzieller Puffer gegen; Substantiv nach unbestimmtem Artikel."
+     "a": 0,
+     "e": "„a cushion against something\" ist das Polster, das einen Einbruch abfedert. Ausgeschlossen sind: „caution\" (Vorsicht bzw. eine polizeiliche Verwarnung); „cauldron\" (ein Kessel, übertragen ein Krisenherd); „coalition\" (ein Bündnis)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The fund's ____ spans real estate, port terminals and data centres across four continents.",
      "o": [
-      "portfolios'",
       "portfolio",
-      "portfolio's own",
-      "portfolioed"
+      "portico",
+      "portage",
+      "portal"
      ],
-     "a": 1,
-     "e": "„portfolio“ = Anlagenbestand/Beteiligungsportfolio; einzige grammatisch korrekte Option."
+     "a": 0,
+     "e": "„a portfolio\" ist der Bestand an Beteiligungen und Vermögenswerten. Ausgeschlossen sind: „portico\" (ein Säulenvorbau); „portage\" (das Tragen von Booten zwischen zwei Gewässern bzw. Transportkosten); „portal\" (ein Portal, ein Zugang)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The holding company was widely regarded as a ____ for the ministry that ultimately controlled it.",
      "o": [
-      "proxying",
       "proxy",
-      "proxies",
-      "proximate"
+      "protocol",
+      "prototype",
+      "proximity"
      ],
-     "a": 1,
-     "e": "„a proxy for“ = ein Stellvertreter/verdecktes Werkzeug für; Singular nach unbestimmtem Artikel."
+     "a": 0,
+     "e": "„a proxy for somebody\" ist der Stellvertreter, durch den ein anderer verdeckt handelt. Ausgeschlossen sind: „protocol\" (ein Verfahrensregelwerk bzw. ein Zusatzvertrag); „prototype\" (ein Erstmuster); „proximity\" (räumliche Nähe)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -15545,25 +15545,25 @@
      "q": "A sudden commodity ____ enabled the fund to triple its overseas holdings within two years.",
      "o": [
       "windfall",
-      "windrise",
-      "windfallen",
-      "wind gain"
+      "windmill",
+      "windscreen",
+      "windpipe"
      ],
      "a": 0,
-     "e": "„windfall“ = unerwarteter (Gewinn-)Zufall, hier durch Rohstoffpreise; feste Kollokation."
+     "e": "„a windfall\" ist der unerwartete Gewinn — ursprünglich das vom Wind heruntergewehte Obst. Ausgeschlossen sind: „windmill\" (eine Windmühle); „windscreen\" (die Windschutzscheibe); „windpipe\" (die Luftröhre)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
-     "q": "Diplomats justified the tighter rules by invoking ____: openness would be extended only where it was returned in kind.",
+     "q": "Diplomats justified the tighter rules by invoking ____ : openness would be extended only where it was returned in kind.",
      "o": [
-      "reciprocalness",
-      "reciprocation act",
       "reciprocity",
-      "reciprocal treaty"
+      "receptivity",
+      "recuperation",
+      "recapitulation"
      ],
-     "a": 2,
-     "e": "„reciprocity“ = Gegenseitigkeitsprinzip; die einzige idiomatische Substantivform hier."
+     "a": 0,
+     "e": "„reciprocity\" ist der Grundsatz der Gegenseitigkeit — genau das, was der Doppelpunkt erläutert. Ausgeschlossen sind: „receptivity\" (Aufnahmebereitschaft als Haltung, kein Gegenseitigkeitsprinzip); „recuperation\" (Erholung, Genesung); „recapitulation\" (zusammenfassende Wiederholung)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -15602,7 +15602,7 @@
       "was"
      ],
      "a": 0,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the deal raise\"), den nur ein Modalverb oder do-support regieren kann — „did the deal raise\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach vorangestelltem „Not only\" steht die Inversion, und auf das Subjekt folgt der reine Infinitiv „raise\" — den kann allein die do-Umschreibung tragen: „did the deal raise\". Ausgeschlossen sind: „has\" (verlangte das Partizip „raised\"); „is\" (verlangte „raising\" oder ein Partizip); „was\" (dasselbe, und der Nachsatz „it also triggered\" verankert die Vergangenheit)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -15784,7 +15784,7 @@
       "is"
      ],
      "a": 0,
-     "e": "Elliptische Struktur „so + Hilfsverb + Subjekt“; da „attracted“ im Simple Past steht, folgt „did“."
+     "e": "In der elliptischen Fügung „so + Hilfsverb + Subjekt\" wiederholt das Hilfsverb die Form des vorangehenden Prädikats; „attracted\" steht im Präteritum, also folgt „did\". Ausgeschlossen sind: „was\" (das Vorgängerprädikat ist aktiv, nicht passiv); „has\" (Present Perfect, das der Vordersatz nicht enthält); „is\" (Präsens, das dem Präteritum des Vordersatzes widerspricht)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -16027,13 +16027,13 @@
      "lvl": "C2",
      "q": "The ministry launched a review of its defence ____ processes after cost overruns.",
      "o": [
-      "acquirement",
       "procurement",
-      "provisioning",
-      "purchasement"
+      "procedure",
+      "proclamation",
+      "procession"
      ],
-     "a": 1,
-     "e": "„procurement“ = Beschaffung(swesen); „purchasement“ existiert nicht, „acquirement“ ist veraltet/unpassend, „provisioning“ zu unspezifisch."
+     "a": 0,
+     "e": "„defence procurement\" ist das Beschaffungswesen der Streitkräfte — der Bereich, in dem Kostenüberschreitungen entstehen. Ausgeschlossen sind: „procedure\" (ein Verfahren allgemein — „defence procedure processes\" wäre eine leere Doppelung); „proclamation\" (eine öffentliche Verkündung); „procession\" (ein feierlicher Zug)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16041,12 +16041,12 @@
      "q": "Washington has pressed its allies for years to accept a fairer form of ____ .",
      "o": [
       "burden-sharing",
-      "burden-bearing",
-      "load-sharing",
-      "cost-splitting"
+      "profit-sharing",
+      "job-sharing",
+      "time-sharing"
      ],
      "a": 0,
-     "e": "Etablierter Fachbegriff „burden-sharing“ = Lastenteilung; die übrigen Optionen sind keine gängigen Fachtermini."
+     "e": "„burden-sharing\" ist der bündnispolitische Terminus für die gerechte Verteilung der Lasten. Ausgeschlossen sind: „profit-sharing\" (Gewinnbeteiligung von Arbeitnehmern); „job-sharing\" (die Teilung einer Stelle); „time-sharing\" (die zeitanteilige Nutzung von Ferienimmobilien)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16093,25 +16093,25 @@
      "q": "Joint exercises are designed above all to test allied forces' ____ .",
      "o": [
       "interoperability",
-      "interoperation",
-      "cooperativeness",
-      "compatibility"
+      "interchangeability",
+      "interdependence",
+      "intervention"
      ],
      "a": 0,
-     "e": "„interoperability“ ist der feste NATO-Fachbegriff, nicht durch ein allgemeines Synonym ersetzbar."
+     "e": "„interoperability\" ist die Fähigkeit verschiedener Streitkräfte, technisch und verfahrensmäßig zusammenzuwirken — der Prüfzweck gemeinsamer Übungen. Ausgeschlossen sind: „interchangeability\" (die beliebige Austauschbarkeit von Teilen, nicht das Zusammenwirken von Verbänden); „interdependence\" (wechselseitige Abhängigkeit als Zustand); „intervention\" (ein Eingreifen)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Analysts describe the alliance's revised force ____ as markedly more forward-leaning.",
      "o": [
-      "posturing",
-      "postures",
       "posture",
-      "poster"
+      "portfolio",
+      "proportion",
+      "projection"
      ],
-     "a": 2,
-     "e": "„force posture“ = Streitkräftedislozierung/-haltung, feste Fachfügung im Singular."
+     "a": 0,
+     "e": "„force posture\" ist der militärische Fachbegriff für Aufstellung, Dislozierung und Bereitschaft der Kräfte. Ausgeschlossen sind: „portfolio\" (ein Bestand an Beteiligungen bzw. ein Geschäftsbereich); „proportion\" (ein Anteil oder Verhältnis); „projection\" (eine Vorausberechnung bzw. Machtprojektion — dann aber „power projection\")."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16119,12 +16119,12 @@
      "q": "The alliance activated its ____ within hours of the incursion.",
      "o": [
       "rapid reaction force",
-      "fast deployment squad",
-      "immediate action brigade",
-      "quick response army"
+      "standing committee",
+      "joint secretariat",
+      "parliamentary assembly"
      ],
      "a": 0,
-     "e": "Offizieller NATO-Terminus für die schnelle Eingreiftruppe."
+     "e": "Die „rapid reaction force\" ist der schnell verlegbare Verband, der binnen Stunden in Marsch gesetzt werden kann. Ausgeschlossen sind: „standing committee\" (ein ständiger Ausschuss, der tagt, aber nicht verlegt wird); „joint secretariat\" (ein gemeinsames Sekretariat, eine Verwaltungseinheit); „parliamentary assembly\" (die Parlamentarische Versammlung, ein beratendes Gremium)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16144,13 +16144,13 @@
      "lvl": "C2",
      "q": "The report identifies a serious ____ in long-range air defence.",
      "o": [
-      "ability hole",
-      "competence lack",
-      "capacity void",
-      "capability gap"
+      "capability gap",
+      "capital levy",
+      "capitulation clause",
+      "capacity crowd"
      ],
-     "a": 3,
-     "e": "Feste sicherheitspolitische Fachfügung „capability gap“."
+     "a": 0,
+     "e": "„a capability gap\" ist die Fähigkeitslücke — der Fachbegriff für fehlende militärische Mittel in einem bestimmten Bereich. Ausgeschlossen sind: „capital levy\" (eine Vermögensabgabe); „capitulation clause\" (eine Kapitulationsklausel); „capacity crowd\" (ein bis auf den letzten Platz gefülltes Haus)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16261,52 +16261,52 @@
      "lvl": "C2",
      "q": "Private ____ have increasingly filled roles once reserved for national armies.",
      "o": [
-      "merchants",
       "mercenaries",
-      "mercenary",
-      "militants"
+      "merchants",
+      "missionaries",
+      "mercers"
      ],
-     "a": 1,
-     "e": "Korrekte Pluralform „mercenaries“; „merchants“ (Kaufleute) ist ein Fehlgriff durch Klangähnlichkeit."
+     "a": 0,
+     "e": "„mercenaries\" sind Söldner — bezahlte Kämpfer ohne Bindung an eine nationale Armee. Ausgeschlossen sind: „merchants\" (Kaufleute); „missionaries\" (Missionare); „mercers\" (Tuchhändler, ein historischer Handelsberuf)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Firms must obtain a formal ____ before operating as military contractors abroad.",
      "o": [
-      "permission slip",
       "licence",
       "license",
-      "licencing"
+      "licensee",
+      "licentiate"
      ],
-     "a": 1,
-     "e": "Britisches Englisch unterscheidet Substantiv „licence“ von Verb „license“."
+     "a": 0,
+     "e": "Im britischen Englisch ist „licence\" das Substantiv — die Erlaubnis, die man erhält. Ausgeschlossen sind: „license\" (im britischen Gebrauch ausschließlich das Verb „erlauben\"); „licensee\" (der Inhaber der Erlaubnis, also eine Person); „licentiate\" (ein akademischer Grad bzw. dessen Träger)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "Critics argue that private contractors operate with insufficient ____ .",
      "o": [
+      "accountability",
       "accountancy",
-      "account",
-      "accounting",
-      "accountability"
+      "acclamation",
+      "accumulation"
      ],
-     "a": 3,
-     "e": "„accountability“ = Rechenschaftspflicht; „accountancy“ bedeutet Buchhaltung(swesen) — klassische Verwechslung."
+     "a": 0,
+     "e": "„accountability\" ist die Rechenschaftspflicht — die Bindung an eine kontrollierende Instanz. Ausgeschlossen sind: „accountancy\" (das Rechnungswesen als Berufsfeld); „acclamation\" (Zustimmung durch Zuruf); „accumulation\" (Anhäufung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
      "lvl": "C2",
      "q": "The prosecutor secured an ____ against three former contractors for war crimes.",
      "o": [
-      "indiction",
       "indictment",
-      "inditement",
-      "endictment"
+      "indication",
+      "indignation",
+      "induction"
      ],
-     "a": 1,
-     "e": "Korrekte Schreibweise „indictment“ (stummes 'c'); die übrigen Formen existieren nicht."
+     "a": 0,
+     "e": "„to secure an indictment\" heißt, die Anklageerhebung zu erwirken. Ausgeschlossen sind: „indication\" (ein Anzeichen); „indignation\" (Empörung); „induction\" (Einführung in ein Amt bzw. der induktive Schluss)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16314,12 +16314,12 @@
      "q": "The firm was ____ by the ministry after evidence of unauthorised arms transfers emerged.",
      "o": [
       "blacklisted",
-      "blackballed",
-      "blacklined",
-      "blackmarked"
+      "blackened",
+      "blanched",
+      "bleached"
      ],
      "a": 0,
-     "e": "„to blacklist“ = auf die schwarze Liste setzen; „blackball“ bezeichnet Ablehnung/Ausschluss meist bei Vereinsmitgliedschaft."
+     "e": "„to blacklist a firm\" heißt, sie auf eine Sperrliste zu setzen und von Aufträgen auszuschließen. Ausgeschlossen sind: „blackened\" (geschwärzt — im übertragenen Sinn nur „to blacken someone's name\"); „blanched\" (kurz überbrüht bzw. erbleicht); „bleached\" (gebleicht)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16340,12 +16340,12 @@
      "q": "Analysts insist that a credible ____ posture, not rhetoric, keeps aggressors at bay.",
      "o": [
       "deterrent",
-      "deterrence",
-      "deterred",
-      "deterring"
+      "detergent",
+      "determinant",
+      "deferential"
      ],
      "a": 0,
-     "e": "Adjektivform „deterrent“ vor „posture“; „deterrence“ ist das Substantiv und hier grammatisch falsch."
+     "e": "„a deterrent posture\" ist die abschreckende Aufstellung, die einen Angreifer vom Handeln abhält. Ausgeschlossen sind: „detergent\" (ein Reinigungsmittel); „determinant\" (ein bestimmender Faktor bzw. eine mathematische Größe); „deferential\" (ehrerbietig, nachgiebig — das Gegenteil einer abschreckenden Haltung)."
     },
     {
      "cat": "Wortschatz/Idiomatik",
@@ -16353,12 +16353,12 @@
      "q": "Snap inspections are meant to test units' combat ____ at short notice.",
      "o": [
       "readiness",
-      "readying",
-      "readied",
-      "ready"
+      "readership",
+      "rowdiness",
+      "ruggedness"
      ],
      "a": 0,
-     "e": "Korrekte Substantivform „readiness“ = Einsatzbereitschaft."
+     "e": "„combat readiness\" ist die Einsatzbereitschaft eines Verbandes — der Prüfgegenstand unangekündigter Kontrollen. Ausgeschlossen sind: „readership\" (die Leserschaft einer Zeitung); „rowdiness\" (randalierendes Verhalten); „ruggedness\" (Robustheit von Gerät oder Gelände)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -22783,7 +22783,7 @@
       "has"
      ],
      "a": 0,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the true identity … become\"), den nur ein Modalverb oder do-support regieren kann — „did the true identity … become\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach vorangestelltem „Only later\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „become\", den nur die do-Umschreibung tragen kann: „did the true identity … become\". Ausgeschlossen sind: „has\" (verlangte „become\" als Partizip in Verbindung mit „has become\", also ohne Inversion an dieser Stelle); „is\" und „was\" (beide verlangten ein Partizip oder eine -ing-Form, keinen reinen Infinitiv)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -25460,7 +25460,7 @@
       "Donor governments have fully met the demands of the vulnerable states."
      ],
      "a": 2,
-     "e": "Kernaussage: Die Fondsgründung ist ein Fortschritt, doch die Kapitalisierung bleibt weit hinter dem Bedarf zurück (\"bear scant relation to the damage\"). A ist zu absolut (\"None of this renders the fund worthless\").",
+     "e": "Kernaussage: die Fondsgründung ist ein Fortschritt, doch die Zusagen „bear scant relation to the damage\". Ausgeschlossen sind: „essentially worthless and should be abandoned\" (zu absolut — der Text sagt ausdrücklich „None of this renders the fund worthless\"); „The World Bank's role as interim trustee guarantees the fund's success\" (der Text nennt die Rolle als Grund für Misstrauen der Empfängerstaaten); „Donor governments have fully met the demands\" (das Gegenteil der Aussage über freiwillige statt veranlagte Beiträge).",
      "passage": "That a fund now exists is, by the standards of multilateral bargaining, no small feat. After three decades in which the very phrase \"loss and damage\" was treated in wealthier capitals as an admission of liability best avoided, COP27 produced an agreement to establish one, and COP28 opened it for business with pledges running into the hundreds of millions of dollars. Vulnerable states, whose delegations had pressed the case since the Alliance of Small Island States first raised it in 1991, greeted the outcome as vindication. Yet the self-congratulation obscured a harder truth: pledges are not disbursements, and the sums on offer bear scant relation to the damage they purport to address.\n\nEstimates of the annual finance needed to compensate developing countries for climate-driven destruction — cyclones that flatten harbours, droughts that empty granaries, seas that swallow low-lying atolls — run into the hundreds of billions. Against that backdrop, the fund's initial capitalisation looks less like restitution than a gesture, calibrated to demonstrate good faith without conceding the principle that historical emitters owe a debt proportionate to the harm they have caused. Donor governments, mindful of taxpayers wary of open-ended commitments, have insisted on voluntary rather than assessed contributions, and on hosting arrangements — the World Bank was installed as interim trustee — that recipient states regard with some suspicion, given the institution's chequered record on grants versus loans.\n\nNone of this renders the fund worthless. Even modest, predictable flows can crowd in other financing and lend legitimacy to claims that were, until recently, dismissed outright. But the architecture now being assembled will be judged less by the communiqués that inaugurated it than by whether a farmer in the Sahel or a fisherman in the Solomon Islands ever sees a rupee, a franc or a dollar of it. On present trends, that reckoning still lies some years off.",
      "src": "Übungstext im Stil von Foreign Affairs / The Economist (nicht offiziell)"
     },
@@ -27031,7 +27031,7 @@
       "was"
      ],
      "a": 0,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the moratorium hold\"), den nur ein Modalverb oder do-support regieren kann — „did the moratorium hold\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach „Not only\" folgt die Inversion, und auf das Subjekt steht der reine Infinitiv „hold\": nur „did the moratorium hold\" ist möglich. Ausgeschlossen sind: „has\" (verlangte das Partizip „held\"); „is\" und „was\" (beide verlangten ein Partizip oder eine -ing-Form; „was the moratorium hold\" ist ungrammatisch)."
     }
    ]
   },
@@ -27670,7 +27670,7 @@
       "which"
      ],
      "a": 2,
-     "e": "Vorangestellte Präposition."
+     "e": "Das Verb lautet „to lay claim TO something\"; wird das Relativum vorangestellt, wandert die Präposition im gehobenen Register mit vor das Relativpronomen: „the ridge segment to which three states lay claim\". Ausgeschlossen sind: „which\" (allein gestellt bliebe die Präposition ohne Anschluss — „lay claim\" verlangt sie zwingend); „that\" (dasselbe Problem, und „that\" kann eine vorangestellte Präposition ohnehin nie tragen); „to that\" (nach einer Präposition ist „that\" als Relativpronomen im Englischen ausgeschlossen — dort steht immer „which\" oder „whom\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -27826,7 +27826,7 @@
       "was"
      ],
      "a": 2,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the Council's scientific work continue\"), den nur ein Modalverb oder do-support regieren kann — „did the Council's scientific work continue\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach „Not only\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „continue\", den allein die do-Umschreibung trägt. Ausgeschlossen sind: „has\" (verlangte „continued\" als Partizip); „is\" (verlangte „continuing\"); „was\" (ebenso, und der Nachsatz „emerged\" verankert die Vergangenheit)."
     }
    ]
   },
@@ -28465,7 +28465,7 @@
       "to that"
      ],
      "a": 2,
-     "e": "Vorangestellte Präposition."
+     "e": "Das Verb lautet „to object TO something\"; bei vorangestelltem Relativum wandert die Präposition mit: „the clause to which smaller producers object\". Ausgeschlossen sind: „which\" (die Rektion „object to\" bliebe unerfüllt); „that\" (ebenso, und „that\" trägt nie eine vorangestellte Präposition); „to that\" (nach einer Präposition steht im Englischen nie „that\", sondern „which\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -28621,7 +28621,7 @@
       "has"
      ],
      "a": 2,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the levy survive\"), den nur ein Modalverb oder do-support regieren kann — „did the levy survive\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach „Not only\" folgt die Inversion, und „survive\" steht als reiner Infinitiv: nur „did the levy survive\" ist möglich. Ausgeschlossen sind: „has\" (verlangte das Partizip „survived\"); „is\" und „was\" (beide verlangten ein Partizip oder eine -ing-Form — „survive\" als Grundform kann ihnen nicht folgen)."
     }
    ]
   },
@@ -29260,7 +29260,7 @@
       "that"
      ],
      "a": 0,
-     "e": "Vorangestellte Präposition."
+     "e": "„to object TO something\" verlangt die Präposition; im formalen Register steht sie vor dem Relativpronomen: „the allocation formula to which both sides object\". Ausgeschlossen sind: „to that\" (nach einer Präposition ist „that\" als Relativpronomen ausgeschlossen); „which\" und „that\" (beide lassen die von „object\" geforderte Präposition weg)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -29416,7 +29416,7 @@
       "was"
      ],
      "a": 0,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the treaty survive\"), den nur ein Modalverb oder do-support regieren kann — „did the treaty survive\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach „Not only\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „survive\". Ausgeschlossen sind: „has\" (verlangte „survived\"; zudem widerspräche das Present Perfect dem abgeschlossenen „outlasted\" im Nachsatz); „is\" und „was\" (beide können keinen reinen Infinitiv regieren)."
     }
    ]
   },
@@ -30055,7 +30055,7 @@
       "to which"
      ],
      "a": 3,
-     "e": "Vorangestellte Präposition."
+     "e": "„to object TO something\" verlangt die Präposition, die bei vorangestelltem Relativum mitwandert: „the terms to which Jakarta objects\". Ausgeschlossen sind: „to that\" (nach einer Präposition steht nie „that\"); „that\" und „which\" (beide lassen die Präposition weg, die „objects\" zwingend fordert)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -30230,7 +30230,7 @@
       "Wealthy states have secretly increased their resettlement quotas beyond what they admit."
      ],
      "a": 1,
-     "e": "Kernthese: voluntary arrangements „tend to buckle under domestic political pressure precisely when they are most needed“. Option A ist zu absolut angesichts „None of this is to suggest that the compact has been without effect“.",
+     "e": "Kernthese: freiwillige Arrangements „tend to buckle under domestic political pressure precisely when they are most needed\". Ausgeschlossen sind: „has completely failed and should be abandoned\" (zu absolut — der Text hält ausdrücklich fest: „None of this is to suggest that the compact has been without effect\"); „Frontline host states have engineered the shortfall\" (eine Absicht, die der Text niemandem unterstellt); „Wealthy states have secretly increased their resettlement quotas\" (der Text beschreibt das Gegenteil: still gekürzte Aufnahmezahlen).",
      "passage": "That responsibility-sharing remains the unfulfilled promise of the international refugee regime is by now a truism; what is less often remarked upon is how comfortably major host states have learned to live with the shortfall. The Global Compact on Refugees, adopted with much self-congratulation in 2018, was billed as the mechanism that would finally translate solidarity from rhetoric into resettlement pledges. Eight years on, the ledger tells a starker story: a handful of states adjacent to conflict zones continue to shelter the overwhelming majority of the world's displaced, while pledging conferences yield headline figures that shrink, quietly and predictably, once the cameras are switched off.\n\nNone of this is to suggest that the compact has been without effect. It has furnished a vocabulary — 'burden-sharing', 'comprehensive refugee response' — that campaigners now wield to shame laggard donors, and it has nudged a modest cohort of middle powers into multi-year resettlement commitments they might otherwise have avoided. Yet the architecture remains resolutely voluntary, and voluntary arrangements, however elegantly drafted, tend to buckle under domestic political pressure precisely when they are most needed. Wealthy states that once prided themselves on generous quotas have, in recent budget cycles, quietly trimmed intake numbers while continuing to speak the language of partnership.\n\nThe temptation, for host countries near the frontline, is to conclude that solidarity is a rhetorical commodity rather than an operational one — offered freely at summits, withheld just as freely when parliaments convene. Were resettlement pledges backed by binding review mechanisms rather than annual photo opportunities, the calculus facing frontline states might shift. As it stands, the incentive structure rewards states for hosting the fewest refugees they can defensibly justify, not the most they might responsibly absorb. The compact's architects always knew that shaming alone would not suffice; what they perhaps underestimated was how durable indifference could prove, even when dressed in the language of shared responsibility.",
      "src": "Übungstext im Stil von Foreign Affairs / The Economist (nicht offiziell)"
     },
@@ -31541,7 +31541,7 @@
       "was"
      ],
      "a": 1,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the ministry begin\"), den nur ein Modalverb oder do-support regieren kann — „did the ministry begin\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach vorangestelltem „Only after the ruling\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „begin\", den nur die do-Umschreibung tragen kann. Ausgeschlossen sind: „has\" (verlangte das Partizip „begun\"); „is\" und „was\" (beide verlangten ein Partizip oder eine -ing-Form)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -33926,7 +33926,7 @@
       "is"
      ],
      "a": 1,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („the government … suspend\"), den nur ein Modalverb oder do-support regieren kann — „did the government … suspend\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach vorangestelltem „Not until\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „suspend\": „did the government finally suspend\". Ausgeschlossen sind: „was\" (verlangte ein Partizip — „was the government suspended\" ergäbe zudem das Passiv); „has\" (verlangte „suspended\" als Partizip); „is\" (Präsens, unvereinbar mit dem vergangenen Bezugspunkt „the second court ruling\")."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -35477,7 +35477,7 @@
       "was"
      ],
      "a": 1,
-     "e": "Inversion nach vorangestelltem „Not only“: Hilfsverb „did“ + Grundform „survive“."
+     "e": "Nach „Not only\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „survive\". Ausgeschlossen sind: „is\" und „was\" (beide verlangten ein Partizip oder eine -ing-Form); „has\" (verlangte „survived\", und der Nachsatz „was also broadened\" verankert die Vergangenheit)."
     },
     {
      "cat": "Grammatik/Zeitformen",
@@ -38657,7 +38657,7 @@
       "has"
      ],
      "a": 0,
-     "e": "Inversion nach vorangestelltem Adverbial: Das Hilfsverb steht vor dem Subjekt. Nach dem Subjekt folgt ein reiner Infinitiv („global cooperation collapse\"), den nur ein Modalverb oder do-support regieren kann — „did global cooperation collapse\". Die drei anderen Optionen scheiden aus (alle im Singular, der Fehler liegt also allein in der Form): „has\" verlangt ein Partizip II; „is\" und „was\" verlangen ein Partizip oder eine -ing-Form, keinen reinen Infinitiv."
+     "e": "Nach vorangestelltem „Rarely\" steht die Inversion; auf das Subjekt folgt der reine Infinitiv „collapse\", den allein die do-Umschreibung trägt. Ausgeschlossen sind: „has\" (verlangte das Partizip „collapsed\"); „is\" (Präsens, unvereinbar mit „set in\"); „was\" (verlangte ein Partizip oder eine -ing-Form)."
     },
     {
      "cat": "Grammatik/Zeitformen",
