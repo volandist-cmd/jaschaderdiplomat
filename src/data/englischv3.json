@@ -1275,7 +1275,7 @@
      "stufe": 2
     },
     {
-     "q": "After eleven rounds the negotiations finally ____, and both teams left without a closing statement.",
+     "q": "After eleven rounds the negotiations finally ____, and the mediator declared the process exhausted.",
      "o": [
       "broke down",
       "broke out",
@@ -1283,7 +1283,7 @@
       "broke up"
      ],
      "a": 0,
-     "e": "„break down\" bezeichnet das Scheitern von Verhandlungen aus innerer Ursache. — „broke off\" bezeichnete einen abrupten Abbruch durch eine Seite, während der Satz ein Auslaufen nach elf Runden schildert. — „broke out\" bezeichnet den plötzlichen Ausbruch von Konflikten oder Krankheiten. — „broke up\" bezeichnet das Auseinandergehen einer Versammlung oder Gruppe, nicht das Scheitern des Verhandlungsgegenstands.",
+     "e": "„break down\" bezeichnet das Scheitern von Verhandlungen aus innerer Ursache. — „broke off\" bezeichnete einen abrupten Abbruch durch eine Seite, während der Satz ein Auslaufen nach elf Runden schildert. — „broke out\" bezeichnet den plötzlichen Ausbruch von Konflikten oder Krankheiten. — „broke up\" bezeichnet das Auseinandergehen einer Versammlung und sagt nichts ueber das Scheitern, das der Nachsatz feststellt.",
      "cat": "Phrasal Verbs",
      "ziel": "break down",
      "ktx": "talks-collapse",
@@ -1580,7 +1580,7 @@
      "stufe": 2
     },
     {
-     "q": "Technical staff were left to ____ the practical details of the exchange mechanism.",
+     "q": "Technical staff were left to ____ how the exchange mechanism would function once the pilot phase ended.",
      "o": [
       "work off",
       "work out",
@@ -1588,7 +1588,7 @@
       "work on"
      ],
      "a": 1,
-     "e": "„work out\" bezeichnet das Ausarbeiten bis zum fertigen Ergebnis. — „work up\" bedeutet, etwas allmählich zu steigern oder eine Rohfassung zu erstellen. — „work on\" bezeichnet die laufende Beschäftigung ohne Abschluss. — „work off\" bedeutet abarbeiten, etwa einer Schuld.",
+     "e": "„work out\" ist die einzige Verbindung, die einen indirekten Fragesatz anschliessen kann und das Herausfinden eines Ergebnisses bezeichnet. — „work up\" verlangt ein Nomen als Objekt („work up a draft\") und kann kein „how\"-Gefuege regieren. — „work on\" verlangt ebenfalls ein Nomen und bezeichnet die laufende Beschaeftigung, nicht das Ermitteln. — „work off\" bedeutet abarbeiten und verlangt eine Schuld oder Verpflichtung als Objekt.",
      "cat": "Phrasal Verbs",
      "ziel": "work out",
      "ktx": "devising-details",
@@ -1948,12 +1948,12 @@
      "q": "Article 4 ____ the conditions under which a state may suspend its participation.",
      "o": [
       "lays off",
-      "lays out",
+      "lays in",
       "lays aside",
       "lays down"
      ],
      "a": 3,
-     "e": "„lay down\" bezeichnet das verbindliche Festlegen einer Regel. — „lays off\" bedeutet, Personal zu entlassen. — „lays out\" bedeutet, etwas anschaulich darzustellen, und trägt die normative Verbindlichkeit nicht. — „lays aside\" bedeutet, etwas beiseitezulegen.",
+     "e": "„lay down\" bezeichnet das verbindliche Festlegen einer Regel. — „lays off\" bedeutet, Personal zu entlassen. — „lays in\" bedeutet, Vorraete anzulegen, und verlangt Waren als Objekt. — „lays aside\" bedeutet, etwas beiseitezulegen.",
      "cat": "Phrasal Verbs",
      "ziel": "lay down",
      "ktx": "stipulating-conditions",
