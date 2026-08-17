@@ -133,12 +133,12 @@
      "q": "The successor state assumed the treaty obligations by ____ of the declaration deposited with the Secretary-General in 1993.",
      "o": [
       "force",
-      "reason",
+      "cause",
       "means",
       "virtue"
      ],
      "a": 3,
-     "e": "„by virtue of\" (kraft, aufgrund) ist die im Völkerrecht übliche Wendung für eine Rechtsfolge aus einem Rechtsakt. — „means\" bezeichnet in „by means of\" ein Werkzeug oder Verfahren, nicht einen Rechtsgrund. — „reason\" verlangt „by reason of\", was eine Ursache, nicht eine Ermächtigung angibt, und passt nicht zu einer hinterlegten Erklärung. — „force\" steht in „by force of habit\" und bezeichnet eine Gewohnheit oder Naturkraft.",
+     "e": "„by virtue of\" (kraft, aufgrund) ist die im Völkerrecht übliche Wendung für eine Rechtsfolge aus einem Rechtsakt. — „means\" bezeichnet in „by means of\" ein Werkzeug oder Verfahren, nicht einen Rechtsgrund. — „cause\" bildet keine Fügung „by cause of\"; der Grund wird mit „because of\" angeschlossen. — „force\" steht in „by force of habit\" und bezeichnet eine Gewohnheit oder Naturkraft.",
      "cat": "Prepositions",
      "ziel": "by virtue of",
      "ktx": "succession-of-states",
@@ -455,10 +455,10 @@
       "direction",
       "auspices",
       "authority",
-      "aegis"
+      "banner"
      ],
      "a": 1,
-     "e": "„under the auspices of\" ist die stehende Formel für eine Schirmherrschaft, unter der Verhandlungen stattfinden. — „aegis\" ergibt „under the aegis of\", eine belegte Variante, die jedoch eine institutionelle Schutzmacht bezeichnet und bei einer Einzelperson als Vermittler unpassend ist. — „authority\" verlangt „on the authority of\" oder „by the authority of\" und benennt eine Weisungsbefugnis, die ein Vermittler gerade nicht ausübt. — „direction\" verlangt „under the direction of\" und unterstellt Leitung statt Vermittlung.",
+     "e": "„under the auspices of\" ist die stehende Formel für eine Schirmherrschaft, unter der Verhandlungen stattfinden. — „banner\" ergibt „under the banner of\" und verlangt eine Sache oder Losung, unter der man auftritt, keine vermittelnde Person. — „authority\" verlangt „on the authority of\" oder „by the authority of\" und benennt eine Weisungsbefugnis, die ein Vermittler gerade nicht ausübt. — „direction\" verlangt „under the direction of\" und unterstellt Leitung statt Vermittlung.",
      "cat": "Prepositions",
      "ziel": "under the auspices of",
      "ktx": "talks-hosting",
@@ -650,7 +650,7 @@
      "stufe": 2
     },
     {
-     "q": "Both capitals agreed to ____ consular cooperation while the border question remains unresolved.",
+     "q": "Both capitals agreed to ____ consular cooperation, opening two additional visa centres before the end of the year.",
      "o": [
       "step in",
       "step off",
@@ -658,7 +658,7 @@
       "step up"
      ],
      "a": 3,
-     "e": "„step up\" bezeichnet die Intensivierung. — „step down\" bezeichnete einen Rücktritt oder eine Verringerung. — „step in\" bedeutet eingreifen und ist intransitiv. — „step off\" bezeichnet ein Heruntertreten und ist ebenfalls intransitiv.",
+     "e": "„step up\" bezeichnet die Intensivierung — belegt durch die zusätzlich eröffneten Visastellen. — „step down\" bezeichnet transitiv das Zurückfahren einer Tätigkeit und widerspricht der Eröffnung weiterer Stellen. — „step in\" bedeutet eingreifen und ist intransitiv. — „step off\" bezeichnet ein Heruntertreten und ist ebenfalls intransitiv.",
      "cat": "Phrasal Verbs",
      "ziel": "step up",
      "ktx": "intensification",
@@ -775,10 +775,10 @@
       "take up",
       "take out",
       "take over",
-      "take on"
+      "take down"
      ],
      "a": 0,
-     "e": "„take up\" bedeutet, einen Punkt zur Behandlung aufzugreifen. — „take on\" bedeutet, eine Aufgabe zu übernehmen. — „take over\" bedeutet, die Kontrolle zu übernehmen. — „take out\" bedeutet, etwas zu entfernen oder abzuschliessen.",
+     "e": "„take up\" bedeutet, einen Punkt zur Behandlung aufzugreifen. — „take down\" bedeutet, etwas mitzuschreiben oder abzubauen, und passt auf einen Tagesordnungspunkt nicht. — „take over\" bedeutet, die Kontrolle zu übernehmen. — „take out\" bedeutet, etwas zu entfernen oder abzuschliessen.",
      "cat": "Phrasal Verbs",
      "ziel": "take up",
      "ktx": "raising-an-item",
@@ -789,11 +789,11 @@
      "o": [
       "terms",
       "strength",
-      "basis",
+      "reasons",
       "grounds"
      ],
      "a": 3,
-     "e": "„on the grounds of\" nennt den Rechtfertigungsgrund einer belastenden Entscheidung. — „basis\" verlangt „on the basis of\" und bezeichnet die Datengrundlage einer Beurteilung, nicht den Ablehnungsgrund. — „strength\" steht in „on the strength of\" für ein stützendes Beweisstück, das eine positive Entscheidung trägt. — „terms\" steht in „on the terms of\" und verweist auf den Wortlaut einer Vereinbarung.",
+     "e": "„on the grounds of\" nennt den Rechtfertigungsgrund einer belastenden Entscheidung. — „reasons\" verlangt „for reasons of national security\"; mit „on the … of\" bildet es keine Fügung. — „strength\" steht in „on the strength of\" für ein stützendes Beweisstück, das eine positive Entscheidung trägt. — „terms\" steht in „on the terms of\" und verweist auf den Wortlaut einer Vereinbarung.",
      "cat": "Prepositions",
      "ziel": "on the grounds of",
      "ktx": "visa-refusal-reasoning",
@@ -1182,13 +1182,13 @@
     {
      "q": "The republic was still in the ____ of a constitutional crisis when the accession negotiations were formally opened.",
      "o": [
-      "grip",
+      "onset",
       "throes",
       "depths",
-      "midst"
+      "verge"
      ],
      "a": 1,
-     "e": "„in the throes of\" bezeichnet das akute, noch andauernde Durchleben einer Krise. — „grip\" verlangt „in the grip of\" und stellt die Krise als äußere Macht dar, die den Staat festhält; die Wendung ist belegt, verlangt aber ein Agens-Bild, das der Satz mit „still\" nicht aufbaut. — „midst\" ergibt „in the midst of\", das eine bloße zeitliche Mitte bezeichnet und die Heftigkeit nicht mitführt. — „depths\" verlangt „in the depths of\" und wird für Zustände wie Rezession oder Winter verwendet, nicht für einen Verfassungskonflikt.",
+     "e": "„in the throes of\" bezeichnet das akute, noch andauernde Durchleben einer Krise. — „onset\" verlangt „at the onset of\" und bezeichnet zudem den Beginn, nicht das Durchleben. — „verge\" bildet „on the verge of\" mit „on\" statt „in\" und bezeichnet die Schwelle davor, nicht den laufenden Zustand. — „depths\" verlangt „in the depths of\" und wird für Zustände wie Rezession oder Winter verwendet, nicht für einen Verfassungskonflikt.",
      "cat": "Prepositions",
      "ziel": "in the throes of",
      "ktx": "constitutional-crisis",
@@ -1262,13 +1262,13 @@
     {
      "q": "Facing sustained criticism over the procurement file, the director agreed to ____ at the end of the quarter.",
      "o": [
-      "step back",
+      "step out",
       "step up",
       "step in",
       "step down"
      ],
      "a": 3,
-     "e": "„step down\" bezeichnet den Rücktritt von einem Amt. — „step up\" bedeutet, Anstrengungen zu verstärken. — „step in\" bedeutet einzugreifen. — „step back\" bedeutet, Abstand zu nehmen oder sich zurückzunehmen, ohne das Amt aufzugeben.",
+     "e": "„step down\" bezeichnet den Rücktritt von einem Amt. — „step up\" bedeutet, Anstrengungen zu verstärken. — „step in\" bedeutet einzugreifen. — „step out\" bedeutet, den Raum kurz zu verlassen, und bezeichnet keinen Amtsverzicht.",
      "cat": "Phrasal Verbs",
      "ziel": "step down",
      "ktx": "resignation",
@@ -1457,13 +1457,13 @@
     {
      "q": "The special session was convened at the ____ of a two-thirds majority of the standing members.",
      "o": [
-      "request",
-      "demand",
-      "instance",
+      "behalf",
+      "requirement",
+      "occasion",
       "behest"
      ],
      "a": 3,
-     "e": "„at the behest of\" (auf Veranlassung von) ist die gehobene, in Beschlusstexten übliche Wendung. — „request\" verlangt „at the request of\" mit bestimmtem Artikel und ist damit hier grammatisch möglich, benennt aber eine Bitte, während die Zweidrittelmehrheit ein Einberufungsrecht ausübt. — „instance\" steht in „at the instance of\" nur im schottischen und älteren Prozessrecht und passt nicht in ein Gremienverfahren. — „demand\" verlangt „on demand\" oder „at the demand of\" und trüge einen konfrontativen Ton, den ein satzungsmäßiges Verfahren nicht hat.",
+     "e": "„at the behest of\" (auf Veranlassung von) ist die gehobene, in Beschlusstexten übliche Wendung. — „behalf\" verlangt „on behalf of\" und bezeichnet das Handeln für einen anderen, nicht dessen Veranlassung. — „occasion\" verlangt „on the occasion of\" und nennt einen Anlass, keine Veranlassung. — „requirement\" bildet mit „at the … of\" keine Fügung; es steht in „a requirement for\".",
      "cat": "Prepositions",
      "ziel": "at the behest of",
      "ktx": "special-session-convocation",
@@ -1717,13 +1717,13 @@
     {
      "q": "Reported intimidation of local monitors rose sharply in the ____ to the second round of voting.",
      "o": [
-      "build-up",
+      "forefront",
       "run-up",
       "approach",
       "lead"
      ],
      "a": 1,
-     "e": "„in the run-up to\" bezeichnet die Zeitspanne unmittelbar vor einem angesetzten Ereignis. — „lead\" verlangt „in the lead-up to\", das mit Bindestrich geschrieben wird; die Form ohne Bindestrich ergibt „in the lead to\", was nicht existiert. — „approach\" wird nicht mit „in the … to\" konstruiert; „on the approach to\" ist räumlich. — „build-up\" verlangt „in the build-up to\" und bezeichnet eine Steigerung von Aktivität, passt aber nicht zur bloßen Zeitangabe vor einem Wahlgang.",
+     "e": "„in the run-up to\" bezeichnet die Zeitspanne unmittelbar vor einem angesetzten Ereignis. — „lead\" verlangt „in the lead-up to\", das mit Bindestrich geschrieben wird; die Form ohne Bindestrich ergibt „in the lead to\", was nicht existiert. — „approach\" wird nicht mit „in the … to\" konstruiert; „on the approach to\" ist räumlich. — „forefront\" bildet „in the forefront of\" und bezeichnet eine Spitzenstellung, keine Zeitspanne vor einem Ereignis.",
      "cat": "Prepositions",
      "ziel": "in the run-up to",
      "ktx": "pre-election-tension",
@@ -2434,11 +2434,11 @@
      "o": [
       "difference",
       "loggerheads",
-      "variance",
+      "issue",
       "disagreement"
      ],
      "a": 1,
-     "e": "„at loggerheads with\" bezeichnet einen offenen, festgefahrenen Streit zwischen zwei Stellen. — „variance\" ergibt zwar „at variance with\", das aber den sachlichen Widerspruch zweier Aussagen oder Texte benennt, nicht die anhaltende Auseinandersetzung zweier Gremien. — „difference\" bildet keine Wendung „at difference with\"; das Substantiv steht mit „of opinion\" oder „between\". — „disagreement\" bildet ebenfalls keine Wendung „at disagreement with\"; es steht mit „in disagreement over\".",
+     "e": "„at loggerheads with\" bezeichnet einen offenen, festgefahrenen Streit zwischen zwei Stellen. — „issue\" steht in „the point at issue\" ohne Anschluss mit „with\"; „at issue with somebody\" bildet keine Fügung. — „difference\" bildet keine Wendung „at difference with\"; das Substantiv steht mit „of opinion\" oder „between\". — „disagreement\" bildet ebenfalls keine Wendung „at disagreement with\"; es steht mit „in disagreement over\".",
      "cat": "Prepositions",
      "ziel": "at loggerheads with",
      "ktx": "budget-committee-dispute",
@@ -2498,12 +2498,12 @@
      "q": "The monitoring group concluded that three consignments had been shipped in ____ of the arms embargo imposed the previous autumn.",
      "o": [
       "default",
-      "violation",
+      "excess",
       "contempt",
       "breach"
      ],
      "a": 3,
-     "e": "„in breach of\" ist die im Vertragsrecht übliche Wendung für einen Verstoß gegen eine Verpflichtung. — „default\" steht in „in default of\" für das Ausbleiben einer Leistung, nicht für aktives Zuwiderhandeln. — „violation\" wäre inhaltlich nah, verlangt aber den unbestimmten Artikel („in violation of\" ohne „a\" ist die Variante, hier steht jedoch bereits „in\"); vor allem ist es amerikanisch geprägt und im Embargokontext nicht die Vertragsformel. — „contempt\" bezeichnet die Missachtung eines Gerichts („in contempt of court\"), nicht eines Embargos.",
+     "e": "„in breach of\" ist die im Vertragsrecht übliche Wendung für einen Verstoß gegen eine Verpflichtung. — „default\" steht in „in default of\" für das Ausbleiben einer Leistung, nicht für aktives Zuwiderhandeln. — „excess\" ergibt „in excess of\" und bezeichnet das Überschreiten einer Menge oder Grenze, nicht das Zuwiderhandeln gegen ein Verbot. — „contempt\" bezeichnet die Missachtung eines Gerichts („in contempt of court\"), nicht eines Embargos.",
      "cat": "Prepositions",
      "ziel": "in breach of",
      "ktx": "arms-embargo-monitoring",
@@ -2604,11 +2604,11 @@
      "o": [
       "write up",
       "write out",
-      "write down",
+      "write back",
       "write off"
      ],
      "a": 3,
-     "e": "„write off\" bezeichnet die vollständige Abschreibung einer Forderung. — „write up\" bedeutet, etwas ausführlich niederzuschreiben. — „write out\" bedeutet, etwas vollständig auszuschreiben. — „write down\" bezeichnet die teilweise Wertberichtigung, nicht den vollständigen Verzicht.",
+     "e": "„write off\" bezeichnet die vollständige Abschreibung einer Forderung. — „write up\" bedeutet, etwas ausführlich niederzuschreiben. — „write out\" bedeutet, etwas vollständig auszuschreiben. — „write back\" bedeutet, auf ein Schreiben zu antworten, und kann keine Forderung als Objekt nehmen.",
      "cat": "Phrasal Verbs",
      "ziel": "write off",
      "ktx": "debt-cancellation",
@@ -3124,11 +3124,11 @@
      "o": [
       "will be taking",
       "will have taken",
-      "takes",
+      "has taken",
       "took"
      ],
      "a": 0,
-     "e": "„Throughout the autumn session … each month\" beschreibt einen sich über die Zukunft erstreckenden Verlauf — Future Continuous. — „will have taken\" bezeichnete den Abschluss vor einem Bezugspunkt. — „takes\" ist Präsens und ohne Zukunftsmarkierung. — „took\" ist Präteritum und widerspricht dem Zukunftsbezug.",
+     "e": "„Throughout the autumn session … each month\" beschreibt einen sich über die Zukunft erstreckenden Verlauf — Future Continuous. — „will have taken\" bezeichnete den Abschluss vor einem Bezugspunkt. — „has taken\" ist gegenwartsbezogen und kann den durch „throughout the autumn session\" gesetzten künftigen Verlauf nicht ausdrücken. — „took\" ist Präteritum und widerspricht dem Zukunftsbezug.",
      "cat": "Verb Tenses",
      "ziel": "future continuous",
      "ktx": "rotating-presidency",
@@ -3212,13 +3212,13 @@
     {
      "q": "The proposed swap of detainees ____ at the last moment when the guarantor withdrew.",
      "o": [
-      "fell apart",
+      "fell out",
       "fell behind",
       "fell back",
       "fell through"
      ],
      "a": 3,
-     "e": "„fall through\" bezeichnet das Scheitern eines geplanten Vorhabens vor der Umsetzung. — „fell back\" bedeutet zurückweichen oder auf etwas zurückgreifen und verlangt „on\". — „fell apart\" beschriebe den allmählichen Zerfall von etwas Bestehendem. — „fell behind\" bedeutet, in Rückstand zu geraten.",
+     "e": "„fall through\" bezeichnet das Scheitern eines geplanten Vorhabens vor der Umsetzung. — „fell back\" bedeutet zurückweichen oder auf etwas zurückgreifen und verlangt „on\". — „fell out\" bedeutet, sich zu zerstreiten, und verlangt Personen als Subjekt, nicht ein Vorhaben. — „fell behind\" bedeutet, in Rückstand zu geraten.",
      "cat": "Phrasal Verbs",
      "ziel": "fall through",
      "ktx": "deal-collapsed",
@@ -3577,13 +3577,13 @@
     {
      "q": "Sources indicate that the mission is on the ____ of withdrawing its remaining civilian staff.",
      "o": [
-      "edge",
-      "verge",
+      "stage",
+      "course",
       "point",
-      "brink"
+      "height"
      ],
      "a": 2,
-     "e": "„be on the point of + Gerundium\" bezeichnet die unmittelbar bevorstehende Handlung. — „edge\" bildet „on the edge of\" und beschreibt einen Zustand am Rand des Zusammenbruchs, nicht eine bevorstehende Handlung. — „verge\" ergäbe „on the verge of\", was zwar existiert, aber einen Schwellenzustand bezeichnet und typischerweise mit Zuständen wie „collapse\" steht. — „brink\" ergäbe „on the brink of\" und wird für drohende Katastrophen verwendet, nicht für eine geplante Personalmaßnahme.",
+     "e": "„be on the point of + Gerundium\" bezeichnet die unmittelbar bevorstehende Handlung. — „stage\" steht in „at this stage\" und bildet mit „on the … of\" keine Fügung. — „course\" verlangt „in the course of\" und bezeichnet den Verlauf, nicht den Zeitpunkt unmittelbar davor. — „height\" verlangt „at the height of\" und bezeichnet den Höhepunkt, nicht das Bevorstehen.",
      "cat": "Verb Tenses",
      "ziel": "be on the point of",
      "ktx": "imminent-withdrawal",
@@ -3607,13 +3607,13 @@
     {
      "q": "Much turned on ____ having deposited its instrument before the cut-off date rather than after it.",
      "o": [
-      "the state",
+      "of the state",
       "state",
       "the states",
       "the state’s"
      ],
      "a": 3,
-     "e": "Im förmlichen Register steht vor dem Gerundium der Genitiv. — „the state\" ergäbe die weniger formelle Objektform, die der Rechtsstil des Satzes nicht trägt. — „the states\" wäre ein Plural ohne Genitivmarkierung und widerspräche „its instrument\". — „state\" ohne Artikel ist als Subjekt des Gerundiums ungrammatisch.",
+     "e": "Im förmlichen Register steht vor dem Gerundium der Genitiv. — „of the state\" ergäbe nach der bereits stehenden Präposition eine doppelte Präposition und ist damit ungrammatisch. — „the states\" wäre ein Plural ohne Genitivmarkierung und widerspräche „its instrument\". — „state\" ohne Artikel ist als Subjekt des Gerundiums ungrammatisch.",
      "cat": "Gerund/Infinitive",
      "ziel": "possessive with gerund",
      "ktx": "possessive-gerund-state",
@@ -3623,12 +3623,12 @@
      "q": "____ its earlier reservations, the delegation ultimately joined the consensus without a statement.",
      "o": [
       "Whereas",
-      "Irrespective of",
+      "Irrespective",
       "Regardless",
       "Notwithstanding"
      ],
      "a": 3,
-     "e": "Nur „notwithstanding\" kann als Präposition unmittelbar vor einer Nominalphrase stehen. — „Irrespective of\" ergäbe eine doppelte Präposition, weil die Nominalphrase bereits ohne weiteres „of\" angeschlossen wird; die Fügung verlangt „irrespective of its earlier reservations\" ohne zusätzliches Element. — „Whereas\" ist eine Konjunktion und verlangt ein finites Verb. — „Regardless\" verlangt „of\" und steht hier ohne dieses.",
+     "e": "Nur „notwithstanding\" kann als Präposition unmittelbar vor einer Nominalphrase stehen. — „Irrespective\" verlangt „of\" und steht hier ohne dieses. — „Whereas\" ist eine Konjunktion und verlangt ein finites Verb. — „Regardless\" verlangt „of\" und steht hier ohne dieses.",
      "cat": "Mixed Grammar",
      "ziel": "concessive preposition: notwithstanding",
      "ktx": "objection-overridden",
@@ -3928,12 +3928,12 @@
      "q": "The tribunal awarded restitution of the licence in ____ of monetary compensation, a remedy the claimant had not sought.",
      "o": [
       "stead",
-      "place",
+      "want",
       "lieu",
       "default"
      ],
      "a": 2,
-     "e": "„in lieu of\" ist die rechtssprachliche Formel für „anstelle von\". — „place\" verlangt „in place of\" und ist alltagssprachlich; in einem Urteilstenor wird die Formel „in lieu of\" verwendet. — „stead\" steht in „in somebody’s stead\" und verlangt ein Possessivpronomen, kein „of\". — „default\" ergibt „in default of\", was das Ausbleiben einer Leistung bezeichnet, nicht einen Ersatz.",
+     "e": "„in lieu of\" ist die rechtssprachliche Formel für „anstelle von\". — „want\" ergibt „in want of\" und bedeutet „ermangelnd\", also das Fehlen einer Sache, nicht deren Ersatz. — „stead\" steht in „in somebody’s stead\" und verlangt ein Possessivpronomen, kein „of\". — „default\" ergibt „in default of\", was das Ausbleiben einer Leistung bezeichnet, nicht einen Ersatz.",
      "cat": "Prepositions",
      "ziel": "in lieu of",
      "ktx": "compensation-arrangement",
@@ -4297,13 +4297,13 @@
     {
      "q": "The presidency ____ a compromise text that split the difference on the two bracketed paragraphs.",
      "o": [
-      "put out",
+      "put by",
       "put forward",
       "put up",
       "put off"
      ],
      "a": 1,
-     "e": "„put forward\" bezeichnet das Einbringen eines Vorschlags. — „put off\" bedeutet verschieben oder abschrecken. — „put up\" bedeutet aufstellen oder beherbergen. — „put out\" bedeutet veröffentlichen, löschen oder verärgern.",
+     "e": "„put forward\" bezeichnet das Einbringen eines Vorschlags. — „put off\" bedeutet verschieben oder abschrecken. — „put up\" bedeutet aufstellen oder beherbergen. — „put by\" bedeutet, Geld zurückzulegen, und nimmt keinen Text als Objekt.",
      "cat": "Phrasal Verbs",
      "ziel": "put forward",
      "ktx": "proposing",
@@ -4355,7 +4355,7 @@
      "stufe": 3
     },
     {
-     "q": "Rarely ____ a mandate of this breadth passed without at least one abstention.",
+     "q": "Rarely ____ an assembly of this size adopted a mandate of comparable breadth without at least one abstention.",
      "o": [
       "was",
       "did",
@@ -4363,7 +4363,7 @@
       "has"
      ],
      "a": 3,
-     "e": "Vor dem Partizip „passed\" in Perfektbedeutung steht „has\". — „did\" verlangte den reinen Infinitiv „pass\". — „was\" ergäbe ein Passiv, während der Satz das Mandat als Handelndes darstellt. — „does\" verlangte ebenfalls den reinen Infinitiv.",
+     "e": "Vor dem Partizip „adopted\" in Perfektbedeutung steht „has\". — „did\" verlangte den reinen Infinitiv „adopt\". — „was\" ergäbe ein Passiv, während die Versammlung selbst handelt und „a mandate\" bereits als Objekt danebensteht. — „does\" verlangte ebenfalls den reinen Infinitiv.",
      "cat": "Inversion",
      "ziel": "negative inversion: rarely",
      "ktx": "exceptional-consensus",
@@ -4540,10 +4540,10 @@
       "the delegate’s",
       "delegate",
       "the delegates",
-      "the delegate"
+      "of the delegate"
      ],
      "a": 0,
-     "e": "Im förmlichen Register steht vor dem Gerundium der Genitiv. — „the delegate\" ergäbe die weniger formelle Objektform, die der gehobene Stil des Satzes nicht trägt. — „the delegates\" ist ein Plural ohne Genitivmarkierung und ließe offen, wessen Wortmeldung gemeint ist. — „delegate\" ohne Artikel ist als Subjekt des Gerundiums ungrammatisch.",
+     "e": "Im förmlichen Register steht vor dem Gerundium der Genitiv. — „of the delegate\" ergäbe nach der bereits stehenden Präposition eine doppelte Präposition und ist damit ungrammatisch. — „the delegates\" ist ein Plural ohne Genitivmarkierung und ließe offen, wessen Wortmeldung gemeint ist. — „delegate\" ohne Artikel ist als Subjekt des Gerundiums ungrammatisch.",
      "cat": "Mixed Grammar",
      "ziel": "possessive with gerund",
      "ktx": "formal-gerund-subject",
@@ -4740,10 +4740,10 @@
       "footing",
       "scale",
       "par",
-      "level"
+      "line"
      ],
      "a": 2,
-     "e": "„on a par with\" bezeichnet Gleichrangigkeit im Umfang und ist die feste Wendung. — „level\" verlangt „on a level with\" und wird räumlich verwendet, nicht für Beitragshöhen. — „footing\" ergibt „on an equal footing with\" und benötigt das Adjektiv „equal\"; ohne dieses ist die Wendung unvollständig. — „scale\" wird nicht mit „on a … with\" konstruiert, sondern mit „on the scale of\".",
+     "e": "„on a par with\" bezeichnet Gleichrangigkeit im Umfang und ist die feste Wendung. — „line\" bildet „in line with\", nicht „on a line with\". — „footing\" ergibt „on an equal footing with\" und benötigt das Adjektiv „equal\"; ohne dieses ist die Wendung unvollständig. — „scale\" wird nicht mit „on a … with\" konstruiert, sondern mit „on the scale of\".",
      "cat": "Prepositions",
      "ziel": "on a par with",
      "ktx": "contribution-comparison",
@@ -4769,11 +4769,11 @@
      "o": [
       "conceded",
       "stated",
-      "acknowledged",
+      "demurred",
       "observed"
      ],
      "a": 0,
-     "e": "„concede\" bezeichnet ein Zugeständnis gegen den eigenen Willen — passend zu „pressed repeatedly\" und „finally\". — „acknowledged\" bezeichnet ein Anerkennen ohne den Widerstandsaspekt und wäre mit dem wiederholten Nachbohren unstimmig. — „stated\" ist neutral und trüge den Zwangscharakter nicht. — „observed\" bezeichnet eine beiläufige Feststellung und passt nicht zu einer erzwungenen Auskunft.",
+     "e": "„concede\" bezeichnet ein Zugeständnis gegen den eigenen Willen — passend zu „pressed repeatedly\" und „finally\". — „demurred\" ist intransitiv, wird mit „at\" konstruiert und kann keinen „that\"-Satz anschließen. — „stated\" ist neutral und trüge den Zwangscharakter nicht. — „observed\" bezeichnet eine beiläufige Feststellung und passt nicht zu einer erzwungenen Auskunft.",
      "cat": "Register & Near-Synonyms",
      "ziel": "concede vs acknowledge",
      "ktx": "reluctant-admission",
@@ -4813,12 +4813,12 @@
      "q": "If it ____ not for the continued absence of two members, the committee would be quorate today.",
      "o": [
       "had been",
-      "was",
+      "would be",
       "were",
       "is"
      ],
      "a": 2,
-     "e": "Der Sachverhalt besteht gegenwärtig fort und die Folge liegt heute — Second Conditional mit dem Konjunktiv „were\". — „had been\" verlegte ihn in die Vergangenheit. — „was\" ist an dieser Stelle die umgangssprachliche Variante und im förmlichen Register nicht die geforderte Konjunktivform. — „is\" ergäbe einen realen Konditional und widerspräche „would be\".",
+     "e": "Der Sachverhalt besteht gegenwärtig fort und die Folge liegt heute — Second Conditional mit dem Konjunktiv „were\". — „had been\" verlegte ihn in die Vergangenheit. — „would be\" ist im if-Satz nicht zulässig. — „is\" ergäbe einen realen Konditional und widerspräche „would be\".",
      "cat": "Conditionals",
      "ziel": "if it were not for",
      "ktx": "sole-obstacle-quorum",
@@ -5365,10 +5365,10 @@
       "brought up",
       "brought about",
       "brought in",
-      "brought on"
+      "brought round"
      ],
      "a": 1,
-     "e": "„bring about\" bezeichnet das Herbeiführen eines Ergebnisses. — „brought up\" bedeutet, ein Thema anzusprechen, oder jemanden aufzuziehen. — „brought in\" bedeutet einführen oder hinzuziehen. — „brought on\" bezeichnet das Auslösen eines meist unerwünschten Zustands und wird vor allem für Krankheiten und Anfälle verwendet.",
+     "e": "„bring about\" bezeichnet das Herbeiführen eines Ergebnisses. — „brought up\" bedeutet, ein Thema anzusprechen, oder jemanden aufzuziehen. — „brought in\" bedeutet einführen oder hinzuziehen. — „brought round\" bedeutet, jemanden umzustimmen oder wieder zu Bewusstsein zu bringen, und verlangt eine Person als Objekt.",
      "cat": "Phrasal Verbs",
      "ziel": "bring about",
      "ktx": "causing-change",
@@ -5988,12 +5988,12 @@
      "q": "The revised tariff schedule operates to the ____ of landlocked transit states, several of which have lodged formal objections.",
      "o": [
       "detriment",
-      "prejudice",
+      "burden",
       "expense",
       "disadvantage"
      ],
      "a": 0,
-     "e": "„to the detriment of\" ist die feste Wendung für „zum Nachteil von\". — „prejudice\" steht in „without prejudice to\" und bezeichnet dort die Unberührtheit von Rechten, nicht einen eingetretenen Nachteil. — „disadvantage\" wird nicht mit „to the … of\" konstruiert, sondern attributiv verwendet („at a disadvantage\"). — „expense\" verlangt „at the expense of\", also eine andere Präposition.",
+     "e": "„to the detriment of\" ist die feste Wendung für „zum Nachteil von\". — „burden\" wird mit „a burden on somebody\" konstruiert und bildet mit „to the … of\" keine Fügung. — „disadvantage\" wird nicht mit „to the … of\" konstruiert, sondern attributiv verwendet („at a disadvantage\"). — „expense\" verlangt „at the expense of\", also eine andere Präposition.",
      "cat": "Prepositions",
      "ziel": "to the detriment of",
      "ktx": "transit-state-interests",
@@ -6310,10 +6310,10 @@
       "the chair’s",
       "the chairs",
       "chair",
-      "the chair"
+      "of the chair"
      ],
      "a": 0,
-     "e": "Im förmlichen Register steht vor dem Gerundium der Genitiv. — „the chair\" ergäbe die weniger formelle Objektform, die der Verfahrensstil nicht trägt. — „the chairs\" wäre ein Plural ohne Genitivmarkierung. — „chair\" ohne Artikel ist als Subjekt des Gerundiums ungrammatisch.",
+     "e": "Im förmlichen Register steht vor dem Gerundium der Genitiv. — „of the chair\" ergäbe nach der bereits stehenden Präposition eine doppelte Präposition und ist damit ungrammatisch. — „the chairs\" wäre ein Plural ohne Genitivmarkierung. — „chair\" ohne Artikel ist als Subjekt des Gerundiums ungrammatisch.",
      "cat": "Mixed Grammar",
      "ziel": "possessive with gerund",
      "ktx": "possessive-gerund-chair",
@@ -6322,13 +6322,13 @@
     {
      "q": "The delegation withdrew its request for a site visit in ____ to the host state’s stated security concerns.",
      "o": [
-      "response",
+      "recognition",
       "deference",
       "consideration",
       "regard"
      ],
      "a": 1,
-     "e": "„in deference to\" bezeichnet ein Zurücktreten aus Respekt vor der Position eines anderen — genau der beschriebene Vorgang. — „response\" ergibt „in response to\" und benennt eine bloße Reaktion, ohne den Achtungsaspekt, den das Zurückziehen trägt. — „regard\" verlangt „in regard to\", was ein Thema einführt („in regard to the visit\"), keinen Beweggrund. — „consideration\" verlangt „in consideration of\" und bezeichnet im Vertragsrecht eine Gegenleistung.",
+     "e": "„in deference to\" bezeichnet ein Zurücktreten aus Respekt vor der Position eines anderen — genau der beschriebene Vorgang. — „recognition\" verlangt „in recognition of\" und bezeichnet eine Würdigung, nicht ein Zurücktreten. — „regard\" verlangt „in regard to\", was ein Thema einführt („in regard to the visit\"), keinen Beweggrund. — „consideration\" verlangt „in consideration of\" und bezeichnet im Vertragsrecht eine Gegenleistung.",
      "cat": "Prepositions",
      "ziel": "in deference to",
      "ktx": "host-state-sensitivity",
@@ -6788,7 +6788,7 @@
       "Should have"
      ],
      "a": 0,
-     "e": "„Should X + Infinitiv\" bezeichnet den möglichen künftigen Fall in Vertragsklauseln. — „Had\" ergäbe zwar mit „come\" eine wohlgeformte Inversion, verlegte den Fall aber in eine nicht eingetretene Vergangenheit und verlangte im Hauptsatz „would have been notified\"; dort steht jedoch das gegenwartsbezogene „is to notify\". — „Were\" verlangte „to fail\". — „Should have\" verlangte ein Partizip II und bezöge sich auf eine nicht eingetretene Vergangenheit.",
+     "e": "„Should X + Infinitiv\" bezeichnet den möglichen künftigen Fall in Vertragsklauseln. — „Had\" verlangte das Partizip II („Had the parties failed\") und verlegte den Fall in eine nicht eingetretene Vergangenheit, während der Hauptsatz mit „falls to\" die geltende Regel im Präsens nennt. — „Were\" verlangte „to fail\". — „Should have\" verlangte ein Partizip II und bezöge sich auf eine nicht eingetretene Vergangenheit.",
      "cat": "Conditionals",
      "ziel": "inverted conditional: should",
      "ktx": "fallback-procedure",
@@ -6872,13 +6872,13 @@
     {
      "q": "Two sorties were flown in ____ of the exclusion zone established under the Council’s resolution.",
      "o": [
-      "contravention",
-      "disregard",
-      "breach",
+      "opposition",
+      "objection",
+      "challenge",
       "defiance"
      ],
      "a": 3,
-     "e": "„in defiance of\" betont die bewusste, offene Missachtung — passend zu einem demonstrativen Überflug. — „disregard\" verlangt „in disregard of\" und bezeichnet Gleichgültigkeit statt gezielter Auflehnung; der Satz beschreibt jedoch einen gezielten Akt. — „contravention\" ist eine technisch-rechtliche Feststellung, die einen Normverstoß benennt, aber die Absicht nicht mitführt, und wird typischerweise ohne Handlungsträger verwendet. — „breach\" bezieht sich auf Verpflichtungen aus Verträgen, nicht auf die Missachtung einer angeordneten Zone.",
+     "e": "„in defiance of\" betont die bewusste, offene Missachtung — passend zu einem demonstrativen Überflug. — „objection\" verlangt „objection to\" und bildet mit „in … of\" keine Fügung. — „opposition\" verlangt ebenfalls „opposition to\". — „challenge\" verlangt „challenge to\" und bezeichnet zudem die förmliche Anfechtung, nicht einen tatsächlichen Überflug.",
      "cat": "Prepositions",
      "ziel": "in defiance of",
      "ktx": "no-fly-zone-violation",
@@ -7075,10 +7075,10 @@
       "take out",
       "take on",
       "take over",
-      "take up"
+      "take after"
      ],
      "a": 1,
-     "e": "„take on\" bezeichnet die Übernahme einer zusätzlichen Aufgabe. — „take over\" bezeichnete die Übernahme der Kontrolle über eine ganze Einrichtung, nicht einer einzelnen Funktion. — „take up\" bezeichnet den Beginn einer Tätigkeit oder das Aufgreifen eines Themas. — „take out\" bedeutet herausnehmen oder abschließen („take out insurance\").",
+     "e": "„take on\" bezeichnet die Übernahme einer zusätzlichen Aufgabe. — „take over\" bezeichnete die Übernahme der Kontrolle über eine ganze Einrichtung, nicht einer einzelnen Funktion. — „take after\" bedeutet, jemandem ähnlich zu sein, und verlangt eine Person als Objekt. — „take out\" bedeutet herausnehmen oder abschließen („take out insurance\").",
      "cat": "Phrasal Verbs",
      "ziel": "take on",
      "ktx": "assuming-a-role",
