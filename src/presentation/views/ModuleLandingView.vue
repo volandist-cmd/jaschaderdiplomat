@@ -21,7 +21,50 @@
 
     <!-- Named-set modules: pick a specific set (year / official sample) -->
     <template v-else-if="isNamedSet">
-      <div class="sec-title">Aufgabensatz wählen</div>
+      <!--
+        Fachtest mit Testlauf-Pool (Recht: 35 vollständige Testläufe): der Pool steht als eigener
+        Abschnitt VOR den Prüfungsjahrgängen, weil er der reguläre Trainingsweg ist. Jeder Lauf
+        bleibt ein geschlossener Satz — es wird nichts über Läufe hinweg gemischt.
+      -->
+      <template v-if="runProg.total">
+        <div class="sec-title">Neuer Testlauf</div>
+        <div class="grid g-3" style="margin-bottom:18px">
+          <div class="stat">
+            <div class="k">Testläufe</div>
+            <div class="v">{{ runProg.done }}<small> / {{ runProg.total }}</small></div>
+            <div class="sub">absolviert — abgeschlossene Läufe werden nicht erneut vorgelegt</div>
+          </div>
+          <div class="stat">
+            <div class="k">Als Nächstes</div>
+            <div class="v" style="font-size:22px">{{ nextRunLabel }}</div>
+            <div class="sub">{{ nextRunCount }} Fragen · {{ mod.durationMin }} Min im Prüfungsmodus</div>
+          </div>
+          <div class="stat">
+            <div class="k">Bestleistung</div>
+            <div class="v">{{ bestRuns != null ? bestRuns : '–' }}<small>%</small></div>
+            <div class="sub">Ihr bestes Ergebnis über alle Testläufe</div>
+          </div>
+        </div>
+        <div v-if="runProg.cycleComplete" class="notice info" style="margin-bottom:18px">
+          <span class="ni">ℹ︎</span>
+          <div>
+            Alle {{ runProg.total }} Testläufe sind mindestens einmal abgeschlossen. Die Rotation beginnt
+            erneut und legt jeweils den am seltensten absolvierten Lauf vor.
+          </div>
+        </div>
+        <div class="grid g-2" style="margin-bottom:26px">
+          <div class="topic" @click="startRun('uebung')">
+            <div class="tt">Übungsmodus</div>
+            <div class="td">{{ nextRunLabel }} – sofortige Rückmeldung nach jeder Frage mit Erklärung. Ohne Zeitdruck.</div>
+          </div>
+          <div class="topic" @click="startRun('pruefung')">
+            <div class="tt">Prüfungsmodus</div>
+            <div class="td">{{ nextRunLabel }} unter echter Zeitvorgabe ({{ mod.durationMin }} Min); Auswertung erst am Ende.</div>
+          </div>
+        </div>
+      </template>
+
+      <div class="sec-title">{{ runProg.total ? 'Offizielle Auswahlverfahren' : 'Aufgabensatz wählen' }}</div>
       <div class="grid g-2" style="margin-bottom:24px">
         <div
           v-for="setId in setKeys"
@@ -48,7 +91,9 @@
           <div class="td">Echte Zeitvorgabe ({{ mod.durationMin }} Min), Auswertung erst am Ende – wie in der Prüfung.</div>
         </div>
       </div>
-      <button class="btn btn-primary btn-lg" @click="startNamed">Test starten</button>
+      <button class="btn btn-primary btn-lg" @click="startNamed">
+        {{ runProg.total && selectedSetLabel ? selectedSetLabel + ' starten' : 'Test starten' }}
+      </button>
     </template>
 
     <!-- Run-pool modules: no set picker, direct start with a fresh non-repeating run -->
@@ -92,7 +137,7 @@
 import { ref, computed, watch, onMounted } from 'vue'
 import { useAppStore } from '@/domain/stores/app-store'
 import { loadModule } from '@/data/loader'
-import { startQuiz, pickRunSetId } from '@/services/quiz-engine'
+import { startQuiz, pickRunSetId, runProgress, isRunSetId } from '@/services/quiz-engine'
 import { NAMED_SET_MODULES, GENERATOR_ONLY_MODULES } from '@/domain/models/constants'
 import type { ModuleData } from '@/domain/models/types'
 
@@ -105,8 +150,28 @@ const selectedMode = ref<'uebung' | 'pruefung'>('uebung')
 
 const isGeneratorOnly = computed(() => (GENERATOR_ONLY_MODULES as readonly string[]).includes(moduleId.value))
 const isNamedSet = computed(() => (NAMED_SET_MODULES as readonly string[]).includes(moduleId.value))
-const setKeys = computed(() => (mod.value?.sets ? Object.keys(mod.value.sets) : []))
+const allSetKeys = computed(() => (mod.value?.sets ? Object.keys(mod.value.sets) : []))
+/** Nur die benannten Sätze (Prüfungsjahrgänge, Musteraufgaben) gehören in den Satz-Wähler — die Testlauf-Sätze werden rotiert, nicht einzeln gewählt. */
+const setKeys = computed(() => allSetKeys.value.filter((k) => !isRunSetId(k)))
 const hasMuster = computed(() => !!mod.value?.sets?.muster)
+const sequentialRuns = computed(() => mod.value?.runOrder === 'sequential')
+const runProg = computed(() => runProgress(moduleId.value, allSetKeys.value))
+const nextRunLabel = computed(() => {
+  const next = runProg.value.next
+  return next ? mod.value?.sets?.[next]?.label || next : ''
+})
+const nextRunCount = computed(() => {
+  const next = runProg.value.next
+  return next ? mod.value?.sets?.[next]?.items.length || mod.value?.count || 0 : 0
+})
+const selectedSetLabel = computed(() => mod.value?.sets?.[selectedSet.value]?.label || '')
+/** Bestleistung über den Testlauf-Pool (ohne die Prüfungsjahrgänge, die eigene Badges haben). */
+const bestRuns = computed(() => {
+  const pcts = appStore.state.attempts
+    .filter((a) => a.module === moduleId.value && isRunSetId(a.setId))
+    .map((a) => a.pct)
+  return pcts.length ? Math.round(Math.max(...pcts)) : null
+})
 const perItemSeconds = computed(() => mod.value?.secPerItem || null)
 const totalSeconds = computed(() => {
   if (!mod.value) return 0
@@ -125,7 +190,8 @@ async function load() {
   mod.value = null
   const data = await loadModule(moduleId.value)
   mod.value = data
-  if (data.sets) selectedSet.value = Object.keys(data.sets)[0]
+  // Vorauswahl im Satz-Wähler: erster benannter Satz (Testlauf-Sätze sind dort nicht wählbar).
+  if (data.sets) selectedSet.value = Object.keys(data.sets).filter((k) => !isRunSetId(k))[0] || ''
 }
 
 function startNamed() {
@@ -134,7 +200,7 @@ function startNamed() {
 
 function startRun(mode: 'uebung' | 'pruefung') {
   if (!mod.value?.sets) return
-  const setId = pickRunSetId(moduleId.value, Object.keys(mod.value.sets))
+  const setId = pickRunSetId(moduleId.value, allSetKeys.value, sequentialRuns.value)
   startQuiz({ moduleId: moduleId.value, setId, mode })
 }
 

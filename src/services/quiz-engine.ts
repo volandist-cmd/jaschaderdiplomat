@@ -3,7 +3,7 @@ import { useAppStore } from '@/domain/stores/app-store'
 import { loadModule, loadQuizSet } from '@/data/loader'
 import type { QuizItem, QuizState, Attempt, ErrorEntry } from '@/domain/models/types'
 import { shuffleArray } from '@/infrastructure/utils/random'
-import { LETTERS } from '@/domain/models/constants'
+import { LETTERS, NAMED_SET_MODULES } from '@/domain/models/constants'
 
 /**
  * Quiz Engine - Core quiz logic
@@ -37,23 +37,99 @@ function maybeShuffle(items: QuizItem[]): QuizItem[] {
   return hasPassage ? mapped : shuffleArray(mapped)
 }
 
+/** Ein Testlauf-Satz des Rotationspools ("run1".."run35"). Benannte Sätze (Jahrgänge wie "2019", "muster") gehören nie dazu. */
+const RUN_SET_ID = /^run\d+$/
+
+export function isRunSetId(setId: string | undefined | null): boolean {
+  return !!setId && RUN_SET_ID.test(setId)
+}
+
 /**
- * Non-repeating random set picker — mirrors the original's pickAWSet() shuffled queue.
- * `muster` (the reserved official-sample set, e.g. Englisch v1) is never drawn into the
- * random rotation — it stays accessible only through its own dedicated start action.
+ * Die Sätze, die in der Rotation „nächster Testlauf" stehen — Testlauf-Sätze aufsteigend nach
+ * Nummer (run2 vor run10, nicht lexikografisch), danach sonstige Trainingssätze in Dateireihenfolge
+ * (z. B. dgpmath `ref1`..`ref6`, die schon vor dieser Änderung mitrotiert haben).
+ *
+ * Nie Teil der Rotation: `muster` (offizieller Musteraufgaben-Satz) und bei Modulen mit benannten
+ * Sätzen (Fachtests `2019`/`2023`) deren Jahrgangssätze — beide bleiben nur über ihre eigene
+ * Startaktion erreichbar, damit ein Prüfungsjahrgang nicht unangekündigt als Training erscheint.
  */
-export function pickRunSetId(moduleId: string, setKeys: string[]): string {
+export function rotationSetKeys(moduleId: string, setKeys: string[]): string[] {
+  const hasNamedSets = (NAMED_SET_MODULES as readonly string[]).includes(moduleId)
+  const pool = setKeys.filter((k) => k !== 'muster' && !(hasNamedSets && !isRunSetId(k)))
+  const runs = pool.filter(isRunSetId).sort((a, b) => parseInt(a.slice(3), 10) - parseInt(b.slice(3), 10))
+  return [...runs, ...pool.filter((k) => !isRunSetId(k))]
+}
+
+/**
+ * Zählt je Testlauf-Satz die abgeschlossenen Versuche. Ein Satz gilt als „absolviert",
+ * sobald finishQuiz() dafür einen Versuch protokolliert hat — nicht schon beim Starten.
+ * Damit ist ein abgebrochener Lauf nicht verbraucht, und die Fortschrittsanzeige
+ * ("N von 35 absolviert") und die Auswahl des nächsten Laufs stützen sich auf dieselbe,
+ * ohnehin persistierte Quelle (`state.attempts`) statt auf einen zweiten Zähler, der
+ * mit ihr auseinanderlaufen könnte. Übungs- und Prüfungsmodus teilen sich einen Pool
+ * (CLAUDE.md „General Rules" Nr. 8: bereits beantwortete Fragen dürfen im nächsten
+ * Test ODER Training nicht wieder erscheinen).
+ */
+export function runSetAttemptCounts(moduleId: string, setKeys: string[]): Record<string, number> {
   const appStore = useAppStore()
-  const pool = setKeys.filter((k) => k !== 'muster')
-  const candidates = pool.length ? pool : setKeys
-  const queueKey = `_runQueue_${moduleId}`
-  let queue: string[] = appStore.state[queueKey]
-  if (!Array.isArray(queue) || queue.length === 0) {
-    queue = shuffleArray(candidates)
+  const counts: Record<string, number> = {}
+  for (const key of rotationSetKeys(moduleId, setKeys)) counts[key] = 0
+  for (const a of appStore.state.attempts) {
+    if (a.module === moduleId && counts[a.setId] != null) counts[a.setId]++
   }
-  const next = queue.shift() as string
-  appStore.state[queueKey] = queue
-  return next
+  return counts
+}
+
+export interface RunProgress {
+  total: number
+  done: number
+  /** Der Satz, der beim nächsten Start gezogen wird — `null`, wenn das Modul keinen Testlauf-Pool hat. */
+  next: string | null
+  /** Alle gleichrangigen Kandidaten (die am seltensten abgeschlossenen Läufe); `next` ist der erste davon. */
+  candidates: string[]
+  /** Vollständige Runde absolviert: jeder Testlauf wurde mindestens einmal abgeschlossen, die Rotation beginnt erneut. */
+  cycleComplete: boolean
+}
+
+/**
+ * Fortschritt im Testlauf-Pool eines Moduls: wie viele Läufe abgeschlossen sind und welcher als
+ * nächster ansteht. Bewusst deterministisch und nebenwirkungsfrei — die Funktion läuft im
+ * Landing-View innerhalb eines `computed`, das bei jeder Zustandsänderung neu ausgewertet wird;
+ * ein Zufallszug an dieser Stelle würde bei jedem Rendern eine andere Nummer anzeigen als die,
+ * die der Klick dann startet.
+ */
+export function runProgress(moduleId: string, setKeys: string[]): RunProgress {
+  const keys = rotationSetKeys(moduleId, setKeys)
+  if (!keys.length) return { total: 0, done: 0, next: null, candidates: [], cycleComplete: false }
+  const counts = runSetAttemptCounts(moduleId, setKeys)
+  const done = keys.filter((k) => counts[k] > 0).length
+  const min = Math.min(...keys.map((k) => counts[k]))
+  const candidates = keys.filter((k) => counts[k] === min)
+  return { total: keys.length, done, next: candidates[0], candidates, cycleComplete: min > 0 }
+}
+
+/**
+ * Zieht den nächsten Testlauf eines Moduls: den am seltensten abgeschlossenen, also
+ * zuerst jeden noch nie beendeten. Ist eine Runde vollständig, beginnt die Rotation
+ * von vorn (statt das Modul zu sperren) — dann wieder beim am seltensten geübten Lauf.
+ *
+ * `sequential` (aus `ModuleData.runOrder`) bestimmt, wie unter gleichrangigen Kandidaten gewählt
+ * wird: aufsteigend nach Nummer (Fachtest Recht — 35 kuratierte Läufe, Abfolge nachvollziehbar und
+ * vorab anzeigbar) oder zufällig (DGP-/Sprachtest-Pools mit 50 gleichartigen Läufen).
+ *
+ * Ersetzt die frühere, beim START verbrauchte Warteschlange `_runQueue_<id>`: die hat einen
+ * Testlauf schon durch reines Öffnen aufgebraucht, auch wenn der Durchgang abgebrochen wurde.
+ * Alte `_runQueue_*`-Einträge in localStorage werden nicht mehr gelesen und bleiben wirkungslos.
+ *
+ * `muster` (offizieller Musteraufgaben-Satz) und benannte Jahrgangssätze ("2019") sind nie Teil
+ * der Rotation — sie bleiben nur über ihre eigene Startaktion erreichbar.
+ */
+export function pickRunSetId(moduleId: string, setKeys: string[], sequential = false): string {
+  const { next, candidates } = runProgress(moduleId, setKeys)
+  if (next) return sequential ? next : shuffleArray(candidates)[0]
+  // Modul ohne Testlauf-Pool (nur benannte Sätze): Rückfall auf den ersten nicht reservierten Satz.
+  const fallback = setKeys.filter((k) => k !== 'muster')
+  return (fallback.length ? fallback : setKeys)[0]
 }
 
 export async function startQuiz(options: StartQuizOptions): Promise<void> {

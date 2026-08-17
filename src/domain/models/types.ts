@@ -212,6 +212,14 @@ export interface ModuleData {
   sets?: Record<string, QuizSet>
   intro?: string
   count?: number
+  /**
+   * Reihenfolge, in der die Testlauf-Sätze (`run1`..`runN`) gezogen werden.
+   * `'sequential'`: aufsteigend Testlauf 1 → N, sodass der nächste Lauf vorab anzeigbar ist
+   * (Fachtest Recht: 35 kuratierte, je vollständige Themensätze).
+   * Fehlt der Schlüssel, wird zufällig aus den am seltensten absolvierten Läufen gezogen
+   * (DGP-/Sprachtest-Pools mit 50 gleichartigen Läufen).
+   */
+  runOrder?: 'sequential'
   secPerItem?: number
   totalSec?: number
   schwellePct?: number

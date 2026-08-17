@@ -86,7 +86,7 @@ export async function launchCurrentStep(): Promise<void> {
   let setId = step.fixedSet
   if (!setId) {
     const mod = await loadModule(step.moduleId)
-    setId = pickRunSetId(step.moduleId, Object.keys(mod.sets || {}))
+    setId = pickRunSetId(step.moduleId, Object.keys(mod.sets || {}), mod.runOrder === 'sequential')
   }
   await startQuiz({ moduleId: step.moduleId, setId, mode: 'pruefung', fullrun: true, shuffle: step.shuffle })
 }

@@ -27,7 +27,7 @@
     <div class="btn-row" style="margin-bottom:22px">
       <button class="btn btn-primary" @click="appStore.navigate('quiz', { id: quiz.id })">Antworten im Detail durchsehen</button>
       <button class="btn btn-ghost" :disabled="!hasWrong" @click="retryWrong">Nur falsche wiederholen</button>
-      <button class="btn btn-ghost" @click="startAgain">{{ isNamedSet ? 'Erneut starten' : 'Neue Aufgaben' }}</button>
+      <button class="btn btn-ghost" @click="startAgain">{{ startAgainLabel }}</button>
       <button class="btn btn-ghost" @click="appStore.navigate('module', { id: quiz.id })">Zurück zum Modul</button>
     </div>
 
@@ -58,7 +58,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useQuizStore } from '@/domain/stores/quiz-store'
 import { useAppStore } from '@/domain/stores/app-store'
-import { isItemCorrect, startQuiz, pickRunSetId } from '@/services/quiz-engine'
+import { isItemCorrect, startQuiz, pickRunSetId, isRunSetId } from '@/services/quiz-engine'
 import { loadModule } from '@/data/loader'
 import { fmtTime } from '@/infrastructure/utils/format'
 import { getBand } from '@/infrastructure/utils/format'
@@ -72,6 +72,11 @@ const quiz = computed(() => quizStore.quiz)
 const result = computed(() => quiz.value!.result!)
 const mod = ref<ModuleData | null>(null)
 const isNamedSet = computed(() => !!quiz.value && (NAMED_SET_MODULES as readonly string[]).includes(quiz.value.id))
+
+const startAgainLabel = computed(() => {
+  if (isRunSetId(quiz.value?.setId)) return 'Nächster Testlauf'
+  return isNamedSet.value ? 'Erneut starten' : 'Neue Aufgaben'
+})
 
 const band = computed(() => getBand(result.value.pct))
 const ringColor = computed(() => `var(--${band.value.c === 'red' ? 'red' : band.value.c === 'gold' ? 'gold' : band.value.c === 'green' ? 'green' : 'navy'})`)
@@ -186,10 +191,12 @@ function retryWrong() {
 
 async function startAgain() {
   const q = quiz.value!
-  if (isNamedSet.value) {
+  // Benannter Satz (Prüfungsjahrgang, Musteraufgaben): denselben Satz erneut. Testlauf-Satz:
+  // den nächsten der Rotation — der gerade beendete ist jetzt als absolviert protokolliert.
+  if (isNamedSet.value && !isRunSetId(q.setId)) {
     await startQuiz({ moduleId: q.id, setId: q.setId, mode: q.mode as 'uebung' | 'pruefung' })
   } else if (mod.value?.sets) {
-    const setId = pickRunSetId(q.id, Object.keys(mod.value.sets))
+    const setId = pickRunSetId(q.id, Object.keys(mod.value.sets), mod.value.runOrder === 'sequential')
     await startQuiz({ moduleId: q.id, setId, mode: q.mode as 'uebung' | 'pruefung' })
   }
 }
