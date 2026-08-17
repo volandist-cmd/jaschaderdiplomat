@@ -2604,11 +2604,11 @@
      "o": [
       "write up",
       "write out",
-      "write back",
+      "write away",
       "write off"
      ],
      "a": 3,
-     "e": "„write off\" bezeichnet die vollständige Abschreibung einer Forderung. — „write up\" bedeutet, etwas ausführlich niederzuschreiben. — „write out\" bedeutet, etwas vollständig auszuschreiben. — „write back\" bedeutet, auf ein Schreiben zu antworten, und kann keine Forderung als Objekt nehmen.",
+     "e": "„write off\" bezeichnet die vollständige Abschreibung einer Forderung. — „write up\" bedeutet, etwas ausführlich niederzuschreiben. — „write out\" bedeutet, etwas vollständig auszuschreiben. — „write away\" bedeutet, etwas brieflich anzufordern („write away for a form\"), und nimmt kein direktes Objekt wie eine Forderung.",
      "cat": "Phrasal Verbs",
      "ziel": "write off",
      "ktx": "debt-cancellation",
@@ -3120,7 +3120,7 @@
      "stufe": 2
     },
     {
-     "q": "Throughout the autumn session, a different member ____ the chair each month under the rotation formula.",
+     "q": "Throughout next year’s autumn session, a different member ____ the chair each month under the rotation formula.",
      "o": [
       "will be taking",
       "will have taken",
@@ -3128,7 +3128,7 @@
       "took"
      ],
      "a": 0,
-     "e": "„Throughout the autumn session … each month\" beschreibt einen sich über die Zukunft erstreckenden Verlauf — Future Continuous. — „will have taken\" bezeichnete den Abschluss vor einem Bezugspunkt. — „has taken\" ist gegenwartsbezogen und kann den durch „throughout the autumn session\" gesetzten künftigen Verlauf nicht ausdrücken. — „took\" ist Präteritum und widerspricht dem Zukunftsbezug.",
+     "e": "„Throughout next year’s autumn session … each month\" beschreibt einen sich über die Zukunft erstreckenden Verlauf — Future Continuous. — „will have taken\" bezeichnete den Abschluss vor einem Bezugspunkt. — „has taken\" ist gegenwartsbezogen und kann den durch „next year’s autumn session\" gesetzten künftigen Verlauf nicht ausdrücken. — „took\" ist Präteritum und widerspricht dem Zukunftsbezug.",
      "cat": "Verb Tenses",
      "ziel": "future continuous",
      "ktx": "rotating-presidency",
@@ -3928,12 +3928,12 @@
      "q": "The tribunal awarded restitution of the licence in ____ of monetary compensation, a remedy the claimant had not sought.",
      "o": [
       "stead",
-      "want",
+      "exchange",
       "lieu",
       "default"
      ],
      "a": 2,
-     "e": "„in lieu of\" ist die rechtssprachliche Formel für „anstelle von\". — „want\" ergibt „in want of\" und bedeutet „ermangelnd\", also das Fehlen einer Sache, nicht deren Ersatz. — „stead\" steht in „in somebody’s stead\" und verlangt ein Possessivpronomen, kein „of\". — „default\" ergibt „in default of\", was das Ausbleiben einer Leistung bezeichnet, nicht einen Ersatz.",
+     "e": "„in lieu of\" ist die rechtssprachliche Formel für „anstelle von\". — „exchange\" verlangt „in exchange for\" und bezeichnet zudem einen wechselseitigen Tausch, nicht die Ersetzung einer Rechtsfolge durch eine andere. — „stead\" steht in „in somebody’s stead\" und verlangt ein Possessivpronomen, kein „of\". — „default\" ergibt „in default of\", was das Ausbleiben einer Leistung bezeichnet, nicht einen Ersatz.",
      "cat": "Prepositions",
      "ziel": "in lieu of",
      "ktx": "compensation-arrangement",
