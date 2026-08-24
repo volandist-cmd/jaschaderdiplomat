@@ -1172,34 +1172,34 @@
         {
           "q": "Wann trat das internationale Übereinkommen zum Schutz der biologischen Vielfalt der Meere jenseits nationaler Hoheitsbereiche (BBNJ-Abkommen, „High Seas Treaty\") in Kraft?",
           "o": [
-            "Unmittelbar mit der Unterzeichnung durch die ersten fünf Staaten 2023",
-            "Es ist bislang noch nicht in Kraft getreten",
-            "Bei seiner Annahme durch die VN-Generalversammlung 2023",
-            "Am 17. Januar 2026, nach Erreichen der erforderlichen 60 Ratifikationen im September 2025"
+            "Unmittelbar mit der Unterzeichnung durch die ersten fünf Staaten im September 2023 in New York",
+            "Bereits mit seiner Annahme durch die zwischenstaatliche Konferenz am 19. Juni 2023",
+            "Am 17. Januar 2026, nach Erreichen der erforderlichen 60 Ratifikationen im September 2025",
+            "Es ist bislang nicht in Kraft getreten; die Zahl der Ratifikationen liegt noch unter sechzig"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Das BBNJ-Abkommen wurde 2023 angenommen, erreichte im September 2025 die für sein Inkrafttreten erforderlichen 60 Ratifikationen und trat am 17. Januar 2026 völkerrechtlich in Kraft – ein Beispiel dafür, wie lange internationale Umweltverträge von der Annahme bis zur Geltung brauchen.",
           "cat": "Seerecht"
         },
         {
           "q": "Welches Streitbeilegungsorgan ist nach dem Seerechtsübereinkommen zuständig, wenn die Vertragsstaaten keine oder unterschiedliche Wahl unter den vorgesehenen Foren getroffen haben?",
           "o": [
-            "Es besteht dann keine Möglichkeit der Streitbeilegung",
-            "Das allgemeine Schiedsgericht als gesetzlicher Auffangmechanismus",
-            "Der Internationale Seegerichtshof in Hamburg zwingend",
-            "Der Internationale Gerichtshof zwingend"
+            "Das Schiedsgericht nach Anlage VII, das Art. 287 Abs. 3 und 5 SRÜ als Auffangforum vorsieht",
+            "Der Internationale Seegerichtshof in Hamburg, weil er als einziges Forum seerechtsspezifisch besetzt ist",
+            "Der Internationale Gerichtshof, weil er nach Art. 92 VN-Charta Hauptrechtsprechungsorgan der VN ist",
+            "Keines; ohne übereinstimmende Wahl entfällt die verbindliche Streitbeilegung und es bleibt bei Verhandlungen"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Treffen die Vertragsstaaten keine oder unterschiedliche Wahl unter den in Teil XV des Seerechtsübereinkommens vorgesehenen Foren, ist das allgemeine Schiedsgericht der gesetzliche Auffangmechanismus – die Grundlage etwa des Schiedsspruchs im Südchinesischen Meer.",
           "cat": "Seerecht"
         },
         {
           "q": "Nach welcher Regel grenzen benachbarte Staaten ihr Küstenmeer voneinander ab, wenn nichts anderes vereinbart ist?",
           "o": [
-            "Nach dem Prinzip „Wer zuerst kommt, dessen Gebiet zählt weiter\"",
-            "Nach der Mittellinie, sofern nicht historische Titel oder besondere Umstände eine andere Grenzziehung verlangen",
-            "Nach der Bevölkerungszahl der jeweiligen Küstenstaaten",
-            "Ausschließlich durch Entscheidung des Sicherheitsrats"
+            "Ausschließlich durch eine Entscheidung des Sicherheitsrats nach Kapitel VI der VN-Charta",
+            "Nach der Mittellinie, sofern nicht historische Titel oder besondere Umstände eine andere Grenze verlangen",
+            "Nach der Bevölkerungszahl der beteiligten Küstenstaaten, gewichtet nach ihrer jeweiligen Küstenlänge",
+            "Nach dem Grundsatz der Priorität: maßgeblich ist, welcher der beiden Staaten sein Küstenmeer zuerst proklamiert hat"
           ],
           "a": 1,
           "e": "Für die Abgrenzung des Küstenmeers gibt Art. 15 SRÜ die Mittellinie vor, sofern nichts anderes vereinbart ist oder historische Titel bzw. besondere Umstände eine andere Linie verlangen. Für Wirtschaftszone und Festlandsockel gilt demgegenüber die offenere Formel der „gerechten Lösung\".",
@@ -1478,25 +1478,25 @@
         {
           "q": "In welchen Fällen darf ein fremdes Kriegsschiff auf Hoher See ausnahmsweise in die Rechte eines Schiffes eingreifen, das nicht seine eigene Flagge führt?",
           "o": [
-            "Niemals; die Flaggenstaatshoheit kennt keine Ausnahmen",
-            "Bei jedem Verdacht auf eine Ordnungswidrigkeit",
-            "Nur mit vorheriger Genehmigung des Flaggenstaats",
-            "Insbesondere bei Piraterie, Sklavenhandel, unerlaubtem Rundfunk oder Staatenlosigkeit des Schiffes"
+            "Niemals; die ausschließliche Flaggenstaatshoheit nach Art. 92 SRÜ kennt auf Hoher See keine Ausnahme",
+            "Insbesondere bei Piraterie, Sklavenhandel, unerlaubtem Rundfunk oder Staatenlosigkeit des Schiffes",
+            "Nur mit vorheriger, im Einzelfall erteilter Genehmigung des Flaggenstaats des betroffenen Schiffes",
+            "Bei jedem Verdacht auf eine Ordnungswidrigkeit, sofern das Kriegsschiff sie an Bord protokolliert"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Auf Hoher See gilt grundsätzlich die Flaggenstaatshoheit; ein Eingreifen fremder Kriegsschiffe ist nur ausnahmsweise erlaubt – insbesondere bei Piraterie, Sklavenhandel, unerlaubtem Rundfunk, Staatenlosigkeit des Schiffes oder im Wege des Nacheilerechts aus dem Küstenmeer.",
           "cat": "Seerecht"
         },
         {
           "q": "Bis zu welcher Entfernung kann sich der Festlandsockel eines Küstenstaats entlang des natürlichen Sockelrandes erstrecken?",
           "o": [
-            "Höchstens 100 Seemeilen",
-            "Höchstens 24 Seemeilen",
-            "Mindestens 200, unter bestimmten geologischen Voraussetzungen bis zu 350 Seemeilen",
-            "Grundsätzlich unbegrenzt"
+            "Höchstens 24 Seemeilen, also so weit wie die Anschlusszone",
+            "Grundsätzlich unbegrenzt, solange der Sockelrand geologisch nachweisbar ist",
+            "Mindestens 200, geologisch begründet bis zu 350 Seemeilen",
+            "Höchstens 100 Seemeilen, gerechnet von der Basislinie"
           ],
           "a": 2,
-          "e": "Der Festlandsockel reicht nach Art. 76 SRÜ mindestens bis 200 Seemeilen und kann sich entlang des natürlichen Sockelrandes unter bestimmten geologischen Voraussetzungen bis zu 350 Seemeilen oder darüber erstrecken; Ansprüche jenseits von 200 Seemeilen prüft eine eigene Sockelgrenzkommission.",
+          "e": "Der Festlandsockel reicht nach Art. 76 SRÜ mindestens bis 200 Seemeilen und kann sich entlang des natürlichen Sockelrandes unter geologischen Voraussetzungen bis zu 350 Seemeilen von der Basislinie oder bis 100 Seemeilen jenseits der 2500-Meter-Tiefenlinie erstrecken – unbegrenzt ist er in keinem Fall, und Ansprüche jenseits von 200 Seemeilen prüft die Sockelgrenzkommission. 24 Seemeilen ist die Grenze der Anschlusszone, nicht des Sockels.",
           "cat": "Seerecht"
         },
         {
@@ -1784,24 +1784,24 @@
         {
           "q": "Worin unterscheidet sich die Transitdurchfahrt durch internationale Meerengen von der friedlichen Durchfahrt im Küstenmeer?",
           "o": [
-            "Beide Rechte sind inhaltlich identisch",
-            "Die Transitdurchfahrt darf, anders als die friedliche Durchfahrt, nicht ausgesetzt werden und umfasst auch Überflug sowie die getauchte Fahrt von U-Booten",
-            "Die Transitdurchfahrt gilt nur für Handelsschiffe",
-            "Nur die friedliche Durchfahrt gilt auch für Kriegsschiffe"
+            "Nur die friedliche Durchfahrt gilt auch für Kriegsschiffe, die Transitdurchfahrt nicht",
+            "Die Transitdurchfahrt gilt nur für Handelsschiffe, nicht für Staatsschiffe",
+            "Sie darf nicht ausgesetzt werden und umfasst auch Überflug und getauchte Fahrt",
+            "Beide Rechte sind inhaltlich identisch; der Unterschied ist rein terminologisch"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Die Transitdurchfahrt durch internationale Meerengen (Art. 37–44 SRÜ) darf anders als die friedliche Durchfahrt im Küstenmeer nicht ausgesetzt werden und umfasst zusätzlich Überflug und die getauchte Fahrt von U-Booten – der Grund, aus dem Seemächte auf der engen Zwölf-Meilen-Grenze des Küstenmeers bestehen.",
           "cat": "Seerecht"
         },
         {
           "q": "Welche allgemeine Verpflichtung begründet das Seerechtsübereinkommen für alle Vertragsstaaten in Bezug auf die Meeresumwelt?",
           "o": [
-            "Eine unverbindliche Absichtserklärung ohne Rechtscharakter",
-            "Eine Verpflichtung, die nur für Küstenstaaten mit eigener Wirtschaftszone gilt",
-            "Eine Verpflichtung, die erst mit dem BBNJ-Abkommen 2026 entstand",
-            "Eine umfassende Pflicht zum Schutz und zur Bewahrung der Meeresumwelt sowie zur Zusammenarbeit gegen Verschmutzung"
+            "Eine umfassende Pflicht zum Schutz der Meeresumwelt und zur Zusammenarbeit gegen Verschmutzung",
+            "Eine Verpflichtung, die erst mit dem BBNJ-Abkommen von 2026 entstanden ist",
+            "Eine unverbindliche Absichtserklärung ohne eigenen Rechtscharakter, an die kein Staat gebunden ist",
+            "Eine Verpflichtung, die nur für Küstenstaaten mit eigener Wirtschaftszone gilt, nicht für Binnenstaaten"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Das Seerechtsübereinkommen verpflichtet alle Vertragsstaaten umfassend zum Schutz und zur Bewahrung der Meeresumwelt und zur Zusammenarbeit gegen Verschmutzung – eine Grundverpflichtung, die das BBNJ-Abkommen für die Hohe See lediglich ergänzt, nicht erst begründet.",
           "cat": "Seerecht"
         },
@@ -2090,24 +2090,24 @@
         {
           "q": "Was kennzeichnet die sogenannten Archipelgewässer eines Archipelstaats wie Indonesien oder der Philippinen nach dem Seerechtsübereinkommen?",
           "o": [
-            "Meeresgebiete innerhalb gerader Archipel-Basislinien stehen unter der Souveränität des Archipelstaats, belastet mit dem Recht der friedlichen bzw. archipelagischen Durchfahrt",
-            "Sie sind identisch mit der ausschließlichen Wirtschaftszone",
-            "Sie gehören stets zur Hohen See und unterliegen keiner staatlichen Hoheit",
-            "Sie unterliegen keiner besonderen Regelung, sondern dem allgemeinen Küstenmeerregime"
+            "Sie unterliegen keiner besonderen Regelung, sondern ohne Abweichung dem allgemeinen Küstenmeerregime",
+            "Sie sind rechtlich identisch mit der ausschließlichen Wirtschaftszone und gewähren nur Ressourcenrechte",
+            "Gewässer innerhalb gerader Archipel-Basislinien unterstehen der Souveränität des Archipelstaats, belastet mit einem Durchfahrtsrecht",
+            "Sie gehören stets zur Hohen See und unterliegen keiner staatlichen Hoheitsgewalt, auch nicht derjenigen des Archipelstaats selbst"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Archipelgewässer innerhalb der geraden Archipel-Basislinien, die die äußersten Punkte der Inseln verbinden, stehen unter der Souveränität des Archipelstaats – belastet mit dem Recht der friedlichen bzw. archipelagischen Durchfahrt für fremde Schiffe.",
           "cat": "Seerecht"
         },
         {
           "q": "Wer beaufsichtigt die Bewirtschaftung der mineralischen Ressourcen im „Gebiet\" (Tiefseeboden jenseits nationaler Hoheit)?",
           "o": [
-            "Der Internationale Seegerichtshof in Hamburg",
-            "Die Internationale Meeresbodenbehörde mit Sitz in Kingston, Jamaika",
-            "Der VN-Sicherheitsrat unmittelbar",
-            "Jeder Staat eigenständig für die ihm nächstgelegenen Gebiete"
+            "Der Internationale Seegerichtshof in Hamburg, der zugleich die Lizenzen erteilt",
+            "Jeder Staat eigenständig für die ihm nächstgelegenen Abschnitte des Tiefseebodens",
+            "Der VN-Sicherheitsrat unmittelbar, gestützt auf Kapitel VII der Charta",
+            "Die Internationale Meeresbodenbehörde mit Sitz in Kingston, Jamaika"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Die Internationale Meeresbodenbehörde mit Sitz in Kingston, Jamaika, überwacht die Bewirtschaftung der mineralischen Ressourcen des „Gebiets\" zum Nutzen der gesamten Menschheit – Ausdruck des Prinzips vom gemeinsamen Erbe der Menschheit.",
           "cat": "Seerecht"
         },
@@ -2396,24 +2396,24 @@
         {
           "q": "Welche Freiheiten umfasst die Freiheit der Hohen See nach Art. 87 SRÜ unter anderem?",
           "o": [
-            "Ausschließlich die Freiheit zur Verlegung von Unterseekabeln",
-            "Ausschließlich die Schifffahrtsfreiheit",
-            "Schifffahrts-, Überflug- und Fischereifreiheit sowie die Freiheit der wissenschaftlichen Forschung, jeweils unter Beachtung der Rechte anderer Staaten",
-            "Das Recht jedes Staates, auf Hoher See eigene Hoheitsgebiete zu errichten"
+            "Ausschließlich die Freiheit zur Verlegung von Unterseekabeln und Rohrleitungen",
+            "Das Recht jedes Staates, auf Hoher See eigene Hoheitsgebiete und ständige Anlagen zu errichten",
+            "Ausschließlich die Schifffahrtsfreiheit; alle übrigen Nutzungen bedürfen einer Genehmigung",
+            "Schifffahrts-, Überflug- und Fischereifreiheit sowie die Freiheit wissenschaftlicher Forschung"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Art. 87 SRÜ nennt unter anderem Schifffahrts-, Überflug-, Fischerei- und Forschungsfreiheit sowie die Freiheit zur Verlegung von Kabeln und Rohrleitungen – sämtlich unter angemessener Rücksichtnahme auf die Interessen anderer Staaten und das Verbot einer Aneignung der Hohen See.",
           "cat": "Seerecht"
         },
         {
           "q": "Welche Rechte stehen einem Küstenstaat in seiner ausschließlichen Wirtschaftszone nach Art. 56 SRÜ zu?",
           "o": [
-            "Dieselbe volle Souveränität wie im Küstenmeer",
-            "Ausschließlich Rechte an Bodenschätzen, nicht aber an lebenden Ressourcen",
-            "Souveräne Rechte zur Erforschung, Ausbeutung, Erhaltung und Bewirtschaftung der natürlichen Ressourcen, jedoch keine umfassende Gebietshoheit",
-            "Überhaupt keine besonderen Rechte gegenüber der Hohen See"
+            "Souveräne Rechte an den natürlichen Ressourcen, aber keine Gebietshoheit",
+            "Ausschließlich Rechte an den Bodenschätzen, nicht aber an den lebenden Ressourcen der Zone",
+            "Dieselbe volle Souveränität wie im Küstenmeer, einschließlich der Gebietshoheit",
+            "Überhaupt keine besonderen Rechte; es gilt dort das Regime der Hohen See"
           ],
-          "a": 2,
+          "a": 0,
           "e": "In der AWZ stehen dem Küstenstaat souveräne Rechte zur Erforschung, Ausbeutung, Erhaltung und Bewirtschaftung der lebenden und nicht lebenden natürlichen Ressourcen zu – anders als im Küstenmeer aber keine umfassende Gebietshoheit; Dritte behalten etwa Schifffahrts- und Überflugfreiheit.",
           "cat": "Seerecht"
         },
@@ -2714,10 +2714,10 @@
         {
           "q": "Welche Kontrollbefugnisse darf ein Küstenstaat in seiner Anschlusszone (bis 24 Seemeilen) nach Art. 33 SRÜ ausüben?",
           "o": [
-            "Uneingeschränkte militärische Hoheitsgewalt",
-            "Die zur Verhinderung und Ahndung von Verstößen gegen seine Zoll-, Steuer-, Einwanderungs- oder Gesundheitsvorschriften innerhalb seines Hoheitsgebiets oder Küstenmeers erforderliche Kontrolle",
-            "Keinerlei besondere Kontrollbefugnisse gegenüber der Hohen See",
-            "Dieselbe volle Souveränität wie im Küstenmeer"
+            "Keinerlei besondere Kontrollbefugnisse; jenseits des Küstenmeers gilt uneingeschränkt das Regime der Hohen See",
+            "Die zur Verhinderung und Ahndung von Zoll-, Steuer-, Einwanderungs- und Gesundheitsverstößen erforderliche Kontrolle",
+            "Uneingeschränkte militärische Hoheitsgewalt bis zur äußeren Grenze der Anschlusszone bei 24 Seemeilen von der Basislinie",
+            "Dieselbe volle Souveränität wie im Küstenmeer, einschließlich der umfassenden Strafgerichtsbarkeit"
           ],
           "a": 1,
           "e": "In der Anschlusszone darf der Küstenstaat die zur Verhinderung und Ahndung von Zoll-, Steuer-, Einwanderungs- oder Gesundheitsverstößen erforderliche Kontrolle ausüben – eine funktional begrenzte Zwischenstufe zwischen Küstenmeer und Wirtschaftszone.",
@@ -2726,10 +2726,10 @@
         {
           "q": "Was verbietet Art. 89 SRÜ hinsichtlich der Hohen See?",
           "o": [
-            "Jede wirtschaftliche Nutzung der Hohen See durch Küstenstaaten",
-            "Die Durchfahrt von Kriegsschiffen",
-            "Dass sich irgendein Staat rechtmäßig einen Teil der Hohen See seiner Souveränität unterwerfen kann",
-            "Die Errichtung von Forschungsstationen auf der Hohen See"
+            "Die Errichtung von Forschungsstationen und schwimmenden Anlagen auf der Hohen See",
+            "Die Durchfahrt fremder Kriegsschiffe ohne Zustimmung des nächstgelegenen Küstenstaats",
+            "Dass ein Staat einen Teil der Hohen See rechtmäßig seiner Souveränität unterwirft",
+            "Jede wirtschaftliche Nutzung der Hohen See durch Küstenstaaten ohne vorherige Genehmigung"
           ],
           "a": 2,
           "e": "Art. 89 SRÜ verbietet die Inanspruchnahme der Hohen See durch die Souveränität irgendeines Staates – ein Kernstück des Freiheitsprinzips, das die Hohe See als Raum jenseits nationaler Aneignung sichert.",
@@ -3008,12 +3008,12 @@
         {
           "q": "Welchen völkerrechtlichen Status haben die inneren Gewässer eines Küstenstaats (landwärts der Basislinie)?",
           "o": [
-            "Sie stehen unter gemeinsamer Verwaltung benachbarter Küstenstaaten",
-            "Sie sind Staatsgebiet und unterliegen der vollen Souveränität des Küstenstaats wie das Landgebiet, ohne ein Recht auf friedliche Durchfahrt fremder Schiffe",
-            "Sie unterliegen einem völkerrechtlichen Sonderregime wie die Anschlusszone",
-            "Sie sind Hohe See und stehen jedem Staat offen"
+            "Sie sind Staatsgebiet und unterliegen wie das Landgebiet der vollen Souveränität, ohne friedliche Durchfahrt",
+            "Sie zählen seerechtlich zur Hohen See und stehen den Schiffen jedes Staates offen",
+            "Sie stehen unter gemeinsamer Verwaltung der benachbarten Küstenstaaten und deren Hafenbehörden",
+            "Sie unterliegen einem völkerrechtlichen Sonderregime mit funktional begrenzten Befugnissen wie die Anschlusszone"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Innere Gewässer landwärts der Basislinie – etwa Buchten, Häfen und Flussmündungen – unterliegen der vollen Souveränität wie das Landgebiet; anders als im Küstenmeer besteht hier kein Recht auf friedliche Durchfahrt fremder Schiffe.",
           "cat": "Seerecht"
         },
@@ -3032,12 +3032,12 @@
         {
           "q": "Können Staaten bestimmte Kategorien von Streitigkeiten von der obligatorischen Streitbeilegung nach dem Seerechtsübereinkommen ausnehmen?",
           "o": [
-            "Nein, das Seerechtsübereinkommen kennt keinerlei Ausnahmen von der Zwangsschlichtung",
-            "Ausnahmen sind nur für Entwicklungsländer vorgesehen",
-            "Nur der Sicherheitsrat kann solche Ausnahmen anordnen",
-            "Ja, nach Art. 298 SRÜ können Staaten etwa Streitigkeiten über Seegrenzen oder militärische Aktivitäten durch Erklärung von der Zwangsschlichtung ausnehmen"
+            "Nein; das Seerechtsübereinkommen kennt keinerlei Ausnahme von der obligatorischen Streitbeilegung",
+            "Ja; nach Art. 298 SRÜ kann ein Staat Seegrenz- und Militärstreitigkeiten durch Erklärung ausnehmen",
+            "Ausnahmen sind allein für Entwicklungsländer und Binnenstaaten vorgesehen",
+            "Nur der Sicherheitsrat kann solche Ausnahmen im Einzelfall anordnen"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Art. 298 SRÜ erlaubt optionale Ausnahmeerklärungen für sensible Streitkategorien wie Seegrenzenfestlegungen, militärische Aktivitäten oder bestimmte Durchsetzungsmaßnahmen – ein politisches Ventil, das die Akzeptanz des sonst obligatorischen Streitbeilegungssystems erhöhen sollte.",
           "cat": "Seerecht"
         },
@@ -3314,24 +3314,24 @@
         {
           "q": "Welche besondere Regelung trifft das Seerechtsübereinkommen für Binnenstaaten ohne eigenen Meereszugang?",
           "o": [
-            "Binnenstaaten haben dieselben Rechte wie Küstenstaaten in deren Küstenmeer",
-            "Binnenstaaten sind vom Anwendungsbereich des Übereinkommens vollständig ausgeschlossen",
-            "Binnenstaaten dürfen selbst eine eigene Wirtschaftszone ausrufen",
-            "Binnenstaaten erhalten unter bestimmten Voraussetzungen ein Recht auf Zugang zum Meer durch Transitstaaten sowie Beteiligungsrechte an der Nutzung mancher gemeinsamer Ressourcen"
+            "Binnenstaaten dürfen vor der Küste des Transitstaats eine eigene Wirtschaftszone ausrufen",
+            "Binnenstaaten sind vom Anwendungsbereich des Seerechtsübereinkommens vollständig ausgeschlossen",
+            "Sie erhalten Zugang zum Meer durch Transitstaaten und Beteiligungsrechte an manchen Ressourcen",
+            "Binnenstaaten haben im Küstenmeer eines Nachbarstaats dieselben Rechte wie dieser selbst"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Das Seerechtsübereinkommen räumt Binnenstaaten unter anderem ein Recht auf Zugang zum und vom Meer durch das Gebiet von Transitstaaten sowie bestimmte Beteiligungsrechte ein – ein Ausgleich für den fehlenden eigenen Küstenzugang, der in gesonderten Transitvereinbarungen konkretisiert wird.",
           "cat": "Seerecht"
         },
         {
           "q": "Was regelt Teil XIV des Seerechtsübereinkommens zur Entwicklung und Weitergabe von Meerestechnologie?",
           "o": [
-            "Die Zuständigkeit ausschließlich der Meeresbodenbehörde für alle Technologiefragen",
-            "Eine Verpflichtung der Vertragsstaaten, unmittelbar oder über zuständige internationale Organisationen bei der Entwicklung und Weitergabe von Meereswissenschaft und -technologie zusammenzuarbeiten, insbesondere zugunsten von Entwicklungsländern",
-            "Ein Verbot jeglicher Technologieweitergabe an Entwicklungsländer",
-            "Ein generelles Patentverbot für meerestechnologische Erfindungen"
+            "Eine Pflicht der Vertragsstaaten, bei der Entwicklung und Weitergabe von Meerestechnologie zusammenzuarbeiten",
+            "Ein generelles Patentverbot für meerestechnologische Erfindungen der Vertragsstaaten",
+            "Die ausschließliche Zuständigkeit der Internationalen Meeresbodenbehörde für sämtliche Technologiefragen des Seerechts",
+            "Ein Verbot jeder Technologieweitergabe an Entwicklungsländer ohne Zustimmung der Meeresbodenbehörde"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Teil XIV verpflichtet die Vertragsstaaten zur Förderung der internationalen Zusammenarbeit bei Meereswissenschaft und -technologie, mit besonderem Augenmerk auf die Bedürfnisse von Entwicklungsländern – ein Ausdruck des Grundgedankens vom gemeinsamen Erbe der Menschheit.",
           "cat": "Seerecht"
         },
@@ -3644,13 +3644,13 @@
         {
           "q": "Ist das Seerechtsübereinkommen von den Vereinigten Staaten ratifiziert worden?",
           "o": [
-            "Ja, bereits 1994 bei seinem Inkrafttreten",
-            "Nein; die USA haben das SRÜ unterzeichnet, aber bis heute nicht ratifiziert, erkennen große Teile aber als Völkergewohnheitsrecht an",
-            "Nein, die USA haben es nicht einmal unterzeichnet",
-            "Ja, aber erst nach dem BBNJ-Abkommen 2026"
+            "Ja, aber erst im Zuge der Ratifikation des BBNJ-Abkommens im Jahr 2026",
+            "Ja, bereits 1994 mit dem Inkrafttreten des Übereinkommens am 16. November",
+            "Nein; die USA sind nicht Vertragspartei, erkennen große Teile aber als Gewohnheitsrecht an",
+            "Nein; die USA haben auch das Durchführungsübereinkommen zu Teil XI von 1994 nicht unterzeichnet"
           ],
-          "a": 1,
-          "e": "Die Vereinigten Staaten haben das SRÜ unterzeichnet, es aber im Senat bislang nie ratifiziert – ein politisch wiederkehrendes Thema. Praktisch erkennen die USA weite Teile des Übereinkommens dennoch als geltendes Völkergewohnheitsrecht an.",
+          "a": 2,
+          "e": "Die Vereinigten Staaten sind bis heute nicht Vertragspartei des Seerechtsübereinkommens: Präsident Reagan lehnte 1982 wegen des Tiefseebergbau-Regimes in Teil XI bereits die Unterzeichnung ab. Unterzeichnet haben die USA nur das Durchführungsübereinkommen zu Teil XI vom 28. Juli 1994 – ratifiziert hat der Senat auch dieses nie. Praktisch erkennen die USA weite Teile des Übereinkommens als geltendes Völkergewohnheitsrecht an und stützen darauf unter anderem ihre Freedom-of-Navigation-Operationen.",
           "cat": "Seerecht"
         },
         {
@@ -3938,12 +3938,12 @@
         {
           "q": "Wer prüft die Ansprüche eines Küstenstaats auf einen Festlandsockel jenseits von 200 Seemeilen?",
           "o": [
-            "Jeder Küstenstaat entscheidet allein und endgültig über seine eigenen Ansprüche",
-            "Die Kommission zur Begrenzung des Festlandsockels (Sockelgrenzkommission), die auf Grundlage wissenschaftlicher Daten Empfehlungen abgibt",
-            "Der VN-Sicherheitsrat",
-            "Der Internationale Seegerichtshof allein"
+            "Der VN-Sicherheitsrat durch Resolution nach Kapitel VI der Charta",
+            "Jeder Küstenstaat entscheidet allein und endgültig über die Ausdehnung seines eigenen Festlandsockels",
+            "Der Internationale Seegerichtshof in Hamburg im Vorabentscheidungsverfahren",
+            "Die Sockelgrenzkommission (CLCS), die auf wissenschaftlicher Grundlage Empfehlungen abgibt"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Die Sockelgrenzkommission prüft nach Art. 76 Abs. 8 SRÜ die von Küstenstaaten eingereichten wissenschaftlichen Daten und gibt Empfehlungen ab, auf deren Grundlage der Staat seine endgültigen, dann international verbindlichen Außengrenzen festlegen kann.",
           "cat": "Seerecht"
         },
@@ -4208,12 +4208,12 @@
         {
           "q": "Welche Rechtsnatur hat die friedliche Durchfahrt durch das Küstenmeer für Kriegsschiffe im Vergleich zu Handelsschiffen?",
           "o": [
-            "Kriegsschiffe benötigen stets die Zustimmung des VN-Sicherheitsrats",
-            "Nur Kriegsschiffe genießen ein Durchfahrtsrecht, Handelsschiffe nicht",
-            "Auch Kriegsschiffe genießen grundsätzlich das Recht der friedlichen Durchfahrt, wobei einzelne Küstenstaaten in der Praxis eine vorherige Anmeldung oder Genehmigung verlangen – eine unter Seemächten umstrittene Praxis",
-            "Kriegsschiffe sind von der friedlichen Durchfahrt vollständig ausgeschlossen"
+            "Auch Kriegsschiffe genießen die friedliche Durchfahrt; einzelne Küstenstaaten verlangen Anmeldung",
+            "Kriegsschiffe benötigen stets die vorherige Zustimmung des VN-Sicherheitsrats",
+            "Kriegsschiffe sind von der friedlichen Durchfahrt im Küstenmeer eines fremden Staates vollständig ausgeschlossen",
+            "Nur Kriegsschiffe genießen ein Durchfahrtsrecht, Handelsschiffe brauchen eine Erlaubnis"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Das SRÜ gewährt grundsätzlich auch Kriegsschiffen das Recht der friedlichen Durchfahrt; einige Küstenstaaten verlangen dennoch eine vorherige Anmeldung, was von Seemächten wie den USA als völkerrechtswidrige Einschränkung kritisiert wird – ein bis heute umstrittener Praxispunkt.",
           "cat": "Seerecht"
         },
@@ -4562,12 +4562,12 @@
         {
           "q": "Bedarf wissenschaftliche Meeresforschung durch einen fremden Staat in der ausschließlichen Wirtschaftszone eines Küstenstaats von dessen Zustimmung?",
           "o": [
-            "Nein, Meeresforschung ist in der AWZ vollkommen zustimmungsfrei",
-            "Nur der VN-Sicherheitsrat kann diese Zustimmung erteilen",
-            "Meeresforschung ist in der AWZ generell verboten",
-            "Grundsätzlich ja; der Küstenstaat soll diese Zustimmung nach Art. 246 SRÜ in normalen Fällen aber nicht unangemessen verweigern"
+            "Grundsätzlich ja; nach Art. 246 SRÜ soll sie in normalen Fällen nicht verweigert werden",
+            "Nein; wissenschaftliche Meeresforschung ist in der AWZ generell verboten",
+            "Ja; die Zustimmung erteilt allerdings nicht der Küstenstaat, sondern der VN-Sicherheitsrat",
+            "Nein; wissenschaftliche Meeresforschung ist in der AWZ vollkommen zustimmungsfrei"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Art. 246 SRÜ verlangt grundsätzlich die Zustimmung des Küstenstaats zu Meeresforschung in seiner AWZ, verpflichtet ihn aber, diese in der Regel nicht unangemessen zu verweigern – ein Ausgleich zwischen Souveränität und internationalem Forschungsinteresse.",
           "cat": "Seerecht"
         },
@@ -4856,24 +4856,24 @@
         {
           "q": "Was verbietet Art. 89 SRÜ hinsichtlich der Hohen See?",
           "o": [
-            "Die Errichtung von Forschungsstationen",
-            "Dass sich irgendein Staat rechtmäßig einen Teil der Hohen See seiner Souveränität unterwerfen kann",
-            "Die Durchfahrt von Handelsschiffen",
-            "Jede wirtschaftliche Nutzung der Hohen See"
+            "Dass ein Staat rechtmäßig einen Teil der Hohen See seiner Souveränität unterwirft",
+            "Die Errichtung von Forschungsstationen auf schwimmenden Plattformen der Hohen See",
+            "Die Durchfahrt von Handelsschiffen ohne Registrierung beim Flaggenstaat",
+            "Jede wirtschaftliche Nutzung der Hohen See durch Binnenstaaten"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Art. 89 SRÜ verankert das Aneignungsverbot als Kernstück des Freiheitsprinzips der Hohen See – kein Staat kann sie rechtmäßig seiner Souveränität unterwerfen.",
           "cat": "Seerecht"
         },
         {
           "q": "Wo hat die Internationale Meeresbodenbehörde ihren Sitz, und welche Aufgabe erfüllt sie?",
           "o": [
-            "In Hamburg; sie entscheidet zwischenstaatliche Seerechtsstreitigkeiten",
-            "In Den Haag; sie ist ein Nebenorgan des Internationalen Gerichtshofs",
-            "In Genf; sie verwaltet die Anschlusszonen aller Küstenstaaten",
-            "In Kingston, Jamaika; sie überwacht die Bewirtschaftung der mineralischen Ressourcen des „Gebiets\" zum Nutzen der gesamten Menschheit"
+            "In Kingston, Jamaika; sie überwacht die Bewirtschaftung des Tiefseebodens",
+            "In Den Haag; sie ist als Nebenorgan dem Internationalen Gerichtshof zugeordnet",
+            "In Genf; sie verwaltet die Anschlusszonen aller Küstenstaaten des Übereinkommens",
+            "In Hamburg; sie entscheidet zwischenstaatliche Seerechtsstreitigkeiten als Gericht"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Die Meeresbodenbehörde mit Sitz in Kingston überwacht die Bewirtschaftung der mineralischen Ressourcen des Tiefseebodens jenseits nationaler Hoheit – Ausdruck des Prinzips vom gemeinsamen Erbe der Menschheit.",
           "cat": "Seerecht"
         },
@@ -5114,24 +5114,24 @@
         {
           "q": "Welchen völkerrechtlichen Status hat die ausschließliche Wirtschaftszone (AWZ) im Vergleich zu Küstenmeer und Hoher See?",
           "o": [
-            "Sie ist rechtlich identisch mit der Hohen See",
-            "Sie ist rechtlich identisch mit dem Küstenmeer",
-            "Sie existiert im geltenden Seerecht nicht als eigene Kategorie",
-            "Sie bildet eine eigenständige, sui-generis-Zone mit funktional begrenzten souveränen Rechten des Küstenstaats, die weder der vollen Souveränität des Küstenmeers noch der uneingeschränkten Freiheit der Hohen See entspricht"
+            "Sie ist eine eigenständige Zone sui generis mit funktional begrenzten souveränen Rechten",
+            "Sie ist rechtlich identisch mit der Hohen See und kennt keine Sonderrechte",
+            "Sie existiert im geltenden Seerecht nicht als eigene Kategorie, sondern nur als Begriff",
+            "Sie ist rechtlich identisch mit dem Küstenmeer und unterliegt voller Souveränität"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Die AWZ ist eine eigenständige Rechtskategorie: Der Küstenstaat besitzt funktional begrenzte souveräne Rechte zur Ressourcennutzung, ohne die umfassende Gebietshoheit des Küstenmeers; Dritte behalten grundlegende Freiheiten wie Schifffahrt und Überflug, die auf Hoher See noch weiter reichen.",
           "cat": "Seerecht"
         },
         {
           "q": "Welche Voraussetzungen müssen nach dem Seerechtsübereinkommen kumulativ vorliegen, damit eine Tat als Piraterie gilt?",
           "o": [
-            "Politische Motivation ist zusätzlich zwingend erforderlich",
-            "Es genügt bereits eine einzige dieser Voraussetzungen allein",
             "Private Zwecke, Gewalt gegen ein anderes Schiff, Begehung auf Hoher See",
-            "Die Tat muss sich zwingend im Küstenmeer ereignen"
+            "Es genügt bereits eine einzige dieser Voraussetzungen für sich allein",
+            "Die Tat muss sich zwingend im Küstenmeer eines Staates ereignen",
+            "Zusätzlich zwingend erforderlich ist eine politische Motivation der Täter"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Piraterie im Rechtssinne verlangt kumulativ private Zwecke, schiffsübergreifende Gewalt und Begehung auf Hoher See; politisch motivierte Gewalt oder Taten im Küstenmeer fallen unter andere Rechtsfiguren wie bewaffneten Raubüberfall zur See oder Terrorismus.",
           "cat": "Seerecht"
         },
@@ -5492,12 +5492,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz der freien Schifffahrt für Binnenstaaten auf international nutzbaren Wasserstraßen?",
           "o": [
-            "Internationale Flüsse und vertraglich geregelte Wasserstraßen können auch Binnenstaaten Zugang zum Meer eröffnen, ergänzend zu den allgemeinen SRÜ-Regelungen über den Zugang zum und vom Meer",
-            "Nur Küstenstaaten dürfen internationale Wasserstraßen nutzen",
-            "Der Grundsatz gilt ausschließlich für Handelsschiffe unter eigener Flagge des jeweiligen Binnenstaats",
-            "Binnenstaaten haben grundsätzlich kein Recht auf Zugang zu internationalen Wasserstraßen"
+            "Binnenstaaten haben grundsätzlich kein Recht auf Zugang zu internationalen Wasserstraßen",
+            "Nur Küstenstaaten dürfen internationale Wasserstraßen zum Meer hin befahren",
+            "Internationale Flüsse und vertraglich geregelte Wasserstraßen können Binnenstaaten Zugang zum Meer eröffnen",
+            "Der Grundsatz gilt ausschließlich für Handelsschiffe unter der eigenen Flagge des jeweiligen Binnenstaats selbst"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Neben dem allgemeinen SRÜ-Recht auf Zugang zum Meer durch Transitstaaten können auch spezielle völkerrechtliche Regelungen über internationale Flüsse und Wasserstraßen Binnenstaaten eine Anbindung an das Meer eröffnen – ein ergänzendes, historisch gewachsenes Regelungssystem.",
           "cat": "Seerecht"
         },
@@ -5762,21 +5762,21 @@
         {
           "q": "Kann ein Küstenstaat in seiner eigenen ausschließlichen Wirtschaftszone Meeresschutzgebiete einrichten?",
           "o": [
-            "Ja, im Rahmen seiner souveränen Rechte zur Erhaltung und Bewirtschaftung der Ressourcen kann der Küstenstaat Schutzgebiete in seiner AWZ einrichten",
-            "Meeresschutzgebiete sind im Seerechtsübereinkommen überhaupt nicht vorgesehen",
-            "Nein, Meeresschutzgebiete sind nur auf Hoher See zulässig",
-            "Nur die Meeresbodenbehörde darf Schutzgebiete einrichten, niemals der Küstenstaat selbst"
+            "Meeresschutzgebiete sind im Seerechtsübereinkommen als Kategorie nicht vorgesehen",
+            "Ja; im Rahmen seiner souveränen Ressourcenrechte kann er Schutzgebiete in seiner AWZ einrichten",
+            "Nein; Meeresschutzgebiete sind ausschließlich auf Hoher See zulässig",
+            "Nur die Internationale Meeresbodenbehörde darf Schutzgebiete einrichten, niemals der Küstenstaat selbst"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Die souveränen Rechte des Küstenstaats zur Erhaltung und Bewirtschaftung der Ressourcen seiner AWZ umfassen auch die Befugnis, Meeresschutzgebiete einzurichten – ein zunehmend genutztes Instrument des Meeresumweltschutzes.",
           "cat": "Seerecht"
         },
         {
           "q": "Dürfen U-Boote bei der Transitdurchfahrt durch eine internationale Meerenge getaucht fahren?",
           "o": [
-            "Ja; anders als bei der bloß friedlichen Durchfahrt im Küstenmeer erlaubt die Transitdurchfahrt durch internationale Meerengen auch U-Booten die getauchte Fahrt in ihrer normalen Fahrweise",
-            "Nur mit vorheriger Genehmigung beider Anrainerstaaten der Meerenge",
-            "Nein, Transitdurchfahrt verlangt für alle Schiffe und U-Boote ausnahmslos aufgetauchte Fahrt",
+            "Ja; die Transitdurchfahrt erlaubt U-Booten die getauchte Fahrt in ihrer normalen Fahrweise",
+            "Nein; die Transitdurchfahrt verlangt für alle Schiffe und U-Boote ausnahmslos aufgetauchte Fahrt",
+            "Nur mit vorheriger Genehmigung beider Anrainerstaaten der jeweiligen Meerenge",
             "U-Boote sind von jeder Durchfahrt durch internationale Meerengen generell ausgeschlossen"
           ],
           "a": 0,
@@ -6092,22 +6092,22 @@
         {
           "q": "Welche Regelung trifft das Seerechtsübereinkommen für den Fall, dass sich Küstenmeere zweier gegenüberliegender Staaten überlappen?",
           "o": [
-            "Nur der VN-Sicherheitsrat kann eine solche Überlappung auflösen",
-            "Mangels anderer Vereinbarung gilt grundsätzlich die Mittellinie als Abgrenzung, sofern nicht historische Titel oder besondere Umstände eine andere Grenzziehung erfordern",
+            "Mangels Vereinbarung gilt die Mittellinie, sofern nicht historische Titel entgegenstehen",
             "Der wirtschaftlich stärkere Staat erhält automatisch das gesamte überlappende Gebiet",
-            "Beide Staaten müssen auf ihr Küstenmeer vollständig verzichten"
+            "Nur der VN-Sicherheitsrat kann eine solche Überlappung durch Resolution auflösen",
+            "Beide Staaten müssen auf ihr Küstenmeer in diesem Bereich vollständig verzichten"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Nach Art. 15 SRÜ gilt bei überlappenden Küstenmeeren mangels anderer Vereinbarung grundsätzlich die Mittellinie, sofern nicht historische Titel oder besondere Umstände eine abweichende Grenzziehung rechtfertigen.",
           "cat": "Seerecht"
         },
         {
           "q": "Welche Sonderregelung gilt für Archipelstaaten wie Indonesien nach dem Seerechtsübereinkommen?",
           "o": [
+            "Sie werden völkerrechtlich wie ein einziger Küstenstreifen ohne besondere Regeln behandelt",
+            "Sie dürfen gerade Basislinien zwischen ihren äußersten Inseln ziehen und die Gewässer beanspruchen",
             "Archipelstaaten sind von der Anwendung des Seerechtsübereinkommens insgesamt ausgenommen",
-            "Sie dürfen über gerade Basislinien zwischen den äußersten Punkten ihrer Inseln Archipelgewässer unter eigener Souveränität ziehen, belastet mit einem Durchfahrtsrecht fremder Schiffe",
-            "Jede einzelne Insel wird seerechtlich vollständig isoliert betrachtet, ohne verbindende Gewässer",
-            "Sie werden völkerrechtlich wie ein einziger Küstenstreifen ohne besondere Regeln behandelt"
+            "Jede einzelne Insel wird seerechtlich vollständig isoliert betrachtet, ohne verbindende Gewässer"
           ],
           "a": 1,
           "e": "Archipelstaaten dürfen gerade Basislinien zwischen den äußersten Punkten ihrer Inseln ziehen und die eingeschlossenen Gewässer als Archipelgewässer unter eigener Souveränität beanspruchen, müssen im Gegenzug aber ein Recht der friedlichen bzw. archipelagischen Durchfahrt fremder Schiffe gewähren.",
@@ -6374,24 +6374,24 @@
         {
           "q": "Welche Rechte behalten Drittstaaten in der ausschließlichen Wirtschaftszone eines Küstenstaats trotz von dessen souveränen Ressourcenrechten?",
           "o": [
-            "Nur das Recht auf freien Handel mit dem Küstenstaat",
-            "Insbesondere die Freiheiten der Schifffahrt und des Überflugs sowie das Recht zur Verlegung von Unterseekabeln und Rohrleitungen",
-            "Keinerlei Rechte; die AWZ steht ausschließlich dem Küstenstaat offen",
-            "Nur militärische Nutzungsrechte, keine zivilen Freiheiten"
+            "Nur militärische Nutzungsrechte, jedoch keine zivilen Freiheiten",
+            "Keinerlei Rechte; die Wirtschaftszone steht ausschließlich dem Küstenstaat offen",
+            "Nur das Recht auf freien Warenhandel mit dem jeweiligen Küstenstaat",
+            "Insbesondere Schifffahrt, Überflug und die Verlegung von Kabeln und Rohrleitungen"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Trotz der souveränen Ressourcenrechte des Küstenstaats behalten Drittstaaten in der AWZ grundlegende Freiheiten wie Schifffahrt, Überflug und die Verlegung von Kabeln und Rohrleitungen – ein Ausgleich zwischen Küstenstaats- und Allgemeininteressen.",
           "cat": "Seerecht"
         },
         {
           "q": "Was regelt Art. 121 SRÜ zum seerechtlichen Status von Inseln im Unterschied zu bloßen Felsen?",
           "o": [
-            "Nur Felsen, niemals Inseln, begründen eine eigene AWZ",
-            "Beide werden seerechtlich vollkommen identisch behandelt",
-            "Inseln, die menschlichen Aufenthalt oder ein eigenes Wirtschaftsleben ermöglichen, begründen eigene AWZ und Festlandsockel, während bloße Felsen ohne solche Kapazität nur ein Küstenmeer, aber keine eigene AWZ oder eigenen Festlandsockel begründen",
-            "Der Status hängt ausschließlich von der geografischen Größe ab, nicht von der Bewohnbarkeit"
+            "Inseln mit Aufenthalt oder Wirtschaftsleben begründen AWZ und Sockel, bloße Felsen nur Küstenmeer",
+            "Der Status hängt ausschließlich von der geografischen Größe der Erhebung ab, nicht von ihrer Bewohnbarkeit",
+            "Beide werden seerechtlich vollkommen identisch behandelt, ohne Unterschied",
+            "Nur Felsen, niemals Inseln, begründen eine eigene Wirtschaftszone"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Art. 121 Abs. 3 SRÜ nimmt Felsen, die menschlichen Aufenthalt oder eigenständiges Wirtschaftsleben nicht zu ermöglichen vermögen, von der Begründung einer eigenen AWZ oder eines eigenen Festlandsockels aus – eine praktisch hoch umstrittene Abgrenzung, etwa im Südchinesischen Meer.",
           "cat": "Seerecht"
         },
@@ -6692,12 +6692,12 @@
         {
           "q": "Welche Bedeutung hat das Delimitationsverfahren des Schwarzmeer-Falls (Rumänien gegen Ukraine, 2009) für die Praxis der Seegrenzabgrenzung?",
           "o": [
-            "Der IGH lehnte darin jede Methode zur Seegrenzabgrenzung grundsätzlich ab",
-            "Der IGH entwickelte darin ein dreistufiges Standardverfahren zur Abgrenzung von Wirtschaftszone und Festlandsockel, das seither regelmäßig angewendet wird",
-            "Der Fall betraf ausschließlich Fragen des Luftverkehrsrechts",
-            "Der IGH erklärte sich in dem Fall für unzuständig"
+            "Der Fall betraf ausschließlich Fragen des internationalen Luftverkehrsrechts",
+            "Der IGH lehnte darin jede allgemeine Methode der Seegrenzabgrenzung grundsätzlich ab",
+            "Der IGH entwickelte darin das dreistufige Standardverfahren der Seegrenzabgrenzung",
+            "Der IGH erklärte sich in dem Fall für unzuständig und wies die Klage ab"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Im Schwarzmeer-Fall entwickelte der IGH ein strukturiertes dreistufiges Verfahren zur Abgrenzung überlappender Wirtschaftszonen und Festlandsockel – zunächst vorläufige Äquidistanzlinie, dann Anpassung nach relevanten Umständen, schließlich Verhältnismäßigkeitsprüfung –, das seither als Standardmethode internationaler Delimitationsverfahren dient.",
           "cat": "Seerecht"
         },
@@ -6998,12 +6998,12 @@
         {
           "q": "Können Vertragsstaaten bei Unterzeichnung oder Ratifikation des Seerechtsübereinkommens zwischen mehreren Streitbeilegungsforen wählen?",
           "o": [
-            "Ja, nach Art. 287 SRÜ können Staaten durch schriftliche Erklärung zwischen dem Internationalen Seegerichtshof, dem Internationalen Gerichtshof, einem Schiedsgericht oder einem Sondertribunal wählen",
-            "Die Wahl des Forums steht ausschließlich der beklagten, niemals der klagenden Partei zu",
             "Nein, jeder Vertragsstaat ist automatisch und ausschließlich dem Internationalen Seegerichtshof unterworfen",
-            "Eine Wahlmöglichkeit besteht nur für Küstenstaaten, nicht für Binnenstaaten"
+            "Die Wahl des Forums steht ausschließlich der beklagten, niemals der klagenden Partei zu",
+            "Eine Wahlmöglichkeit besteht nur für Küstenstaaten, nicht aber für Binnenstaaten",
+            "Ja; nach Art. 287 SRÜ kann ein Staat zwischen ISGH, IGH, Schiedsgericht und Sondertribunal wählen"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Art. 287 SRÜ eröffnet den Vertragsstaaten die Wahl zwischen mehreren gleichrangigen Streitbeilegungsforen; treffen beide Streitparteien keine oder unterschiedliche Wahl, greift nach Art. 287 Abs. 5 SRÜ das allgemeine Schiedsgericht als Auffangmechanismus.",
           "cat": "Seerecht"
         },
@@ -7268,12 +7268,12 @@
         {
           "q": "Welche Freiheit gehört nach Art. 87 SRÜ zu den klassischen Freiheiten der Hohen See?",
           "o": [
-            "Die Freiheit der Hohen See wurde durch das SRÜ vollständig abgeschafft",
-            "Ausschließlich die Freiheit des Warenhandels",
-            "Unter anderem die Freiheit der Schifffahrt, des Überflugs, der Fischerei und der wissenschaftlichen Forschung, jeweils unter angemessener Rücksichtnahme auf die Interessen anderer Staaten",
-            "Die Freiheit, auf der Hohen See eigene Hoheitsgebiete zu errichten"
+            "Ausschließlich die Freiheit des Warenhandels zwischen Vertragsstaaten",
+            "Unter anderem Schifffahrt, Überflug, Fischerei und wissenschaftliche Forschung",
+            "Die Freiheit der Hohen See wurde durch das Seerechtsübereinkommen vollständig abgeschafft",
+            "Die Freiheit jedes Staates, auf der Hohen See eigene Hoheitsgebiete zu errichten"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Art. 87 SRÜ zählt zu den klassischen Freiheiten der Hohen See unter anderem Schifffahrt, Überflug, Verlegung von Kabeln und Rohrleitungen, Errichtung von Anlagen, Fischerei und wissenschaftliche Forschung – stets unter angemessener Rücksichtnahme auf die Interessen anderer Staaten und ohne Aneignungsmöglichkeit.",
           "cat": "Seerecht"
         },
@@ -7574,12 +7574,12 @@
         {
           "q": "Welche Kontrollrechte darf ein Küstenstaat gegenüber einem fremden Schiff ausüben, das lediglich die friedliche Durchfahrt durch sein Küstenmeer wahrnimmt?",
           "o": [
-            "Er darf die friedliche Durchfahrt grundsätzlich nicht behindern, solange sie tatsächlich friedlich im Sinne des SRÜ bleibt, darf aber bestimmte Regelungen etwa zur Sicherheit der Schifffahrt erlassen",
-            "Friedliche Durchfahrt besteht nur für Schiffe unter der Flagge von VN-Mitgliedstaaten",
-            "Er darf grundsätzlich Zölle für die bloße Durchfahrt erheben",
-            "Er darf jedes durchfahrende Schiff nach freiem Ermessen zur Umkehr zwingen"
+            "Er darf jedes durchfahrende fremde Schiff nach freiem Ermessen zur Umkehr zwingen",
+            "Friedliche Durchfahrt besteht nur für Schiffe unter der Flagge von Mitgliedstaaten der Vereinten Nationen",
+            "Er darf sie nicht behindern, solange sie friedlich bleibt, aber Sicherheitsvorschriften erlassen",
+            "Er darf für die bloße Durchfahrt durch sein Küstenmeer Zölle und Gebühren erheben"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Das Recht der friedlichen Durchfahrt darf vom Küstenstaat grundsätzlich nicht behindert werden, solange die Durchfahrt tatsächlich friedlich bleibt; zulässig sind aber bestimmte, nicht diskriminierende Regelungen etwa zur Sicherheit der Schifffahrt oder zum Schutz der Meeresumwelt.",
           "cat": "Seerecht"
         },
@@ -7868,12 +7868,12 @@
         {
           "q": "Welche Bedeutung hat die Bezeichnung eines Meeresgebiets als „Gebiet\" (the Area) im Sinne des Seerechtsübereinkommens?",
           "o": [
-            "Sie bezeichnet ausschließlich die Anschlusszone",
-            "Sie bezeichnet den Meeresboden und Meeresuntergrund jenseits der Grenzen nationaler Hoheitsbereiche, der als gemeinsames Erbe der Menschheit gilt",
-            "Der Begriff wird im Seerechtsübereinkommen nicht verwendet",
-            "Sie bezeichnet das Küstenmeer jedes einzelnen Staates"
+            "Das Küstenmeer jedes einzelnen Küstenstaats innerhalb der Zwölf-Seemeilen-Zone",
+            "Ausschließlich die Anschlusszone der einzelnen Küstenstaaten",
+            "Der Begriff wird im Seerechtsübereinkommen überhaupt nicht verwendet",
+            "Den Meeresboden jenseits nationaler Hoheit, gemeinsames Erbe der Menschheit"
           ],
-          "a": 1,
+          "a": 3,
           "e": "„Das Gebiet\" bezeichnet den Meeresboden und -untergrund jenseits nationaler Hoheitsbereiche, der nach Art. 136 SRÜ als gemeinsames Erbe der Menschheit gilt und dessen Ressourcen unter Aufsicht der Internationalen Meeresbodenbehörde zum Nutzen der gesamten Menschheit bewirtschaftet werden sollen.",
           "cat": "Seerecht"
         },
@@ -8186,12 +8186,12 @@
         {
           "q": "Welche Rolle spielt eine Regionalfischereiorganisation im Rahmen des Seerechtsübereinkommens für wandernde Fischbestände, die sich über mehrere Wirtschaftszonen erstrecken?",
           "o": [
-            "Sie hat mit Fischereifragen überhaupt nichts zu tun",
-            "Sie ersetzt die nationale Fischereipolitik jedes einzelnen Küstenstaats vollständig",
-            "Sie koordiniert die Bewirtschaftung solcher grenzüberschreitenden und weit wandernden Bestände zwischen den beteiligten Küstenstaaten und gegebenenfalls Hochseefischereistaaten",
-            "Regionalfischereiorganisationen sind im SRÜ nicht vorgesehen"
+            "Sie ersetzt die nationale Fischereipolitik jedes beteiligten Küstenstaats vollständig",
+            "Sie koordiniert die Bewirtschaftung grenzüberschreitender und weit wandernder Bestände",
+            "Sie hat mit Fischereifragen des Seerechts überhaupt nichts zu tun",
+            "Regionalfischereiorganisationen sind im Seerechtsübereinkommen nicht vorgesehen"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Regionalfischereiorganisationen koordinieren die Bewirtschaftung grenzüberschreitender und weit wandernder Fischbestände zwischen den beteiligten Küsten- und Fischereistaaten – ein wichtiges Kooperationsinstrument, da sich solche Bestände nicht an die Grenzen einzelner Wirtschaftszonen halten.",
           "cat": "Seerecht"
         },
@@ -8468,12 +8468,12 @@
         {
           "q": "Welche Bedeutung hat die Bezeichnung eines Meeresgebiets als „historische Gewässer\" oder „historischer Titel\" im Seerecht?",
           "o": [
-            "Der Begriff betrifft ausschließlich die Hohe See, niemals das Küstenmeer",
-            "Historische Gewässer sind im Seerechtsübereinkommen als Kategorie ausdrücklich abgeschafft worden",
-            "Der Begriff bezeichnet ausnahmslos alle Gewässer, die älter als hundert Jahre sind",
-            "Er bezeichnet Ansprüche eines Staates auf bestimmte Gewässer, die sich auf langjährige, unangefochtene und von anderen Staaten anerkannte tatsächliche Ausübung von Hoheitsgewalt stützen, als Ausnahme von den allgemeinen Abgrenzungsregeln"
+            "Der Begriff bezeichnet ausnahmslos alle Gewässer, deren Nutzung älter als hundert Jahre ist",
+            "Ansprüche auf Gewässer, die auf langjährige, unangefochten anerkannte Hoheitsausübung gestützt sind",
+            "Der Begriff betrifft ausschließlich die Hohe See, niemals das Küstenmeer eines Staates",
+            "Historische Gewässer sind im Seerechtsübereinkommen als Kategorie ausdrücklich abgeschafft worden"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Der Anspruch auf historische Gewässer stützt sich auf langjährige, unangefochtene und von anderen Staaten anerkannte tatsächliche Hoheitsausübung und kann als Ausnahme von den allgemeinen seerechtlichen Abgrenzungsregeln, etwa der Mittellinienregel, geltend gemacht werden – rechtlich im Einzelfall oft umstritten und schwer nachzuweisen.",
           "cat": "Seerecht"
         },
@@ -8774,12 +8774,12 @@
         {
           "q": "Welche Rolle spielt die Genehmigungspflicht für die Errichtung künstlicher Inseln, Anlagen und Bauwerke in der ausschließlichen Wirtschaftszone nach Art. 60 SRÜ?",
           "o": [
-            "Nur die Meeresbodenbehörde, niemals der Küstenstaat, darf über solche Anlagen entscheiden",
-            "Jeder Staat darf ohne jede Genehmigung künstliche Inseln in fremder AWZ errichten",
             "Künstliche Inseln sind im Seerechtsübereinkommen als Kategorie nicht vorgesehen",
-            "Der Küstenstaat besitzt das ausschließliche Recht, die Errichtung solcher Anlagen in seiner AWZ zu genehmigen und zu regeln"
+            "Nur die Meeresbodenbehörde, niemals der Küstenstaat, darf über solche Anlagen entscheiden",
+            "Der Küstenstaat allein darf solche Anlagen in seiner AWZ genehmigen und regeln",
+            "Jeder Staat darf ohne jede Genehmigung künstliche Inseln in fremder AWZ errichten"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Art. 60 SRÜ verleiht dem Küstenstaat das ausschließliche Recht, die Errichtung, den Betrieb und die Nutzung künstlicher Inseln, Anlagen und Bauwerke in seiner ausschließlichen Wirtschaftszone zu genehmigen und zu regeln – Ausdruck seiner souveränen Ressourcenrechte in diesem Gebiet.",
           "cat": "Seerecht"
         },
@@ -9056,12 +9056,12 @@
         {
           "q": "Welche Bedeutung hat das Prinzip der Flaggenstaatszuständigkeit für die Ahndung von Straftaten an Bord eines Schiffes auf Hoher See?",
           "o": [
-            "Grundsätzlich unterliegt ein Schiff auf Hoher See der ausschließlichen Hoheitsgewalt seines Flaggenstaats, der für die Ahndung an Bord begangener Straftaten primär zuständig ist",
+            "Jeder beliebige Staat kann ohne Weiteres Straftaten an Bord eines fremden Schiffes auf Hoher See eigenständig verfolgen",
+            "Straftaten an Bord auf Hoher See sind völkerrechtlich generell nicht verfolgbar",
             "Nur der Küstenstaat des nächstgelegenen Landes ist für Straftaten auf Hoher See zuständig",
-            "Straftaten auf Hoher See sind völkerrechtlich generell nicht verfolgbar",
-            "Jeder beliebige Staat kann ohne Weiteres Straftaten an Bord eines fremden Schiffes auf Hoher See eigenständig verfolgen"
+            "Ein Schiff untersteht auf Hoher See der ausschließlichen Hoheitsgewalt seines Flaggenstaats"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Das Flaggenstaatsprinzip überträgt dem Staat, dessen Flagge ein Schiff führt, die primäre Hoheitsgewalt auf Hoher See – einschließlich der grundsätzlichen Zuständigkeit für die Ahndung an Bord begangener Straftaten, vorbehaltlich enger völkerrechtlicher Ausnahmen wie bei Piraterie.",
           "cat": "Seerecht"
         },
@@ -9386,12 +9386,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass ein Küstenstaat in seinem Küstenmeer grundsätzlich auch Zollvorschriften gegenüber durchfahrenden Schiffen durchsetzen darf, solange die Durchfahrt friedlich bleibt?",
           "o": [
-            "Der Küstenstaat kann bestimmte Regelungen, etwa zur Verhinderung von Zoll-, Steuer-, Einwanderungs- oder Gesundheitsverstößen, erlassen, ohne dass dies die grundsätzliche friedliche Durchfahrt fremder Schiffe unzulässig behindern darf",
-            "Zollrechtliche Maßnahmen sind ausschließlich gegenüber Schiffen unter eigener Flagge zulässig",
-            "Zollrechtliche Kontrollen im Küstenmeer sind völkerrechtlich generell ausgeschlossen",
-            "Nur die Anschlusszone, niemals das Küstenmeer selbst, erlaubt zollrechtliche Maßnahmen"
+            "Zollrechtliche Maßnahmen sind ausschließlich gegenüber Schiffen unter eigener Flagge des Küstenstaats zulässig",
+            "Nur die Anschlusszone, niemals das Küstenmeer selbst, erlaubt zollrechtliche Maßnahmen",
+            "Er darf Zoll-, Steuer-, Einwanderungs- und Gesundheitsregeln erlassen, ohne die Durchfahrt zu behindern",
+            "Zollrechtliche Kontrollen im Küstenmeer sind völkerrechtlich generell ausgeschlossen"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Der Küstenstaat darf im Rahmen der Regelungsbefugnisse für die friedliche Durchfahrt auch Vorschriften zu Zoll-, Steuer-, Einwanderungs- und Gesundheitsfragen erlassen, solange diese die grundsätzliche friedliche Durchfahrt fremder Schiffe nicht unzulässig behindern – ergänzend zu den weitergehenden Vollzugsbefugnissen in der Anschlusszone.",
           "cat": "Seerecht"
         },
@@ -9668,12 +9668,12 @@
         {
           "q": "Welche Bedeutung hat die Unterscheidung zwischen der bloßen Durchfahrt und dem Anlaufen eines Hafens für die Anwendbarkeit bestimmter seerechtlicher Regelungen?",
           "o": [
-            "Ein Hafen gehört seerechtlich nicht zum Hoheitsgebiet des Küstenstaats",
-            "Die Unterscheidung ist für das Seerecht ohne jede praktische Bedeutung",
-            "Beide Vorgänge werden seerechtlich vollständig identisch behandelt, ohne jeden Unterschied",
-            "Das Anlaufen eines Hafens unterstellt ein Schiff regelmäßig weitergehenden hafenstaatlichen Zuständigkeiten als die bloße Durchfahrt durch das Küstenmeer, etwa im Rahmen der Hafenstaatkontrolle"
+            "Ein Hafen gehört seerechtlich nicht zum Hoheitsgebiet des jeweiligen Küstenstaats",
+            "Die Unterscheidung ist für das Seerecht ohne jede praktische Bedeutung geblieben",
+            "Das Anlaufen eines Hafens unterstellt ein Schiff weitergehenden hafenstaatlichen Zuständigkeiten",
+            "Beide Vorgänge werden seerechtlich vollständig identisch behandelt, ohne jeden Unterschied in den Zuständigkeiten"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Läuft ein Schiff freiwillig einen Hafen an, unterstellt es sich damit regelmäßig weitergehenden hafenstaatlichen Zuständigkeiten, etwa im Rahmen der Hafenstaatkontrolle zur Überprüfung von Sicherheits- und Umweltstandards, als dies bei der bloßen friedlichen Durchfahrt durch das Küstenmeer der Fall wäre.",
           "cat": "Seerecht"
         },
@@ -10046,12 +10046,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Festlegung der Basislinien eines Küstenstaats grundsätzlich der internationalen Überprüfung durch andere Staaten unterliegt?",
           "o": [
-            "Die Festlegung der Basislinien muss den völkerrechtlichen Vorgaben des SRÜ entsprechen; abweichende oder übermäßig ausgedehnte Basislinienfestlegungen können von anderen Staaten als völkerrechtswidrig zurückgewiesen werden",
             "Basislinien können von jedem Küstenstaat vollständig frei und ohne jede rechtliche Bindung festgelegt werden",
-            "Die Festlegung von Basislinien ist im SRÜ nicht geregelt",
-            "Nur die Meeresbodenbehörde, niemals andere Staaten, darf Basislinien überprüfen"
+            "Die Festlegung von Basislinien ist im Seerechtsübereinkommen nicht geregelt",
+            "Nur die Meeresbodenbehörde, niemals andere Staaten, darf Basislinien überprüfen",
+            "Basislinien müssen den Vorgaben des SRÜ entsprechen; überzogene Festlegungen dürfen zurückgewiesen werden"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Die Festlegung der Basislinien muss den völkerrechtlichen Vorgaben des SRÜ – etwa zur normalen oder geraden Basislinie – entsprechen; überzogene oder unbegründete Basislinienfestlegungen können von anderen Staaten als völkerrechtswidrig beanstandet werden, ein wiederkehrendes Streitthema in verschiedenen Regionen der Welt.",
           "cat": "Seerecht"
         },
@@ -10292,12 +10292,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass der Festlandsockel eines Küstenstaats kraft Natur der Sache besteht, ohne dass es einer förmlichen Proklamation bedarf?",
           "o": [
-            "Nach der Rechtsprechung des IGH und Art. 77 SRÜ übt der Küstenstaat souveräne Rechte am Festlandsockel kraft Natur der Sache aus, unabhängig von einer förmlichen Proklamation oder tatsächlichen Inbesitznahme",
-            "Der Festlandsockel ist im Seerechtsübereinkommen als Rechtsbegriff nicht enthalten",
+            "Der Festlandsockel existiert nur, wenn er von der Meeresbodenbehörde ausdrücklich anerkannt wurde",
+            "Die Rechte bestehen ipso facto und ab initio; anders als bei der AWZ bedarf es keiner Proklamation",
             "Der Festlandsockel entsteht ausschließlich durch eine förmliche staatliche Proklamation, ohne die er rechtlich nicht existiert",
-            "Der Festlandsockel existiert nur, wenn er von der Meeresbodenbehörde ausdrücklich anerkannt wurde"
+            "Der Festlandsockel ist im Seerechtsübereinkommen als Rechtsbegriff überhaupt nicht enthalten"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Souveräne Rechte am Festlandsockel bestehen nach der grundlegenden Rechtsprechung des IGH und Art. 77 SRÜ kraft Natur der Sache (ipso facto und ab initio), unabhängig von einer förmlichen Proklamation oder tatsächlichen Inbesitznahme durch den Küstenstaat – ein wichtiger Unterschied etwa zur ausschließlichen Wirtschaftszone, die einer Proklamation bedarf.",
           "cat": "Seerecht"
         },
@@ -10598,12 +10598,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass ein Küstenstaat den Bau von Unterseekabeln und Rohrleitungen durch Dritte in seiner ausschließlichen Wirtschaftszone nicht grundlos verweigern darf?",
           "o": [
-            "Die Verlegung von Kabeln ist in der AWZ generell verboten",
+            "Die Verlegung von Kabeln und Rohrleitungen ist in der AWZ generell verboten",
             "Nur der Flaggenstaat des verlegenden Schiffs, niemals der Küstenstaat, hat hierzu irgendein Mitspracherecht",
-            "Der Küstenstaat kann die Verlegung von Kabeln und Rohrleitungen in seiner AWZ nach freiem Ermessen vollständig und grundlos verbieten",
-            "Nach Art. 58 SRÜ genießen Drittstaaten in der AWZ weiterhin die Freiheit zur Verlegung von Unterseekabeln und Rohrleitungen, wobei der Küstenstaat angemessene, sachlich gerechtfertigte Bedingungen stellen kann"
+            "Nach Art. 58 SRÜ bleibt die Kabelverlegung frei; der Küstenstaat darf sachliche Bedingungen stellen",
+            "Der Küstenstaat kann die Verlegung von Kabeln und Rohrleitungen in seiner AWZ nach freiem Ermessen vollständig und grundlos verbieten"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Art. 58 SRÜ erhält Drittstaaten in der AWZ des Küstenstaats bestimmte Freiheiten der Hohen See, darunter die Verlegung von Unterseekabeln und Rohrleitungen, wobei der Küstenstaat sachlich gerechtfertigte Bedingungen etwa zum Schutz seiner Ressourcenrechte stellen kann, ohne die Freiheit grundlos vollständig zu verweigern.",
           "cat": "Seerecht"
         },
@@ -10904,22 +10904,22 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass ein Küstenstaat in seiner Anschlusszone anders als im Küstenmeer keine allgemeine Gebietshoheit, sondern nur funktional begrenzte Kontroll- und Ahndungsbefugnisse besitzt?",
           "o": [
-            "In der Anschlusszone besitzt der Küstenstaat nur funktional auf bestimmte Zwecke – Zoll, Steuer, Einwanderung, Gesundheit – begrenzte Kontroll- und Ahndungsbefugnisse, keine allgemeine Gebietshoheit wie im Küstenmeer",
+            "Die Anschlusszone ist rechtlich identisch mit dem Regime der Hohen See ausgestaltet",
+            "Die Anschlusszone gewährt dem Küstenstaat überhaupt keinerlei eigene Befugnisse",
             "Die Anschlusszone unterliegt derselben umfassenden Gebietshoheit wie das Küstenmeer selbst",
-            "Die Anschlusszone ist rechtlich identisch mit der Hohen See ausgestaltet",
-            "Die Anschlusszone gewährt dem Küstenstaat überhaupt keinerlei Befugnisse"
+            "Nur funktional begrenzte Kontrollbefugnisse für Zoll, Steuer, Einwanderung und Gesundheit"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Anders als das Küstenmeer, das der allgemeinen Gebietshoheit unterliegt, gewährt die Anschlusszone dem Küstenstaat nur funktional auf bestimmte Zwecke begrenzte Kontroll- und Ahndungsbefugnisse – ein abgestuftes System zunehmend eingeschränkter Hoheitsbefugnisse mit wachsender Entfernung von der Küste.",
           "cat": "Seerecht"
         },
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass Kriegsschiffe auf Hoher See absolute Immunität von der Hoheitsgewalt anderer Staaten als ihres Flaggenstaats genießen?",
           "o": [
-            "Nach Art. 95 SRÜ genießen Kriegsschiffe auf Hoher See vollständige Immunität von der Hoheitsgewalt jedes anderen Staates als ihres Flaggenstaats",
+            "Nach Art. 95 SRÜ genießen sie vollständige Immunität von jeder fremden Hoheitsgewalt",
             "Die Immunität von Kriegsschiffen gilt nur innerhalb des Küstenmeers, nicht auf Hoher See",
-            "Kriegsschiffe unterliegen auf Hoher See derselben Kontrolle wie zivile Handelsschiffe",
-            "Kriegsschiffe genießen auf Hoher See überhaupt keinen besonderen Schutz"
+            "Kriegsschiffe genießen auf Hoher See überhaupt keinen besonderen völkerrechtlichen Schutz",
+            "Kriegsschiffe unterliegen auf Hoher See derselben Kontrolle wie zivile Handelsschiffe"
           ],
           "a": 0,
           "e": "Art. 95 SRÜ gewährt Kriegsschiffen auf Hoher See vollständige Immunität von der Hoheitsgewalt jedes anderen Staates als ihres Flaggenstaats – ein besonders starker Schutzstatus, der über die allgemeine Flaggenstaatszuständigkeit für zivile Schiffe noch hinausgeht.",
@@ -11246,12 +11246,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Bergung von Kulturgütern und Schiffswracks auf dem Meeresboden besonderen völkerrechtlichen Regelungen unterliegen kann, die über die allgemeinen SRÜ-Bestimmungen hinausgehen?",
           "o": [
-            "Die Bergung von Kulturgütern ist völkerrechtlich vollständig unreguliert und jedem Staat freigestellt",
             "Schiffswracks unterliegen ausschließlich dem Recht des ursprünglichen Flaggenstaats, unabhängig vom Fundort",
-            "Neben den allgemeinen Bestimmungen des SRÜ zum Schutz archäologischer und historischer Gegenstände existiert mit dem UNESCO-Übereinkommen zum Schutz des Unterwasser-Kulturerbes ein spezialisiertes, wenn auch nicht von allen Staaten ratifiziertes Zusatzregelwerk",
-            "Es existiert keinerlei besonderes völkerrechtliches Regelwerk für unter Wasser befindliches Kulturerbe"
+            "Neben den allgemeinen SRÜ-Bestimmungen besteht das UNESCO-Übereinkommen zum Schutz des Unterwasser-Kulturerbes",
+            "Es existiert keinerlei besonderes völkerrechtliches Regelwerk für unter Wasser befindliches Kulturerbe",
+            "Die Bergung von Kulturgütern ist völkerrechtlich vollständig unreguliert und jedem Staat freigestellt"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Neben den allgemeinen SRÜ-Bestimmungen zum Schutz archäologischer und historischer Gegenstände auf See existiert mit dem UNESCO-Übereinkommen zum Schutz des Unterwasser-Kulturerbes ein spezialisiertes Zusatzregelwerk, das allerdings nicht von allen SRÜ-Vertragsstaaten ratifiziert wurde und daher nicht universell gilt.",
           "cat": "Seerecht"
         },
