@@ -18,7 +18,8 @@
             "an denen sowohl die EU als auch deren Mitgliedsstaaten beteiligt sind."
           ],
           "a": 3,
-          "e": "Gemischte Abkommen werden von EU und Mitgliedstaaten gemeinsam geschlossen, weil sie sowohl Unions- als auch mitgliedstaatliche Kompetenzen berühren."
+          "e": "Gemischte Abkommen werden von EU und Mitgliedstaaten gemeinsam geschlossen, weil sie sowohl Unions- als auch mitgliedstaatliche Kompetenzen berühren.",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Eine gemeinsame Absichtserklärung",
@@ -29,7 +30,8 @@
             "bedarf einer Vollmacht zur Unterzeichnung."
           ],
           "a": 1,
-          "e": "Eine Absichtserklärung (MoU) soll gerade keinen Rechtsbindungswillen begründen und wirkt nur politisch."
+          "e": "Eine Absichtserklärung (MoU) soll gerade keinen Rechtsbindungswillen begründen und wirkt nur politisch.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Wie viele Kommissarinnen und Kommissare hat die EU?",
@@ -40,7 +42,8 @@
             "31"
           ],
           "a": 2,
-          "e": "Vor dem Brexit galt: eine Kommissarin/ein Kommissar je Mitgliedstaat – 28 (inkl. Präsident)."
+          "e": "Vor dem Brexit galt: eine Kommissarin/ein Kommissar je Mitgliedstaat – 28 (inkl. Präsident).",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Mit welchen rechtlichen Fragen beschäftigte sich der Internationale Strafgerichtshof für das ehemalige Jugoslawien?",
@@ -51,7 +54,8 @@
             "Korruption und Organisierte Kriminalität"
           ],
           "a": 2,
-          "e": "Der ICTY (ad-hoc-Tribunal des Sicherheitsrats) verfolgte schwerste Völkerrechtsverbrechen aus den Jugoslawienkriegen."
+          "e": "Der ICTY (ad-hoc-Tribunal des Sicherheitsrats) verfolgte schwerste Völkerrechtsverbrechen aus den Jugoslawienkriegen.",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Das Wiener Übereinkommen vom 23.05.1969 über das Recht der Verträge",
@@ -62,7 +66,8 @@
             "legt fest, dass Vorbehalte nicht zurückgezogen werden können."
           ],
           "a": 2,
-          "e": "Art. 19 WVK: Vorbehalte sind grundsätzlich möglich, sofern der Vertrag sie nicht verbietet; Vorbehalte gibt es nur bei multilateralen Verträgen und sie sind rücknehmbar."
+          "e": "Art. 19 WVK: Vorbehalte sind grundsätzlich möglich, sofern der Vertrag sie nicht verbietet; Vorbehalte gibt es nur bei multilateralen Verträgen und sie sind rücknehmbar.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "In einem völkerrechtlichen Vertrag bestimmt die Ratifikationsklausel,",
@@ -73,7 +78,8 @@
             "ob der Bundesrat bei der Ratifikation beteiligt werden muss."
           ],
           "a": 2,
-          "e": "Die Ratifikationsklausel regelt, dass die endgültige Bindung erst durch Ratifikation (nicht schon mit Unterzeichnung) eintritt."
+          "e": "Die Ratifikationsklausel regelt, dass die endgültige Bindung erst durch Ratifikation (nicht schon mit Unterzeichnung) eintritt.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Beim Dezember 2018 in Marrakesch angenommenen „Globalen Pakt für sichere, geordnete und reguläre Migration“ handelt es sich um",
@@ -84,7 +90,8 @@
             "eine bindende Rahmenvereinbarung, die national konkretisiert werden muss."
           ],
           "a": 1,
-          "e": "Der Migrationspakt ist rechtlich unverbindlich („soft law“) und begründet keine völkerrechtlichen Pflichten."
+          "e": "Der Migrationspakt ist rechtlich unverbindlich („soft law“) und begründet keine völkerrechtlichen Pflichten.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Der Internationale Gerichtshof (IGH) in Den Haag ist",
@@ -95,7 +102,8 @@
             "ein internes Gremium der VN für administrative Streitigkeiten."
           ],
           "a": 0,
-          "e": "Der IGH ist das Hauptrechtsprechungsorgan der UN für zwischenstaatliche Streitigkeiten (nicht zu verwechseln mit dem IStGH)."
+          "e": "Der IGH ist das Hauptrechtsprechungsorgan der UN für zwischenstaatliche Streitigkeiten (nicht zu verwechseln mit dem IStGH).",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Das völkergewohnheitsrechtliche Institut des „Diplomatischen Schutzes“ bezeichnet",
@@ -106,7 +114,8 @@
             "den polizeilichen Objektschutz von Botschaften im Ausland."
           ],
           "a": 2,
-          "e": "Diplomatischer Schutz = ein Staat nimmt sich der Rechte eigener Staatsangehöriger gegenüber einem anderen Staat an."
+          "e": "Diplomatischer Schutz = ein Staat nimmt sich der Rechte eigener Staatsangehöriger gegenüber einem anderen Staat an.",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Das Vier-Genfer-Abkommen und seine Zusatzprotokolle",
@@ -117,7 +126,8 @@
             "regeln das internationale Luftrecht."
           ],
           "a": 0,
-          "e": "Die Genfer Abkommen bilden den Kern des humanitären Völkerrechts (Schutz im bewaffneten Konflikt)."
+          "e": "Die Genfer Abkommen bilden den Kern des humanitären Völkerrechts (Schutz im bewaffneten Konflikt).",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Wenn ein amtierender Staats- oder Regierungschef eines anderen Staates Deutschland besucht …",
@@ -128,7 +138,8 @@
             "Alle drei vorgenannten Antworten sind korrekt."
           ],
           "a": 2,
-          "e": "Amtierende Staatsoberhäupter genießen umfassende persönliche Immunität (ratione personae) vor fremder Strafgerichtsbarkeit."
+          "e": "Amtierende Staatsoberhäupter genießen umfassende persönliche Immunität (ratione personae) vor fremder Strafgerichtsbarkeit.",
+          "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Bei wie vielen bi- und multilateralen völkerrechtlichen Verträgen ist Deutschland aktuell Vertragspartei?",
@@ -140,7 +151,8 @@
           ],
           "a": 2,
           "e": "Deutschland ist Partei von rund 6.600 völkerrechtlichen Verträgen.",
-          "flag": true
+          "flag": true,
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Welche Verfassungen gelten in der Bundesrepublik Deutschland?",
@@ -151,7 +163,8 @@
             "Magna Charta, Grundgesetz"
           ],
           "a": 2,
-          "e": "Es gelten das Grundgesetz des Bundes und die Verfassungen der 16 Länder nebeneinander."
+          "e": "Es gelten das Grundgesetz des Bundes und die Verfassungen der 16 Länder nebeneinander.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Was ist der MICT (United Nations Mechanism for International Criminal Tribunals)?",
@@ -162,7 +175,8 @@
             "Beratungsorgan des IStGH"
           ],
           "a": 0,
-          "e": "Der MICT (heute IRMCT) führt die Restaufgaben der ad-hoc-Tribunale für Ruanda und Jugoslawien fort."
+          "e": "Der MICT (heute IRMCT) führt die Restaufgaben der ad-hoc-Tribunale für Ruanda und Jugoslawien fort.",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Was ist nicht Teil der konsularischen Betreuung durch eine deutsche Auslandsvertretung?",
@@ -173,7 +187,8 @@
             "Vertretung des Inhaftierten in seinem Strafverfahren"
           ],
           "a": 3,
-          "e": "Konsularische Betreuung umfasst Beistand, aber keine anwaltliche Vertretung vor Gericht."
+          "e": "Konsularische Betreuung umfasst Beistand, aber keine anwaltliche Vertretung vor Gericht.",
+          "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Nach ständiger Staatspraxis kann der Bundespräsident die Ausfertigung eines Gesetzes verweigern,",
@@ -184,7 +199,8 @@
             "immer bei durchgreifenden Zweifeln an einem formellen oder materiellen Verfassungsverstoß (formelles und materielles Prüfungsrecht)."
           ],
           "a": 3,
-          "e": "Nach herrschender Staatspraxis prüft der Bundespräsident formelle und – bei evidenten Verstößen – auch materielle Verfassungsmäßigkeit; ein politisches Veto hat er nicht."
+          "e": "Nach herrschender Staatspraxis prüft der Bundespräsident formelle und – bei evidenten Verstößen – auch materielle Verfassungsmäßigkeit; ein politisches Veto hat er nicht.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "In welchem Grundgesetzartikel ist die Übertragung von Kompetenzen auf die EU geregelt?",
@@ -195,7 +211,8 @@
             "Art. 59"
           ],
           "a": 1,
-          "e": "Art. 23 GG ist der „Europaartikel“ und regelt die Mitwirkung an und Kompetenzübertragung auf die EU."
+          "e": "Art. 23 GG ist der „Europaartikel“ und regelt die Mitwirkung an und Kompetenzübertragung auf die EU.",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Welcher Schutz kann Anfragen nach dem Informationsfreiheitsgesetz entgegengehalten werden?",
@@ -206,7 +223,8 @@
             "nur der Geheimschutz"
           ],
           "a": 0,
-          "e": "Das IFG kennt Ausnahmen sowohl zum Schutz öffentlicher Belange als auch personenbezogener Daten."
+          "e": "Das IFG kennt Ausnahmen sowohl zum Schutz öffentlicher Belange als auch personenbezogener Daten.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Im Sicherheitsrat bedeutet das sogenannte „double veto“,",
@@ -217,7 +235,8 @@
             "dass ein einmal gescheiterter Entwurf nicht erneut zur Abstimmung gestellt werden darf."
           ],
           "a": 2,
-          "e": "Das „Doppelveto“: ein Ständiges Mitglied kann zuerst die Einstufung als materielle Frage erzwingen und dann diese inhaltlich blockieren."
+          "e": "Das „Doppelveto“: ein Ständiges Mitglied kann zuerst die Einstufung als materielle Frage erzwingen und dann diese inhaltlich blockieren.",
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Ein Staat kann einen Vorbehalt zu einem multilateralen Vertrag bis spätestens zu folgendem Zeitpunkt einlegen:",
@@ -228,7 +247,8 @@
             "nur bis zur Abstimmung über den Vertragstext"
           ],
           "a": 2,
-          "e": "Ein Vorbehalt ist bei Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt möglich – also bis zur Erklärung, gebunden sein zu wollen."
+          "e": "Ein Vorbehalt ist bei Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt möglich – also bis zur Erklärung, gebunden sein zu wollen.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Welchen der folgenden Verträge hat die Bundesrepublik Deutschland ratifiziert?",
@@ -239,7 +259,8 @@
             "UN-Wanderarbeitnehmerkonvention"
           ],
           "a": 1,
-          "e": "Deutschland hat die Rassendiskriminierungskonvention (ICERD, 1969) ratifiziert, die übrigen genannten dagegen nicht."
+          "e": "Deutschland hat die Rassendiskriminierungskonvention (ICERD, 1969) ratifiziert, die übrigen genannten dagegen nicht.",
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Welcher der folgenden Staaten ist Vertragspartei der Europäischen Menschenrechtskonvention (EMRK)?",
@@ -250,7 +271,8 @@
             "Vatikan"
           ],
           "a": 2,
-          "e": "EMRK-Partei sind die Mitglieder des Europarats; davon ist hier nur Aserbaidschan Mitglied."
+          "e": "EMRK-Partei sind die Mitglieder des Europarats; davon ist hier nur Aserbaidschan Mitglied.",
+          "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
           "q": "Das „Lindauer Abkommen“",
@@ -261,7 +283,8 @@
             "regelt das Grenzregime zwischen Deutschland und der Schweiz."
           ],
           "a": 2,
-          "e": "Das Lindauer Abkommen (1957) regelt die Beteiligung der Länder beim Abschluss von Bundesverträgen in Länderkompetenzbereichen."
+          "e": "Das Lindauer Abkommen (1957) regelt die Beteiligung der Länder beim Abschluss von Bundesverträgen in Länderkompetenzbereichen.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Ein „radizierter Vertrag“ meint",
@@ -272,7 +295,8 @@
             "einen Vertrag, der bereits mit der Unterschrift in Kraft tritt."
           ],
           "a": 2,
-          "e": "Ein radizierter (lokalisierter) Vertrag ist an ein Gebiet gebunden und besteht bei Staatennachfolge fort."
+          "e": "Ein radizierter (lokalisierter) Vertrag ist an ein Gebiet gebunden und besteht bei Staatennachfolge fort.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Der Europäische Gerichtshof für Menschenrechte (EGMR) ist für Klagen von Einzelpersonen zuständig,",
@@ -283,7 +307,8 @@
             "wenn der verklagte Staat Vertragspartei ist und die Zuständigkeit gesondert anerkannt hat."
           ],
           "a": 0,
-          "e": "Seit Protokoll Nr. 11 (1998) ist die Individualbeschwerde obligatorisch – die Zuständigkeit besteht automatisch, sobald der Staat EMRK-Partei ist."
+          "e": "Seit Protokoll Nr. 11 (1998) ist die Individualbeschwerde obligatorisch – die Zuständigkeit besteht automatisch, sobald der Staat EMRK-Partei ist.",
+          "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         }
       ]
     },
@@ -300,7 +325,8 @@
             "Art. 2 Abs. 1 Wiener Vertragsrechtskonvention"
           ],
           "a": 1,
-          "e": "Art. 38 Abs. 1 IGH-Statut nennt Verträge, Gewohnheitsrecht und allgemeine Rechtsgrundsätze als Hauptrechtsquellen."
+          "e": "Art. 38 Abs. 1 IGH-Statut nennt Verträge, Gewohnheitsrecht und allgemeine Rechtsgrundsätze als Hauptrechtsquellen.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Was beschreibt – kein – Vorrangverhältnis im internationalen Recht?",
@@ -311,7 +337,8 @@
             "EU-Recht gegenüber nationalem Recht"
           ],
           "a": 2,
-          "e": "Vertrag und Gewohnheitsrecht stehen grundsätzlich gleichrangig (lex posterior/specialis), es besteht kein genereller Vorrang."
+          "e": "Vertrag und Gewohnheitsrecht stehen grundsätzlich gleichrangig (lex posterior/specialis), es besteht kein genereller Vorrang.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Welches Hauptorgan der VN trägt nach Art. 24 VN-Charta die „Hauptverantwortung“ für Weltfrieden und internationale Sicherheit?",
@@ -322,7 +349,8 @@
             "Sekretariat"
           ],
           "a": 0,
-          "e": "Art. 24 VN-Charta überträgt dem Sicherheitsrat die Hauptverantwortung für Frieden und Sicherheit."
+          "e": "Art. 24 VN-Charta überträgt dem Sicherheitsrat die Hauptverantwortung für Frieden und Sicherheit.",
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Die „Articles on State Responsibility“ (2001) zur Staatenverantwortlichkeit sind",
@@ -333,7 +361,8 @@
             "völkerrechtlich unverbindlich."
           ],
           "a": 2,
-          "e": "Die ILC-Artikel sind kein Vertrag; sie binden nur, soweit sie geltendes Völkergewohnheitsrecht kodifizieren."
+          "e": "Die ILC-Artikel sind kein Vertrag; sie binden nur, soweit sie geltendes Völkergewohnheitsrecht kodifizieren.",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Welche Organe üben im ordentlichen Gesetzgebungsverfahren der EU weitgehend gleichberechtigt eine zentrale Rolle aus?",
@@ -344,7 +373,8 @@
             "Ausschuss der Regionen und Europäischer Gerichtshof"
           ],
           "a": 1,
-          "e": "Im ordentlichen Gesetzgebungsverfahren entscheiden Parlament und Rat der EU gleichberechtigt (Mitentscheidung)."
+          "e": "Im ordentlichen Gesetzgebungsverfahren entscheiden Parlament und Rat der EU gleichberechtigt (Mitentscheidung).",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Wer ist amtierende(r) Hohe(r) Vertreter(in) der EU für Außen- und Sicherheitspolitik (Stand 2023)?",
@@ -356,7 +386,8 @@
           ],
           "a": 2,
           "e": "Josep Borrell war 2019–2024 Hoher Vertreter der EU für Außen- und Sicherheitspolitik.",
-          "flag": true
+          "flag": true,
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Unter welchen Voraussetzungen kommt die Aussetzung von Rechten nach Art. 7 EUV in Betracht?",
@@ -367,7 +398,8 @@
             "Schwerwiegende und anhaltende Verletzung der Werte der Union"
           ],
           "a": 3,
-          "e": "Art. 7 EUV greift bei schwerwiegender, anhaltender Verletzung der Grundwerte (Demokratie, Rechtsstaatlichkeit)."
+          "e": "Art. 7 EUV greift bei schwerwiegender, anhaltender Verletzung der Grundwerte (Demokratie, Rechtsstaatlichkeit).",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Wann darf der Empfangsstaat einen ausländischen Diplomaten zur persona non grata erklären?",
@@ -378,7 +410,8 @@
             "Nur nach vorheriger Stellungnahme des Entsendestaats"
           ],
           "a": 0,
-          "e": "Nach Art. 9 WÜD kann der Empfangsstaat jederzeit und ohne Begründung eine persona non grata erklären."
+          "e": "Nach Art. 9 WÜD kann der Empfangsstaat jederzeit und ohne Begründung eine persona non grata erklären.",
+          "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was versteht man unter einem „radizierten“ völkerrechtlichen Vertrag?",
@@ -389,7 +422,8 @@
             "Der Vertrag hat objektive Drittwirkung."
           ],
           "a": 1,
-          "e": "Radizierte (gebietsbezogene) Verträge bleiben bei Staatennachfolge mit dem Gebiet verbunden."
+          "e": "Radizierte (gebietsbezogene) Verträge bleiben bei Staatennachfolge mit dem Gebiet verbunden.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Die Ausschließliche Wirtschaftszone (AWZ) im Seevölkerrecht",
@@ -400,7 +434,8 @@
             "gewährt dem Küstenstaat Sonderrechte und kann vor Festland und Inseln bestehen."
           ],
           "a": 3,
-          "e": "Die AWZ (bis 200 sm) verleiht dem Küstenstaat souveräne Nutzungsrechte (Ressourcen), ist aber kein Staatsgebiet."
+          "e": "Die AWZ (bis 200 sm) verleiht dem Küstenstaat souveräne Nutzungsrechte (Ressourcen), ist aber kein Staatsgebiet.",
+          "cat": "Seerecht"
         },
         {
           "q": "Welche Institution ist für die schiedsgerichtliche Beilegung von Streitigkeiten zwischen Investoren und Staaten zuständig?",
@@ -411,7 +446,8 @@
             "IWF"
           ],
           "a": 1,
-          "e": "ICSID (Weltbankgruppe) ist das zentrale Forum für Investor-Staat-Schiedsverfahren."
+          "e": "ICSID (Weltbankgruppe) ist das zentrale Forum für Investor-Staat-Schiedsverfahren.",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Welche Normen sind nach Art. 25 GG Bestandteil des Bundesrechts und gehen den Gesetzen vor?",
@@ -422,7 +458,8 @@
             "Entscheidungen internationaler Gerichte"
           ],
           "a": 2,
-          "e": "Art. 25 GG verleiht den allgemeinen Regeln des Völkerrechts Vorrang vor den Gesetzen."
+          "e": "Art. 25 GG verleiht den allgemeinen Regeln des Völkerrechts Vorrang vor den Gesetzen.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Muss der Bundestag dem bewaffneten Einsatz der Bundeswehr im Vorhinein zustimmen?",
@@ -433,7 +470,8 @@
             "Nein"
           ],
           "a": 0,
-          "e": "Parlamentsvorbehalt: grundsätzlich vorherige Zustimmung; bei Gefahr im Verzug ist nachträgliche Befassung möglich."
+          "e": "Parlamentsvorbehalt: grundsätzlich vorherige Zustimmung; bei Gefahr im Verzug ist nachträgliche Befassung möglich.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Wobei handelt es sich – nicht – um ein der Ewigkeitsgarantie unterliegendes Staatsstrukturprinzip des Grundgesetzes?",
@@ -444,7 +482,8 @@
             "Republikprinzip"
           ],
           "a": 2,
-          "e": "Art. 79 III i.V.m. Art. 20 GG schützt u.a. Bundesstaat, Demokratie, Republik und Sozialstaat – ein „Friedlichkeitsprinzip“ zählt nicht dazu."
+          "e": "Art. 79 III i.V.m. Art. 20 GG schützt u.a. Bundesstaat, Demokratie, Republik und Sozialstaat – ein „Friedlichkeitsprinzip“ zählt nicht dazu.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "In welcher Verfahrensart verzeichnet das BVerfG jährlich die mit Abstand meisten Eingänge?",
@@ -455,7 +494,8 @@
             "Normenkontrollverfahren"
           ],
           "a": 1,
-          "e": "Die Verfassungsbeschwerde macht den weit überwiegenden Teil der BVerfG-Eingänge aus."
+          "e": "Die Verfassungsbeschwerde macht den weit überwiegenden Teil der BVerfG-Eingänge aus.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Welche Zuordnung einer VN-Peacekeeping-Mission zum Einsatzgebiet ist – nicht – korrekt?",
@@ -466,7 +506,8 @@
             "UNIFIL – Libanon"
           ],
           "a": 0,
-          "e": "MINURSO ist die Mission für die Westsahara, nicht für den Südsudan."
+          "e": "MINURSO ist die Mission für die Westsahara, nicht für den Südsudan.",
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Was ist Gegenstand des 2023 von Russland ausgesetzten New-START-Vertrags?",
@@ -477,7 +518,8 @@
             "Beschränkung und Verringerung nuklearer Sprengköpfe und Trägersysteme"
           ],
           "a": 3,
-          "e": "New START begrenzt strategische Nuklearwaffen (Sprengköpfe und Trägersysteme) der USA und Russlands."
+          "e": "New START begrenzt strategische Nuklearwaffen (Sprengköpfe und Trägersysteme) der USA und Russlands.",
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "In welchem Bereich besitzt die EU nur eine unterstützende Zuständigkeit?",
@@ -488,7 +530,8 @@
             "Energiepolitik"
           ],
           "a": 1,
-          "e": "Kultur zählt zu den unterstützenden Zuständigkeiten (Art. 6 AEUV); die anderen sind geteilte Zuständigkeiten."
+          "e": "Kultur zählt zu den unterstützenden Zuständigkeiten (Art. 6 AEUV); die anderen sind geteilte Zuständigkeiten.",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "In welchem Verfahren entschied der EuGH, dass Mitgliedstaaten bei Verstößen gegen Gemeinschaftsrecht schadensersatzpflichtig sein können?",
@@ -499,7 +542,8 @@
             "Francovich"
           ],
           "a": 3,
-          "e": "Die Rechtssache Francovich begründete die Staatshaftung für die Nichtumsetzung von Richtlinien."
+          "e": "Die Rechtssache Francovich begründete die Staatshaftung für die Nichtumsetzung von Richtlinien.",
+          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
           "q": "Welche EU-Agentur unterstützt die Mitgliedstaaten beim Schutz ihrer Außengrenzen?",
@@ -510,7 +554,8 @@
             "OLAF"
           ],
           "a": 2,
-          "e": "Frontex ist die Europäische Agentur für die Grenz- und Küstenwache."
+          "e": "Frontex ist die Europäische Agentur für die Grenz- und Küstenwache.",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "2009 wurde erstmals ein IStGH-Haftbefehl gegen ein amtierendes Staatsoberhaupt erlassen. Gegen wen?",
@@ -521,7 +566,8 @@
             "Charles Taylor"
           ],
           "a": 2,
-          "e": "Gegen den sudanesischen Präsidenten Omar al-Bashir (Darfur) erging 2009 der erste Haftbefehl gegen einen amtierenden Präsidenten."
+          "e": "Gegen den sudanesischen Präsidenten Omar al-Bashir (Darfur) erging 2009 der erste Haftbefehl gegen einen amtierenden Präsidenten.",
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Wie viele Botschaften unterhält die Bundesrepublik Deutschland (Stand 2022)?",
@@ -532,7 +578,8 @@
             "234"
           ],
           "a": 1,
-          "e": "Deutschland unterhielt 2022 rund 152 Botschaften (Teil eines Netzes von über 200 Auslandsvertretungen)."
+          "e": "Deutschland unterhielt 2022 rund 152 Botschaften (Teil eines Netzes von über 200 Auslandsvertretungen).",
+          "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welcher „Gruppe“ von Menschenrechten sind die Rechte der EMRK weit überwiegend zuzuordnen?",
@@ -543,7 +590,8 @@
             "Gleichheitsrechte"
           ],
           "a": 0,
-          "e": "Die EMRK schützt überwiegend klassische bürgerliche und politische Rechte (erste Generation)."
+          "e": "Die EMRK schützt überwiegend klassische bürgerliche und politische Rechte (erste Generation).",
+          "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
           "q": "Welcher völkerrechtliche Vertrag (1951) regelt bis heute den Umgang mit Flüchtlingen?",
@@ -554,7 +602,8 @@
             "Marrakesch-Flüchtlingspakt"
           ],
           "a": 0,
-          "e": "Die Genfer Flüchtlingskonvention von 1951 ist die zentrale Grundlage des internationalen Flüchtlingsschutzes."
+          "e": "Die Genfer Flüchtlingskonvention von 1951 ist die zentrale Grundlage des internationalen Flüchtlingsschutzes.",
+          "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Möglichkeit gegen verfassungsfeindliche Parteien sieht Art. 21 GG neben dem Parteiverbot seit 2017 vor?",
@@ -565,7 +614,8 @@
             "Ausschluss von der staatlichen Finanzierung und Entfall steuerlicher Begünstigung"
           ],
           "a": 3,
-          "e": "Seit 2017 kann verfassungsfeindlichen Parteien die staatliche Finanzierung entzogen werden (Art. 21 Abs. 3 GG)."
+          "e": "Seit 2017 kann verfassungsfeindlichen Parteien die staatliche Finanzierung entzogen werden (Art. 21 Abs. 3 GG).",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         }
       ]
     },
@@ -672,13 +722,13 @@
         {
           "q": "Unter welcher Voraussetzung kann eine natürliche oder juristische Person vor dem Gerichtshof der EU eine Nichtigkeitsklage gegen einen nicht an sie gerichteten Unionsrechtsakt erheben?",
           "o": [
-            "Nur, wenn sie unmittelbar und individuell betroffen ist (Plaumann-Kriterium)",
-            "Private können niemals klagen, nur im Wege der Vorabentscheidung",
-            "Jede Person kann klagen, ohne weitere Voraussetzungen",
-            "Nur Mitgliedstaaten und Unionsorgane können klagen"
+            "Private können nicht selbst klagen; Rechtsschutz gewährt allein das Vorabentscheidungsverfahren nach Art. 267 AEUV über die nationalen Gerichte",
+            "Bei unmittelbarer und individueller Betroffenheit (Plaumann); bei Rechtsakten mit Verordnungscharakter ohne Durchführungsmaßnahmen genügt unmittelbare Betroffenheit",
+            "Nur bei unmittelbarer und individueller Betroffenheit; das Plaumann-Kriterium gilt seit dem Vertrag von Lissabon ausnahmslos für alle Handlungsformen des Unionsrechts",
+            "Es genügt, dass der Rechtsakt einen Wirtschaftszweig betrifft, in dem die klagende Person tätig ist; individuelle Betroffenheit ist entbehrlich"
           ],
-          "a": 0,
-          "e": "Private können eine Nichtigkeitsklage gegen einen nicht an sie gerichteten Unionsrechtsakt nur erheben, wenn sie nach dem strengen Plaumann-Kriterium unmittelbar und individuell betroffen sind – eine der höchsten Zugangshürden des Unionsrechts.",
+          "a": 1,
+          "e": "Art. 263 Abs. 4 AEUV kennt seit dem Vertrag von Lissabon drei Varianten: gegen an sie gerichtete Handlungen (Var. 1) und gegen Handlungen, die sie unmittelbar und individuell betreffen (Var. 2, Plaumann-Formel), kann jede natürliche oder juristische Person klagen; gegen Rechtsakte mit Verordnungscharakter, die keine Durchführungsmaßnahmen nach sich ziehen, genügt nach Var. 3 die bloß unmittelbare Betroffenheit (EuGH, Inuit Tapiriit Kanatami, 2013; Telefónica, 2013). Ein ausnahmsloses „nur\" ist deshalb unrichtig. Das Vorabentscheidungsverfahren nach Art. 267 AEUV tritt neben die Nichtigkeitsklage, ersetzt sie aber nicht; und die bloße Tätigkeit in einem betroffenen Wirtschaftszweig genügt der Plaumann-Formel gerade nicht – sie verlangt eine Individualisierung wie bei einem Adressaten.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -1234,15 +1284,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Wozu verpflichtet die 2022 von der Generalversammlung angenommene „Veto-Initiative\" ein ständiges Sicherheitsratsmitglied, das sein Veto einlegt?",
+          "q": "Welche Folge löst die 2022 angenommene „Veto-Initiative\" (Resolution 76/262) aus, wenn im Sicherheitsrat ein Veto eingelegt wird?",
           "o": [
-            "Zur Zahlung eines finanziellen Ausgleichs an die Generalversammlung",
-            "Sich binnen zehn Arbeitstagen vor der Generalversammlung zu erklären",
-            "Zur Rücknahme des Vetos binnen 24 Stunden",
-            "Zur Einberufung einer Sondersitzung des Sicherheitsrats"
+            "Die Generalversammlung tritt binnen zehn Arbeitstagen zu einer Aussprache über die Lage zusammen",
+            "Das Veto ist ausgesetzt, bis zwei Drittel der Generalversammlung es ausdrücklich bestätigen",
+            "Das Veto einlegende Mitglied muss sich binnen zehn Arbeitstagen vor der Generalversammlung erklären",
+            "Der Sicherheitsrat muss binnen zehn Arbeitstagen erneut abstimmen; dann zählt das Veto nicht mehr"
           ],
-          "a": 1,
-          "e": "Die 2022 angenommene „Veto-Initiative\" (Resolution 76/262) schafft keine rechtliche Vetoschranke, verpflichtet ein Veto einlegendes ständiges Mitglied aber, sich binnen zehn Arbeitstagen vor der Generalversammlung zu erklären – politische Rechenschaftspflicht statt rechtlicher Bindung.",
+          "a": 0,
+          "e": "Die Resolution 76/262 vom 26. April 2022 schafft keine rechtliche Vetoschranke – das ginge nur über eine Chartaänderung nach Art. 108 VN-Charta – sondern eine politische Rechenschaftspflicht: Legt ein ständiges Mitglied ein Veto ein, tritt die Generalversammlung binnen zehn Arbeitstagen zu einer förmlichen Aussprache über die Lage zusammen. Dem Vetomitglied wird dabei Vorrang auf der Rednerliste eingeräumt; zu einer Erklärung verpflichtet ist es aber nicht – die Pflicht trifft die Generalversammlung, nicht das Mitglied. Das Veto selbst bleibt wirksam: Es wird weder ausgesetzt noch durch eine zweite Abstimmung überwunden.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -1698,13 +1748,13 @@
         {
           "q": "Wie viele Richterinnen und Richter hat der Europäische Gerichtshof für Menschenrechte?",
           "o": [
-            "Siebenundzwanzig, wie Mitglieder die Europäische Kommission hat",
-            "Neun, wie beim Internationalen Strafgerichtshof üblich",
             "Fünfzehn, wie beim Internationalen Gerichtshof",
-            "Einen pro Vertragsstaat des Europarats"
+            "Achtzehn, wie beim Internationalen Strafgerichtshof",
+            "Sechsundvierzig, je einen für jede Vertragspartei der Konvention",
+            "Siebenundzwanzig, wie die Europäische Kommission Mitglieder hat"
           ],
-          "a": 3,
-          "e": "Der EGMR besteht aus einem Richter bzw. einer Richterin pro Vertragsstaat des Europarats – nicht aus einer fixen Zahl wie der IGH (fünfzehn) oder die Europäische Kommission (siebenundzwanzig), mit denen die Zahl gern verwechselt wird.",
+          "a": 2,
+          "e": "Nach Art. 20 EMRK entspricht die Zahl der Richterinnen und Richter der Zahl der Vertragsparteien der Konvention – seit dem Ausscheiden Russlands am 16. September 2022 sind das sechsundvierzig. Eine von der Mitgliederzahl unabhängige feste Größe kennt die Konvention gerade nicht: Der Internationale Gerichtshof hat fünfzehn Richter (Art. 3 IGH-Statut), der Internationale Strafgerichtshof achtzehn (Art. 36 Abs. 1 Römisches Statut), und die Europäische Kommission hat ein Mitglied je EU-Staat, derzeit siebenundzwanzig.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -1824,13 +1874,13 @@
         {
           "q": "Für welche völkerrechtlichen Verträge gilt die Wiener Vertragsrechtskonvention von 1969 nach ihrem Art. 4 grundsätzlich?",
           "o": [
-            "Nur für Verträge in englischer oder französischer Sprache",
-            "Nur für Verträge, die von internationalen Organisationen geschlossen wurden",
-            "Nur für Verträge, die Staaten nach ihrem Inkrafttreten 1980 geschlossen haben; ältere Verträge erfasst sie größtenteils nur als Kodifikation bereits bestehenden Gewohnheitsrechts",
-            "Für alle jemals geschlossenen völkerrechtlichen Verträge rückwirkend"
+            "Rückwirkend für alle jemals zwischen Staaten geschlossenen völkerrechtlichen Verträge",
+            "Für alle Verträge, die nach dem Inkrafttreten der Konvention am 27. Januar 1980 geschlossen wurden",
+            "Nur für Verträge, die ein Staat nach dem Inkrafttreten der Konvention für ihn selbst schließt",
+            "Nur für Verträge zwischen Staaten und internationalen Organisationen, nicht für Verträge unter Staaten"
           ],
           "a": 2,
-          "e": "Art. 4 WVK schließt eine echte Rückwirkung aus: Die Konvention gilt unmittelbar nur für Verträge nach ihrem Inkrafttreten 1980. Für ältere Verträge wirkt sie größtenteils nur insoweit, als sie ohnehin bestehendes Völkergewohnheitsrecht kodifiziert.",
+          "e": "Art. 4 WVK schließt eine Rückwirkung aus, stellt dabei aber nicht auf das objektive Inkrafttreten der Konvention am 27. Januar 1980 ab, sondern auf ihr Inkrafttreten für den jeweiligen Staat – für Deutschland also auf 1987. Auf ältere Verträge wird sie gleichwohl weithin angewendet, soweit ihre Regeln ohnehin bestehendes Völkergewohnheitsrecht kodifizieren. Verträge zwischen Staaten und internationalen Organisationen regelt nicht die WVK von 1969, sondern die bis heute nicht in Kraft getretene Wiener Konvention von 1986.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -1978,15 +2028,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Konsequenz hatte der Ausschluss Russlands aus dem Europarat im März 2022 für die Geltung der EMRK?",
+          "q": "Welche Folge hatte der Ausschluss Russlands aus dem Europarat am 16. März 2022 für die Zuständigkeit des EGMR?",
           "o": [
-            "Die EMRK wurde daraufhin für alle Mitgliedstaaten außer Kraft gesetzt",
-            "Russland schied auch als Vertragspartei aus der EMRK aus; der Gerichtshof blieb aber für einen Übergangszeitraum für Beschwerden über zuvor begangene Verletzungen zuständig",
-            "Russland blieb trotz des Ausschlusses vollwertiges EMRK-Mitglied",
-            "Der Ausschluss betraf nur die Generalversammlung des Europarats, nicht die EMRK"
+            "Der Gerichtshof verlor taggleich mit dem Ausschluss die Zuständigkeit für alle russischen Fälle",
+            "Anhängige Individualbeschwerden gegen Russland wurden mit dem Ausschluss von Amts wegen gestrichen",
+            "Russland blieb trotz des Ausschlusses aus dem Europarat vollwertige Vertragspartei der Konvention und ihrer Protokolle",
+            "Russland blieb bis zum 16. September 2022 Vertragspartei; für Handlungen bis dahin bleibt der EGMR zuständig"
           ],
-          "a": 1,
-          "e": "Mit dem Ausschluss aus dem Europarat im März 2022 endete auch Russlands EMRK-Mitgliedschaft; der EGMR blieb jedoch für einen Übergangszeitraum für Beschwerden über während der Mitgliedschaft begangene Konventionsverletzungen zuständig.",
+          "a": 3,
+          "e": "Das Ministerkomitee schloss Russland am 16. März 2022 aus dem Europarat aus. Die Konventionsbindung endete damit nicht taggleich: Nach Art. 58 Abs. 3 in Verbindung mit Abs. 1 EMRK wirkt das Ausscheiden erst nach sechs Monaten, und der Gerichtshof stellte in seiner Entschließung vom 22. März 2022 ausdrücklich fest, dass Russland bis zum 16. September 2022 Vertragspartei blieb. Für Handlungen bis zu diesem Stichtag bleibt der EGMR zuständig – anhängige Beschwerden wurden also gerade nicht gestrichen, und er hat seither weiter gegen Russland geurteilt. Vollwertige Vertragspartei ist Russland seit dem 16. September 2022 nicht mehr.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -2320,15 +2370,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Ausnahme vom Recht auf Leben nennt Art. 2 EMRK selbst ausdrücklich?",
+          "q": "Welche Ausnahmen vom Recht auf Leben nennt Art. 2 Abs. 2 EMRK ausdrücklich?",
           "o": [
-            "Die Anwendung der Todesstrafe in Friedenszeiten",
-            "Ausschließlich medizinisch indizierte Sterbehilfe",
-            "Todesfälle als Folge einer nach den Regeln des Kriegsvölkerrechts nicht zu beanstandenden Kriegshandlung sowie bestimmter eng begrenzter Gewaltanwendungen wie Notwehr",
-            "Jede staatliche Gewaltanwendung ohne weitere Voraussetzungen"
+            "Todesfälle als Folge rechtmäßiger Kriegshandlungen im Sinne des Kriegsvölkerrechts",
+            "Unbedingt erforderliche Gewalt zur Verteidigung, zur Festnahme oder gegen einen Aufruhr",
+            "Die Vollstreckung eines von einem zuständigen Gericht verhängten Todesurteils",
+            "Sterbehilfe auf ausdrückliches und ernstliches Verlangen des Betroffenen"
           ],
-          "a": 2,
-          "e": "Art. 2 EMRK nimmt Todesfälle durch rechtmäßige Kriegshandlungen sowie eng umgrenzte, verhältnismäßige Gewaltanwendung – etwa zur Notwehr oder rechtmäßigen Festnahme – vom absoluten Schutz aus; die Todesstrafe in Friedenszeiten ist demgegenüber durch weitere Zusatzprotokolle ausgeschlossen.",
+          "a": 1,
+          "e": "Art. 2 Abs. 2 EMRK lässt eine Tötung nur zu, wenn die Gewaltanwendung unbedingt erforderlich ist, um jemanden gegen rechtswidrige Gewalt zu verteidigen, eine rechtmäßige Festnahme durchzuführen oder das Entkommen eines rechtmäßig Festgenommenen zu verhindern oder einen Aufruhr oder Aufstand rechtmäßig niederzuschlagen. Die Todesstrafe steht nicht in Absatz 2, sondern im ursprünglichen Art. 2 Abs. 1 Satz 2 – und ist durch das 6. und das 13. Zusatzprotokoll abgeschafft. Todesfälle durch rechtmäßige Kriegshandlungen nimmt nicht Art. 2, sondern die Notstandsklausel des Art. 15 Abs. 2 EMRK aus. Eine Ausnahme für Sterbehilfe kennt die Konvention nicht; aus Art. 2 folgt nach dem Gerichtshof kein Recht auf Sterben (Pretty gegen Vereinigtes Königreich, 2002).",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -2377,18 +2427,18 @@
           ],
           "a": 3,
           "e": "Nach der heute vorherrschenden restriktiven Immunitätstheorie genießt ein Staat vor fremden Gerichten Immunität nur für hoheitliches Handeln; tritt er dagegen wie ein privater Marktteilnehmer auf – etwa bei gewöhnlichen Handelsgeschäften –, entfällt die Immunität.",
-          "cat": "Seerecht"
+          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "Was regelt Art. 94 VN-Charta zur Durchsetzung von Urteilen des Internationalen Gerichtshofs?",
           "o": [
-            "Nur der Generalsekretär kann die Durchsetzung eines Urteils veranlassen",
-            "Bei Nichtbefolgung kann die unterlegene Partei den Sicherheitsrat anrufen, der Empfehlungen aussprechen oder Maßnahmen beschließen kann",
-            "Urteile des IGH sind rechtlich unverbindlich und bedürfen keiner Durchsetzung",
-            "Der IGH verfügt über eigene Vollstreckungsorgane"
+            "Bei Nichtbefolgung kann die unterlegene Partei den Sicherheitsrat um Aufhebung des Urteils ersuchen",
+            "Der IGH vollstreckt seine Urteile durch eigene Organe und kann dabei Zwangsgelder verhängen",
+            "Bei Nichtbefolgung kann die andere Partei den Sicherheitsrat anrufen, der Maßnahmen beschließen kann",
+            "Urteile des IGH sind bloße Empfehlungen und bedürfen deshalb überhaupt keiner Durchsetzung"
           ],
-          "a": 1,
-          "e": "Nach Art. 94 Abs. 2 VN-Charta kann die obsiegende Partei bei Nichtbefolgung eines IGH-Urteils den Sicherheitsrat anrufen, der Empfehlungen aussprechen oder – vorbehaltlich des Vetorechts der ständigen Mitglieder – Maßnahmen beschließen kann. In der Praxis wird dieser Weg selten und meist erfolglos beschritten.",
+          "a": 2,
+          "e": "Art. 94 Abs. 2 VN-Charta gibt der ANDEREN – also der obsiegenden – Partei das Recht, den Sicherheitsrat anzurufen, wenn die unterlegene Partei ein Urteil nicht befolgt; der Rat kann Empfehlungen aussprechen oder Maßnahmen zur Vollstreckung beschließen, vorbehaltlich des Vetorechts der ständigen Mitglieder. In der Praxis wird dieser Weg selten und meist erfolglos beschritten – Nicaragua scheiterte 1986 am Veto der Vereinigten Staaten. Die unterlegene Partei hat kein solches Recht, und aufheben könnte der Sicherheitsrat ein Urteil ohnehin nicht. Unverbindlich sind IGH-Urteile nach Art. 59 IGH-Statut zwischen den Parteien gerade nicht, eigene Vollstreckungsorgane hat der Gerichtshof aber auch nicht.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -2785,7 +2835,7 @@
           ],
           "a": 3,
           "e": "Im Fall Kadi betonte der EuGH die Autonomie der Unionsrechtsordnung: Auch die unionsinterne Umsetzung von VN-Sanktionslisten muss den Grundrechten der Union genügen und bleibt gerichtlich überprüfbar – ein Spannungsfeld zwischen Charta-Vorrang und unionsrechtlicher Autonomie.",
-          "cat": "Europäische Union – Verträge, Organe & Politiken"
+          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
           "q": "Wie ist die qualifizierte Mehrheit im Rat der Europäischen Union seit dem Vertrag von Lissabon definiert?",
@@ -2970,13 +3020,13 @@
         {
           "q": "Unter welcher Voraussetzung darf ein Küstenstaat das Recht der Nacheile (Art. 111 SRÜ) auf Hoher See ausüben?",
           "o": [
-            "Jederzeit, unabhängig vom Ort des Beginns der Verfolgung",
-            "Nur mit vorheriger Genehmigung des Flaggenstaats des verfolgten Schiffes",
-            "Die Verfolgung muss beginnen, während sich das fremde Schiff noch in den Hoheitsgewässern des Küstenstaats befindet, muss ununterbrochen fortgesetzt werden und endet, sobald das verfolgte Schiff das Küstenmeer eines dritten Staates erreicht",
-            "Nur innerhalb der Anschlusszone, niemals auf Hoher See selbst"
+            "Sie muss in den inneren Gewässern oder im Küstenmeer beginnen; ein Beginn in der Anschlusszone oder in der AWZ genügt nicht",
+            "Sie muss in der Zone beginnen, deren Vorschriften verletzt wurden, ununterbrochen fortdauern und endet beim Erreichen eines fremden Küstenmeers",
+            "Sie setzt die vorherige Zustimmung des Flaggenstaats des verfolgten Schiffes voraus; diese ist über diplomatische Kanäle einzuholen und schriftlich zu bestätigen",
+            "Sie darf nach einer Unterbrechung wieder aufgenommen werden, solange es dasselbe Schiff und dieselbe Zuwiderhandlung betrifft"
           ],
-          "a": 2,
-          "e": "Das Nacheilerecht setzt einen Verfolgungsbeginn innerhalb der Hoheitsgewässer des Küstenstaats voraus, verlangt ununterbrochene Fortsetzung der Verfolgung und endet, sobald das verfolgte Schiff das Küstenmeer seines eigenen oder eines dritten Staates erreicht.",
+          "a": 1,
+          "e": "Art. 111 SRÜ lässt die Nacheile beginnen, solange sich das fremde Schiff in den inneren Gewässern, den Archipelgewässern, dem Küstenmeer oder der Anschlusszone befindet – und nach Absatz 2 auch in der ausschließlichen Wirtschaftszone oder über dem Festlandsockel, wenn dort geltende Vorschriften verletzt wurden. Ein Beginn außerhalb des Küstenmeers ist also gerade zulässig. Die Verfolgung muss nach Absatz 1 ununterbrochen sein; wird sie abgebrochen, erlischt das Recht endgültig und lebt auch bei erneutem Antreffen desselben Schiffes nicht wieder auf. Sie endet nach Absatz 3, sobald das verfolgte Schiff das Küstenmeer seines eigenen oder eines dritten Staates erreicht. Einer Zustimmung des Flaggenstaats bedarf es nicht – gerade darin liegt der Sinn der Vorschrift.",
           "cat": "Seerecht"
         },
         {
@@ -3151,7 +3201,7 @@
           ],
           "a": 3,
           "e": "Beitrittsverhandlungen gliedern sich in mehrere Dutzend Kapitel entlang des gesamten Rechtsbestands der Union; jedes Kapitel wird einstimmig eröffnet und abschließend geschlossen – ein Verfahren, das jedem einzelnen Mitgliedstaat faktisch ein Vetopotenzial an vielen Stellen belässt.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Was war der Kandidatenstatus der Ukraine und Moldaus im Juni 2022 in der EU-Erweiterungspolitik bemerkenswert?",
@@ -3163,7 +3213,7 @@
           ],
           "a": 2,
           "e": "Ukraine und Moldau erhielten binnen rund vier Monaten nach Antragstellung den Kandidatenstatus – ein für die sonst notorisch langsame Erweiterungspolitik ungewöhnliches Tempo, das als geopolitisches Signal gedeutet wurde; die eigentlichen Beitrittsverhandlungen folgen als eigener, langwieriger Schritt.",
-          "cat": "Deutsches Staats- und Verfassungsrecht"
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Welches Instrument nutzte die Europäische Union im Rechtsstaatskonflikt mit Ungarn und Polen als wirksamsten Hebel?",
@@ -3175,7 +3225,7 @@
           ],
           "a": 0,
           "e": "Während das politisch gelähmte Verfahren nach Art. 7 EUV kaum vorankam, erwies sich der finanzielle Konditionalitätsmechanismus – die Kopplung von EU-Fördermitteln an rechtsstaatliche Bedingungen – als das Instrument mit spürbarer Verhaltenswirkung.",
-          "cat": "Deutsches Staats- und Verfassungsrecht"
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Was garantiert Art. 19 Abs. 4 GG als „Krönung des Rechtsstaats\"?",
@@ -3247,7 +3297,7 @@
           ],
           "a": 3,
           "e": "Das ExCom, zusammengesetzt aus von der Generalversammlung gewählten Mitgliedstaaten, berät den Hochkommissar und verabschiedet einflussreiche, wenngleich rechtlich nicht bindende Schlussfolgerungen, die die Praxis des internationalen Flüchtlingsschutzes maßgeblich mitprägen.",
-          "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
+          "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Was bedeutet der Grundsatz der Familieneinheit im internationalen Flüchtlingsschutz?",
@@ -3259,7 +3309,7 @@
           ],
           "a": 1,
           "e": "Der Grundsatz der Familieneinheit findet sich nicht als bindende Norm im Konventionstext selbst, sondern als Empfehlung der Schlussakte der GFK-Konferenz, und wird seither durch regionales und nationales Recht – etwa Familienzusammenführungsregeln – unterschiedlich konkretisiert.",
-          "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
+          "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche besondere Regelung trifft das Seerechtsübereinkommen für Binnenstaaten ohne eigenen Meereszugang?",
@@ -3271,7 +3321,7 @@
           ],
           "a": 3,
           "e": "Das Seerechtsübereinkommen räumt Binnenstaaten unter anderem ein Recht auf Zugang zum und vom Meer durch das Gebiet von Transitstaaten sowie bestimmte Beteiligungsrechte ein – ein Ausgleich für den fehlenden eigenen Küstenzugang, der in gesonderten Transitvereinbarungen konkretisiert wird.",
-          "cat": "Flüchtlings- & Asylrecht"
+          "cat": "Seerecht"
         },
         {
           "q": "Was regelt Teil XIV des Seerechtsübereinkommens zur Entwicklung und Weitergabe von Meerestechnologie?",
@@ -3283,7 +3333,7 @@
           ],
           "a": 1,
           "e": "Teil XIV verpflichtet die Vertragsstaaten zur Förderung der internationalen Zusammenarbeit bei Meereswissenschaft und -technologie, mit besonderem Augenmerk auf die Bedürfnisse von Entwicklungsländern – ein Ausdruck des Grundgedankens vom gemeinsamen Erbe der Menschheit.",
-          "cat": "Flüchtlings- & Asylrecht"
+          "cat": "Seerecht"
         },
         {
           "q": "Was besagt der Grundsatz „aut dedere aut iudicare\" im Völkerstrafrecht?",
@@ -3295,7 +3345,7 @@
           ],
           "a": 2,
           "e": "„Aut dedere aut iudicare\" – ausliefern oder verfolgen – verpflichtet den Staat, in dessen Gewalt sich ein mutmaßlicher Täter bestimmter völkerrechtlicher Verbrechen befindet, ihn entweder an einen zur Verfolgung bereiten und berechtigten Staat auszuliefern oder selbst ein Verfahren einzuleiten.",
-          "cat": "Seerecht"
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Welche Bedeutung hat das Konzept der „Schutzverantwortung\" (Responsibility to Protect, R2P)?",
@@ -3307,7 +3357,7 @@
           ],
           "a": 0,
           "e": "R2P wurde 2005 politisch von der VN-Generalversammlung gebilligt und formuliert eine gestufte Schutzverantwortung – zunächst des Staates selbst, subsidiär der internationalen Gemeinschaft –, ohne das Erfordernis einer Sicherheitsratsermächtigung für Zwangsmaßnahmen aufzuheben oder ein neues einseitiges Interventionsrecht zu schaffen.",
-          "cat": "Seerecht"
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Was unterscheidet ein Ad-hoc-Tribunal wie den Jugoslawien-Strafgerichtshof (ICTY) vom Internationalen Strafgerichtshof (IStGH)?",
@@ -3616,15 +3666,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Wie viele Kapitel umfasst das Recht der Staatenverantwortlichkeit typischerweise hinsichtlich der Rechtfertigungsgründe für an sich völkerrechtswidriges Verhalten?",
+          "q": "Welche Umstände schließen nach den ILC-Artikeln zur Staatenverantwortlichkeit die Rechtswidrigkeit eines an sich völkerrechtswidrigen Verhaltens aus?",
           "o": [
-            "Rechtfertigungsgründe gelten nur für Kriegsverbrechen",
-            "Es gibt gar keine anerkannten Rechtfertigungsgründe",
-            "Zustimmung des verletzten Staates, Selbstverteidigung, Gegenmaßnahmen, höhere Gewalt, Notlage und Notstand zählen zu den anerkannten Ausschlussgründen der Rechtswidrigkeit",
-            "Nur Selbstverteidigung ist als Rechtfertigungsgrund anerkannt"
+            "Zustimmung des verletzten Staates, Selbstverteidigung, Gegenmaßnahmen, höhere Gewalt, Notlage und Vergeltung (Retorsion)",
+            "Zustimmung des verletzten Staates, Selbstverteidigung, bewaffnete Repressalien, höhere Gewalt, Notlage und Staatsnotstand",
+            "Zustimmung des verletzten Staates, Selbstverteidigung, Gegenmaßnahmen, höhere Gewalt, Notlage und innerstaatliches Recht",
+            "Zustimmung des verletzten Staates, Selbstverteidigung, Gegenmaßnahmen, höhere Gewalt, Notlage und Staatsnotstand"
           ],
-          "a": 2,
-          "e": "Die ILC-Artikel zur Staatenverantwortlichkeit nennen mehrere Umstände, welche die Rechtswidrigkeit eines an sich völkerrechtswidrigen Verhaltens ausschließen: Zustimmung, Selbstverteidigung, Gegenmaßnahmen, höhere Gewalt, Notlage (distress) und Staatsnotstand (necessity) – jeweils unter engen eigenen Voraussetzungen.",
+          "a": 3,
+          "e": "Kapitel V der ILC-Artikel (Art. 20–25) nennt sechs Umstände, welche die Rechtswidrigkeit ausschließen: Zustimmung, Selbstverteidigung, Gegenmaßnahmen, höhere Gewalt, Notlage (distress) und Staatsnotstand (necessity) – jeweils unter engen eigenen Voraussetzungen. Bewaffnete Repressalien gehören nicht dazu, weil Gegenmaßnahmen nach Art. 50 Abs. 1 lit. a nicht gegen das Gewaltverbot verstoßen dürfen; auf entgegenstehendes innerstaatliches Recht kann sich ein Staat nach Art. 3 und Art. 32 gerade nicht berufen; und die Retorsion ist ein zwar unfreundlicher, aber von vornherein rechtmäßiger Akt, der keines Ausschlussgrundes bedarf. Nach Art. 26 wirkt keiner der sechs Gründe gegenüber zwingendem Völkerrecht.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -3754,16 +3804,16 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was ist die Ministererlaubnis im deutschen Fusionskontrollrecht?",
+          "q": "Welche Pflicht begründet Art. 98 des Seerechtsübereinkommens für jeden Flaggenstaat?",
           "o": [
-            "Die Möglichkeit des Bundeswirtschaftsministeriums, eine vom Bundeskartellamt untersagte Fusion ausnahmsweise aus übergeordneten gesamtwirtschaftlichen Gründen oder im Interesse der Allgemeinheit dennoch zu genehmigen",
-            "Ein Vetorecht des Außenministeriums gegen ausländische Investitionen",
-            "Die generelle Freigabe aller Fusionen durch das Bundeskartellamt",
-            "Die Pflicht jedes Ministers, Fusionen im eigenen Ressort persönlich zu prüfen"
+            "Er muss Hilfe nur gegenüber Schiffen leisten lassen, die seine eigene Flagge führen",
+            "Er muss Hilfe nur im eigenen Küstenmeer leisten lassen, nicht aber auf Hoher See",
+            "Er muss seine Kapitäne verpflichten, jeder in Seenot befindlichen Person Hilfe zu leisten",
+            "Er muss die Geretteten stets in den nächstgelegenen Hafen seines eigenen Gebiets bringen"
           ],
-          "a": 0,
-          "e": "Die Ministererlaubnis ist ein politisches Ausnahmeventil: Sie erlaubt dem Bundeswirtschaftsministerium, eine kartellrechtlich untersagte Fusion ausnahmsweise aus gesamtwirtschaftlichen oder Allgemeininteressen-Gründen dennoch zu gestatten.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "a": 2,
+          "e": "Art. 98 Abs. 1 SRÜ verpflichtet jeden Vertragsstaat, den Kapitän eines seine Flagge führenden Schiffes anzuhalten, jeder auf See angetroffenen Person in Lebensgefahr Hilfe zu leisten – ohne Rücksicht auf Staatsangehörigkeit, Status oder Flagge und, soweit dies ohne ernste Gefahr für Schiff, Besatzung und Fahrgäste möglich ist. Die Pflicht gilt ausdrücklich auf Hoher See und darüber hinaus als Völkergewohnheitsrecht in allen Meereszonen. Wo die Geretteten an Land gehen, regelt Art. 98 dagegen nicht: Die Zuweisung eines sicheren Ortes (place of safety) folgt aus dem SAR-Übereinkommen von 1979 und dem SOLAS-Übereinkommen und obliegt dem für das jeweilige Seenotrettungsgebiet zuständigen Küstenstaat – genau daran entzündet sich der Streit um die zivile Seenotrettung im Mittelmeer.",
+          "cat": "Seerecht"
         },
         {
           "q": "Welches Wahlsystem gilt für die Wahl des Deutschen Bundestages?",
@@ -3775,7 +3825,7 @@
           ],
           "a": 2,
           "e": "Das deutsche Wahlrecht kombiniert Elemente der Mehrheits- und der Verhältniswahl: Die Erststimme entscheidet über den Wahlkreiskandidaten, die für die Gesamtsitzverteilung maßgebliche Zweitstimme gilt der Landesliste einer Partei.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Worin unterscheiden sich Bindungswirkung und Gesetzeskraft von Entscheidungen des Bundesverfassungsgerichts nach § 31 BVerfGG?",
@@ -4075,11 +4125,11 @@
           "q": "Was kennzeichnet den deutschen „Verbundföderalismus\"?",
           "o": [
             "Bund und Länder handeln in völlig getrennten, sich nie berührenden Zuständigkeitssphären",
-            "Die Länder erlassen alle Gesetze, der Bund vollzieht sie nur",
             "Nur der Bund darf sowohl Gesetze erlassen als auch vollziehen",
-            "Der Bund erlässt überwiegend die Gesetze, während die Länder sie in eigener Verantwortung ausführen – wer ausführt und mitfinanziert, wirkt über den Bundesrat an der Gesetzgebung mit"
+            "Der Bund erlässt überwiegend die Gesetze, während die Länder sie in eigener Verantwortung ausführen – wer ausführt und mitfinanziert, wirkt über den Bundesrat an der Gesetzgebung mit",
+            "Die Länder erlassen alle Gesetze, der Bund vollzieht sie nur"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Im Verbundföderalismus liegt die Gesetzgebung überwiegend beim Bund, der Vollzug dagegen bei den Ländern – diese Verschränkung begründet die Mitwirkungsrechte der Länder über den Bundesrat gerade dort, wo sie das Bundesrecht anschließend ausführen müssen.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
@@ -4096,15 +4146,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Prüfte das Bundesverfassungsgericht 1968 die Einfügung der Notstandsverfassung selbst am Maßstab der Ewigkeitsgarantie?",
+          "q": "Hat das Bundesverfassungsgericht je eine Änderung des Grundgesetzes selbst am Maßstab der Ewigkeitsgarantie des Art. 79 Abs. 3 GG geprüft?",
           "o": [
-            "Ja; als die Notstandsverfassung die Telefonüberwachung vom Rechtsweg ausnahm, prüfte das Gericht die Verfassungsänderung selbst am Maßstab des Art. 79 Abs. 3 GG – verfassungswidriges Verfassungsrecht ist damit eine reale Kategorie",
-            "Nein, Verfassungsänderungen entziehen sich grundsätzlich jeder gerichtlichen Prüfung",
-            "Nein, weil das Bundesverfassungsgericht damals noch nicht existierte",
-            "Ja, aber nur auf Antrag der Vereinten Nationen"
+            "Nein; nach Art. 79 Abs. 2 GG genügt die Zweidrittelmehrheit, eine materielle Kontrolle findet nicht statt",
+            "Ja; das Gericht kann Verfassungsänderungen aber nur im Organstreitverfahren auf Antrag eines Landes prüfen",
+            "Ja; im Abhörurteil von 1970 prüfte es die 1968 eingefügte Notstandsverfassung an Art. 79 Abs. 3 GG",
+            "Nein; Art. 79 Abs. 3 GG richtet sich allein als politischer Appell an den verfassungsändernden Gesetzgeber"
           ],
-          "a": 0,
-          "e": "Die Notstandsverfassung von 1968 zeigt, dass auch verfassungsändernde Gesetze selbst am Maßstab der Ewigkeitsgarantie überprüfbar sind – „verfassungswidriges Verfassungsrecht\" ist im deutschen System keine bloße Theorie, sondern eine geprüfte Möglichkeit.",
+          "a": 2,
+          "e": "Im sogenannten Abhörurteil vom 15. Dezember 1970 (BVerfGE 30, 1) prüfte das Bundesverfassungsgericht die durch die Notstandsverfassung von 1968 eingefügte Einschränkung des Brief-, Post- und Fernmeldegeheimnisses (Art. 10 Abs. 2 GG) am Maßstab der Ewigkeitsgarantie – „verfassungswidriges Verfassungsrecht\" ist damit keine bloße Theorie, sondern eine geprüfte Kategorie; die Änderung selbst hielt der Senat mit knapper Mehrheit für zulässig. 1968 war das Jahr der Grundgesetzänderung, nicht das der Entscheidung. Die Zweidrittelmehrheit des Art. 79 Abs. 2 GG entbindet nicht von den materiellen Schranken des Absatzes 3, und Art. 79 Abs. 3 GG ist justiziables Recht, kein politischer Appell. Das Abhörurteil erging zudem auf Verfassungsbeschwerden, nicht im Organstreit.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -4189,7 +4239,7 @@
           ],
           "a": 2,
           "e": "Da die USA seit Jahren die Neubesetzung frei werdender Richterstellen blockieren, ist das WTO-Berufungsgremium seit Dezember 2019 mangels beschlussfähiger Besetzung faktisch handlungsunfähig – eine anhaltende Krise des multilateralen Streitbeilegungssystems, die einzelne Mitglieder durch alternative Vereinbarungen zu umgehen suchen.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Endet die Pflicht des Empfangsstaats zum Schutz der Missionsräumlichkeiten und Archive automatisch mit dem Abbruch der diplomatischen Beziehungen?",
@@ -4225,7 +4275,7 @@
           ],
           "a": 3,
           "e": "Das TRIPS-Übereinkommen (Trade-Related Aspects of Intellectual Property Rights) setzt für alle WTO-Mitglieder verbindliche Mindeststandards im Bereich des geistigen Eigentums – ein Feld wiederkehrender Spannungen etwa bei Patenten auf Arzneimittel in Entwicklungsländern.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
           "q": "Welchen Charakter soll die Tätigkeit des UNHCR nach seinem eigenen Statut haben?",
@@ -5122,16 +5172,16 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Was bedeutet der Grundsatz der Komplementarität für das Verhältnis zwischen IStGH und Ad-hoc-Tribunalen wie dem Jugoslawien-Strafgerichtshof?",
+          "q": "Was ermöglicht der Gesetzgebungsnotstand nach Art. 81 GG?",
           "o": [
-            "Ad-hoc-Tribunale und der IStGH sind identisch aufgebaut und rechtlich ununterscheidbar",
-            "Ad-hoc-Tribunale entstanden durch Sicherheitsratsresolution für einen konkreten, zeitlich begrenzten Konflikt, während der IStGH ein permanentes Vertragsgericht mit allgemeiner Zuständigkeit für seine Vertragsstaaten ist",
-            "Der IStGH wurde vor den Ad-hoc-Tribunalen gegründet",
-            "Nur Ad-hoc-Tribunale dürfen Staatsoberhäupter anklagen"
+            "Die Bundesregierung darf für höchstens sechs Monate Rechtsverordnungen mit Gesetzeskraft erlassen",
+            "Der Gemeinsame Ausschuss darf das Grundgesetz im Verteidigungsfall mit einfacher Mehrheit ändern",
+            "Der Bundespräsident darf den Bundestag auflösen und bis zur Neuwahl Gesetze allein verkünden",
+            "Ein vom Bundestag abgelehntes Gesetz kann allein mit Zustimmung des Bundesrates zustande kommen"
           ],
-          "a": 1,
-          "e": "Ad-hoc-Tribunale wie ICTY und ICTR wurden vom Sicherheitsrat für einen konkreten Konflikt mit begrenztem Mandat geschaffen; der IStGH ist demgegenüber ein permanentes, auf dem Römischen Statut beruhendes Vertragsgericht mit allgemeiner, nicht konfliktbezogener Zuständigkeit.",
-          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
+          "a": 3,
+          "e": "Art. 81 GG erlaubt es, für längstens sechs Monate Gesetze ohne den Bundestag zu verabschieden: Scheitert eine Vertrauensfrage, ohne dass der Bundestag aufgelöst wird, kann der Bundespräsident auf Antrag der Bundesregierung und mit Zustimmung des Bundesrates den Gesetzgebungsnotstand erklären; ein danach vom Bundestag abgelehnter Entwurf gilt als zustande gekommen, wenn der Bundesrat ihm zustimmt. Ein Notverordnungsrecht der Regierung wie unter Art. 48 der Weimarer Reichsverfassung begründet die Vorschrift bewusst nicht, dem Bundespräsidenten gibt sie keine eigene Gesetzgebungsbefugnis, und das Grundgesetz selbst bleibt nach Art. 81 Abs. 4 GG unantastbar – ebenso wie Art. 115e Abs. 2 GG dem Gemeinsamen Ausschuss im Verteidigungsfall jede Verfassungsänderung verwehrt. Angewandt worden ist Art. 81 GG bis heute nie.",
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Wie definiert die Völkermordkonvention von 1948 den Tatbestand des Völkermords?",
@@ -5614,16 +5664,16 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Ab welcher Schwelle liegt ein Unternehmenszusammenschluss von „unionsweiter Bedeutung\" vor, für den die Europäische Kommission statt der nationalen Kartellbehörden zuständig ist?",
+          "q": "Welche Rechtswirkung haben vorläufige Maßnahmen, die der EGMR nach Art. 39 seiner Verfahrensordnung anordnet?",
           "o": [
-            "Bei Überschreitung bestimmter, in der EU-Fusionskontrollverordnung festgelegter Umsatzschwellenwerte der beteiligten Unternehmen",
-            "Die Kommission ist für Fusionskontrolle niemals zuständig, ausschließlich die nationalen Behörden",
-            "Immer dann, wenn die beteiligten Unternehmen in mehr als einem Mitgliedstaat tätig sind, unabhängig vom Umsatz",
-            "Nur wenn ein beteiligtes Unternehmen seinen Sitz außerhalb der EU hat"
+            "Sie ergehen erst nach Erschöpfung des innerstaatlichen Rechtswegs zusammen mit dem Endurteil",
+            "Sie können nur vom Ministerkomitee des Europarats angeordnet werden, nicht vom Gerichtshof",
+            "Sie sind eine unverbindliche Empfehlung; ihre Missachtung begründet keine Konventionsverletzung",
+            "Sie sind für den betroffenen Staat verbindlich; ihre Missachtung verletzt Art. 34 Satz 2 EMRK"
           ],
-          "a": 0,
-          "e": "Die EU-Fusionskontrollverordnung legt Umsatzschwellenwerte fest, ab deren Überschreitung ein Zusammenschluss als „unionsweit bedeutsam\" gilt und in die ausschließliche Zuständigkeit der Kommission fällt – das sogenannte „One-Stop-Shop\"-Prinzip, unterhalb dessen nationale Kartellbehörden wie das Bundeskartellamt zuständig bleiben.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "a": 3,
+          "e": "Vorläufige Maßnahmen nach Art. 39 der Verfahrensordnung ergehen typischerweise binnen Stunden und noch vor jeder Zulässigkeitsprüfung – meist, um eine drohende Abschiebung oder Auslieferung bis zur Entscheidung des Gerichtshofs auszusetzen. Seit dem Urteil der Großen Kammer im Fall Mamatkulov und Askarov gegen die Türkei (2005) gilt: Wer sie missachtet, vereitelt die wirksame Ausübung des Individualbeschwerderechts und verletzt damit Art. 34 Satz 2 EMRK; eine bloße Empfehlung sind sie deshalb nicht. Angeordnet werden sie von der Kammer oder ihrem Präsidenten, nicht vom Ministerkomitee – dieses überwacht nach Art. 46 Abs. 2 EMRK allein die Vollstreckung endgültiger Urteile.",
+          "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
           "q": "Welche Entscheidungsformen kennt das Bundesverfassungsgericht für seine Sachentscheidungen?",
@@ -5719,7 +5769,7 @@
           ],
           "a": 0,
           "e": "Die souveränen Rechte des Küstenstaats zur Erhaltung und Bewirtschaftung der Ressourcen seiner AWZ umfassen auch die Befugnis, Meeresschutzgebiete einzurichten – ein zunehmend genutztes Instrument des Meeresumweltschutzes.",
-          "cat": "Flüchtlings- & Asylrecht"
+          "cat": "Seerecht"
         },
         {
           "q": "Dürfen U-Boote bei der Transitdurchfahrt durch eine internationale Meerenge getaucht fahren?",
@@ -5743,7 +5793,7 @@
           ],
           "a": 2,
           "e": "Genugtuung dient der Wiedergutmachung nicht finanziell messbarer Schäden, etwa der Verletzung der Würde eines Staates, und kann Formen wie ein Schuldanerkenntnis, Bedauern oder eine förmliche Entschuldigung annehmen – stets begrenzt durch das Verbot erniedrigender Formen.",
-          "cat": "Seerecht"
+          "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
           "q": "Was verlangt Art. 17 Abs. 1 lit. d des Römischen Statuts als zusätzliche Zulässigkeitsvoraussetzung für ein Verfahren vor dem IStGH?",
@@ -5941,7 +5991,7 @@
           ],
           "a": 3,
           "e": "Neben Kommission und einem Drittel der Mitgliedstaaten kann auch das Europäische Parlament das Verfahren nach Art. 7 EUV auslösen – wie im Fall Ungarns geschehen –, doch die förmliche Feststellung der Verletzung und die Verhängung von Sanktionen bleiben Sache von Rat und Europäischem Rat.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Wer verhandelt völkerrechtliche Handelsabkommen für die Europäische Union nach Art. 207 AEUV?",
@@ -5994,10 +6044,10 @@
         {
           "q": "Kann ein Diplomat selbst auf seine Immunität von der Zivilgerichtsbarkeit verzichten?",
           "o": [
-            "Nein; der Verzicht kann nach Art. 32 WÜD nur durch den Entsendestaat erklärt werden, da geschützt letztlich der Staat und nicht die Person ist",
             "Ein Verzicht auf Immunität ist völkerrechtlich generell ausgeschlossen",
             "Ja, jeder Diplomat kann jederzeit eigenständig auf seine Immunität verzichten",
-            "Nur der Empfangsstaat kann auf die Immunität eines fremden Diplomaten verzichten"
+            "Nur der Empfangsstaat kann auf die Immunität eines fremden Diplomaten verzichten",
+            "Nein; der Verzicht kann nach Art. 32 WÜD nur durch den Entsendestaat erklärt werden, da geschützt letztlich der Staat und nicht die Person ist"
           ],
           "a": 3,
           "e": "Da die diplomatische Immunität letztlich dem Entsendestaat und nicht der Einzelperson dient, kann nach Art. 32 WÜD auch nur der Entsendestaat wirksam auf sie verzichten – der Diplomat selbst ist dazu nicht befugt.",
@@ -7117,7 +7167,7 @@
           ],
           "a": 0,
           "e": "Erreicht eine Gruppe von Mitgliedstaaten, die die für eine Sperrminorität erforderliche Schwelle an Staaten- und Bevölkerungsanteil überschreitet, kann sie einen Beschluss blockieren, ohne dass Einstimmigkeit gegen den Vorschlag erforderlich wäre – ein wichtiges Korrektiv innerhalb des Mehrheitssystems.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Ist die Fünf-Prozent-Sperrklausel im deutschen Bundestagswahlrecht mit dem Grundsatz der Wahlrechtsgleichheit vereinbar?",
@@ -9223,7 +9273,7 @@
           ],
           "a": 1,
           "e": "Der Marktzugangstest ergänzt die klassische Diskriminierungs- und Beschränkungsprüfung um die Frage, ob eine Maßnahme den tatsächlichen Zugang zum Markt eines anderen Mitgliedstaats in relevanter Weise erschwert – ein in Teilen der neueren Rechtsprechung und Literatur diskutierter zusätzlicher Prüfansatz.",
-          "cat": "Europäische Union – Verträge, Organe & Politiken"
+          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
           "q": "Welche Verpflichtung trifft die Bundesregierung nach § 31 Abs. 2 BVerfGG, wenn eine Entscheidung des Bundesverfassungsgerichts Gesetzeskraft erlangt?",
@@ -9235,7 +9285,7 @@
           ],
           "a": 3,
           "e": "Entscheidungen des Bundesverfassungsgerichts, die nach § 31 Abs. 2 BVerfGG Gesetzeskraft erlangen – etwa bei der Nichtigerklärung einer Norm im Rahmen der Normenkontrolle –, sind im Bundesgesetzblatt zu veröffentlichen, um ihre gesetzesgleiche Wirkung öffentlich bekannt zu machen.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
           "q": "Welche Bedeutung hat die Unterscheidung zwischen diplomatischem Rang und diplomatischem Titel, etwa bei einem „Botschafter für besondere Aufgaben\"?",
@@ -9247,7 +9297,7 @@
           ],
           "a": 3,
           "e": "In der diplomatischen Praxis wird der Titel „Botschafter\" auch an Persönlichkeiten verliehen, die eine besondere, oft thematisch begrenzte Aufgabe wahrnehmen – etwa als Sonderbeauftragte –, ohne eine ständige Mission zu leiten; der Titel bezeichnet in solchen Fällen vorrangig einen protokollarischen Rang.",
-          "cat": "Deutsches Staats- und Verfassungsrecht"
+          "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Wie ist das Verhältnis zwischen Fraktionsdisziplin und dem freien Mandat der Abgeordneten nach Art. 38 Abs. 1 Satz 2 GG rechtlich einzuordnen?",
@@ -11266,15 +11316,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass das Grundgesetz selbst keine ausdrückliche Regelung zur Bindungswirkung völkergewohnheitsrechtlicher Regeln gegenüber späteren, entgegenstehenden Bundesgesetzen enthält, anders als beim Verhältnis zu Verträgen?",
+          "q": "Worin unterscheidet sich die innerstaatliche Rangstellung der allgemeinen Regeln des Völkerrechts nach Art. 25 GG von derjenigen völkerrechtlicher Verträge nach Art. 59 Abs. 2 GG?",
           "o": [
-            "Allgemeine Regeln des Völkerrechts stehen stets im Rang eines einfachen Bundesgesetzes wie Verträge auch",
-            "Allgemeine Regeln des Völkerrechts nach Art. 25 GG gehen nach dem klaren Wortlaut der Vorschrift den Gesetzen vor, sodass ein späteres entgegenstehendes Bundesgesetz sie nicht verdrängen kann – anders als bei völkerrechtlichen Verträgen im Rang des Vertragsgesetzes nach Art. 59 Abs. 2 GG, wo ein treaty override diskutiert wird",
-            "Art. 25 GG wurde 2015 ersatzlos aus dem Grundgesetz gestrichen",
-            "Es gibt überhaupt keinen Unterschied zwischen der innerstaatlichen Stellung allgemeiner Völkerrechtsregeln und völkerrechtlicher Verträge"
+            "Beide stehen im Rang eines einfachen Bundesgesetzes; ein späteres Gesetz kann sie jeweils verdrängen",
+            "Völkerrechtliche Verträge gehen einfachen Bundesgesetzen vor, allgemeine Regeln des Völkerrechts stehen dagegen unter ihnen",
+            "Allgemeine Regeln haben nach Art. 25 GG Verfassungsrang und binden auch den verfassungsändernden Gesetzgeber",
+            "Allgemeine Regeln gehen nach Art. 25 Satz 2 GG den Gesetzen vor; Verträge haben nur den Rang ihres Zustimmungsgesetzes"
           ],
-          "a": 1,
-          "e": "Art. 25 GG ordnet den allgemeinen Regeln des Völkerrechts – anders als bei Verträgen im Rang des Vertragsgesetzes – ausdrücklich Vorrang vor den (einfachen Bundes-)Gesetzen zu, sodass ein späteres entgegenstehendes Bundesgesetz sie nicht im Wege eines treaty override verdrängen kann – ein bewusster verfassungsrechtlicher Unterschied zwischen beiden Völkerrechtsquellen in ihrer innerstaatlichen Wirkung.",
+          "a": 3,
+          "e": "Art. 25 Satz 2 GG ordnet den allgemeinen Regeln des Völkerrechts – Völkergewohnheitsrecht und allgemeine Rechtsgrundsätze – ausdrücklich Vorrang vor den einfachen Bundesgesetzen an; ein späteres entgegenstehendes Gesetz kann sie daher nicht verdrängen. Völkerrechtliche Verträge erlangen ihre innerstaatliche Geltung dagegen über das Zustimmungsgesetz nach Art. 59 Abs. 2 GG und teilen dessen Rang – hier ist der treaty override durch ein späteres Gesetz möglich, wie das Bundesverfassungsgericht 2015 (2 BvL 1/12) entschieden hat. Verfassungsrang haben die allgemeinen Regeln aber nicht: sie stehen zwischen Verfassung und einfachem Gesetz und binden den verfassungsändernden Gesetzgeber nicht.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         }
       ]
