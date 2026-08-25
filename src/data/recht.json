@@ -795,23 +795,23 @@
           "q": "Worin unterscheiden sich die Statusimmunität (ratione personae) und die Amtshandlungsimmunität (ratione materiae) eines Diplomaten?",
           "o": [
             "Die Statusimmunität schützt zeitlich unbegrenzt, die Amtshandlungsimmunität nur während der Amtszeit",
-            "Die Amtshandlungsimmunität gilt nur für den Missionschef, die Statusimmunität für das übrige Personal",
-            "Die Statusimmunität schützt während der Amtszeit umfassend auch privates Handeln, endet aber mit deren Ablauf; die Amtshandlungsimmunität schützt nur dienstliches Handeln, dafür aber dauerhaft auch danach",
-            "Beide Immunitätsarten erlöschen mit der Ausreise aus dem Empfangsstaat"
+            "Die Statusimmunität endet mit der Amtszeit, die Amtshandlungsimmunität wirkt fort",
+            "Beide Immunitätsarten erlöschen mit der Ausreise aus dem Empfangsstaat",
+            "Die Amtshandlungsimmunität gilt nur für den Missionschef, die Statusimmunität für das übrige Personal"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Die Statusimmunität schützt den Diplomaten während seiner Amtszeit umfassend, auch für privates Handeln, erlischt aber mit deren Ende; die Amtshandlungsimmunität schützt dagegen nur dienstliches Handeln, dafür aber dauerhaft auch nach dem Ausscheiden aus dem Amt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welche Aussage zum rechtlichen Status der Räumlichkeiten einer diplomatischen Mission trifft zu?",
           "o": [
-            "Ihr rechtlicher Status wird für jede Mission einzeln durch bilaterale Sondervereinbarung festgelegt",
             "Sie unterliegen der gemeinsamen Hoheitsgewalt von Entsende- und Empfangsstaat",
             "Sie sind exterritoriales Gebiet des Entsendestaats und unterliegen nicht dem Recht des Empfangsstaats",
-            "Sie bleiben Hoheitsgebiet des Empfangsstaats; dessen Recht gilt dort fort, nur seine Durchsetzung ist gesperrt"
+            "Sie bleiben Hoheitsgebiet des Empfangsstaats; nur die Durchsetzung ist gesperrt",
+            "Ihr rechtlicher Status wird für jede Mission einzeln durch bilaterale Sondervereinbarung festgelegt"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Die alte Exterritorialitätstheorie ist überholt: Botschaftsgelände bleibt Hoheitsgebiet des Empfangsstaats, dessen Recht dort weitergilt – nur seine zwangsweise Durchsetzung ist gesperrt. Eine auf dem Missionsgelände begangene Straftat bleibt daher eine Straftat nach dem Recht des Empfangsstaats, auch wenn sie dort nicht verfolgt werden kann.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -855,23 +855,23 @@
           "q": "Worin unterscheidet sich das Non-Refoulement-Verbot der Genfer Flüchtlingskonvention (Art. 33) vom Abschiebungsschutz aus Art. 3 EMRK?",
           "o": [
             "Das GFK-Verbot gilt erst ab der offiziellen Anerkennung als Flüchtling, Art. 3 EMRK bereits an der Grenze",
-            "Art. 3 EMRK gilt nur für bereits anerkannte Flüchtlinge, das GFK-Verbot für jeden Schutzsuchenden",
-            "Art. 3 EMRK kennt keinerlei Ausnahmen, während das GFK-Verbot allgemein disponibel ist",
-            "Das GFK-Verbot kennt anders als Art. 3 EMRK eine Sicherheitsausnahme für Personen, die eine Gefahr für die Sicherheit des Aufnahmestaats darstellen"
+            "Art. 3 EMRK kennt keinerlei Ausnahmen, während das GFK-Verbot allgemein zur Disposition steht",
+            "Das GFK-Verbot kennt anders als Art. 3 EMRK eine Sicherheitsausnahme für gefährliche Personen",
+            "Art. 3 EMRK gilt nur für bereits anerkannte Flüchtlinge, das GFK-Verbot für jeden Schutzsuchenden"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Anders als das absolute Abschiebungsverbot aus Art. 3 EMRK kennt das Non-Refoulement-Gebot nach Art. 33 Abs. 2 GFK eine Sicherheitsausnahme. Beide Schutzrechte gelten im Übrigen bereits ab tatsächlicher Schutzbedürftigkeit, nicht erst ab förmlicher Anerkennung, da der Flüchtlingsstatus nur deklaratorisch wirkt.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche drei dauerhaften Lösungen strukturieren das internationale Schutzsystem für Flüchtlinge unter dem Mandat des UNHCR?",
           "o": [
-            "Asyl, subsidiärer Schutz, Duldung",
-            "Anerkennung, Widerruf, Erlöschen",
-            "Freiwillige Rückkehr, Integration im Erstaufnahmeland, Neuansiedlung in einem Drittstaat (Resettlement)",
-            "Abschiebung, Auslieferung, Internierung"
+            "Anerkennung, Widerruf und Erlöschen des Flüchtlingsstatus",
+            "Freiwillige Rückkehr, lokale Integration, Neuansiedlung im Drittstaat",
+            "Abschiebung, Auslieferung und Internierung im Erstaufnahmeland",
+            "Asyl, subsidiärer Schutz und nationale Duldung im Aufnahmestaat"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Das Mandat des UNHCR strukturiert sich um drei dauerhafte Lösungen: die freiwillige Rückkehr ins Herkunftsland, die Integration im Erstaufnahmeland und das Resettlement besonders schutzbedürftiger Flüchtlinge in einem aufnahmebereiten Drittstaat.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -1100,12 +1100,12 @@
         {
           "q": "Unter welcher Voraussetzung darf der Empfangsstaat eine als Diplomatengepäck deklarierte Sendung öffnen?",
           "o": [
-            "Grundsätzlich gar nicht; ordnungsgemäß gekennzeichnetes Diplomatengepäck darf weder geöffnet noch zurückgehalten werden, wie der Dikko-Fall 1984 zeigte",
-            "Bei jedem begründeten Verdacht auf Missbrauch",
-            "Nur mit vorheriger Zustimmung des Internationalen Gerichtshofs",
-            "Immer dann, wenn die Sendung ein bestimmtes Gewicht überschreitet"
+            "Immer dann, wenn die Sendung ein bestimmtes Höchstgewicht überschreitet",
+            "Bei jedem begründeten Verdacht auf Missbrauch des Kuriergepäcks",
+            "Nur mit vorheriger Zustimmung des Internationalen Gerichtshofs in Den Haag",
+            "Grundsätzlich gar nicht; ordnungsgemäß gekennzeichnetes Gepäck ist unverletzlich"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Diplomatengepäck darf nach Art. 27 WÜD weder geöffnet noch zurückgehalten werden. Der Dikko-Fall von 1984 – der gescheiterte Versuch Nigerias, einen entführten Ex-Minister in einer Kiste außer Landes zu schaffen – zeigt die einzige praktische Grenze: Fehlte die ordnungsgemäße Kennzeichnung als Diplomatengepäck, durfte die Sendung geöffnet werden.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -1113,9 +1113,9 @@
           "q": "Was versteht man im Diplomatenrecht unter dem Agrément?",
           "o": [
             "Die nachträgliche Anerkennung eines bereits amtierenden Botschafters",
-            "Die Genehmigung des Sicherheitsrats für die Errichtung einer neuen Mission",
-            "Die vorherige Zustimmung des Empfangsstaats zur Person des vorgesehenen Missionschefs, die ohne Angabe von Gründen verweigert werden kann",
-            "Die Zustimmung des Entsendestaats zur Ernennung des gesamten Botschaftspersonals"
+            "Die Zustimmung des Entsendestaats zur Ernennung des gesamten Botschaftspersonals",
+            "Die vorherige Zustimmung des Empfangsstaats zur Person des Missionschefs",
+            "Die Genehmigung des Sicherheitsrats für die Errichtung einer neuen Mission"
           ],
           "a": 2,
           "e": "Das Agrément (Art. 4 WÜD) ist die vorherige Zustimmung des Empfangsstaats zur Person des vorgesehenen Missionschefs; sie kann ohne Angabe von Gründen verweigert werden. Für das übrige Personal genügt dagegen die bloße Notifikation.",
@@ -1160,12 +1160,12 @@
         {
           "q": "Wem wird der Flüchtlingsschutz nach den Ausschlussklauseln des Art. 1 F GFK versagt?",
           "o": [
-            "Personen, bei denen schwerwiegende Gründe für die Annahme bestehen, sie hätten ein Kriegsverbrechen, ein Verbrechen gegen die Menschlichkeit, eine schwere nichtpolitische Straftat oder Handlungen gegen die Ziele der Vereinten Nationen begangen",
-            "Personen, die aus wirtschaftlicher Not ihr Herkunftsland verlassen haben",
-            "Personen, die erst nach Grenzübertritt einen Asylantrag stellen",
-            "Personen, die keine gültigen Ausweispapiere besitzen"
+            "Personen, die bei der Einreise keine gültigen Ausweispapiere besitzen",
+            "Personen, die ihr Herkunftsland allein aus wirtschaftlicher Not und ohne Verfolgung verlassen haben",
+            "Personen, die erst nach dem Grenzübertritt einen Asylantrag stellen",
+            "Personen, die ein Kriegsverbrechen oder eine schwere nichtpolitische Straftat begangen haben"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Die Ausschlussklauseln des Art. 1 F GFK versagen den Flüchtlingsschutz Personen, bei denen schwerwiegende Gründe für Kriegsverbrechen, Verbrechen gegen die Menschlichkeit, schwere nichtpolitische Straftaten oder Handlungen gegen die Ziele der Vereinten Nationen sprechen – nicht bloßer wirtschaftlicher Not oder fehlenden Papieren.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -1382,10 +1382,10 @@
         {
           "q": "Wie beurteilte der Internationale Gerichtshof im Teheran-Geiselfall (1980) die Besetzung der amerikanischen Botschaft und die Geiselnahme des Personals?",
           "o": [
-            "Als rein innerstaatliche Angelegenheit ohne völkerrechtliche Relevanz",
-            "Als zulässige Gegenmaßnahme auf vorheriges amerikanisches Fehlverhalten",
-            "Als Verletzung fundamentalster völkerrechtlicher Pflichten Irans; das Diplomatenrecht sei ein „self-contained régime\", das Vergeltung außerhalb seiner eigenen Mittel nicht dulde",
-            "Als Frage, für die der IGH keine Zuständigkeit besäße"
+            "Als zulässige Gegenmaßnahme auf vorheriges amerikanisches Fehlverhalten im Iran",
+            "Als Frage, für die der IGH keine eigene Zuständigkeit besitze",
+            "Als Verletzung fundamentalster Pflichten; das Diplomatenrecht sei self-contained",
+            "Als rein innerstaatliche Angelegenheit ohne jede völkerrechtliche Relevanz"
           ],
           "a": 2,
           "e": "Der IGH verurteilte im Teheran-Geiselfall die Besetzung der amerikanischen Botschaft und die anschließende Billigung durch den iranischen Staat als Verletzung fundamentalster völkerrechtlicher Pflichten und bezeichnete das Diplomatenrecht als „self-contained régime\", das Vergeltung außerhalb seiner eigenen Mittel nicht duldet.",
@@ -1394,12 +1394,12 @@
         {
           "q": "Wer ist im diplomatischen Korps eines Empfangsstaats üblicherweise der Doyen?",
           "o": [
-            "Der Botschafter des mitgliederstärksten Entsendestaats",
-            "Der am längsten akkreditierte Missionschef; in vielen katholischen Staaten traditionell der Nuntius",
-            "Der vom Empfangsstaat benannte ranghöchste Diplomat",
-            "Der jeweils amtierende Vorsitzende des Sicherheitsrats"
+            "Der jeweils amtierende Vorsitzende des VN-Sicherheitsrats",
+            "Der vom Empfangsstaat benannte ranghöchste eigene Diplomat",
+            "Der am längsten akkreditierte Missionschef, oft der Nuntius",
+            "Der Botschafter des mitgliederstärksten Entsendestaats vor Ort"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Doyen des diplomatischen Korps ist der am längsten akkreditierte Missionschef, nicht ein vom Empfangsstaat benannter oder besonders mitgliederstarker Vertreter; in vielen katholischen Staaten ist dies traditionell der Nuntius des Heiligen Stuhls.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -1442,12 +1442,12 @@
         {
           "q": "Wann endet der Flüchtlingsstatus nach den Beendigungsklauseln des Art. 1 C GFK unter anderem?",
           "o": [
-            "Automatisch nach Ablauf von zehn Jahren",
-            "Mit der Volljährigkeit des Flüchtlings",
-            "Bei jedem Wechsel des Aufenthaltsstaats",
-            "Bei freiwilliger Wiederinanspruchnahme des Schutzes des Herkunftsstaats oder bei Wegfall der Umstände, die zur Anerkennung führten"
+            "Automatisch nach Ablauf von zehn Jahren seit der Anerkennung als Flüchtling",
+            "Bei freiwilliger Wiederinanspruchnahme des Schutzes des Herkunftsstaats",
+            "Bei jedem Wechsel des Aufenthaltsstaats innerhalb Europas",
+            "Mit Eintritt der Volljährigkeit des anerkannten Flüchtlings"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Nach den Beendigungsklauseln des Art. 1 C GFK endet der Flüchtlingsstatus unter anderem, wenn der Flüchtling sich freiwillig wieder unter den Schutz seines Herkunftsstaats stellt oder die Umstände wegfallen, die zu seiner Anerkennung geführt haben – nicht automatisch nach Zeitablauf oder bei Volljährigkeit.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -1466,10 +1466,10 @@
         {
           "q": "Über den engen Konventionsflüchtling hinaus erfasst das Mandat des UNHCR in der Praxis auch welche Personengruppen?",
           "o": [
-            "Nur Kinder und Minderjährige ohne Begleitung",
-            "Nur Personen, die sich bereits in einem Drittstaat befinden",
+            "Nur Personen, die sich bereits in einem sicheren Drittstaat befinden",
+            "Ausschließlich Personen mit förmlich anerkanntem Konventionsstatus",
             "Staatenlose sowie, in der Praxis, Binnenvertriebene und Rückkehrer",
-            "Ausschließlich Personen mit anerkanntem Konventionsstatus"
+            "Nur Kinder und unbegleitete Minderjährige unter achtzehn Jahren"
           ],
           "a": 2,
           "e": "Das Mandat des UNHCR reicht über den engen Konventionsflüchtling hinaus und erfasst in der Praxis auch Staatenlose sowie Binnenvertriebene und Rückkehrer, obwohl diese Gruppen nicht unmittelbar unter die Flüchtlingsdefinition der GFK fallen.",
@@ -1724,24 +1724,24 @@
         {
           "q": "Wie verhält sich die konsularische Immunität nach dem WÜK zur diplomatischen Immunität nach dem WÜD?",
           "o": [
-            "Die konsularische Immunität ist deutlich eingeschränkter, insbesondere in Straf- und Zivilsachen im Zusammenhang mit nichtamtlicher Tätigkeit",
-            "Beide sind inhaltlich identisch",
-            "Konsularbeamte genießen überhaupt keine Immunität",
-            "Die konsularische Immunität ist deutlich weiter als die diplomatische"
+            "Die konsularische Immunität ist deutlich weiter als die diplomatische",
+            "Konsularbeamte genießen überhaupt keinerlei Immunität",
+            "Deutlich eingeschränkter, vor allem bei nichtamtlicher Tätigkeit",
+            "Beide sind inhaltlich vollständig identisch ausgestaltet"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Die konsularische Immunität des WÜK ist deutlich eingeschränkter als die diplomatische Immunität des WÜD – etwa erlaubt Art. 35 WÜK bei begründetem Verdacht sogar die Öffnung von Konsulargepäck in Anwesenheit eines Vertreters, während das WÜD dies für Diplomatengepäck strikt ausschließt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was entschied das britische House of Lords im Fall Pinochet (1999) zur Immunität ehemaliger Staatsoberhäupter?",
           "o": [
-            "Dass nur amtierende, nicht aber ehemalige Staatsoberhäupter überhaupt Immunität genießen",
+            "Dass britische Gerichte für Auslandstaten grundsätzlich unzuständig sind",
             "Dass ehemalige Staatsoberhäupter lebenslang vollständige Immunität für jedes Handeln genießen",
-            "Dass die fortwirkende Amtshandlungsimmunität einen ehemaligen Staatschef nicht vor Verfolgung wegen Folter im Sinne der VN-Antifolterkonvention schützt",
-            "Dass britische Gerichte für Auslandstaten grundsätzlich unzuständig sind"
+            "Dass nur amtierende, nicht aber ehemalige Staatsoberhäupter überhaupt Immunität genießen",
+            "Dass die Amtshandlungsimmunität nicht vor Verfolgung wegen Folter schützt"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Das House of Lords entschied, dass die fortwirkende Amtshandlungsimmunität (ratione materiae) einen früheren Staatschef nicht vor Verfolgung wegen Folter im Sinne der VN-Antifolterkonvention schützt – Folter kann keine legitime „Amtshandlung\" sein.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -1772,12 +1772,12 @@
         {
           "q": "Warum ist die Auslagerung von Asylverfahren in sogenannte „sichere Drittstaaten\" völkerrechtlich voraussetzungsvoll?",
           "o": [
-            "Weil das Non-Refoulement-Verbot in Drittstaaten ohnehin nicht gilt",
-            "Weil sie generell verboten ist",
-            "Weil sie nur zulässig ist, wenn im Drittstaat das Non-Refoulement-Verbot tatsächlich gewahrt bleibt und keine Weiter- bzw. Kettenabschiebung droht",
-            "Weil dafür stets die Zustimmung des UNHCR erforderlich ist"
+            "Weil dafür stets die vorherige Zustimmung des UNHCR erforderlich ist",
+            "Weil im Drittstaat das Non-Refoulement-Verbot tatsächlich gewahrt bleiben muss",
+            "Weil die Auslagerung von Asylverfahren völkerrechtlich generell verboten ist",
+            "Weil das Non-Refoulement-Verbot in Drittstaaten von vornherein nicht gilt"
           ],
-          "a": 2,
+          "a": 1,
           "e": "„Sichere Drittstaaten\"-Lösungen stehen und fallen mit der Frage, ob im Drittstaat das Non-Refoulement-Verbot tatsächlich gewahrt bleibt und keine Kettenabschiebung droht – der Grund, aus dem entsprechende Modelle wiederholt an gerichtlicher Prüfung gescheitert sind.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -1995,21 +1995,21 @@
           "q": "Was entschied der Internationale Gerichtshof im Haftbefehls-Fall (2002) zur strafrechtlichen Immunität amtierender Außenminister?",
           "o": [
             "Dass Immunität nur für Staatsoberhäupter, nicht für Außenminister gilt",
-            "Dass Außenminister keinerlei Immunität genießen",
+            "Dass ein amtierender Außenminister vollständige Immunität von der Strafgerichtsbarkeit genießt",
             "Dass nationale Gerichte über die Immunität amtierender Außenminister frei entscheiden dürfen",
-            "Dass ein amtierender Außenminister vor ausländischen Gerichten vollständige Immunität von der Strafgerichtsbarkeit genießt, auch bei Vorwürfen schwerster Völkerrechtsverbrechen"
+            "Dass Außenminister vor ausländischen Gerichten keinerlei Immunität genießen"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Der IGH entschied im Haftbefehls-Fall, dass amtierende Mitglieder der außenpolitischen „Troika\" (Staatsoberhaupt, Regierungschef, Außenminister) vollständige Immunität vor ausländischer Strafgerichtsbarkeit genießen – selbst bei schwersten Vorwürfen. Verantwortung bleibt nur auf internationaler Ebene möglich.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was versteht man unter dem diplomatischen Schutzmachtmodell?",
           "o": [
-            "Ein Drittstaat übernimmt mit Zustimmung des Empfangsstaats die Wahrnehmung der Interessen eines Staates, der keine eigenen diplomatischen Beziehungen (mehr) unterhält",
-            "Es ist ein anderer Name für die Immunität ratione personae",
-            "Es bezeichnet den besonderen Schutz, den ein Staat seinen eigenen Botschaften gewährt",
-            "Jeder Staat muss automatisch von einer Großmacht vertreten werden"
+            "Ein Drittstaat nimmt mit Zustimmung des Empfangsstaats die Interessen eines Staates wahr",
+            "Jeder Staat muss sich automatisch von einer Großmacht vertreten lassen",
+            "Es ist nur ein anderer Name für die Immunität ratione personae",
+            "Es bezeichnet den besonderen Schutz, den ein Staat seinen eigenen Botschaften gewährt"
           ],
           "a": 0,
           "e": "Beim Schutzmachtmodell übernimmt ein Drittstaat mit Zustimmung des Empfangsstaats die Interessenwahrnehmung für einen Staat ohne eigene diplomatische Präsenz – etwa vertritt die Schweiz seit 1980 die Interessen der USA in Teheran.",
@@ -2018,10 +2018,10 @@
         {
           "q": "Welchen Status genießen die zum Haushalt eines Diplomaten gehörenden Familienangehörigen nach dem WÜD?",
           "o": [
-            "Nur Steuerbefreiung, aber keine Unverletzlichkeit",
-            "Keinerlei Sonderstatus",
-            "Immunität nur für minderjährige Kinder, nicht für Ehepartner",
-            "Grundsätzlich denselben Status wie der Diplomat selbst, sofern sie nicht Angehörige des Empfangsstaats sind"
+            "Immunität nur für minderjährige Kinder, nicht aber für Ehepartner",
+            "Keinerlei diplomatischen Sonderstatus im Empfangsstaat",
+            "Nur Steuerbefreiung, aber keine persönliche Unverletzlichkeit",
+            "Grundsätzlich denselben Status wie der Diplomat selbst"
           ],
           "a": 3,
           "e": "Die zum Haushalt gehörenden Familienangehörigen teilen grundsätzlich den Status des Diplomaten, solange sie nicht Staatsangehörige oder ständige Einwohner des Empfangsstaats sind – in diesem Fall schrumpft der Schutz auf Amtshandlungen.",
@@ -2066,24 +2066,24 @@
         {
           "q": "Worin unterscheiden sich die Ausschlussklauseln (Art. 1 F GFK) von den Beendigungsklauseln (Art. 1 C GFK)?",
           "o": [
-            "Beide Klauselgruppen regeln denselben Sachverhalt mit unterschiedlichem Wortlaut",
-            "Die Ausschlussklauseln verhindern von vornherein die Zuerkennung der Flüchtlingseigenschaft bei schwerem Fehlverhalten, während die Beendigungsklauseln einen bereits anerkannten Status nachträglich enden lassen, etwa bei Wegfall der Verfolgungsgefahr",
-            "Die Beendigungsklauseln gelten nur für Kinder, die Ausschlussklauseln nur für Erwachsene",
-            "Die Ausschlussklauseln gelten nur in Deutschland, die Beendigungsklauseln international"
+            "Die Ausschlussklauseln gelten nur im deutschen Recht, die Beendigungsklauseln dagegen international",
+            "Die Beendigungsklauseln gelten nur für minderjährige Flüchtlinge, die Ausschlussklauseln nur für Erwachsene",
+            "Beide Klauselgruppen regeln denselben Sachverhalt lediglich mit unterschiedlichem Wortlaut",
+            "Die Ausschlussklauseln verhindern die Zuerkennung, die Beendigungsklauseln beenden einen bestehenden Status"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Die Ausschlussklausel verhindert von vornherein die Zuerkennung der Flüchtlingseigenschaft bei schwerem Fehlverhalten wie Kriegsverbrechen; die Beendigungsklausel beendet demgegenüber einen bereits zuerkannten Status nachträglich, etwa weil die Verfolgungsgefahr im Herkunftsstaat weggefallen ist.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Änderung bewirkte das New Yorker Protokoll von 1967 zur Genfer Flüchtlingskonvention von 1951?",
           "o": [
-            "Es führte erstmals das Non-Refoulement-Verbot ein",
-            "Es übertrug die Zuständigkeit vom UNHCR auf die Generalversammlung",
-            "Es schuf den Internationalen Strafgerichtshof für Flüchtlingsfragen",
-            "Es hob die ursprüngliche zeitliche und geografische Beschränkung der Konvention auf europäische Ereignisse vor 1951 auf und machte den Flüchtlingsschutz universell anwendbar"
+            "Es hob die zeitliche und geografische Beschränkung auf europäische Ereignisse vor 1951 auf",
+            "Es übertrug die Zuständigkeit vom UNHCR auf die VN-Generalversammlung",
+            "Es führte erstmals das Non-Refoulement-Verbot in die Konvention ein",
+            "Es schuf mit dem Internationalen Strafgerichtshof für Flüchtlingsfragen ein eigenes Gericht"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Die Genfer Flüchtlingskonvention von 1951 war ursprünglich auf Ereignisse vor 1951 und wahlweise auf Europa beschränkt. Das New Yorker Protokoll von 1967 hob diese doppelte Beschränkung auf und machte den Flüchtlingsschutz zeitlich und geografisch universell.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -2336,24 +2336,24 @@
         {
           "q": "Welche Funktionen üben Konsularbeamte nach dem WÜK typischerweise aus?",
           "o": [
-            "Unter anderem Förderung der Handelsbeziehungen, Hilfe in Nachlasssachen und Ausstellung von Pässen und Visa",
-            "Ausschließlich militärische Verbindungsaufgaben",
             "Ausschließlich diplomatische Verhandlungsführung auf Regierungsebene",
+            "Ausschließlich militärische Verbindungsaufgaben zur Streitkräftekoordination",
+            "Unter anderem Handelsförderung, Nachlasssachen, Pässe und Visa",
             "Ausschließlich die Vertretung des Entsendestaats in politischen Verhandlungen"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Konsularische Funktionen nach Art. 5 WÜK umfassen unter anderem die Förderung von Handel und Wirtschaftsbeziehungen, Hilfe für eigene Staatsangehörige einschließlich Nachlasssachen sowie die Ausstellung von Pässen und Visa – im Unterschied zur politischen Vertretungsfunktion der Diplomaten.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welches Ereignis markiert historisch den Ursprung des modernen Rangsystems im diplomatischen Recht?",
           "o": [
-            "Der Westfälische Friede von 1648",
-            "Die Gründung des Völkerbunds 1920",
-            "Die Unterzeichnung der VN-Charta 1945",
-            "Das Wiener Reglement von 1815 und das Aachener Protokoll von 1818"
+            "Das Wiener Reglement von 1815 und das Aachener Protokoll von 1818",
+            "Die Gründung des Völkerbunds in Genf im Jahr 1920",
+            "Die Unterzeichnung der VN-Charta in San Francisco 1945",
+            "Der Westfälische Friede von 1648 und seine Gesandtenordnung"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Das Wiener Reglement von 1815 und seine Ergänzung durch das Aachener Protokoll von 1818 begründeten das bis heute im WÜD fortwirkende Rangsystem der Missionschefs samt Anciennitätsprinzip.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -2384,12 +2384,12 @@
         {
           "q": "In welchem historischen Kontext wurde die Genfer Flüchtlingskonvention 1951 ursprünglich verabschiedet?",
           "o": [
-            "Als globales, zeitlich unbegrenztes Instrument von Beginn an",
-            "Speziell zur Bewältigung der Flüchtlingsströme infolge des Zweiten Weltkriegs in Europa, mit ursprünglich zeitlicher und geografischer Beschränkung",
-            "Im Rahmen der Dekolonisierung Afrikas",
-            "Als Reaktion auf die Balkankriege der 1990er-Jahre"
+            "Als globales, zeitlich und räumlich unbegrenztes Instrument von Beginn an",
+            "Als unmittelbare Reaktion auf die Balkankriege der 1990er-Jahre",
+            "Im Rahmen der Dekolonisierung Afrikas in den 1960er-Jahren",
+            "Zur Bewältigung der europäischen Flüchtlingsströme nach dem Zweiten Weltkrieg"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Die GFK entstand 1951 zur Bewältigung der europäischen Nachkriegs-Flüchtlingssituation und war ursprünglich auf Ereignisse vor 1951 sowie wahlweise auf Europa beschränkt – Beschränkungen, die erst das New Yorker Protokoll von 1967 aufhob.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -2618,36 +2618,36 @@
         {
           "q": "Ist die Gewährung diplomatischen Asyls in einer Botschaft nach allgemeinem Völkerrecht eine anerkannte Rechtsfigur?",
           "o": [
-            "Die Frage wurde bislang nie gerichtlich geklärt",
             "Ja, es handelt sich um eine universell anerkannte Regel des Völkergewohnheitsrechts",
-            "Ja, aber nur innerhalb der Europäischen Union",
-            "Nein; der Internationale Gerichtshof stellte bereits 1950 im Asylrecht-Fall (Kolumbien/Peru) klar, dass diplomatisches Asyl keine Regel des allgemeinen Völkergewohnheitsrechts ist, sondern allenfalls regionale, insbesondere lateinamerikanische Vertragspraxis"
+            "Nein; der IGH verneinte dies 1950 im Asylrecht-Fall Kolumbien gegen Peru",
+            "Die Frage ist bislang nie gerichtlich geklärt worden",
+            "Ja, aber nur innerhalb der Mitgliedstaaten der Europäischen Union"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Der IGH verneinte im Asylrecht-Fall ein allgemeines Recht auf diplomatisches Asyl; es existiert allenfalls als regionale, vor allem lateinamerikanische Vertragspraxis (Havanna 1928, Caracas 1954) – ein Hintergrund, der auch beim späteren Assange-Fall in der ecuadorianischen Botschaft in London eine Rolle spielte.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welche Vorrechte genießt ein Diplomat nach dem WÜD in Steuerfragen?",
           "o": [
-            "Befreiung ausschließlich von Erbschaftsteuer",
-            "Grundsätzliche Befreiung von den meisten staatlichen, regionalen und kommunalen Steuern und Abgaben, mit Ausnahme etwa indirekter, im Preis enthaltener Steuern",
-            "Steuerbefreiung nur für den Missionschef, nicht für das übrige diplomatische Personal",
-            "Keinerlei steuerliche Vorrechte"
+            "Befreiung ausschließlich von der Erbschaftsteuer des Empfangsstaats",
+            "Keinerlei steuerliche Vorrechte im Empfangsstaat",
+            "Befreiung von den meisten Steuern und Abgaben, nicht aber von indirekten",
+            "Steuerbefreiung nur für den Missionschef, nicht für das übrige diplomatische Personal"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Art. 34 WÜD befreit Diplomaten grundsätzlich von staatlichen, regionalen und kommunalen Steuern und Abgaben, mit im Vertrag ausdrücklich benannten Ausnahmen wie indirekten, im Warenpreis enthaltenen Steuern oder Gebühren für konkret erbrachte Dienstleistungen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Genießt auch die private Wohnung eines Diplomaten Unverletzlichkeit nach dem WÜD?",
           "o": [
-            "Nur während der ersten sechs Monate nach Amtsantritt",
-            "Nur, wenn der Empfangsstaat dem im Einzelfall ausdrücklich zustimmt",
             "Nein, Unverletzlichkeit gilt nur für die offiziellen Missionsräumlichkeiten",
-            "Ja, Art. 30 WÜD erstreckt den Schutz der Unverletzlichkeit ausdrücklich auch auf die private Wohnung des Diplomaten"
+            "Nur, wenn der Empfangsstaat dem im Einzelfall ausdrücklich zustimmt",
+            "Ja; Art. 30 WÜD erstreckt die Unverletzlichkeit auch auf die Privatwohnung",
+            "Nur während der ersten sechs Monate nach dem Amtsantritt"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Art. 30 WÜD erstreckt die Unverletzlichkeit ausdrücklich auf die Privatwohnung des Diplomaten sowie auf seine Papiere, Korrespondenz und – vorbehaltlich weiterer Regelungen – sein Vermögen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -2690,22 +2690,22 @@
         {
           "q": "Was verbietet das Verbot der Kollektivausweisung (Art. 4 des Vierten Zusatzprotokolls zur EMRK)?",
           "o": [
-            "Jede Ausweisung eines Ausländers unter allen Umständen",
-            "Nur die Ausweisung während eines bewaffneten Konflikts",
-            "Die Ausweisung von Ausländern als Gruppe, ohne angemessene und tatsächliche Prüfung der Einzelfälle jedes Betroffenen",
-            "Ausschließlich die Ausweisung eigener Staatsangehöriger"
+            "Jede Ausweisung eines Ausländers unter allen Umständen und Bedingungen",
+            "Ausschließlich die Ausweisung eigener Staatsangehöriger ins Ausland",
+            "Nur die Ausweisung während eines laufenden bewaffneten Konflikts",
+            "Die Ausweisung von Ausländern als Gruppe ohne Prüfung der Einzelfälle"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Das Verbot untersagt nicht jede gleichzeitige Ausweisung mehrerer Personen, wohl aber eine Ausweisung als Gruppenmaßnahme ohne individuelle, angemessene Prüfung jedes Einzelfalls.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Wurde das Mandat des UNHCR bei seiner Gründung 1950 zeitlich befristet oder unbefristet erteilt?",
           "o": [
-            "Auf zehn Jahre befristet und danach ersatzlos ausgelaufen",
-            "Ursprünglich zeitlich befristet auf drei Jahre, seither aber wiederholt verlängert und inzwischen unbefristet fortgeführt",
-            "Unbefristet von Anfang an",
-            "Das UNHCR wurde erst 1990 gegründet"
+            "Von Anfang an unbefristet und ohne jede Verlängerung erteilt",
+            "Zunächst auf drei Jahre befristet, seither verlängert und inzwischen unbefristet",
+            "Auf zehn Jahre befristet und nach deren Ablauf ersatzlos ausgelaufen, ohne Nachfolge",
+            "Das UNHCR wurde überhaupt erst im Jahr 1990 gegründet"
           ],
           "a": 1,
           "e": "Das UNHCR-Mandat war 1950 zunächst auf drei Jahre befristet, wurde aber seither immer wieder verlängert; die Generalversammlung hat das Mandat inzwischen von jeder zeitlichen Befristung befreit.",
@@ -2936,24 +2936,24 @@
         {
           "q": "Was besagt der diplomatenrechtliche Grundsatz „ne impediatur legatio\"?",
           "o": [
-            "Missionen dürfen keine Berichte an ihre Heimatregierung senden",
-            "Diplomatische Beziehungen dürfen niemals abgebrochen werden",
-            "Die diplomatische Mission darf in der Erfüllung ihrer Aufgaben nicht behindert werden",
-            "Diplomaten dürfen niemals ausgewiesen werden"
+            "Diplomatische Beziehungen dürfen zwischen Staaten niemals abgebrochen werden",
+            "Diplomaten dürfen aus dem Empfangsstaat niemals ausgewiesen werden",
+            "Missionen dürfen keine Lageberichte an ihre eigene Heimatregierung senden",
+            "Die Mission darf in der Erfüllung ihrer Aufgaben nicht behindert werden"
           ],
-          "a": 2,
+          "a": 3,
           "e": "„Ne impediatur legatio\" – die Mission darf nicht behindert werden – ist die maximenhafte Kurzformel des gesamten diplomatischen Vorrechtssystems und liegt praktisch jeder Einzelregelung des WÜD zugrunde.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Bedeutet der Abbruch diplomatischer Beziehungen automatisch auch die Beendigung aller völkerrechtlichen Beziehungen zwischen zwei Staaten?",
           "o": [
-            "Nein; er beendet nur die diplomatische Vertretung, nicht notwendig andere Formen der Beziehung wie konsularische Kontakte oder Vertragsbindungen",
-            "Nur ein Krieg kann diplomatische Beziehungen beenden",
-            "Ja, mit dem Abbruch enden sämtliche völkerrechtlichen Beziehungen vollständig",
-            "Der Abbruch diplomatischer Beziehungen ist völkerrechtlich gar nicht möglich"
+            "Der Abbruch diplomatischer Beziehungen ist völkerrechtlich gar nicht möglich",
+            "Nein; er beendet nur die diplomatische Vertretung, nicht andere Beziehungen",
+            "Nur ein Krieg kann diplomatische Beziehungen wirksam beenden",
+            "Ja, mit dem Abbruch enden sämtliche völkerrechtlichen Beziehungen vollständig"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Der Abbruch diplomatischer Beziehungen betrifft nur die diplomatische Vertretung als solche; andere Rechtsbeziehungen – etwa fortbestehende Verträge oder konsularische Kontakte, gegebenenfalls über eine Schutzmacht – können davon unberührt bleiben.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -2984,22 +2984,22 @@
         {
           "q": "Welche Personengruppe ist nach Art. 1 D GFK vom Anwendungsbereich der Konvention grundsätzlich ausgenommen, solange sie Schutz oder Beistand eines anderen VN-Organs genießt?",
           "o": [
-            "Personen, die bereits Schutz oder Beistand einer anderen Organisation der Vereinten Nationen als des UNHCR erhalten, wie palästinensische Flüchtlinge unter dem Mandat der UNRWA",
-            "Personen mit doppelter Staatsangehörigkeit",
-            "Alle Flüchtlinge außerhalb Europas",
-            "Minderjährige Flüchtlinge"
+            "Alle Flüchtlinge außerhalb des europäischen Kontinents",
+            "Personen mit doppelter oder mehrfacher Staatsangehörigkeit im Herkunftsland",
+            "Personen, die Beistand einer anderen VN-Organisation als des UNHCR erhalten",
+            "Minderjährige Flüchtlinge ohne Begleitung eines Elternteils"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Art. 1 D GFK nimmt Personen aus, die bereits Schutz oder Beistand einer anderen VN-Organisation genießen – praktisch bedeutsam vor allem für palästinensische Flüchtlinge unter dem Mandat der UNRWA, für die eine eigene Sonderregelung gilt.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Können Vertragsstaaten der GFK Vorbehalte gegen das Non-Refoulement-Verbot (Art. 33) erklären?",
           "o": [
-            "Vorbehalte sind nur mit Zustimmung des UNHCR-Exekutivkomitees möglich",
-            "Nein, Art. 42 GFK schließt Vorbehalte gegen bestimmte Kernbestimmungen wie Art. 33 ausdrücklich aus",
+            "Ja, Vorbehalte sind gegen jede Bestimmung uneingeschränkt zulässig",
+            "Nein; Art. 42 GFK schließt Vorbehalte gegen Kernbestimmungen wie Art. 33 aus",
             "Nur europäische Vertragsstaaten dürfen einen solchen Vorbehalt erklären",
-            "Ja, Vorbehalte sind gegen jede Bestimmung der Konvention uneingeschränkt zulässig"
+            "Vorbehalte sind nur mit Zustimmung des UNHCR-Exekutivkomitees möglich"
           ],
           "a": 1,
           "e": "Art. 42 GFK schließt Vorbehalte gegen bestimmte Kernvorschriften – darunter das Non-Refoulement-Verbot des Art. 33 – ausdrücklich aus und schützt damit den Kern des Konventionsschutzes vor Aushöhlung durch Vertragsvorbehalte.",
@@ -3254,24 +3254,24 @@
         {
           "q": "Welche besondere Bedeutung hat die Immunität von Kurierpersonal (Diplomatenkurier) nach dem WÜD?",
           "o": [
-            "Der Diplomatenkurier genießt bei der Wahrnehmung seiner Aufgabe persönliche Unverletzlichkeit, und das ihm anvertraute Kuriergepäck darf weder geöffnet noch zurückgehalten werden",
-            "Der Schutz gilt nur innerhalb des Empfangsstaats, nicht auf der Durchreise durch Drittstaaten",
-            "Nur das Kuriergepäck ist geschützt, nicht die Person des Kuriers",
-            "Kuriere genießen überhaupt keinen besonderen Schutz"
+            "Nur das Kuriergepäck ist geschützt, nicht die Person des Kuriers selbst",
+            "Persönliche Unverletzlichkeit des Kuriers; das Kuriergepäck ist unantastbar",
+            "Kuriere genießen überhaupt keinen besonderen völkerrechtlichen Schutz",
+            "Der Schutz gilt nur innerhalb des Empfangsstaats, nicht auf der Durchreise durch Drittstaaten"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Der Diplomatenkurier genießt bei Erfüllung seiner Aufgabe persönliche Unverletzlichkeit und darf nicht festgenommen werden; das Kuriergepäck ist ebenso geschützt wie sonstiges Diplomatengepäck – ein Schutz, der sich grundsätzlich auch auf die Durchreise durch dritte Staaten erstreckt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was unterscheidet einen Geschäftsträger (chargé d'affaires) von einem Botschafter?",
           "o": [
-            "Der Geschäftsträger leitet die Mission oft nur vorübergehend oder in Vertretung, mit einem im Rang niedrigeren Beglaubigungsschreiben, das an das Außenministerium statt an das Staatsoberhaupt gerichtet ist",
-            "Beide Begriffe bezeichnen denselben Rang",
-            "Nur Botschafter genießen diplomatische Immunität, Geschäftsträger nicht",
-            "Ein Geschäftsträger wird stets vom Sicherheitsrat ernannt"
+            "Nur Botschafter genießen diplomatische Immunität, Geschäftsträger dagegen nicht",
+            "Er leitet die Mission oft vorübergehend, mit Beglaubigung beim Außenministerium",
+            "Ein Geschäftsträger wird stets vom VN-Sicherheitsrat ernannt",
+            "Beide Begriffe bezeichnen denselben diplomatischen Rang"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Der Geschäftsträger steht in der Rangordnung des Art. 14 WÜD unterhalb der Botschafter und Gesandten; sein Beglaubigungsschreiben richtet sich an den Außenminister, nicht an das Staatsoberhaupt – oft, aber nicht zwingend, eine vorübergehende Vertretungsfunktion.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -3290,24 +3290,24 @@
         {
           "q": "Welche Rolle spielt das UNHCR-Exekutivkomitee (ExCom)?",
           "o": [
+            "Es ist ein Nebenorgan des VN-Sicherheitsrats für Flüchtlingsfragen und Vertreibung",
+            "Es berät den Hochkommissar und verabschiedet nicht bindende Schlussfolgerungen",
             "Es entscheidet verbindlich über einzelne Asylanträge weltweit",
-            "Es ist ein Nebenorgan des Sicherheitsrats",
-            "Es ersetzt die Generalversammlung in Flüchtlingsfragen",
-            "Es berät und unterstützt den Hochkommissar bei der Ausübung seines Mandats und verabschiedet nicht bindende Schlussfolgerungen zum internationalen Flüchtlingsschutz"
+            "Es ersetzt die Generalversammlung in allen Flüchtlingsfragen"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Das ExCom, zusammengesetzt aus von der Generalversammlung gewählten Mitgliedstaaten, berät den Hochkommissar und verabschiedet einflussreiche, wenngleich rechtlich nicht bindende Schlussfolgerungen, die die Praxis des internationalen Flüchtlingsschutzes maßgeblich mitprägen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Was bedeutet der Grundsatz der Familieneinheit im internationalen Flüchtlingsschutz?",
           "o": [
-            "Er gilt nur für Flüchtlinge, die vor 1951 anerkannt wurden",
-            "Er ist ein in der Schlussakte der GFK-Konferenz empfohlener, in der Praxis vielfach durch regionales und nationales Recht konkretisierter Grundsatz zugunsten des Zusammenhalts der Kernfamilie eines Flüchtlings",
-            "Er ist ein ausdrücklich in der GFK selbst geregeltes, einklagbares Individualrecht",
-            "Er verpflichtet Staaten, jedem Flüchtling automatisch die Staatsangehörigkeit für seine gesamte Familie zu verleihen"
+            "Er gilt nur für Flüchtlinge, die vor 1951 anerkannt worden sind",
+            "Eine Pflicht, jedem Flüchtling die Staatsangehörigkeit für die Familie zu verleihen",
+            "Ein in der Schlussakte der GFK-Konferenz empfohlener Grundsatz zugunsten der Kernfamilie",
+            "Ein ausdrücklich in der GFK selbst geregeltes, einklagbares Individualrecht"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Der Grundsatz der Familieneinheit findet sich nicht als bindende Norm im Konventionstext selbst, sondern als Empfehlung der Schlussakte der GFK-Konferenz, und wird seither durch regionales und nationales Recht – etwa Familienzusammenführungsregeln – unterschiedlich konkretisiert.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -3584,12 +3584,12 @@
         {
           "q": "Welche drei Ausnahmen von der zivilrechtlichen Immunität eines Diplomaten nennt Art. 31 Abs. 1 WÜD?",
           "o": [
-            "Klagen wegen privater dinglicher Rechte an Immobilien im Empfangsstaat, Klagen als Privatperson in Nachlasssachen sowie Klagen wegen einer außerhalb der dienstlichen Tätigkeit ausgeübten freiberuflichen oder gewerblichen Tätigkeit",
-            "Es gibt keine Ausnahmen von der zivilrechtlichen Immunität",
-            "Verkehrsdelikte, Steuerschulden und Mietstreitigkeiten",
-            "Nur Klagen des Entsendestaats selbst gegen den eigenen Diplomaten"
+            "Nur Klagen des Entsendestaats selbst gegen seinen eigenen Diplomaten",
+            "Verkehrsdelikte, Steuerschulden und Mietstreitigkeiten im Empfangsstaat",
+            "Es gibt keine Ausnahmen von der zivilrechtlichen Immunität eines Diplomaten",
+            "Dingliche Rechte an Immobilien, Nachlasssachen, gewerbliche Tätigkeit"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Art. 31 Abs. 1 WÜD nennt abschließend drei Ausnahmen: private dingliche Rechte an nicht-missionsbezogenen Immobilien, Nachlasssachen als Privatperson, und außerdienstliche freiberufliche oder gewerbliche Tätigkeit – außerhalb dieser engen Fälle bleibt die Zivilimmunität umfassend.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -3620,24 +3620,24 @@
         {
           "q": "Unter welchen Voraussetzungen darf ein Vertragsstaat einen sich rechtmäßig auf seinem Gebiet aufhaltenden Flüchtling nach Art. 32 GFK ausweisen?",
           "o": [
-            "Nur aus Gründen der Staatssicherheit oder der öffentlichen Ordnung, grundsätzlich nur nach einem geordneten Verfahren mit Rechtsschutzmöglichkeit",
-            "Nur mit vorheriger Zustimmung des UNHCR",
-            "Eine Ausweisung anerkannter Flüchtlinge ist generell ausgeschlossen",
-            "Jederzeit nach freiem Ermessen"
+            "Eine Ausweisung anerkannter Flüchtlinge ist völkerrechtlich generell ausgeschlossen",
+            "Nur mit vorheriger ausdrücklicher Zustimmung des UNHCR",
+            "Jederzeit nach freiem Ermessen des Aufnahmestaats",
+            "Nur aus Gründen der Staatssicherheit oder öffentlichen Ordnung"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Art. 32 GFK beschränkt die Ausweisung rechtmäßig aufhältiger Flüchtlinge auf Gründe der Staatssicherheit oder öffentlichen Ordnung und verlangt grundsätzlich ein geordnetes Verfahren mit Möglichkeit zur Verteidigung – ein eigenständiger, stärkerer Schutz als das bloße Non-Refoulement-Verbot.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welchen Grundsatz verfolgt die GFK in ihren Art. 20 bis 24 hinsichtlich der wirtschaftlichen und sozialen Rechte anerkannter Flüchtlinge?",
           "o": [
-            "Diese Rechte gelten nur für minderjährige Flüchtlinge",
-            "Weitgehende Gleichbehandlung mit den eigenen Staatsangehörigen des Aufnahmestaats in Bereichen wie öffentlicher Fürsorge, Arbeitsrecht und Bildung",
-            "Vollständige Rechtlosigkeit in wirtschaftlichen und sozialen Belangen",
-            "Gleichbehandlung nur mit anderen Ausländern, niemals mit Inländern"
+            "Weitgehende Gleichbehandlung mit den eigenen Staatsangehörigen",
+            "Gleichbehandlung nur mit anderen Ausländern, niemals mit Inländern",
+            "Diese Rechte gelten ausschließlich für minderjährige Flüchtlinge",
+            "Vollständige Rechtlosigkeit in allen wirtschaftlichen und sozialen Belangen"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Die GFK verfolgt in ihren wirtschaftlich-sozialen Bestimmungen das Ziel weitgehender Inländergleichbehandlung anerkannter Flüchtlinge, etwa bei öffentlicher Fürsorge, Arbeitsrecht und Grundschulbildung – ein oft übersehener, über den reinen Verfolgungsschutz hinausgehender Teil der Konvention.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -3854,36 +3854,36 @@
         {
           "q": "Welche Aufgaben nennt Art. 3 WÜD als Kernfunktionen einer diplomatischen Mission?",
           "o": [
-            "Ausschließlich die Überwachung von Handelsabkommen",
-            "Vertretung des Entsendestaats, Schutz seiner Interessen und Staatsangehörigen, Verhandlungsführung, Berichterstattung mit rechtmäßigen Mitteln sowie Förderung freundschaftlicher Beziehungen",
-            "Ausschließlich die Ausstellung von Visa",
-            "Ausschließlich militärische Aufklärung"
+            "Vertretung, Schutz der Interessen, Verhandlung, Berichterstattung, Förderung",
+            "Ausschließlich die Überwachung von Handelsabkommen des Entsendestaats",
+            "Ausschließlich die Ausstellung von Visa und Reisedokumenten",
+            "Ausschließlich militärische Aufklärung im Empfangsstaat"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Art. 3 Abs. 1 WÜD nennt fünf klassische Missionsfunktionen, von der politischen Vertretung über den Interessenschutz bis zur – ausdrücklich auf rechtmäßige Mittel beschränkten – Berichterstattung.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Genießen die Räumlichkeiten einer diplomatischen Mission Befreiung von staatlichen und kommunalen Steuern?",
           "o": [
-            "Grundsätzlich ja, mit Ausnahme von Gebühren für konkret erbrachte Dienstleistungen wie Müllabfuhr oder Wasserversorgung",
-            "Nur mit jährlich neu zu beantragender Sondergenehmigung",
+            "Nur die Residenz des Missionschefs, nicht die übrigen Missionsräume",
+            "Nur mit einer jährlich neu zu beantragenden Sondergenehmigung",
             "Nein, sie unterliegen denselben Steuern wie jedes andere Gebäude",
-            "Nur die Residenz des Missionschefs, nicht die übrigen Missionsräume"
+            "Grundsätzlich ja, außer bei Gebühren für konkrete Dienstleistungen"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Missionsräumlichkeiten sind grundsätzlich von staatlichen, regionalen und kommunalen Steuern befreit; ausgenommen bleiben Entgelte für konkrete Dienstleistungen, die kein Steuercharakter, sondern Gebührencharakter haben.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welches Recht gewährt Art. 20 WÜD der diplomatischen Mission hinsichtlich Flagge und Hoheitszeichen?",
           "o": [
-            "Das Recht, die Flagge des Empfangsstaats zu führen",
-            "Das Recht, die Flagge und das Hoheitszeichen des Entsendestaats an den Räumlichkeiten der Mission, der Residenz des Missionschefs und dessen Beförderungsmitteln anzubringen",
-            "Dieses Recht besteht nur während offizieller Staatsbesuche",
-            "Ein Verbot, überhaupt nationale Symbole zu zeigen"
+            "Ein Verbot, an der Mission überhaupt nationale Symbole zu zeigen",
+            "Das Recht, ausschließlich die Flagge des Empfangsstaats zu führen",
+            "Dieses Recht besteht nur während offizieller Staatsbesuche des Entsendestaats",
+            "Das Recht, Flagge und Hoheitszeichen des Entsendestaats zu führen"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Art. 20 WÜD sichert der Mission das sichtbare Zeichen ihrer Repräsentationsfunktion: Flagge und Hoheitszeichen des Entsendestaats dürfen an Missionsgebäude, Residenz und Fahrzeugen des Missionschefs angebracht werden.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -3914,24 +3914,24 @@
         {
           "q": "Was versteht man unter einem „Flüchtling sur place\"?",
           "o": [
-            "Einen Flüchtling, der nur vorübergehend an einem Ort bleibt",
-            "Einen Begriff, den die GFK ausdrücklich verbietet",
-            "Eine Person, die erst nach Verlassen ihres Herkunftslands zum Flüchtling wird, etwa durch Ereignisse im Heimatland während ihrer Abwesenheit oder durch eigenes Verhalten im Exil",
-            "Einen Flüchtling, der ausschließlich innerhalb seines Herkunftslands umherzieht"
+            "Einen Flüchtling, der ausschließlich innerhalb seines Herkunftslands umherzieht",
+            "Einen Flüchtling, der sich nur vorübergehend an einem Ort aufhält",
+            "Einen Begriff, den die Genfer Flüchtlingskonvention ausdrücklich verbietet",
+            "Eine Person, die erst nach Verlassen ihres Herkunftslands zum Flüchtling wird"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Ein Flüchtling „sur place\" wird erst nach Verlassen des Heimatlands zum Flüchtling – etwa weil sich die Lage im Herkunftsland während seiner Abwesenheit ändert oder weil er sich im Exil exilpolitisch betätigt und dadurch dort Verfolgung riskiert.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Rolle spielt das UNHCR typischerweise bei der freiwilligen Repatriierung von Flüchtlingen?",
           "o": [
+            "Es hat mit der Rückkehr von Flüchtlingen überhaupt nichts zu tun",
             "Es zwingt Flüchtlinge zur Rückkehr, sobald ein Konflikt formal beendet ist",
-            "Es entscheidet anstelle der Herkunftsstaaten über deren Einreisebestimmungen",
-            "Es hat mit der Rückkehr von Flüchtlingen nichts zu tun",
-            "Es überwacht und unterstützt den Rückkehrprozess, um sicherzustellen, dass die Rückkehr tatsächlich freiwillig erfolgt und Sicherheit sowie Würde der Rückkehrenden gewahrt bleiben"
+            "Es überwacht die Rückkehr, damit sie freiwillig und in Würde erfolgt",
+            "Es entscheidet anstelle der Herkunftsstaaten über deren Einreisebestimmungen"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Freiwillige Repatriierung gilt als eine der drei dauerhaften Lösungen des UNHCR-Mandats; das Amt begleitet und überwacht den Prozess, um echte Freiwilligkeit sowie Sicherheit und Würde der Rückkehrenden sicherzustellen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -4244,12 +4244,12 @@
         {
           "q": "Endet die Pflicht des Empfangsstaats zum Schutz der Missionsräumlichkeiten und Archive automatisch mit dem Abbruch der diplomatischen Beziehungen?",
           "o": [
-            "Ja, mit dem Abbruch erlischt jede Schutzpflicht sofort",
-            "Nur die Archive, nicht die Räumlichkeiten selbst, bleiben geschützt",
             "Die Schutzpflicht geht in diesem Fall automatisch auf die Vereinten Nationen über",
-            "Nein; nach Art. 45 WÜD müssen Räumlichkeiten und Archive auch nach einem Abbruch der Beziehungen weiterhin geachtet und geschützt werden, gegebenenfalls durch eine als Schutzmacht fungierende dritte Partei"
+            "Nur die Archive, nicht die Räumlichkeiten selbst, bleiben geschützt",
+            "Nein; nach Art. 45 WÜD sind Räumlichkeiten und Archive weiter zu schützen",
+            "Ja, mit dem Abbruch erlischt jede Schutzpflicht des Empfangsstaats sofort"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Aus dem Einvernehmensprinzip des Diplomatenrechts folgt zwar das Recht, Beziehungen abzubrechen, doch Art. 45 WÜD verpflichtet den (ehemaligen) Empfangsstaat weiterhin zum Schutz von Räumlichkeiten und Archiven – oft übernimmt eine dritte Schutzmacht die praktische Wahrnehmung der Interessen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -4280,12 +4280,12 @@
         {
           "q": "Welchen Charakter soll die Tätigkeit des UNHCR nach seinem eigenen Statut haben?",
           "o": [
-            "Einen ausdrücklich politischen und diplomatischen Charakter",
-            "Einen ausschließlich humanitären und sozialen, ausdrücklich unpolitischen Charakter",
             "Einen rein wirtschaftlichen Charakter zur Förderung von Handelsbeziehungen",
-            "Einen militärischen Charakter zum Schutz von Flüchtlingslagern"
+            "Einen ausdrücklich politischen und diplomatischen Charakter gegenüber Staaten",
+            "Einen militärischen Charakter zum Schutz von Flüchtlingslagern vor Ort",
+            "Einen ausschließlich humanitären und sozialen, ausdrücklich unpolitischen Charakter"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Das UNHCR-Statut betont ausdrücklich den humanitären und sozialen, nicht politischen Charakter der Organisation – eine bewusste Distanzierung von den politischen Auseinandersetzungen, die Fluchtursachen oft zugrunde liegen, um die eigene Schutzfunktion nicht zu gefährden.",
           "cat": "Flüchtlings- & Asylrecht"
         }
@@ -4418,10 +4418,10 @@
         {
           "q": "Ist ein Staat völkerrechtlich verpflichtet, die Errichtung einer ständigen diplomatischen Mission eines anderen Staates auf seinem Gebiet zuzulassen?",
           "o": [
-            "Nur VN-Mitgliedstaaten sind zum Empfang verpflichtet",
-            "Nein; die Aufnahme diplomatischer Beziehungen und die Errichtung ständiger Missionen erfolgen nach Art. 2 WÜD im gegenseitigen Einvernehmen",
-            "Ja, jeder Staat muss jede diplomatische Mission empfangen",
-            "Nur Nachbarstaaten sind zum Empfang verpflichtet"
+            "Nur unmittelbare Nachbarstaaten sind zum Empfang verpflichtet",
+            "Nein; nach Art. 2 WÜD erfolgt dies im gegenseitigen Einvernehmen",
+            "Nur VN-Mitgliedstaaten sind zum Empfang fremder Missionen verpflichtet",
+            "Ja, jeder Staat muss jede angebotene diplomatische Mission empfangen"
           ],
           "a": 1,
           "e": "Diplomatische Beziehungen und ständige Missionen beruhen auf gegenseitigem Einvernehmen (Art. 2 WÜD) – niemand ist verpflichtet, eine Botschaft zu empfangen. Aus demselben Einvernehmensprinzip folgt auch das Recht, Beziehungen abzubrechen.",
@@ -4430,84 +4430,84 @@
         {
           "q": "Unter welcher Voraussetzung kann der Empfangsstaat einen Diplomaten nach Art. 9 WÜD zur persona non grata erklären?",
           "o": [
-            "Jederzeit und ohne Angabe von Gründen; die Erklärung ist ein voraussetzungsloses Gestaltungsrecht, kein Vorwurf eines Rechtsbruchs",
             "Nur bei Vorliegen einer rechtskräftigen Verurteilung wegen einer Straftat",
-            "Nur als Gegenmaßnahme auf einen nachgewiesenen Rechtsverstoß",
-            "Nur nach vorheriger Anhörung des Entsendestaats"
+            "Jederzeit und ohne Angabe von Gründen; ein voraussetzungsloses Gestaltungsrecht",
+            "Nur als Gegenmaßnahme auf einen nachgewiesenen Rechtsverstoß des Diplomaten",
+            "Nur nach vorheriger Anhörung des betroffenen Entsendestaats"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Die persona-non-grata-Erklärung kann der Empfangsstaat jederzeit und ohne Begründung aussprechen – gerade ihre Voraussetzungslosigkeit macht sie zum universellen Standardinstrument, unabhängig von Immunitäten. Sie kann auch verwaltungs- und technisches Personal treffen und bereits vor dessen Einreise ausgesprochen werden.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Darf der Empfangsstaat die Größe einer ausländischen diplomatischen Mission auf seinem Gebiet begrenzen?",
           "o": [
-            "Nur der VN-Sicherheitsrat kann Missionsgrößen begrenzen",
-            "Eine Begrenzung ist nur bei bewaffnetem Konflikt zulässig",
-            "Ja, nach Art. 11 WÜD kann er verlangen, dass die Mission in Anbetracht der Umstände und Bedingungen des Empfangsstaats sowie der Bedürfnisse der Mission in angemessenen Grenzen gehalten wird",
+            "Nur der VN-Sicherheitsrat kann Missionsgrößen verbindlich begrenzen",
+            "Ja; nach Art. 11 WÜD darf er die Mission in angemessenen Grenzen halten lassen",
+            "Eine Begrenzung ist nur im Fall eines bewaffneten Konflikts zulässig",
             "Nein, die Größe einer Mission liegt ausschließlich in der Entscheidung des Entsendestaats"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Art. 11 WÜD gibt dem Empfangsstaat ein Korrektiv gegen unangemessen große Missionen, ohne das freie Ernennungsrecht des Entsendestaats für sein Personal (Art. 7 WÜD) grundsätzlich infrage zu stellen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welchen Zweck verfolgen die Vorrechte und Immunitäten des Diplomatenrechts nach der Präambel des WÜD?",
           "o": [
+            "Die Belohnung besonders verdienter Staatsbediensteter im Ausland",
+            "Nicht die Bevorzugung Einzelner, sondern die Aufgabenwahrnehmung",
             "Die persönliche Bereicherung und Bevorzugung einzelner Diplomaten",
-            "Die Belohnung besonders verdienter Staatsbediensteter",
-            "Nicht die Bevorzugung Einzelner, sondern die Gewährleistung der wirksamen Wahrnehmung der Aufgaben diplomatischer Missionen als Vertreter von Staaten",
-            "Die Kontrolle der Presse im Empfangsstaat"
+            "Die Kontrolle der Presse und Öffentlichkeit im Empfangsstaat"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Die WÜD-Präambel stellt klar, dass die Vorrechte funktional begründet sind: Sie sollen die wirksame Aufgabenwahrnehmung der Mission sichern, nicht Einzelpersonen privilegieren – der theoretische Schlüssel zum Verständnis des gesamten Systems.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was ist das Exequatur im Konsularrecht, im Unterschied zum Agrément des Diplomatenrechts?",
           "o": [
-            "Das Exequatur ist die Bezeichnung für den Abbruch konsularischer Beziehungen",
+            "Beide Begriffe bezeichnen dasselbe Zulassungsverfahren",
             "Es handelt sich um ein rein innerstaatliches Verfahren ohne völkerrechtlichen Bezug",
-            "Die förmliche Zulassung eines Konsularbeamten zur Ausübung seines Amtes durch den Empfangsstaat nach Art. 12 WÜK – das konsularrechtliche Gegenstück zum diplomatischen Agrément für den Missionschef",
-            "Beide Begriffe bezeichnen dasselbe Verfahren"
+            "Das Exequatur ist die Bezeichnung für den Abbruch konsularischer Beziehungen",
+            "Die förmliche Zulassung eines Konsularbeamten nach Art. 12 WÜK"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Wie der diplomatische Missionschef ein Agrément benötigt, bedarf der Konsularbeamte des Exequaturs des Empfangsstaats, bevor er sein Amt aufnehmen kann – strukturell verwandt, aber eigenständig geregelt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was kennzeichnet Wahlkonsuln (Honorarkonsuln) im Unterschied zu Berufskonsularbeamten?",
           "o": [
-            "Sie üben ihr Amt oft neben einer eigenen beruflichen Tätigkeit aus, häufig als Angehörige des Empfangsstaats, und genießen einen gegenüber Berufskonsularbeamten abgesenkten Schutzstatus",
-            "Sie genießen einen deutlich weiterreichenden Schutzstatus als Berufskonsularbeamte",
-            "Sie werden ausschließlich vom VN-Sicherheitsrat ernannt",
-            "Sie dürfen keinerlei konsularische Aufgaben wahrnehmen"
+            "Sie dürfen überhaupt keine konsularischen Aufgaben wahrnehmen",
+            "Sie werden ausschließlich vom VN-Sicherheitsrat förmlich ernannt",
+            "Amt oft neben eigenem Beruf, häufig Angehörige des Empfangsstaats, geringerer Schutz",
+            "Sie genießen einen deutlich weiterreichenden Schutzstatus als Berufskonsularbeamte"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Wahlkonsuln – oft Geschäftsleute des Empfangsstaats mit ehrenamtlichem Charakter der Tätigkeit – unterliegen nach dem WÜK einem abgesenkten Schutzregime gegenüber hauptamtlichen Berufskonsularbeamten.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welchen Immunitätsumfang genießen Konsularbeamte im Unterschied zu Diplomaten?",
           "o": [
-            "Grundsätzlich nur Amtsimmunität für Handlungen in Wahrnehmung konsularischer Aufgaben; ihre persönliche Unverletzlichkeit weicht zudem bei schweren Straftaten der Festnahme aufgrund richterlicher Entscheidung",
-            "Denselben umfassenden Schutz wie Diplomaten in jeder Hinsicht",
             "Vollständige Immunität, aber nur gegenüber Zivilklagen, nie gegenüber Strafverfolgung",
-            "Überhaupt keine Immunität"
+            "Überhaupt keine Immunität im Empfangsstaat",
+            "Denselben umfassenden Schutz wie Diplomaten in jeder Hinsicht",
+            "Grundsätzlich nur Amtsimmunität; Festnahme bei schweren Straftaten möglich"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Anders als Diplomaten genießen Konsularbeamte nur Amtsimmunität (ratione materiae), nicht die umfassende Statusimmunität; bei schweren Straftaten kann ihre persönliche Unverletzlichkeit einer richterlich angeordneten Festnahme weichen – ein deutlich schwächerer Schutz.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Wie unterscheidet sich der diplomatische Schutz von den Vorrechten und Immunitäten des Diplomatenrechts?",
           "o": [
+            "Beide Begriffe bezeichnen exakt dasselbe völkerrechtliche Institut",
             "Das Diplomatenrecht ist ein Unterfall des diplomatischen Schutzes",
-            "Der diplomatische Schutz ist das gewohnheitsrechtliche Recht eines Staates, seine Staatsangehörigen gegenüber anderen Staaten zu schützen (ein Institut der Staatenverantwortlichkeit), während das Diplomatenrecht die Vorrechte der eigenen diplomatischen Vertreter im Empfangsstaat regelt",
-            "Beide Begriffe bezeichnen exakt dasselbe Institut",
+            "Das Recht des Staates, seine Staatsangehörigen gegenüber anderen Staaten zu schützen",
             "Diplomatischer Schutz gilt nur für Diplomaten selbst, niemals für andere Staatsangehörige"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Eine 2019 direkt geprüfte Verwechslungsfalle: Der diplomatische Schutz gehört zum Recht der Staatenverantwortlichkeit und betrifft den Schutz eigener Staatsangehöriger allgemein; das Diplomatenrecht betrifft demgegenüber die Rechtsstellung der eigenen diplomatischen Vertretung selbst.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -4538,24 +4538,24 @@
         {
           "q": "Steht das Non-Refoulement-Verbot auch der Auslieferung einer Person in einen Staat entgegen, in dem ihr Verfolgung droht?",
           "o": [
-            "Nein, das Verbot gilt ausschließlich für die klassische verwaltungsrechtliche Abschiebung",
+            "Ja; das Verbot erfasst jede Form der zwangsweisen Überstellung, auch die Auslieferung",
+            "Nur bei Auslieferungen innerhalb des europäischen Rechtsraums",
             "Das Non-Refoulement-Verbot betrifft ausschließlich Auslieferungen an den IStGH",
-            "Nur bei Auslieferungen innerhalb Europas",
-            "Ja, das Verbot erfasst nach ganz überwiegender Auffassung jede Form der zwangsweisen Überstellung, einschließlich der Auslieferung"
+            "Nein, das Verbot gilt ausschließlich für die verwaltungsrechtliche Abschiebung"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Non-Refoulement erfasst funktional jede Form der zwangsweisen Überstellung in einen Verfolgerstaat – ob als Abschiebung, Zurückweisung oder Auslieferung – und schützt damit unabhängig von der formalen Bezeichnung des Übergabeverfahrens.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche praktische Bedeutung hat das „Handbuch über Verfahren und Kriterien zur Feststellung der Flüchtlingseigenschaft\" des UNHCR?",
           "o": [
-            "Es ersetzt die nationalen Asylverfahren vollständig",
+            "Es ersetzt die nationalen Asylverfahren der Vertragsstaaten vollständig",
             "Es ist ein völkerrechtlich verbindlicher Vertrag, den alle GFK-Vertragsstaaten ratifizieren mussten",
-            "Es wird alle zehn Jahre von der Generalversammlung neu beschlossen",
-            "Es dient als einflussreiche, wenngleich rechtlich nicht bindende Auslegungshilfe für Behörden und Gerichte bei der Anwendung der Flüchtlingsdefinition"
+            "Eine einflussreiche, rechtlich nicht bindende Auslegungshilfe für Behörden und Gerichte",
+            "Es wird alle zehn Jahre von der VN-Generalversammlung neu beschlossen"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Das UNHCR-Handbuch bietet praxisnahe Auslegungshinweise zur GFK-Flüchtlingsdefinition und wird von vielen nationalen Behörden und Gerichten herangezogen, entfaltet aber selbst keine unmittelbare Rechtsverbindlichkeit.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -4820,36 +4820,36 @@
         {
           "q": "Genießt ein amtierender Außenminister nach dem Haftbefehls-Fall des IGH (2002) Immunität vor ausländischer Strafgerichtsbarkeit?",
           "o": [
-            "Nur mit Zustimmung des VN-Sicherheitsrats",
+            "Ja; die außenpolitische Troika genießt vollständige Immunität",
             "Nur bei Vorwürfen einfacher Straftaten, nicht bei Völkerrechtsverbrechen",
-            "Ja, amtierende Mitglieder der außenpolitischen „Troika\" genießen vollständige Immunität vor ausländischer Strafgerichtsbarkeit, selbst bei Vorwürfen schwerster Völkerrechtsverbrechen",
-            "Nein, Außenminister genießen keinerlei Immunität"
+            "Nein, Außenminister genießen im Ausland keinerlei Immunität",
+            "Nur mit ausdrücklicher Zustimmung des VN-Sicherheitsrats"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Der IGH bestätigte im Haftbefehls-Fall die umfassende Immunität amtierender Troika-Mitglieder (Staatsoberhaupt, Regierungschef, Außenminister) vor fremder Strafgerichtsbarkeit – Verantwortlichkeit bleibt nur auf internationaler Ebene oder nach Amtsende möglich.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Was kennzeichnet die Rechtsstellung der Wahlkonsuln (Honorarkonsuln) im Unterschied zu Berufskonsularbeamten?",
           "o": [
-            "Sie dürfen keine konsularischen Aufgaben ausüben",
             "Sie werden ausschließlich von internationalen Organisationen ernannt",
-            "Sie üben ihr Amt oft neben einer eigenen Tätigkeit aus, häufig als Angehörige des Empfangsstaats, mit gegenüber Berufskonsularbeamten abgesenktem Schutzstatus",
+            "Nebenamtliche Tätigkeit, meist Ortsansässige, mit abgesenktem Schutzstatus",
+            "Sie dürfen überhaupt keine konsularischen Aufgaben ausüben",
             "Sie genießen einen umfassenderen Schutz als Berufskonsularbeamte"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Wahlkonsuln – oft im Empfangsstaat ansässige Geschäftsleute mit ehrenamtlichem Charakter der Tätigkeit – unterliegen einem gegenüber hauptamtlichen Berufskonsularbeamten abgesenkten Schutzregime des WÜK.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Verpflichtet die Genfer Flüchtlingskonvention die Vertragsstaaten, Flüchtlingen ein subjektives Recht auf Asylgewährung einzuräumen?",
           "o": [
-            "Ja, jeder Flüchtling im Sinne der GFK hat einen unmittelbaren Asylanspruch gegen jeden Vertragsstaat",
             "Nur Vertragsstaaten mit gemeinsamer Grenze zum Herkunftsland sind zur Asylgewährung verpflichtet",
-            "Nein; die GFK begründet vor allem ein Schutzniveau, insbesondere das Non-Refoulement-Verbot, nicht aber ein Recht auf Asylgewährung – ob und wie Asyl gewährt wird, bleibt grundsätzlich Sache des einzelnen Staates",
-            "Das Asylrecht ist ausschließlich eine Angelegenheit des Europarats, nicht der GFK"
+            "Nein; sie begründet ein Schutzniveau, vor allem Non-Refoulement, kein Recht auf Asyl",
+            "Das Asylrecht ist ausschließlich eine Angelegenheit des Europarats, nicht der GFK",
+            "Ja, jeder Flüchtling im Sinne der GFK hat einen unmittelbaren Asylanspruch gegen jeden Vertragsstaat"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Die GFK selbst verbürgt kein subjektives Recht auf Asylgewährung; im Zentrum steht das Schutzniveau, allen voran das Non-Refoulement-Verbot. Ob, wie und in welcher Form ein Staat Asyl gewährt, regelt grundsätzlich sein eigenes nationales oder regionales Recht.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -5006,10 +5006,10 @@
         {
           "q": "Welche Notifikationspflicht sieht Art. 10 WÜD für den Empfangsstaat vor?",
           "o": [
+            "Die Notifikation erfolgt ausschließlich gegenüber dem VN-Sekretariat",
+            "Ernennung, Ankunft und Abreise der Missionsmitglieder sind zu notifizieren",
             "Nur die Ernennung des Missionschefs muss mitgeteilt werden, nicht das übrige Personal",
-            "Ernennung, Ankunft und endgültige Abreise von Mitgliedern der Mission sowie Beginn und Ende ihrer dienstlichen Tätigkeit sind dem Außenministerium des Empfangsstaats mitzuteilen",
-            "Es besteht überhaupt keine Notifikationspflicht",
-            "Die Notifikation erfolgt ausschließlich gegenüber dem VN-Sekretariat"
+            "Es besteht überhaupt keine Notifikationspflicht gegenüber dem Empfangsstaat"
           ],
           "a": 1,
           "e": "Art. 10 WÜD verpflichtet zur laufenden Unterrichtung des Empfangsstaats über personelle Veränderungen der Mission – die verwaltungstechnische Kehrseite des freien Ernennungsrechts des Entsendestaats für sein übriges Personal.",
@@ -5018,10 +5018,10 @@
         {
           "q": "Kann der Empfangsstaat das Agrément für einen vorgeschlagenen Missionschef ohne Angabe von Gründen verweigern?",
           "o": [
+            "Nein, eine Verweigerung bedarf stets einer ausführlichen Begründung",
             "Nur der Sicherheitsrat kann die Verweigerung eines Agréments anordnen",
-            "Eine Verweigerung ist völkerrechtlich generell unzulässig",
-            "Ja, das Agrément kann nach Art. 4 WÜD ohne Angabe von Gründen verweigert werden",
-            "Nein, eine Verweigerung bedarf stets einer ausführlichen Begründung"
+            "Ja; Art. 4 WÜD verlangt für die Verweigerung keine Begründung",
+            "Eine Verweigerung des Agréments ist völkerrechtlich generell unzulässig"
           ],
           "a": 2,
           "e": "Wie bei der persona-non-grata-Erklärung ist auch die Verweigerung des Agréments ein voraussetzungsloses Gestaltungsrecht des Empfangsstaats – ein Ausdruck des grundlegenden Einvernehmensprinzips der Diplomatie.",
@@ -5090,24 +5090,24 @@
         {
           "q": "Muss sich ein Flüchtling im Sinne der GFK zwingend außerhalb seines Herkunftslandes befinden?",
           "o": [
-            "Ja; das Erfordernis des Grenzübertritts ist konstitutiver Bestandteil der Flüchtlingsdefinition des Art. 1 A GFK – Binnenvertriebene fallen begrifflich nicht darunter, auch wenn sie faktisch vergleichbar schutzbedürftig sein können",
-            "Nein, auch Binnenvertriebene innerhalb ihres eigenen Landes fallen unmittelbar unter die GFK-Flüchtlingsdefinition",
+            "Nur bei besonders schwerer Verfolgung wird vom Grenzübertrittserfordernis abgesehen",
+            "Ja; der Grenzübertritt ist konstitutiv – Binnenvertriebene fallen nicht darunter",
             "Das Erfordernis wurde durch das New Yorker Protokoll von 1967 vollständig aufgehoben",
-            "Nur bei besonders schwerer Verfolgung wird vom Grenzübertrittserfordernis abgesehen"
+            "Nein, auch Binnenvertriebene innerhalb ihres eigenen Landes fallen unmittelbar unter die GFK-Flüchtlingsdefinition"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Die GFK-Flüchtlingsdefinition setzt voraus, dass sich die Person außerhalb ihres Herkunftslandes befindet; Binnenvertriebene (internally displaced persons) fallen begrifflich nicht darunter, auch wenn ihnen faktisch vergleichbarer Schutzbedarf zukommen kann – sie unterliegen einem gesonderten, schwächer institutionalisierten Schutzregime.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche fünf Verfolgungsgründe nennt Art. 1 A GFK für die Flüchtlingsanerkennung?",
           "o": [
-            "Armut, Naturkatastrophen, Krieg, Klimawandel, Arbeitslosigkeit",
-            "Nur Rasse und Religion, alle übrigen Gründe wurden erst später hinzugefügt",
-            "Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe, politische Überzeugung",
-            "Alter, Geschlecht, Behinderung, Bildungsstand, Familienstand"
+            "Armut, Naturkatastrophen, Krieg, Klimawandel und allgemeine Arbeitslosigkeit im Herkunftsland",
+            "Nur Rasse und Religion; alle übrigen Gründe wurden erst durch das New Yorker Protokoll von 1967 hinzugefügt",
+            "Alter, Geschlecht, Behinderung, Bildungsstand und Familienstand der antragstellenden Person",
+            "Rasse, Religion, Nationalität, Zugehörigkeit zu einer bestimmten sozialen Gruppe, politische Überzeugung"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Die fünf abschließend genannten Verfolgungsgründe – Rasse, Religion, Nationalität, Zugehörigkeit zu einer sozialen Gruppe, politische Überzeugung – grenzen die GFK-Flüchtlingsdefinition von anderen Fluchtursachen wie Armut oder Naturkatastrophen ab, die für sich genommen keinen Flüchtlingsstatus begründen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -5444,46 +5444,46 @@
         {
           "q": "Erstreckt sich die Unverletzlichkeit der Missionsarchive nach Art. 24 WÜD zeitlich unbegrenzt, auch über einen Abbruch der diplomatischen Beziehungen hinaus?",
           "o": [
-            "Nur mit ausdrücklicher Zustimmung des Sicherheitsrats",
             "Nein, mit dem Abbruch der Beziehungen endet jeder Schutz der Archive sofort",
-            "Ja; die Archive und Schriftstücke der Mission sind nach Art. 24 WÜD jederzeit unverletzlich, unabhängig vom Fortbestand der diplomatischen Beziehungen",
+            "Ja; nach Art. 24 WÜD sind Archive und Schriftstücke jederzeit unverletzlich",
+            "Nur mit ausdrücklicher Zustimmung des VN-Sicherheitsrats",
             "Nur für die Dauer eines Jahres nach dem Abbruch der Beziehungen"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Die Unverletzlichkeit der Archive gilt nach Art. 24 WÜD zeitlich unbegrenzt („jederzeit\") und unabhängig vom Fortbestand diplomatischer Beziehungen – ergänzt durch Art. 45 WÜD, der auch nach einem Abbruch der Beziehungen fortwirkende Schutzpflichten begründet.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Gilt der Grundsatz der Gegenseitigkeit (Reziprozität) in der diplomatischen Praxis auch dort, wo das WÜD selbst keine ausdrückliche Rechtspflicht dazu begründet?",
           "o": [
+            "Ja; Staaten orientieren sich praktisch an der Behandlung ihrer eigenen Missionen",
+            "Reziprozität ist im WÜD ausdrücklich untersagt worden",
             "Nein, Reziprozität spielt in der diplomatischen Praxis überhaupt keine Rolle",
-            "Reziprozität gilt nur zwischen VN-Sicherheitsratsmitgliedern",
-            "Ja; Staaten orientieren sich in der praktischen Behandlung fremder Missionen häufig an der Behandlung, die ihre eigenen Missionen im jeweils anderen Staat erfahren, auch über die rechtlichen Mindeststandards des WÜD hinaus",
-            "Reziprozität ist im WÜD ausdrücklich verboten"
+            "Reziprozität gilt nur zwischen den ständigen Mitgliedern des Sicherheitsrats"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Über die rechtlich verbindlichen Mindeststandards des WÜD hinaus prägt der Gedanke der Gegenseitigkeit die diplomatische Praxis maßgeblich – etwa bei Massenausweisungen als Reaktion auf entsprechende Maßnahmen des anderen Staates, wie im Fall Skripal 2018.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Genießen unbegleitete minderjährige Flüchtlinge nach internationalen Standards besonderen Schutz?",
           "o": [
-            "Besonderer Schutz besteht nur für Mädchen, nicht für Jungen",
-            "Unbegleitete Minderjährige fallen generell nicht unter die GFK",
             "Nein, für sie gelten exakt dieselben Verfahrensregeln wie für erwachsene Flüchtlinge ohne jede Modifikation",
-            "Ja; das Kindeswohl ist bei allen sie betreffenden Maßnahmen vorrangig zu berücksichtigen, unter anderem bei der Bestellung eines Vormunds und der Verfahrensgestaltung"
+            "Ja; das Kindeswohl ist vorrangig, etwa bei Vormundschaft und Verfahrensgestaltung",
+            "Unbegleitete Minderjährige fallen generell nicht unter den Schutz der GFK",
+            "Besonderer Schutz besteht nur für minderjährige Mädchen, nicht für Jungen"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Unbegleitete minderjährige Flüchtlinge genießen nach internationalen Standards, insbesondere der VN-Kinderrechtskonvention, besonderen Schutz – das Kindeswohl ist vorrangig zu berücksichtigen, etwa bei der Bestellung eines Vormunds und einer altersgerechten Verfahrensgestaltung.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Rolle spielt der Familiennachzug im internationalen Flüchtlingsschutz?",
           "o": [
-            "Familiennachzug ist im Flüchtlingsrecht generell ausgeschlossen",
-            "Der Grundsatz der Familieneinheit wird als Empfehlung der Schlussakte der GFK-Konferenz anerkannt und in der Praxis durch regionales und nationales Recht unterschiedlich konkretisiert",
-            "Er ist in der GFK selbst als striktes, unmittelbar einklagbares Individualrecht ausgestaltet",
-            "Nur Ehepartner, niemals Kinder, sind vom Familiennachzug erfasst"
+            "Familiennachzug ist im internationalen Flüchtlingsrecht generell ausgeschlossen",
+            "Anerkannt als Empfehlung der GFK-Schlussakte, national unterschiedlich konkretisiert",
+            "Nur Ehepartner, niemals minderjährige Kinder, sind vom Familiennachzug erfasst",
+            "Er ist in der GFK selbst als striktes, unmittelbar einklagbares Individualrecht ausgestaltet"
           ],
           "a": 1,
           "e": "Der Grundsatz der Familieneinheit findet sich als Empfehlung in der Schlussakte der GFK-Konferenz, nicht als bindende Konventionsnorm selbst, und wird durch regionales sowie nationales Recht in unterschiedlichem Umfang konkretisiert.",
@@ -5714,24 +5714,24 @@
         {
           "q": "Verlangt das WÜD, dass sich die Räumlichkeiten einer diplomatischen Mission im Eigentum des Entsendestaats befinden?",
           "o": [
-            "Nein; auch angemietete Räumlichkeiten genießen den vollen Schutz des WÜD, entscheidend ist die tatsächliche Nutzung für Missionszwecke, nicht die Eigentumsform",
-            "Ja, Eigentum ist zwingende Voraussetzung für den Schutz der Missionsräumlichkeiten",
             "Nur Räumlichkeiten im Eigentum, niemals gemietete, dürfen überhaupt als Mission genutzt werden",
-            "Die Eigentumsfrage wird ausschließlich vom Empfangsstaat einseitig entschieden"
+            "Nein; auch angemietete Räumlichkeiten genießen den vollen Schutz des WÜD",
+            "Die Eigentumsfrage wird ausschließlich vom Empfangsstaat einseitig entschieden",
+            "Ja, Eigentum ist zwingende Voraussetzung für den Schutz der Missionsräumlichkeiten"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Der Schutz der Missionsräumlichkeiten knüpft an ihre tatsächliche Nutzung für Zwecke der Mission an, nicht an die Eigentumsform – angemietete Räumlichkeiten, wie in der Praxis die Regel, genießen denselben vollen Schutz wie im Eigentum des Entsendestaats stehende.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Kann sich ein Diplomat auf eine im Empfangsstaat abgeschlossene private Miet- oder Kreditvereinbarung berufen, wenn er zugleich seine Immunität von der Zivilgerichtsbarkeit geltend macht?",
           "o": [
-            "Nein, die Immunität schließt aus, dass sich der Diplomat auf eigene vertragliche Ansprüche berufen kann",
-            "Ja, die Immunität schützt den Diplomaten nur davor, verklagt zu werden; sie hindert ihn nicht daran, selbst als Kläger vor Gericht aufzutreten",
+            "Private Verträge von Diplomaten sind völkerrechtlich von vornherein nichtig",
             "Nur mit ausdrücklicher Zustimmung des Entsendestaats darf der Diplomat selbst klagen",
-            "Private Verträge von Diplomaten sind völkerrechtlich von vornherein nichtig"
+            "Ja; die Immunität schützt nur vor Verklagtwerden, nicht vor eigenem Klagen",
+            "Nein, die Immunität schließt aus, dass sich der Diplomat auf eigene vertragliche Ansprüche berufen kann"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Die Immunität schützt den Diplomaten als Beklagten vor fremder Gerichtsbarkeit; sie hindert ihn jedoch nicht daran, selbst als Kläger aufzutreten – wer aber klagt, unterwirft sich insoweit regelmäßig einer möglichen Widerklage in demselben Verfahren.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -5750,12 +5750,12 @@
         {
           "q": "Welche historische Bedeutung hat der sogenannte „Asylkompromiss\" von 1993 für Art. 16a GG?",
           "o": [
-            "Er führte erstmals überhaupt ein Asylrecht in Deutschland ein",
             "Er übertrug die Zuständigkeit für Asylentscheidungen vollständig auf die Vereinten Nationen",
-            "Er schaffte das Grundrecht auf Asyl vollständig ab",
-            "Er ergänzte das ursprünglich vorbehaltlos formulierte Asylgrundrecht um Einschränkungen, insbesondere die Drittstaatenregelung für die Einreise über sichere Drittstaaten"
+            "Er schaffte das Grundrecht auf Asyl in Deutschland vollständig ab",
+            "Er ergänzte das vorbehaltlose Asylgrundrecht um die Drittstaatenregelung",
+            "Er führte erstmals überhaupt ein Grundrecht auf Asyl in Deutschland ein"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Der „Asylkompromiss\" von 1993 ergänzte das ursprünglich vorbehaltlos gewährte Asylgrundrecht um wesentliche Einschränkungen – insbesondere den Ausschluss bei Einreise über einen sicheren Drittstaat –, ohne das Grundrecht als solches abzuschaffen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -6044,12 +6044,12 @@
         {
           "q": "Kann ein Diplomat selbst auf seine Immunität von der Zivilgerichtsbarkeit verzichten?",
           "o": [
-            "Ein Verzicht auf Immunität ist völkerrechtlich generell ausgeschlossen",
             "Ja, jeder Diplomat kann jederzeit eigenständig auf seine Immunität verzichten",
-            "Nur der Empfangsstaat kann auf die Immunität eines fremden Diplomaten verzichten",
-            "Nein; der Verzicht kann nach Art. 32 WÜD nur durch den Entsendestaat erklärt werden, da geschützt letztlich der Staat und nicht die Person ist"
+            "Nein; nach Art. 32 WÜD kann nur der Entsendestaat verzichten",
+            "Ein Verzicht auf Immunität ist völkerrechtlich generell ausgeschlossen",
+            "Nur der Empfangsstaat kann auf die Immunität eines fremden Diplomaten verzichten"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Da die diplomatische Immunität letztlich dem Entsendestaat und nicht der Einzelperson dient, kann nach Art. 32 WÜD auch nur der Entsendestaat wirksam auf sie verzichten – der Diplomat selbst ist dazu nicht befugt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -6068,21 +6068,21 @@
         {
           "q": "Was regeln die Ausschlussklauseln des Art. 1 F GFK im Kern?",
           "o": [
-            "Sie schließen grundsätzlich jeden Antragsteller ohne gültige Ausweispapiere aus",
             "Sie betreffen ausschließlich Personen mit doppelter Staatsangehörigkeit",
-            "Sie versagen den Flüchtlingsschutz Personen, bei denen schwerwiegende Gründe für Kriegsverbrechen, Verbrechen gegen die Menschlichkeit, schwere nichtpolitische Straftaten oder Handlungen gegen die Ziele der Vereinten Nationen sprechen",
-            "Sie gelten nur für Personen, die vor 1951 verfolgt wurden"
+            "Sie schließen grundsätzlich jeden Antragsteller ohne gültige Ausweispapiere aus",
+            "Sie gelten nur für Personen, die bereits vor 1951 verfolgt worden sind",
+            "Sie versagen den Schutz bei Kriegsverbrechen und schweren nichtpolitischen Straftaten"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Die Ausschlussklauseln des Art. 1 F GFK versagen den Flüchtlingsschutz von vornherein Personen, bei denen schwerwiegende Gründe für die Annahme bestehen, sie hätten sich schwerster völkerrechtlicher Verbrechen schuldig gemacht oder gegen die Ziele der Vereinten Nationen gehandelt.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Bedeutung hat der Begriff „Refugee sur place\" im Flüchtlingsrecht?",
           "o": [
-            "Er bezeichnet einen Flüchtling, der erst nach Verlassen seines Herkunftslandes zum Flüchtling wird, etwa durch Ereignisse im Heimatland während seiner Abwesenheit oder durch eigenes exilpolitisches Handeln",
+            "Eine Person, die erst nach Verlassen des Herkunftslands zum Flüchtling wird",
             "Er bezeichnet ausschließlich Binnenvertriebene innerhalb des eigenen Landes",
-            "Der Begriff ist in der GFK ausdrücklich verboten",
+            "Der Begriff wird in der GFK ausdrücklich als unzulässig bezeichnet",
             "Er betrifft nur Personen, die bereits vor der Ausreise als Flüchtlinge anerkannt waren"
           ],
           "a": 0,
@@ -6315,23 +6315,23 @@
           "q": "Welche drei Ausnahmen von der Immunität eines Diplomaten von der Zivilgerichtsbarkeit des Empfangsstaats nennt Art. 31 Abs. 1 WÜD?",
           "o": [
             "Verkehrsdelikte, Steuerschulden und familienrechtliche Streitigkeiten",
-            "Es bestehen überhaupt keine Ausnahmen von der Zivilimmunität",
-            "Dingliche Klagen über privates Grundeigentum im Empfangsstaat, Nachlassverfahren als Privatperson, sowie Klagen aus außerdienstlicher freiberuflicher oder gewerblicher Tätigkeit",
-            "Nur Klagen des Entsendestaats gegen den eigenen Diplomaten"
+            "Es bestehen überhaupt keine Ausnahmen von der zivilrechtlichen Immunität",
+            "Nur Klagen des Entsendestaats gegen seinen eigenen Diplomaten",
+            "Dingliche Klagen über Grundeigentum, Nachlassverfahren, gewerbliche Tätigkeit"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Art. 31 Abs. 1 WÜD nennt abschließend drei enge Ausnahmen von der sonst umfassenden Zivilimmunität: private dingliche Rechte an nicht-missionsbezogenen Immobilien, private Nachlassverfahren und außerdienstliche freiberufliche oder gewerbliche Tätigkeit.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Wann beginnen und enden die persönlichen Vorrechte eines Diplomaten nach Art. 39 WÜD zeitlich?",
           "o": [
-            "Sie beginnen mit der Einreise zum Dienstantritt und enden grundsätzlich mit der Ausreise nach Funktionsende, wobei die Immunität für Amtshandlungen fortbesteht",
             "Sie gelten unabhängig von jedem konkreten Zeitpunkt dauerhaft und lebenslang",
             "Sie enden automatisch nach fünf Dienstjahren, unabhängig vom tatsächlichen Funktionsende",
-            "Sie beginnen erst mit der förmlichen Akkreditierung beim Staatsoberhaupt, nicht schon mit der Einreise"
+            "Sie beginnen erst mit der förmlichen Akkreditierung beim Staatsoberhaupt, nicht schon mit der Einreise",
+            "Beginn mit der Einreise, Ende mit der Ausreise; Amtshandlungsimmunität bleibt"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Nach Art. 39 WÜD beginnen die Vorrechte mit der Einreise zum Dienstantritt und enden grundsätzlich mit der Ausreise nach Beendigung der Funktion – die Immunität für während der Amtszeit vorgenommene Amtshandlungen besteht jedoch darüber hinaus fort.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -6350,22 +6350,22 @@
         {
           "q": "Welche Rechtsnatur haben die vom UNHCR-Exekutivkomitee verabschiedeten Schlussfolgerungen (Conclusions)?",
           "o": [
-            "Sie ersetzen die Genfer Flüchtlingskonvention",
-            "Sie werden vom VN-Sicherheitsrat förmlich in Kraft gesetzt",
-            "Sie sind rechtlich nicht bindend, prägen aber einflussreich die Praxis des internationalen Flüchtlingsschutzes",
-            "Sie sind unmittelbar bindende völkerrechtliche Verträge"
+            "Sie ersetzen die Genfer Flüchtlingskonvention als Rechtsgrundlage",
+            "Sie sind unmittelbar bindende völkerrechtliche Verträge eigener Art",
+            "Sie werden vom VN-Sicherheitsrat förmlich als bindend in Kraft gesetzt",
+            "Rechtlich nicht bindend, aber praxisprägend für den Flüchtlingsschutz"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Die Schlussfolgerungen des ExCom sind rechtlich nicht bindend, gelten aber als einflussreiche Interpretationshilfe und prägen die Praxis des internationalen Flüchtlingsschutzes maßgeblich mit.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Was regeln die Beendigungsklauseln des Art. 1 C GFK, im Unterschied zu den Ausschlussklauseln des Art. 1 F?",
           "o": [
-            "Beide Klauseln regeln identische Sachverhalte mit unterschiedlichem Wortlaut",
-            "Die Beendigungsklauseln gelten nur für minderjährige Flüchtlinge",
             "Nur die Ausschlussklauseln, nicht die Beendigungsklauseln, sind in der GFK überhaupt geregelt",
-            "Die Beendigungsklauseln lassen einen bereits zuerkannten Flüchtlingsstatus nachträglich enden, etwa bei Wegfall der Verfolgungsgefahr, während die Ausschlussklauseln die Zuerkennung von vornherein verhindern"
+            "Die Beendigungsklauseln gelten nur für minderjährige anerkannte Flüchtlinge",
+            "Beide Klauseln regeln identische Sachverhalte mit unterschiedlichem Wortlaut",
+            "Sie beenden einen zuerkannten Status nachträglich, die Ausschlussklauseln verhindern ihn"
           ],
           "a": 3,
           "e": "Die Beendigungsklauseln beenden einen bereits zuerkannten Flüchtlingsstatus nachträglich, etwa bei freiwilliger Rückkehr unter den Schutz des Herkunftsstaats oder Wegfall der Verfolgungsgefahr; die Ausschlussklauseln verhindern demgegenüber schon die erstmalige Zuerkennung bei schwerem Fehlverhalten.",
@@ -6620,12 +6620,12 @@
         {
           "q": "Begründet das WÜD ein allgemeines Recht auf diplomatisches Asyl für Personen, die auf dem Missionsgelände Schutz suchen?",
           "o": [
+            "Ja, jede verfolgte Person hat danach einen unmittelbaren Asylanspruch gegenüber der Mission",
             "Nur Staatsoberhäupter können auf Missionsgelände Asyl erhalten, keine anderen Personen",
-            "Nein; das WÜD selbst begründet kein allgemeines Recht auf diplomatisches Asyl, doch kann die tatsächliche Unverletzlichkeit der Räumlichkeiten faktisch vorübergehenden Schutz bieten, ohne den zugrunde liegenden völkerrechtlichen Streit zu lösen",
             "Diplomatisches Asyl ist nach dem WÜD ausdrücklich verboten und führt zum automatischen Verlust der Missionsimmunität",
-            "Ja, jede verfolgte Person hat danach einen unmittelbaren Asylanspruch gegenüber der Mission"
+            "Nein; das WÜD begründet kein Asylrecht, die Unverletzlichkeit schützt faktisch"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Das WÜD selbst regelt kein Recht auf diplomatisches Asyl; die tatsächliche Unverletzlichkeit der Missionsräume kann faktisch dennoch vorübergehenden Schutz bieten, wie im Fall Assange – der zugrunde liegende völkerrechtliche Streit über die Zulässigkeit bleibt davon unberührt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -6634,10 +6634,10 @@
           "o": [
             "Die Pflicht zur Gesetzesbeachtung gilt nur für das Verwaltungs- und technische Personal, nicht für Diplomaten selbst",
             "Bevorrechtigte Personen unterliegen überhaupt keinen Pflichten gegenüber dem Empfangsstaat",
-            "Unbeschadet ihrer Vorrechte und Immunitäten haben alle Bevorrechtigten die Pflicht, die Gesetze und sonstigen Vorschriften des Empfangsstaats zu beachten und sich nicht in dessen innere Angelegenheiten einzumischen",
-            "Art. 41 WÜD wurde 1961 zunächst beschlossen, aber nie in Kraft gesetzt"
+            "Art. 41 WÜD wurde 1961 zunächst beschlossen, aber nie in Kraft gesetzt",
+            "Bevorrechtigte müssen die Gesetze beachten und sich nicht einmischen"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Die Vorrechte befreien nicht von der materiellen Pflicht zur Beachtung der Gesetze des Empfangsstaats – Immunität verschafft nur ein Verfahrenshindernis, keinen Freibrief; ergänzend verpflichtet Art. 41 WÜD zur Nichteinmischung in innere Angelegenheiten.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -6668,10 +6668,10 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Flüchtlingseigenschaft nach der GFK deklaratorisch, nicht konstitutiv wirkt?",
           "o": [
+            "Die deklaratorische Wirkung wurde durch das New Yorker Protokoll von 1967 abgeschafft",
+            "Flüchtling ist man mit Vorliegen des Art. 1 A GFK; die Anerkennung stellt das nur fest",
             "Die Flüchtlingseigenschaft entsteht erst mit der Ausstellung eines Reiseausweises",
-            "Eine Person ist bereits Flüchtling, sobald die materiellen Voraussetzungen des Art. 1 A GFK vorliegen; die spätere behördliche Anerkennung stellt dies nur förmlich fest, begründet die Eigenschaft aber nicht erst",
-            "Eine Person wird erst durch die förmliche Anerkennung eines Staates zum Flüchtling",
-            "Die deklaratorische Wirkung wurde durch das New Yorker Protokoll von 1967 abgeschafft"
+            "Eine Person wird erst durch die förmliche Anerkennung eines Staates zum Flüchtling"
           ],
           "a": 1,
           "e": "Da die Flüchtlingsanerkennung deklaratorisch wirkt, ist eine Person bereits Flüchtling, sobald die materiellen Voraussetzungen vorliegen – die behördliche Anerkennung stellt dies nur nachträglich förmlich fest, mit entsprechenden Konsequenzen etwa für den Beginn des Schutzes vor Refoulement.",
@@ -6680,12 +6680,12 @@
         {
           "q": "Was bedeutet der Grundsatz der Verhältnismäßigkeit bei aufenthaltsbeendenden Maßnahmen gegenüber anerkannten Flüchtlingen nach Art. 32 GFK?",
           "o": [
-            "Eine Ausweisung darf nur aus Gründen der Staatssicherheit oder öffentlichen Ordnung erfolgen und muss in einem geordneten, dem Gewicht des Eingriffs angemessenen Verfahren erfolgen",
             "Verhältnismäßigkeit spielt bei Ausweisungsentscheidungen gegenüber Flüchtlingen keine Rolle",
-            "Jede noch so geringfügige Ordnungswidrigkeit rechtfertigt bereits die Ausweisung",
-            "Nur wirtschaftliche Erwägungen des Aufnahmestaats rechtfertigen eine Ausweisung"
+            "Nur aus Gründen der Staatssicherheit oder öffentlichen Ordnung und in einem angemessenen Verfahren",
+            "Jede noch so geringfügige Ordnungswidrigkeit rechtfertigt bereits die Ausweisung des Flüchtlings",
+            "Allein wirtschaftliche Erwägungen des Aufnahmestaats rechtfertigen eine Ausweisung"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Art. 32 GFK beschränkt die Ausweisung rechtmäßig aufhältiger Flüchtlinge auf die engen Gründe der Staatssicherheit oder öffentlichen Ordnung und verlangt ein dem Gewicht des Eingriffs angemessenes, geordnetes Verfahren – ein eigenständiger, über das bloße Non-Refoulement-Verbot hinausgehender Schutz.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -6914,22 +6914,22 @@
         {
           "q": "Kann ein Missionschef nach dem WÜD gleichzeitig mehrere Empfangsstaaten vertreten?",
           "o": [
-            "Nein, ein Missionschef darf stets nur einen einzigen Empfangsstaat gleichzeitig vertreten",
-            "Nur Botschafter, niemals Geschäftsträger, dürfen mehrfach akkreditiert werden",
             "Eine Mehrfachakkreditierung ist nur mit Zustimmung des VN-Sicherheitsrats möglich",
-            "Ja, sofern keiner der beteiligten Empfangsstaaten widerspricht, kann derselbe Missionschef nach Art. 5 WÜD bei mehreren Staaten gleichzeitig akkreditiert werden"
+            "Ja; nach Art. 5 WÜD ist Mehrfachakkreditierung ohne Widerspruch möglich",
+            "Nur Botschafter, niemals Geschäftsträger, dürfen mehrfach akkreditiert werden",
+            "Nein, ein Missionschef darf stets nur einen einzigen Empfangsstaat gleichzeitig vertreten"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Art. 5 WÜD erlaubt die Mehrfachakkreditierung eines Missionschefs bei mehreren Staaten, sofern keiner der betroffenen Empfangsstaaten widerspricht – in der Praxis häufig bei kleineren Staaten mit begrenzten diplomatischen Ressourcen genutzt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Können mehrere Staaten gemeinsam eine einzige diplomatische Mission bei einem Empfangsstaat unterhalten?",
           "o": [
-            "Ja, sofern der Empfangsstaat dem nicht widerspricht, können mehrere Staaten nach Art. 6 WÜD gemeinsam eine Mission unterhalten",
+            "Ja; nach Art. 6 WÜD ist eine gemeinsame Mission ohne Widerspruch möglich",
             "Nein, jeder Staat muss stets eine vollständig eigenständige Mission unterhalten",
-            "Gemeinsame Missionen sind nach dem WÜD ausdrücklich verboten",
-            "Eine gemeinsame Mission ist nur innerhalb der Europäischen Union zulässig"
+            "Eine gemeinsame Mission ist nur innerhalb der Europäischen Union zulässig",
+            "Gemeinsame Missionen sind im WÜD ausdrücklich verboten worden"
           ],
           "a": 0,
           "e": "Art. 6 WÜD erlaubt es mehreren Staaten, gemeinsam eine Mission bei demselben Empfangsstaat zu unterhalten, sofern dieser nicht widerspricht – eine in der Praxis seltene, aber rechtlich anerkannte Gestaltungsmöglichkeit, etwa aus Kostengründen.",
@@ -6938,12 +6938,12 @@
         {
           "q": "Genießen Diplomaten nach Art. 26 WÜD grundsätzlich Bewegungsfreiheit im gesamten Hoheitsgebiet des Empfangsstaats?",
           "o": [
-            "Die Bewegungsfreiheit wurde durch das WÜD ausdrücklich ausgeschlossen",
-            "Ja, vorbehaltlich der Gesetze über Zonen, deren Betreten aus Gründen der nationalen Sicherheit verboten oder geregelt ist",
+            "Ja, vorbehaltlich der Gesetze über Sperrzonen der nationalen Sicherheit",
             "Nein, Diplomaten dürfen sich ausschließlich innerhalb der Hauptstadt des Empfangsstaats bewegen",
-            "Bewegungsfreiheit besteht nur mit tagesaktueller Einzelgenehmigung für jede Reise"
+            "Bewegungsfreiheit besteht nur mit tagesaktueller Einzelgenehmigung für jede Reise",
+            "Die Bewegungsfreiheit wurde durch das WÜD ausdrücklich ausgeschlossen"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Art. 26 WÜD gewährt Diplomaten grundsätzlich Bewegungs- und Reisefreiheit im Hoheitsgebiet des Empfangsstaats, vorbehaltlich gesetzlich festgelegter Sicherheitszonen – ein wichtiges praktisches Recht jenseits der bekannteren Immunitätsvorschriften.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -6974,10 +6974,10 @@
         {
           "q": "Sind alle Bestimmungen der GFK gleichermaßen vorbehaltsfähig?",
           "o": [
-            "Ja, jede Bestimmung der GFK kann ohne Ausnahme vorbehalten werden",
-            "Nein; während Kernbestimmungen wie Art. 33 (Non-Refoulement) und Art. 1 nach Art. 42 GFK nicht vorbehaltsfähig sind, können Vertragsstaaten zu zahlreichen anderen Bestimmungen durchaus Vorbehalte erklären",
+            "Nein, die GFK schließt jeden Vorbehalt ausnahmslos für alle Bestimmungen aus",
+            "Nein; Kernbestimmungen wie Art. 33 und Art. 1 sind nach Art. 42 GFK nicht vorbehaltsfähig",
             "Vorbehalte sind nur bei Beitritt, niemals bei ursprünglicher Ratifikation, möglich",
-            "Nein, die GFK schließt jeden Vorbehalt ausnahmslos für alle Bestimmungen aus"
+            "Ja, jede einzelne Bestimmung der GFK kann ohne Ausnahme vorbehalten werden"
           ],
           "a": 1,
           "e": "Art. 42 GFK schließt Vorbehalte nur zu bestimmten Kernvorschriften wie dem Non-Refoulement-Verbot und der Flüchtlingsdefinition aus; zu vielen anderen Bestimmungen der Konvention haben Vertragsstaaten in der Praxis durchaus Vorbehalte erklärt.",
@@ -6986,12 +6986,12 @@
         {
           "q": "Regelt die Genfer Flüchtlingskonvention auch den Schutz Staatenloser, die nicht zugleich Flüchtlinge sind?",
           "o": [
-            "Nein; der Schutz Staatenloser ist eigenständig in den Übereinkommen von 1954 (Rechtsstellung Staatenloser) und 1961 (Verminderung von Staatenlosigkeit) geregelt, getrennt von der GFK",
-            "Staatenlosigkeit ist völkerrechtlich überhaupt nicht geregelt",
+            "Der Schutz Staatenloser wurde im Jahr 2018 vollständig in die GFK integriert",
+            "Nein; Staatenlose schützen eigenständig die Übereinkommen von 1954 und 1961",
             "Ja, die GFK regelt umfassend sowohl Flüchtlings- als auch Staatenlosenschutz in einem einzigen Instrument",
-            "Der Schutz Staatenloser wurde 2018 vollständig in die GFK integriert"
+            "Staatenlosigkeit ist völkerrechtlich bislang überhaupt nicht geregelt"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Der Schutz Staatenloser bildet ein eigenständiges Regelungsfeld, getrennt von der GFK: das Übereinkommen von 1954 regelt die Rechtsstellung Staatenloser, das Übereinkommen von 1961 zielt auf die Verminderung von Staatenlosigkeit – beide ergänzen, ersetzen aber nicht die GFK.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -7196,12 +7196,12 @@
         {
           "q": "Genießen Kraftfahrzeuge einer diplomatischen Mission automatisch Immunität von allgemeinen Verkehrsvorschriften des Empfangsstaats?",
           "o": [
-            "Nur Fahrzeuge des Missionschefs selbst, nicht des übrigen Personals, genießen Vorteile",
             "Ja, Diplomatenfahrzeuge sind von jeder Verkehrsregel vollständig ausgenommen",
-            "Nein; die materiellen Verkehrsvorschriften bleiben grundsätzlich anwendbar, doch verhindert die persönliche und sachliche Immunität regelmäßig eine tatsächliche Durchsetzung, etwa durch Bußgeld- oder Strafverfahren",
-            "Kraftfahrzeuge einer Mission unterliegen ausschließlich dem Recht des Entsendestaats"
+            "Nur Fahrzeuge des Missionschefs selbst, nicht des übrigen Personals, genießen Vorteile",
+            "Kraftfahrzeuge einer Mission unterliegen ausschließlich dem Recht des Entsendestaats",
+            "Nein; die Verkehrsvorschriften gelten, nur ihre Durchsetzung scheitert"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Verkehrsregeln gelten materiell auch für Diplomatenfahrzeuge fort; die praktische Durchsetzung – etwa Bußgelder oder Strafverfahren – scheitert aber regelmäßig an der persönlichen Immunität des Fahrers, was in der Praxis zu bekannten Spannungen um unbezahlte Strafzettel führt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -7209,7 +7209,7 @@
           "q": "Schreibt das WÜD eine bestimmte Sprache für den diplomatischen Verkehr zwischen Mission und Empfangsstaat vor?",
           "o": [
             "Ja, zwingend ist stets Englisch als diplomatische Verkehrssprache zu verwenden",
-            "Nein, das WÜD trifft hierzu keine Vorgabe; in der Praxis wird meist die Landessprache des Empfangsstaats oder eine anderweitig vereinbarte Sprache verwendet",
+            "Nein; das WÜD trifft keine Vorgabe zur Sprache des diplomatischen Verkehrs",
             "Die Sprachwahl unterliegt der alleinigen Entscheidung des VN-Sicherheitsrats",
             "Zwingend vorgeschrieben ist stets Französisch als traditionelle Diplomatensprache"
           ],
@@ -7244,24 +7244,24 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz des „Non-Penalization\" (Straflosigkeit) nach Art. 31 GFK für illegal eingereiste Flüchtlinge?",
           "o": [
-            "Der Grundsatz gilt nur für Flüchtlinge, die bereits offiziell als solche anerkannt sind, nicht für Asylsuchende während des Verfahrens",
+            "Keine Bestrafung für unrechtmäßige Einreise, wenn sie sich unverzüglich melden",
             "Non-Penalization ist ein rein politisches Prinzip ohne jede rechtliche Grundlage in der GFK",
-            "Flüchtlinge dürfen für ihre unrechtmäßige Einreise oder ihren unrechtmäßigen Aufenthalt nicht bestraft werden, sofern sie sich unverzüglich bei den Behörden melden und triftige Gründe für die irreguläre Einreise vorliegen",
-            "Flüchtlinge genießen ausnahmslose Straflosigkeit für jede in ihrem Aufnahmestaat begangene Straftat"
+            "Flüchtlinge genießen ausnahmslose Straflosigkeit für jede in ihrem Aufnahmestaat begangene Straftat",
+            "Der Grundsatz gilt nur für Flüchtlinge, die bereits offiziell als solche anerkannt sind, nicht für Asylsuchende während des Verfahrens"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Art. 31 GFK schützt Flüchtlinge vor Bestrafung wegen unrechtmäßiger Einreise oder Aufenthalts, sofern sie unverzüglich bei den Behörden vorstellig werden und plausible Gründe für die irreguläre Einreise darlegen – ein zentraler, oft übersehener Schutzmechanismus jenseits des Non-Refoulement-Verbots.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Bedeutung hat der Grundsatz der „ersten sicheren Zuflucht\" (first country of asylum) in der Praxis des internationalen Flüchtlingsschutzes?",
           "o": [
-            "Er ist in der GFK selbst als ausdrückliche, bindende Regel verankert",
+            "Er dient der Prüfung, ob der Antragsteller anderswo bereits wirksamen Schutz gefunden hat",
             "Der Grundsatz betrifft ausschließlich die Verteilung finanzieller Lasten zwischen Aufnahmestaaten",
-            "Er verpflichtet Staaten rechtlich zwingend, jeden Antrag eines bereits in einem anderen sicheren Staat gewesenen Flüchtlings automatisch abzulehnen",
-            "Der Grundsatz wird in der Staatenpraxis herangezogen, um zu prüfen, ob ein Antragsteller bereits in einem anderen Staat wirksamen Schutz gefunden hat oder hätte finden können, ohne dass dies allein bereits eine Ablehnung zwingend zur Folge hätte"
+            "Er ist in der GFK selbst als ausdrückliche und bindende Regel verankert",
+            "Er verpflichtet Staaten rechtlich zwingend, jeden Antrag eines bereits in einem anderen sicheren Staat gewesenen Flüchtlings automatisch abzulehnen"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Der Gedanke der „ersten sicheren Zuflucht\" prägt viele nationale und regionale Asylsysteme als Prüfkriterium, ist aber kein zwingender, in der GFK selbst verankerter Automatismus – seine konkrete rechtliche Ausgestaltung variiert erheblich zwischen den Rechtsordnungen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -7503,20 +7503,20 @@
           "q": "Ist ein Diplomat verpflichtet, vor einem Gericht des Empfangsstaats als Zeuge auszusagen?",
           "o": [
             "Die Zeugnispflicht besteht nur für Verwaltungs- und technisches Personal, nicht für Diplomaten selbst",
-            "Nein; ein Diplomat ist nach Art. 31 Abs. 2 WÜD nicht verpflichtet, als Zeuge auszusagen, kann dies aber freiwillig tun",
-            "Ein Diplomat darf unter keinen Umständen als Zeuge aussagen, selbst wenn er dies möchte",
-            "Ja, die Zeugnispflicht besteht uneingeschränkt wie für jede andere Person auch"
+            "Ja, die Zeugnispflicht besteht uneingeschränkt wie für jede andere Person auch",
+            "Nein; nach Art. 31 Abs. 2 WÜD besteht keine Zeugnispflicht",
+            "Ein Diplomat darf unter keinen Umständen als Zeuge aussagen, selbst wenn er dies möchte"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Art. 31 Abs. 2 WÜD befreit Diplomaten von der Pflicht zur Zeugenaussage vor Gerichten des Empfangsstaats – eine freiwillige Aussage bleibt ihnen aber unbenommen, sofern der Entsendestaat dem nicht widerspricht.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Bedarf die Ernennung des übrigen Missionspersonals – anders als die des Missionschefs – der vorherigen Zustimmung des Empfangsstaats?",
           "o": [
-            "Ja, jedes einzelne Mitglied der Mission bedarf eines eigenen Agréments wie der Missionschef selbst",
-            "Nein, der Entsendestaat kann sein übriges Personal grundsätzlich frei ernennen; lediglich für bestimmte Kategorien wie Militär-, Marine- oder Luftwaffenattachés kann der Empfangsstaat vorherige Zustimmung verlangen",
             "Das übrige Personal bedarf stets der Zustimmung des VN-Sicherheitsrats",
+            "Nein; frei, außer bei Militär-, Marine- und Luftwaffenattachés",
+            "Ja, jedes einzelne Mitglied der Mission bedarf eines eigenen Agréments wie der Missionschef selbst",
             "Für das übrige Personal besteht überhaupt keine Notifikationspflicht gegenüber dem Empfangsstaat"
           ],
           "a": 1,
@@ -7550,12 +7550,12 @@
         {
           "q": "Welche Rolle spielt die Glaubhaftmachung im Verfahren zur Feststellung der Flüchtlingseigenschaft, angesichts der oft schwierigen Beweislage von Antragstellenden?",
           "o": [
-            "Angesichts der typischen Beweisschwierigkeiten Verfolgter genügt nach anerkannten Grundsätzen eine Glaubhaftmachung; im Zweifel kann der Grundsatz „in dubio pro refugio\" zugunsten des Antragstellenden wirken",
             "Die Beweislast liegt ausschließlich und vollständig beim Aufnahmestaat, niemals beim Antragstellenden",
+            "Es genügt eine Glaubhaftmachung; im Zweifel gilt „in dubio pro refugio\"",
             "Antragstellende müssen jede einzelne Tatsache mit demselben strengen Beweismaß wie im Strafprozess zweifelsfrei nachweisen",
             "Eine Glaubhaftmachung ist im Flüchtlingsrecht grundsätzlich unzulässig, es gilt ausschließlich der Urkundenbeweis"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Da Verfolgte häufig keine lückenlosen Beweismittel vorlegen können, genügt nach anerkannten Grundsätzen eine schlüssige Glaubhaftmachung der Verfolgungsgeschichte; verbleibende Zweifel können im Rahmen des Grundsatzes „in dubio pro refugio\" zugunsten des Antragstellenden gewürdigt werden.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -7563,11 +7563,11 @@
           "q": "Welche Bedeutung hat die Anhörung des Antragstellenden im Asylverfahren?",
           "o": [
             "Eine persönliche Anhörung ist grundsätzlich entbehrlich und kann stets durch ein rein schriftliches Verfahren ersetzt werden",
-            "Die persönliche Anhörung gilt als zentrales rechtsstaatliches Element zur Sachverhaltsaufklärung und Wahrung des rechtlichen Gehörs im Asylverfahren",
             "Eine Anhörung findet nur bei Antragstellenden aus bestimmten Herkunftsländern statt",
-            "Die Anhörung dient ausschließlich statistischen Zwecken ohne Einfluss auf die Entscheidung"
+            "Sie ist zentrales Element der Sachverhaltsaufklärung und des rechtlichen Gehörs",
+            "Sie darf entfallen, wenn der Antragstellende bereits in einem anderen Staat angehört wurde"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Die persönliche Anhörung ermöglicht es, die individuelle Verfolgungsgeschichte im Detail zu erfassen und Widersprüche oder offene Fragen zu klären – ein rechtsstaatlich zentrales Element des Asylverfahrens zur Wahrung des rechtlichen Gehörs.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -7796,24 +7796,24 @@
         {
           "q": "Wer stellt den offiziellen Diplomatenausweis aus, der den Status eines Diplomaten im Empfangsstaat nachweist?",
           "o": [
-            "Der Internationale Gerichtshof",
-            "Der Entsendestaat selbst",
-            "Ausschließlich das VN-Sekretariat",
-            "Das Außenministerium bzw. die zuständige Behörde des Empfangsstaats"
+            "Das Außenministerium des Empfangsstaats",
+            "Der Entsendestaat durch sein eigenes Außenministerium",
+            "Der Internationale Gerichtshof in Den Haag",
+            "Ausschließlich das Sekretariat der Vereinten Nationen"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Der Diplomatenausweis wird von der zuständigen Behörde des Empfangsstaats – regelmäßig dem Außenministerium – ausgestellt und dient als praktischer Nachweis des diplomatischen Status gegenüber Dritten, etwa Sicherheitsbehörden.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Unterliegt der Bau oder Umbau eines Botschaftsgebäudes dem Baurecht des Empfangsstaats?",
           "o": [
-            "Nein, Missionsgebäude sind von jeder baurechtlichen Regelung des Empfangsstaats vollständig ausgenommen",
+            "Grundsätzlich ja, soweit es mit der Unverletzlichkeit vereinbar bleibt",
+            "Nur das Baurecht des Entsendestaats ist für Missionsgebäude maßgeblich",
             "Bauvorhaben bedürfen stets der vorherigen Zustimmung des VN-Sicherheitsrats",
-            "Grundsätzlich ja, das materielle Baurecht des Empfangsstaats bleibt anwendbar, soweit es nicht mit der Unverletzlichkeit und den Funktionserfordernissen der Mission unvereinbar ist",
-            "Nur das Baurecht des Entsendestaats ist für Missionsgebäude maßgeblich"
+            "Nein, Missionsgebäude sind von jeder baurechtlichen Regelung des Empfangsstaats vollständig ausgenommen"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Missionsgebäude unterliegen grundsätzlich dem materiellen Baurecht des Empfangsstaats, soweit dessen Anwendung nicht mit der Unverletzlichkeit der Räumlichkeiten oder den Funktionserfordernissen der Mission kollidiert – ein Beispiel für das Zusammenspiel von diplomatischem Sonderrecht und allgemeinem innerstaatlichem Recht.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -7844,24 +7844,24 @@
         {
           "q": "Worin unterscheidet sich der Widerruf des Flüchtlingsstatus vom Erlöschen des Flüchtlingsstatus?",
           "o": [
-            "Widerruf und Erlöschen betreffen ausschließlich minderjährige Flüchtlinge",
-            "Beide Begriffe bezeichnen exakt denselben Vorgang",
-            "Der Widerruf erfolgt regelmäßig bei nachträglich erkannten Ausschlussgründen oder Täuschung bei der ursprünglichen Anerkennung, während das Erlöschen an einen nachträglichen Wegfall der ursprünglichen Anerkennungsvoraussetzungen anknüpft",
-            "Nur der Widerruf, niemals das Erlöschen, ist in der GFK vorgesehen"
+            "Beide Begriffe bezeichnen exakt denselben Vorgang unter verschiedenen Namen",
+            "Der Widerruf knüpft an Täuschung an, das Erlöschen an nachträglichen Wegfall der Voraussetzungen",
+            "Widerruf und Erlöschen betreffen ausschließlich minderjährige anerkannte Flüchtlinge",
+            "Nur der Widerruf, niemals das Erlöschen, ist in der GFK überhaupt ausdrücklich vorgesehen"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Der Widerruf korrigiert typischerweise eine von Anfang an fehlerhafte Anerkennung, etwa bei nachträglich erkannten Ausschlussgründen oder Täuschung; das Erlöschen knüpft demgegenüber an eine nachträgliche, im Zeitpunkt der Anerkennung noch nicht vorliegende Veränderung der Umstände an, wie sie die Beendigungsklauseln des Art. 1 C GFK beschreiben.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Bedeutung hat der Grundsatz der Familieneinheit für die Anerkennungsentscheidung, wenn nur ein Familienmitglied die individuellen Verfolgungsvoraussetzungen der GFK erfüllt?",
           "o": [
-            "In der Praxis vieler Staaten wird abgeleiteter Schutz für Familienangehörige gewährt, die selbst keine eigenständige Verfolgung geltend machen, um die Einheit der Familie zu wahren",
+            "Der Grundsatz spielt für die Anerkennungsentscheidung überhaupt keine Rolle",
             "Familienangehörige müssen stets zwingend jeweils eine vollständig eigenständige Verfolgungsgeschichte nachweisen, ohne jede Ausnahme",
-            "Der Grundsatz gilt ausschließlich für Ehepartner, niemals für minderjährige Kinder",
-            "Der Grundsatz spielt für die Anerkennungsentscheidung überhaupt keine Rolle"
+            "In der Praxis wird abgeleiteter Schutz für Familienangehörige ohne eigene Verfolgung gewährt",
+            "Der Grundsatz gilt ausschließlich für Ehepartner, niemals für minderjährige Kinder"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Zum Schutz der Familieneinheit gewähren viele Staaten in der Praxis abgeleiteten Schutz für Familienangehörige eines anerkannten Flüchtlings, auch wenn diese selbst keine eigenständige individuelle Verfolgung geltend machen können – eine wichtige praktische Ergänzung zur individuellen Verfolgungsprüfung.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -7940,10 +7940,10 @@
         {
           "q": "Welche Bedeutung hat die Einladung zu einem offiziellen Staatsbesuch für den völkerrechtlichen Status des Gastes während seines Aufenthalts?",
           "o": [
-            "Die Vorrechte eines Staatsgastes richten sich ausschließlich nach dem WÜD, wie bei akkreditierten Diplomaten",
-            "Ein Staatsgast genießt überhaupt keine besonderen Vorrechte während seines Besuchs",
             "Nur Staatsoberhäupter, niemals Regierungschefs, genießen während offizieller Besuche besondere Vorrechte",
-            "Ein Staatsgast genießt während eines offiziellen Besuchs regelmäßig weitreichende, dem Diplomatenrecht vergleichbare Vorrechte und Unverletzlichkeit, gestützt auf eigenständiges Völkergewohnheitsrecht zur Troika-Immunität, unabhängig von einer formellen Akkreditierung als Missionsangehöriger"
+            "Ein Staatsgast genießt überhaupt keine besonderen Vorrechte während seines Besuchs",
+            "Die Vorrechte eines Staatsgastes richten sich ausschließlich nach dem WÜD, wie bei akkreditierten Diplomaten",
+            "Ja; er genießt gewohnheitsrechtliche Troika-Immunität ohne Akkreditierung"
           ],
           "a": 3,
           "e": "Amtierende Staatsoberhäupter, Regierungschefs und vergleichbare hochrangige Gäste genießen während offizieller Besuche regelmäßig weitreichende, dem Diplomatenrecht ähnliche Vorrechte und persönliche Unverletzlichkeit – gestützt auf eigenständiges Völkergewohnheitsrecht zur Troika-Immunität, nicht unmittelbar auf das WÜD selbst.",
@@ -8114,10 +8114,10 @@
         {
           "q": "Trifft den Empfangsstaat eine Pflicht, geeignete Schritte gegen Angriffe auf die Würde der Mission zu unternehmen, etwa bei Demonstrationen vor dem Botschaftsgelände?",
           "o": [
+            "Der Schutz der Würde der Mission ist ausschließlich Sache des Entsendestaats selbst",
             "Nein, der Empfangsstaat trägt hierfür überhaupt keine völkerrechtliche Verantwortung",
             "Diese Pflicht besteht nur gegenüber Missionen ständiger Sicherheitsratsmitglieder",
-            "Der Schutz der Würde der Mission ist ausschließlich Sache des Entsendestaats selbst",
-            "Ja, nach Art. 22 und Art. 29 WÜD muss der Empfangsstaat geeignete Maßnahmen ergreifen, um die Mission und ihre Würde vor Störung, Eindringen oder Beschädigung zu schützen"
+            "Ja; nach Art. 22 und 29 WÜD muss er Mission und Würde schützen"
           ],
           "a": 3,
           "e": "Der Empfangsstaat trifft nach Art. 22 und Art. 29 WÜD eine besondere Schutzpflicht, geeignete Maßnahmen gegen Eindringen, Beschädigung und Störung der Würde der Mission zu ergreifen – eine positive Handlungspflicht, die über bloße Nichteinmischung hinausgeht.",
@@ -8126,12 +8126,12 @@
         {
           "q": "Setzt die Aufnahme diplomatischer Beziehungen zwischen zwei Staaten zwingend die Errichtung einer ständigen Mission voraus?",
           "o": [
+            "Ständige Missionen sind völkerrechtlich ausnahmslos verpflichtend, sobald diplomatische Beziehungen aufgenommen wurden",
             "Ja, ohne ständige Mission bestehen keinerlei diplomatische Beziehungen",
-            "Nein; Staaten können diplomatische Beziehungen unterhalten, ohne notwendig eine ständige Mission im jeweils anderen Staat zu errichten, etwa über Doppel- oder Mehrfachakkreditierung von einem Drittstaat aus",
-            "Eine ständige Mission ist nur für VN-Mitgliedstaaten verzichtbar",
-            "Ständige Missionen sind völkerrechtlich ausnahmslos verpflichtend, sobald diplomatische Beziehungen aufgenommen wurden"
+            "Nein; Beziehungen sind auch ohne ständige Mission möglich",
+            "Eine ständige Mission ist nur für VN-Mitgliedstaaten verzichtbar"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Diplomatische Beziehungen und die Errichtung einer ständigen Mission sind rechtlich zu unterscheiden: Staaten können Beziehungen unterhalten, ohne vor Ort eine eigene Mission zu errichten, etwa durch Mehrfachakkreditierung eines in einem Drittstaat residierenden Missionschefs.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -8162,24 +8162,24 @@
         {
           "q": "Welche Bedeutung hat die Möglichkeit des sogenannten „subsidiären\" oder „ergänzenden\" Schutzes neben dem eigentlichen GFK-Flüchtlingsstatus?",
           "o": [
-            "Er erfasst Personen, die zwar nicht die engen Voraussetzungen der GFK-Flüchtlingsdefinition erfüllen, denen aber bei Rückkehr gleichwohl ein ernsthafter Schaden droht, etwa durch bewaffnete Konflikte oder unmenschliche Behandlung",
-            "Subsidiärer Schutz ist in der GFK selbst als eigene Kategorie ausdrücklich geregelt",
-            "Subsidiärer Schutz steht ausschließlich Staatenlosen offen",
-            "Subsidiärer Schutz ersetzt in jedem Fall vollständig den GFK-Flüchtlingsstatus"
+            "Subsidiärer Schutz ersetzt in jedem Fall vollständig den GFK-Flüchtlingsstatus",
+            "Subsidiärer Schutz steht ausschließlich staatenlosen Antragstellenden offen",
+            "Er erfasst Personen ohne GFK-Status, denen bei Rückkehr ernsthafter Schaden droht",
+            "Subsidiärer Schutz ist in der GFK selbst als eigene Kategorie ausdrücklich geregelt"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Subsidiärer bzw. ergänzender Schutz erfasst Personen, die zwar nicht unter die enge GFK-Flüchtlingsdefinition fallen, denen aber bei Rückkehr ein ernsthafter Schaden droht – ein wichtiges, in vielen Rechtsordnungen wie dem EU-Asylrecht eigenständig ausgestaltetes Schutzinstrument neben der eigentlichen GFK-Anerkennung.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Bedeutung hat der Verweis auf „innerstaatliche Fluchtalternativen\" in der Praxis mancher Asylverfahren?",
           "o": [
-            "Er bezeichnet die Prüfung, ob ein Antragsteller in einem anderen Landesteil seines Herkunftsstaats tatsächlich und zumutbar wirksamen Schutz vor der geltend gemachten Verfolgung hätte finden können",
-            "Er ist in der GFK selbst als zwingende, abschließend geregelte Ablehnungsvoraussetzung normiert",
             "Er bedeutet, dass ein Antrag stets automatisch abgelehnt werden muss, sobald irgendein Landesteil des Herkunftsstaats als sicher gilt, ohne weitere Prüfung",
-            "Er betrifft ausschließlich Staaten außerhalb Europas"
+            "Er betrifft ausschließlich Herkunftsstaaten außerhalb Europas",
+            "Er ist in der GFK selbst als zwingende, abschließend geregelte Ablehnungsvoraussetzung normiert",
+            "Die Prüfung, ob in einem anderen Landesteil zumutbar wirksamer Schutz bestünde"
           ],
-          "a": 0,
+          "a": 3,
           "e": "Die Prüfung einer innerstaatlichen Fluchtalternative untersucht, ob dem Antragsteller in einem anderen Landesteil tatsächlicher und zumutbarer Schutz zur Verfügung stünde – eine im Einzelfall sorgfältig zu prüfende, nicht automatisch zur Ablehnung führende Erwägung.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -8246,12 +8246,12 @@
         {
           "q": "Welche Konsequenz hat die persona-non-grata-Erklärung für einen bereits amtierenden Missionschef, im Unterschied zum ursprünglichen Agrément?",
           "o": [
+            "Der Empfangsstaat kann ihn nicht per Agrémentwiderruf, wohl aber per PNG abberufen lassen",
             "Ein Agrémentwiderruf führt automatisch zum Abbruch aller diplomatischen Beziehungen",
-            "Nur der Entsendestaat, niemals der Empfangsstaat, kann das Verbleiben des Missionschefs beenden",
             "Ein einmal erteiltes Agrément kann durch den Empfangsstaat später niemals in seiner Wirkung beeinträchtigt werden",
-            "Der Empfangsstaat kann einen bereits amtierenden Missionschef zwar nicht formal durch Agrémentwiderruf, wohl aber durch eine persona-non-grata-Erklärung faktisch zur Abberufung zwingen"
+            "Nur der Entsendestaat, niemals der Empfangsstaat, kann das Verbleiben des Missionschefs beenden"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Das Agrément betrifft die vorherige Zustimmung zur Entsendung; ist der Missionschef bereits im Amt, erfolgt die faktische Beendigung seines Aufenthalts über das eigenständige Instrument der persona-non-grata-Erklärung, nicht über einen förmlichen „Widerruf\" des ursprünglichen Agréments.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -8420,12 +8420,12 @@
         {
           "q": "Genießen Familienangehörige eines Diplomaten, die im Empfangsstaat einer eigenen gewerblichen oder beruflichen Erwerbstätigkeit nachgehen, hinsichtlich dieser Tätigkeit denselben Immunitätsschutz wie der Diplomat selbst?",
           "o": [
-            "Ja, uneingeschränkt und ohne jede Ausnahme",
-            "Der Immunitätsschutz für Familienangehörige ist stets weitergehender als der des Diplomaten selbst",
             "Familienangehörige dürfen nach dem WÜD niemals einer eigenen Erwerbstätigkeit im Empfangsstaat nachgehen",
-            "Nein; nehmen Familienangehörige eine eigene gewerbliche oder berufliche Tätigkeit im Empfangsstaat auf, entfällt insoweit regelmäßig der Immunitätsschutz für diese Tätigkeit"
+            "Nein; für eine eigene Erwerbstätigkeit entfällt der Immunitätsschutz insoweit",
+            "Ja, uneingeschränkt und ohne jede Ausnahme für jede Tätigkeit",
+            "Der Immunitätsschutz für Familienangehörige ist stets weitergehender als der des Diplomaten selbst"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Nimmt ein Familienangehöriger eine eigene gewerbliche oder berufliche Tätigkeit im Empfangsstaat auf, entfällt insoweit regelmäßig der abgeleitete Immunitätsschutz für diese Tätigkeit – ein praktisch bedeutsamer Punkt angesichts wachsender eigener Erwerbstätigkeit von Diplomatenfamilien.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -8444,24 +8444,24 @@
         {
           "q": "Welche Bedeutung hat die Unterscheidung zwischen „Push-Faktoren\" und „Pull-Faktoren\" in der migrationspolitischen und flüchtlingsrechtlichen Debatte?",
           "o": [
-            "Push-Faktoren beschreiben Umstände im Herkunftsland, die Menschen zur Flucht veranlassen, Pull-Faktoren Umstände im Zielland, die es als Ziel attraktiv erscheinen lassen – eine analytische, keine rechtlich verbindliche Unterscheidung",
-            "Sie bezeichnet ausschließlich technische Begriffe der Luftfahrt ohne Bezug zum Flüchtlingsrecht",
             "Nur Push-Faktoren sind für die GFK-Flüchtlingsdefinition überhaupt relevant, Pull-Faktoren sind rechtlich bedeutungslos",
+            "Push-Faktoren wirken im Herkunftsland, Pull-Faktoren im Zielland – analytisch, nicht rechtlich",
+            "Sie bezeichnet ausschließlich technische Begriffe der Luftfahrt ohne Bezug zum Flüchtlingsrecht",
             "Die Unterscheidung ist Teil des verbindlichen Wortlauts der GFK selbst"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Push- und Pull-Faktoren sind analytische, migrationssoziologische Kategorien zur Erklärung von Wanderungsbewegungen, keine rechtlich verbindlichen Begriffe der GFK selbst – wobei nur individuelle, an die Verfolgungsgründe des Art. 1 A GFK anknüpfende Umstände einen Flüchtlingsstatus begründen können.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Rolle spielt die Genfer Flüchtlingskonvention für den Schutz von Menschen, die vor den unmittelbaren Auswirkungen des Klimawandels fliehen?",
           "o": [
-            "Die GFK erfasst „Klimaflüchtlinge\" ausdrücklich und unmittelbar als eigene, im Vertragstext benannte Kategorie",
+            "Die GFK wurde im Jahr 2015 eigens zum Schutz von Klimaflüchtlingen novelliert",
             "Klimabedingte Migration ist völkerrechtlich vollständig ungeregelt und wird in keinem Instrument thematisiert",
-            "Die GFK wurde 2015 eigens zum Schutz von Klimaflüchtlingen novelliert",
-            "Klimabedingte Fluchtbewegungen fallen nach ganz überwiegender Auffassung nicht unmittelbar unter die enge GFK-Flüchtlingsdefinition, die eine individuelle Verfolgung aus den fünf genannten Gründen voraussetzt, auch wenn die Debatte über ergänzenden Schutz andauert"
+            "Klimabedingte Flucht fällt nicht unter die enge GFK-Definition individueller Verfolgung",
+            "Die GFK erfasst „Klimaflüchtlinge\" ausdrücklich und unmittelbar als eigene, im Vertragstext benannte Kategorie"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Da die GFK eine individuelle Verfolgung aus den fünf genannten Gründen voraussetzt, erfasst sie klimabedingte Fluchtbewegungen nach überwiegender Auffassung nicht unmittelbar – die Debatte über ergänzende Schutzkonzepte für klimabedingt Vertriebene ist Gegenstand anhaltender völkerrechtlicher und rechtspolitischer Diskussion, ohne dass bislang ein verbindliches eigenständiges Regelwerk entstanden wäre.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -8528,12 +8528,12 @@
         {
           "q": "Welche Bedeutung hat der diplomatische Titel „Chargé d'Affaires ad interim\"?",
           "o": [
-            "Er bezeichnet einen ständigen, dauerhaft ernannten Missionschef höchsten Rangs",
-            "Der Titel wird ausschließlich für Militärattachés verwendet",
+            "Eine Person, die die Mission bei Abwesenheit oder Vakanz kommissarisch leitet",
+            "Der Titel wird ausschließlich für Militärattachés einer Mission verwendet",
             "Ein Chargé d'Affaires ad interim genießt keinerlei diplomatische Vorrechte",
-            "Er bezeichnet eine Person, die während einer vorübergehenden Abwesenheit oder Vakanz des eigentlichen Missionschefs kommissarisch die Leitung der Mission übernimmt"
+            "Er bezeichnet einen ständigen, dauerhaft ernannten Missionschef höchsten Rangs"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Der Chargé d'Affaires ad interim übernimmt vorübergehend, etwa während einer Vakanz oder Abwesenheit des eigentlichen Missionschefs, kommissarisch die Leitung der Mission und genießt für die Dauer dieser Funktion die entsprechenden diplomatischen Vorrechte.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -8714,12 +8714,12 @@
         {
           "q": "Kennt das WÜD neben dem ständigen Diplomatenkurier auch die Möglichkeit eines nur für den Einzelfall bestellten Ad-hoc-Kuriers?",
           "o": [
-            "Nur Piloten dürfen jemals als Kurier eingesetzt werden",
-            "Ja, Art. 27 WÜD erlaubt neben dem ständigen Kurier auch die Bestellung eines Ad-hoc-Kuriers für einen einzelnen Transport, der für die Dauer dieses Auftrags entsprechenden Schutz genießt",
+            "Ad-hoc-Kuriere sind nach dem WÜD ausdrücklich verboten worden",
             "Nein, das WÜD kennt ausschließlich ständige, dauerhaft bestellte Kuriere",
-            "Ad-hoc-Kuriere sind nach dem WÜD ausdrücklich verboten"
+            "Nur Piloten dürfen jemals als diplomatischer Kurier eingesetzt werden",
+            "Ja; Art. 27 WÜD erlaubt auch Ad-hoc-Kuriere für einen einzelnen Transport"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Art. 27 WÜD erlaubt neben dem ständigen Diplomatenkurier auch die Bestellung eines Kuriers ad hoc für einen einzelnen Transport, der für die Dauer dieses konkreten Auftrags den entsprechenden Schutz genießt – flexibel etwa bei kurzfristigem Transportbedarf.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -8750,10 +8750,10 @@
         {
           "q": "Welche Bedeutung hat die Kategorie der „sur place\"-Nachfluchtgründe, wenn sie ausschließlich durch eigenes, gezielt missbräuchliches Verhalten des Antragstellers im Zufluchtsland herbeigeführt wurden?",
           "o": [
-            "Die Kategorie der Nachfluchtgründe wurde durch das New Yorker Protokoll 1967 vollständig abgeschafft",
             "Selbst geschaffene Nachfluchtgründe führen ausnahmslos und automatisch zur Anerkennung als Flüchtling",
             "Selbst geschaffene Nachfluchtgründe werden von den Behörden stets ohne jede weitere Prüfung ignoriert",
-            "Selbst geschaffene Nachfluchtgründe können im Einzelfall besonders kritisch auf ihre Glaubhaftigkeit und den fehlenden missbräuchlichen Charakter geprüft werden, ohne dass ihnen automatisch die Anerkennung versagt wird"
+            "Die Kategorie der Nachfluchtgründe wurde durch das New Yorker Protokoll 1967 vollständig abgeschafft",
+            "Sie können besonders kritisch geprüft werden, ohne automatisch versagt zu werden"
           ],
           "a": 3,
           "e": "Bei selbst geschaffenen Nachfluchtgründen prüfen Behörden und Gerichte besonders kritisch, ob tatsächlich eine begründete Verfolgungsfurcht vorliegt und der Antragsteller nicht lediglich missbräuchlich einen Anerkennungsgrund konstruieren wollte – eine automatische Anerkennung oder automatische Ablehnung findet nicht statt.",
@@ -8762,10 +8762,10 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Beweislast im Asylverfahren nicht ausschließlich beim Antragstellenden liegt, sondern eine Kooperationspflicht der Behörden besteht?",
           "o": [
+            "Die gesamte Beweislast liegt ausnahmslos und vollständig bei der Behörde, der Antragstellende trägt keinerlei Mitwirkungspflicht",
+            "Mitwirkungspflicht des Antragstellenden und behördliche Pflicht zur Sachverhaltsaufklärung",
             "Die Behörden tragen im Asylverfahren überhaupt keine eigene Ermittlungspflicht",
-            "Nach anerkannten Verfahrensgrundsätzen tragen Antragstellende zwar eine Mitwirkungspflicht, doch besteht zugleich eine behördliche Pflicht zur Sachverhaltsaufklärung, insbesondere zur Beschaffung von Herkunftslandinformationen",
-            "Beweislastfragen sind im Asylverfahren rechtlich vollständig ungeregelt",
-            "Die gesamte Beweislast liegt ausnahmslos und vollständig bei der Behörde, der Antragstellende trägt keinerlei Mitwirkungspflicht"
+            "Beweislastfragen sind im Asylverfahren rechtlich vollständig ungeregelt geblieben"
           ],
           "a": 1,
           "e": "Das Asylverfahren folgt einem kooperativen Modell: Antragstellende tragen eine Mitwirkungspflicht bei der Sachverhaltsaufklärung, während die Behörden ihrerseits zur Aufklärung verpflichtet sind, etwa durch die Beschaffung aktueller und verlässlicher Herkunftslandinformationen.",
@@ -8834,8 +8834,8 @@
         {
           "q": "Welche Bedeutung hat die sogenannte „Landeskarenz\" bei der Ernennung von Diplomaten?",
           "o": [
-            "Sie ist ein Synonym für die persona-non-grata-Erklärung",
-            "In manchen auswärtigen Diensten übliche interne personalpolitische Praxis, wonach Diplomatinnen und Diplomaten nach einer Verwendung in einem bestimmten Land für eine gewisse Zeit nicht erneut dorthin entsandt werden, um Rotation und Distanz zu wahren",
+            "Sie ist nur ein Synonym für die persona-non-grata-Erklärung",
+            "Interne Praxis mancher Dienste, nach einer Verwendung nicht sofort erneut dorthin zu entsenden",
             "Sie bezeichnet eine völkerrechtlich zwingend vorgeschriebene Wartezeit von zehn Jahren zwischen zwei Postierungen im selben Land",
             "Sie betrifft ausschließlich die Sprachkenntnisse eines Diplomaten"
           ],
@@ -9020,12 +9020,12 @@
         {
           "q": "Können zwei Staaten diplomatische Kontakte pflegen, ohne einander förmlich als Staat völkerrechtlich anzuerkennen?",
           "o": [
-            "Diese Konstellation ist völkerrechtlich ausdrücklich verboten",
+            "Ja; faktische Kontakte über Interessenvertretungen ohne förmliche Anerkennung",
+            "Diese Konstellation ist völkerrechtlich ausdrücklich verboten worden",
             "Nein, diplomatische Kontakte setzen zwingend die vorherige förmliche gegenseitige Anerkennung als Staat voraus",
-            "Ja, in der Praxis kommen – wenn auch selten – Konstellationen vor, in denen Staaten faktische Kontakte pflegen, etwa über Interessenvertretungen, ohne einander förmlich anzuerkennen",
             "Diplomatische Beziehungen und Anerkennung sind rechtlich vollständig identische Begriffe"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Anerkennung und diplomatische Beziehungen sind rechtlich zu unterscheidende Kategorien: In seltenen, politisch besonders sensiblen Konstellationen pflegen Staaten faktische Kontakte – etwa über Interessenvertretungen bei einem dritten Staat – ohne einander förmlich als Staat anzuerkennen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9044,12 +9044,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass eine bloß wirtschaftlich motivierte Migration für sich genommen keinen GFK-Flüchtlingsstatus begründet?",
           "o": [
+            "Die GFK verbietet jede Form wirtschaftlich motivierter Migration ausdrücklich",
             "Wirtschaftliche Gründe sind für die Flüchtlingsdefinition seit dem New Yorker Protokoll 1967 ausdrücklich als Verfolgungsgrund aufgenommen worden",
-            "Rein wirtschaftlich motivierte Migration ohne individuelle Verfolgung aus den fünf GFK-Gründen fällt nicht unter die Flüchtlingsdefinition, auch wenn die wirtschaftliche Lage im Herkunftsland gravierend sein mag",
             "Wirtschaftliche Not begründet stets automatisch einen Flüchtlingsstatus im Sinne der GFK",
-            "Die GFK verbietet jede Form wirtschaftlich motivierter Migration ausdrücklich"
+            "Rein wirtschaftlich motivierte Migration fällt ohne Verfolgung nicht unter die Definition"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Die GFK setzt eine individuelle Verfolgung aus den fünf genannten Gründen voraus; rein wirtschaftlich motivierte Migration – auch bei gravierender wirtschaftlicher Notlage im Herkunftsland – begründet für sich genommen keinen Flüchtlingsstatus im engen Sinne der Konvention.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -9140,12 +9140,12 @@
         {
           "q": "Welche Bedeutung hat die Übergabe eines Beglaubigungsschreibens (Akkreditierungsschreibens) für den formellen Amtsantritt eines Missionschefs?",
           "o": [
-            "Sie hat überhaupt keine rechtliche Bedeutung und ist rein zeremoniell",
-            "Mit der Übergabe des Beglaubigungsschreibens an das Staatsoberhaupt bzw. den Außenminister des Empfangsstaats gilt der Missionschef regelmäßig als förmlich in seinem Amt angetreten",
+            "Mit der Übergabe an das Staatsoberhaupt gilt der Missionschef als angetreten",
+            "Ein Beglaubigungsschreiben ist nur für Botschafter, niemals für Geschäftsträger, erforderlich",
             "Die Übergabe ersetzt das zuvor erforderliche Agrément vollständig",
-            "Ein Beglaubigungsschreiben ist nur für Botschafter, niemals für Geschäftsträger, erforderlich"
+            "Sie hat überhaupt keine rechtliche Bedeutung und ist rein zeremoniell"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Die förmliche Übergabe des Beglaubigungsschreibens markiert regelmäßig den offiziellen Amtsantritt des Missionschefs gegenüber dem Empfangsstaat – ein nach dem bereits zuvor erteilten Agrément nachgelagerter, aber eigenständig bedeutsamer förmlicher Akt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9164,12 +9164,12 @@
         {
           "q": "Welche Bedeutung hat die Unterscheidung zwischen „Asyl\" im engeren rechtlichen Sinne und „Aufnahme aus humanitären Gründen\" in vielen nationalen Rechtsordnungen?",
           "o": [
-            "Beide Begriffe bezeichnen exakt denselben rechtlichen Status ohne jeden Unterschied",
             "Nur Asyl im engeren Sinne existiert überhaupt in der Praxis, humanitäre Aufnahmeprogramme sind rein theoretisch",
-            "Asyl im engeren Sinne knüpft regelmäßig an die individuelle Verfolgungsprüfung nach der GFK oder vergleichbaren Kriterien an, während humanitäre Aufnahmeprogramme auf anderen, meist politisch-diskretionären Erwägungen beruhen können, ohne notwendig eine individuelle Verfolgungsprüfung vorauszusetzen",
+            "Asyl setzt individuelle Verfolgungsprüfung voraus, humanitäre Aufnahme nicht zwingend",
+            "Beide Begriffe bezeichnen exakt denselben rechtlichen Status ohne jeden Unterschied",
             "Humanitäre Aufnahmeprogramme sind stets rechtlich verbindlicher als das förmliche Asylverfahren"
           ],
-          "a": 2,
+          "a": 1,
           "e": "Asyl im engeren rechtlichen Sinne knüpft an eine individuelle Verfolgungsprüfung an, während humanitäre Aufnahmeprogramme – etwa Kontingentaufnahmen aus Krisenregionen – oft auf anderen, stärker politisch-diskretionären Erwägungen beruhen, ohne notwendig eine individuelle Verfolgungsprüfung im GFK-Sinne vorauszusetzen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -9291,11 +9291,11 @@
           "q": "Welche Bedeutung hat die Unterscheidung zwischen diplomatischem Rang und diplomatischem Titel, etwa bei einem „Botschafter für besondere Aufgaben\"?",
           "o": [
             "Beide Begriffe sind stets identisch und bezeichnen zwingend die Leitung einer ständigen diplomatischen Mission",
-            "Diese Unterscheidung existiert in der diplomatischen Praxis nicht",
-            "Der Titel „Botschafter\" darf ausschließlich an Personen vergeben werden, die tatsächlich eine ständige Mission leiten",
-            "Der Titel „Botschafter\" kann auch Personen verliehen werden, die eine besondere, thematisch begrenzte Aufgabe wahrnehmen, ohne eine ständige Mission zu leiten – der Titel bezeichnet dann primär einen Rang, nicht notwendig eine Missionsleitungsfunktion"
+            "Diese Unterscheidung existiert in der diplomatischen Praxis überhaupt nicht",
+            "Der Titel kann auch ohne Missionsleitung verliehen werden und bezeichnet dann einen Rang",
+            "Der Titel „Botschafter\" darf ausschließlich an Personen vergeben werden, die tatsächlich eine ständige Mission leiten"
           ],
-          "a": 3,
+          "a": 2,
           "e": "In der diplomatischen Praxis wird der Titel „Botschafter\" auch an Persönlichkeiten verliehen, die eine besondere, oft thematisch begrenzte Aufgabe wahrnehmen – etwa als Sonderbeauftragte –, ohne eine ständige Mission zu leiten; der Titel bezeichnet in solchen Fällen vorrangig einen protokollarischen Rang.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9326,24 +9326,24 @@
         {
           "q": "Ist die Errichtung eines Konsulats stets an eine vorherige förmliche Zustimmung des Empfangsstaats gebunden, wie es bei einer diplomatischen Mission der Fall ist?",
           "o": [
-            "Konsulate unterliegen überhaupt keinem völkerrechtlichen Regelwerk",
-            "Ja; auch die Errichtung eines Konsulats bedarf nach dem WÜK der Zustimmung des Empfangsstaats, strukturell vergleichbar dem Einvernehmensprinzip des Diplomatenrechts",
+            "Nein, Konsulate können ohne jede Form von Zustimmung des Empfangsstaats errichtet werden",
             "Nur Generalkonsulate, nicht aber einfache Konsulate, bedürfen einer Zustimmung",
-            "Nein, Konsulate können ohne jede Form von Zustimmung des Empfangsstaats errichtet werden"
+            "Ja; auch ein Konsulat bedarf nach dem WÜK der Zustimmung des Empfangsstaats",
+            "Konsulate unterliegen überhaupt keinem völkerrechtlichen Regelwerk"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Auch die Errichtung eines Konsulats bedarf nach dem WÜK grundsätzlich der Zustimmung des Empfangsstaats – strukturell dem Einvernehmensprinzip des Diplomatenrechts vergleichbar, wenn auch in eigenständigen Regelungen des Konsularrechts verankert.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Wie verhält sich das Recht auf konsularischen Zugang zu inhaftierten eigenen Staatsangehörigen nach Art. 36 WÜK zur allgemeinen Pflicht des Empfangsstaats zur Unterrichtung?",
           "o": [
-            "Die Unterrichtungspflicht gilt nur gegenüber ständigen Sicherheitsratsmitgliedern",
-            "Nur bei Todesstrafen, niemals bei anderen Straftaten, besteht diese Unterrichtungspflicht",
             "Eine solche Unterrichtungspflicht besteht nach dem WÜK überhaupt nicht",
-            "Der Empfangsstaat muss den festgenommenen Ausländer unverzüglich über sein Recht auf konsularische Benachrichtigung unterrichten und, auf dessen Verlangen, die zuständige konsularische Vertretung informieren"
+            "Nur bei Todesstrafen, niemals bei anderen Straftaten, besteht diese Unterrichtungspflicht",
+            "Er muss den Festgenommenen über sein Recht unterrichten und das Konsulat informieren",
+            "Die Unterrichtungspflicht gilt nur gegenüber ständigen Sicherheitsratsmitgliedern"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Art. 36 WÜK verpflichtet den Empfangsstaat, festgenommene ausländische Staatsangehörige unverzüglich über ihr Recht auf konsularische Benachrichtigung zu unterrichten und, auf deren Verlangen, die zuständige Vertretung zu informieren – eine Pflicht, deren Verletzung Gegenstand bekannter internationaler Streitfälle wie LaGrand und Avena war.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9374,12 +9374,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Feststellung der Flüchtlingseigenschaft grundsätzlich eine zukunftsgerichtete Prognose erfordert?",
           "o": [
-            "Maßgeblich ist, ob bei einer Rückkehr in das Herkunftsland im Entscheidungszeitpunkt eine begründete Furcht vor künftiger Verfolgung besteht; vergangene Verfolgung kann dabei als starkes Indiz dienen, ist aber nicht zwingend Voraussetzung",
-            "Entscheidend ist ausschließlich, ob in der Vergangenheit bereits tatsächlich Verfolgung stattgefunden hat, unabhängig von der Zukunft",
-            "Die Zukunftsprognose ist im Flüchtlingsrecht rechtlich bedeutungslos",
-            "Nur bereits eingetretene, niemals drohende künftige Verfolgung, kann jemals berücksichtigt werden"
+            "Die Zukunftsprognose ist im Flüchtlingsrecht rechtlich vollkommen bedeutungslos",
+            "Nur bereits eingetretene, niemals drohende künftige Verfolgung, kann jemals berücksichtigt werden",
+            "Maßgeblich ist die begründete Furcht vor künftiger Verfolgung bei einer Rückkehr",
+            "Entscheidend ist ausschließlich, ob in der Vergangenheit bereits tatsächlich Verfolgung stattgefunden hat, unabhängig von der Zukunft"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Die GFK-Flüchtlingsdefinition ist zukunftsgerichtet: Entscheidend ist die im Entscheidungszeitpunkt bestehende begründete Furcht vor künftiger Verfolgung bei einer Rückkehr, wobei bereits erlittene Verfolgung ein starkes, aber nicht zwingendes Indiz für die Begründetheit dieser Furcht darstellen kann.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -9470,12 +9470,12 @@
         {
           "q": "Welche Bedeutung hat die Tatsache, dass Deutschland als Empfangsstaat für zahlreiche internationale Organisationen wie die Vereinten Nationen in Bonn fungiert?",
           "o": [
-            "Deutschland hat mit den betreffenden Organisationen eigene Sitzabkommen geschlossen, die deren rechtliche Stellung auf deutschem Hoheitsgebiet regeln, strukturell dem Diplomatenrecht verwandt, aber eigenständig ausgestaltet",
             "Internationale Organisationen genießen in Deutschland überhaupt keinen besonderen rechtlichen Status",
-            "Der VN-Standort Bonn wurde 2015 wieder vollständig aufgelöst",
+            "Der VN-Standort Bonn wurde im Jahr 2015 wieder vollständig aufgelöst",
+            "Deutschland hat mit ihnen eigene Sitzabkommen über ihre Rechtsstellung geschlossen",
             "Deutschland genießt dadurch selbst diplomatische Immunität gegenüber diesen Organisationen"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Deutschland hat mit den in Bonn ansässigen VN-Einrichtungen eigene Sitzabkommen geschlossen, die deren rechtliche Stellung – etwa Immunitäten und Vorrechte des Personals – regeln, strukturell dem Diplomatenrecht verwandt, aber eigenständig für internationale Organisationen ausgestaltet.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9620,24 +9620,24 @@
         {
           "q": "Wie werden persönliche Papiere und private Korrespondenz eines Diplomaten rechtlich von den Archiven und Schriftstücken der Mission selbst unterschieden?",
           "o": [
+            "Art. 24 WÜD schützt die Missionsarchive, Art. 30 WÜD die Papiere des Diplomaten",
             "Persönliche Papiere eines Diplomaten genießen überhaupt keinen völkerrechtlichen Schutz",
-            "Die Unverletzlichkeit der Missionsarchive nach Art. 24 WÜD betrifft die amtlichen Unterlagen der Mission als solcher, während persönliche Papiere primär über die allgemeine Unverletzlichkeit von Wohnung und Papieren des Diplomaten nach Art. 30 WÜD geschützt sind",
             "Beide Kategorien unterliegen exakt demselben rechtlichen Schutzregime ohne jeden Unterschied",
             "Nur amtliche Missionsarchive, niemals persönliche Papiere, werden vom WÜD überhaupt erwähnt"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Art. 24 WÜD schützt die amtlichen Archive und Schriftstücke der Mission als institutionelle Einrichtung, während persönliche Papiere und private Korrespondenz des einzelnen Diplomaten über die allgemeine Unverletzlichkeit seiner Wohnung und Papiere nach Art. 30 WÜD geschützt sind – zwei rechtlich unterscheidbare, aber praktisch eng verwandte Schutzregime.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welche Bedeutung hat das Konzept der „funktionalen Notwendigkeit\" für die Rechtfertigung diplomatischer Vorrechte, wie es in der Präambel des WÜD zum Ausdruck kommt?",
           "o": [
-            "Die Vorrechte sollen die wirksame Wahrnehmung der Aufgaben diplomatischer Missionen als Vertreter von Staaten sicherstellen, nicht Einzelpersonen begünstigen – ein funktionaler, zweckgebundener Rechtfertigungsansatz",
             "Vorrechte werden nach diesem Konzept ausschließlich aus historischer Tradition gewährt, ohne inhaltliche Rechtfertigung",
             "Das Konzept wurde 1961 zugunsten eines rein persönlichen Privilegienansatzes vollständig aufgegeben",
+            "Die Vorrechte sichern die Aufgabenwahrnehmung, sie begünstigen nicht Personen",
             "Funktionale Notwendigkeit bedeutet, dass jeder Staat individuell über den Umfang der Vorrechte frei entscheiden kann, unabhängig vom WÜD-Text"
           ],
-          "a": 0,
+          "a": 2,
           "e": "Die funktionale Rechtfertigung diplomatischer Vorrechte – anders als ein historisch begründeter persönlicher Privilegienansatz – stellt auf die wirksame Aufgabenwahrnehmung der Mission als Ganzes ab, wie es die WÜD-Präambel ausdrücklich klarstellt: Vorrechte dienen nicht der Bevorzugung Einzelner.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9656,12 +9656,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass ein Widerruf der Flüchtlingseigenschaft rechtsstaatliche Verfahrensgarantien beachten muss?",
           "o": [
-            "Auch beim Widerruf einer bereits zuerkannten Flüchtlingseigenschaft sind rechtsstaatliche Mindestgarantien wie das rechtliche Gehör und eine nachvollziehbare Begründung zu wahren, entsprechend den allgemeinen verfahrensrechtlichen Grundsätzen",
-            "Rechtsstaatliche Verfahrensgarantien gelten ausschließlich bei der Erstanerkennung, niemals beim Widerruf",
             "Der Widerruf einer Flüchtlingseigenschaft ist völkerrechtlich generell unzulässig",
-            "Ein Widerruf kann jederzeit formlos und ohne jede Anhörung des Betroffenen erfolgen"
+            "Auch beim Widerruf sind rechtliches Gehör und nachvollziehbare Begründung zu wahren",
+            "Ein Widerruf kann jederzeit formlos und ohne jede Anhörung des Betroffenen erfolgen",
+            "Rechtsstaatliche Verfahrensgarantien gelten ausschließlich bei der Erstanerkennung, niemals beim Widerruf"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Auch beim Widerruf einer bereits zuerkannten Flüchtlingseigenschaft sind rechtsstaatliche Mindestgarantien zu wahren – rechtliches Gehör, nachvollziehbare Begründung und die Möglichkeit gerichtlicher Überprüfung –, da der Widerruf einen erheblichen Eingriff in eine bereits bestehende Rechtsposition darstellt.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -9764,12 +9764,12 @@
         {
           "q": "Welche Bedeutung hat die diplomatische Praxis der „Demarche\" im zwischenstaatlichen Verkehr?",
           "o": [
-            "Eine Demarche ist ein diplomatischer Schritt, mit dem ein Staat gegenüber einem anderen Staat offiziell eine Position, einen Protest oder eine Forderung zum Ausdruck bringt, meist über den jeweiligen diplomatischen Kanal",
+            "Eine Demarche hat keinerlei praktische Bedeutung im diplomatischen Alltag",
+            "Ein offizieller Schritt, mit dem ein Staat eine Position oder einen Protest vorträgt",
             "Der Begriff bezeichnet ausschließlich die Ernennung eines neuen Missionschefs",
-            "Eine Demarche bezeichnet einen förmlichen Kriegserklärungsakt",
-            "Eine Demarche hat keinerlei praktische Bedeutung im diplomatischen Alltag"
+            "Eine Demarche bezeichnet einen förmlichen Kriegserklärungsakt"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Eine Demarche ist ein häufig genutztes diplomatisches Instrument, mit dem ein Staat gegenüber einem anderen offiziell eine Position, einen Protest oder eine Forderung zum Ausdruck bringt – meist mündlich oder schriftlich über den zuständigen diplomatischen Kanal, ohne notwendig eine völkerrechtliche Sanktionswirkung zu entfalten.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9878,12 +9878,12 @@
         {
           "q": "Worin unterscheidet sich eine Note verbale von einer förmlichen Protestnote im diplomatischen Verkehr?",
           "o": [
-            "Beide Begriffe bezeichnen exakt dasselbe diplomatische Dokument ohne inhaltlichen Unterschied",
-            "Eine Note verbale kann ausschließlich zwischen Staatsoberhäuptern persönlich ausgetauscht werden",
+            "Die Note verbale ist die allgemeine Form, die Protestnote eine Unterform",
             "Nur die Protestnote wird schriftlich übermittelt, die Note verbale ausschließlich mündlich",
-            "Die Note verbale ist die allgemeine, gebräuchliche Form schriftlicher diplomatischer Mitteilung zwischen Mission und Außenministerium für vielfältige Anliegen, während die Protestnote eine besondere, inhaltlich auf die Zurückweisung eines konkreten Verhaltens gerichtete Unterform darstellt"
+            "Beide Begriffe bezeichnen exakt dasselbe diplomatische Dokument ohne inhaltlichen Unterschied",
+            "Eine Note verbale kann ausschließlich zwischen Staatsoberhäuptern persönlich ausgetauscht werden"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Die Note verbale ist die gebräuchliche allgemeine Form schriftlicher diplomatischer Kommunikation für vielfältige Anliegen; die Protestnote stellt eine besondere, inhaltlich auf die förmliche Zurückweisung eines konkreten Verhaltens gerichtete Unterform dar – beide werden in der Regel in der dritten Person und ohne Unterschrift verfasst.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -9902,12 +9902,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Prüfung der Flüchtlingseigenschaft eine Gesamtwürdigung aller Umstände des Einzelfalls erfordert, statt sich auf ein einziges isoliertes Kriterium zu beschränken?",
           "o": [
-            "Es genügt stets ein einziges, isoliert betrachtetes Kriterium, unabhängig von den übrigen Umständen des Falls",
-            "Die Prüfung erfordert eine Gesamtwürdigung aller relevanten Umstände – etwa persönliches Vorbringen, Lage im Herkunftsland und individuelle Risikofaktoren – im Zusammenhang, statt einzelne Aspekte isoliert zu betrachten",
+            "Eine Gesamtwürdigung ist im Flüchtlingsrecht ausdrücklich unzulässig",
             "Nur schriftliche Beweismittel dürfen bei der Gesamtwürdigung berücksichtigt werden",
-            "Eine Gesamtwürdigung ist im Flüchtlingsrecht ausdrücklich unzulässig"
+            "Erforderlich ist eine Gesamtwürdigung aller relevanten Umstände im Zusammenhang",
+            "Es genügt stets ein einziges, isoliert betrachtetes Kriterium, unabhängig von den übrigen Umständen des Falls"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Die Prüfung der Flüchtlingseigenschaft erfordert eine Gesamtwürdigung aller relevanten Umstände im Zusammenhang – persönliches Vorbringen, objektive Lage im Herkunftsland, individuelle Risikofaktoren –, statt sich auf ein einzelnes, isoliert betrachtetes Kriterium zu beschränken.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -10010,12 +10010,12 @@
         {
           "q": "Welche Bedeutung hat die diplomatische Praxis, wonach neu akkreditierte Missionschefs traditionell zunächst den protokollarisch ranghöchsten, dienstältesten Kollegen (Doyen) aufsuchen?",
           "o": [
-            "Sie ist Ausdruck der informellen protokollarischen Gepflogenheiten des diplomatischen Korps, in dem der Doyen traditionell eine koordinierende und beratende Rolle gegenüber neu ankommenden Kollegen übernimmt",
             "Diese Praxis ist im WÜD selbst ausdrücklich und detailliert vorgeschrieben",
-            "Diese Praxis hat keinerlei völkerrechtliche oder protokollarische Bedeutung",
-            "Der Besuch beim Doyen ersetzt die förmliche Übergabe des Beglaubigungsschreibens"
+            "Ausdruck informeller Gepflogenheiten; der Doyen koordiniert und berät",
+            "Der Besuch beim Doyen ersetzt die förmliche Übergabe des Beglaubigungsschreibens",
+            "Diese Praxis hat keinerlei völkerrechtliche oder protokollarische Bedeutung"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Der Besuch beim Doyen gehört zu den informellen, protokollarisch gewachsenen Gepflogenheiten des diplomatischen Korps – der Doyen übernimmt traditionell eine koordinierende und beratende Rolle, ohne dass diese Praxis selbst im WÜD-Text ausdrücklich geregelt wäre.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -10034,12 +10034,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die GFK-Flüchtlingsdefinition grundsätzlich unabhängig von der Staatsangehörigkeit des Antragstellers gilt?",
           "o": [
-            "Die GFK gilt ausschließlich für Angehörige europäischer Staaten",
             "Die GFK schützt ausschließlich Angehörige bestimmter, im Vertragstext ausdrücklich benannter Staaten",
-            "Die GFK-Flüchtlingsdefinition gilt grundsätzlich unabhängig von der konkreten Staatsangehörigkeit des Antragstellers, sofern die materiellen Verfolgungsvoraussetzungen erfüllt sind",
-            "Nur Staatenlose können jemals GFK-Flüchtlingsschutz erhalten"
+            "Nur staatenlose Antragstellende können jemals GFK-Flüchtlingsschutz erhalten",
+            "Die GFK gilt ausschließlich für Angehörige europäischer Vertragsstaaten",
+            "Sie gilt für Angehörige jedes Staates, sofern die Verfolgungsvoraussetzungen vorliegen"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Die GFK-Flüchtlingsdefinition knüpft nicht an eine bestimmte Staatsangehörigkeit an, sondern an das Vorliegen der materiellen Verfolgungsvoraussetzungen – seit dem New Yorker Protokoll von 1967 zudem ohne die ursprüngliche zeitliche und geografische Beschränkung der GFK von 1951.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -10232,24 +10232,24 @@
         {
           "q": "Welche Bedeutung hat die Ausnahme von der steuerlichen Befreiung einer Mission für Gebühren konkret erbrachter Dienstleistungen, etwa Müllabfuhr oder Wasserversorgung?",
           "o": [
-            "Die grundsätzliche steuerliche Befreiung der Missionsräumlichkeiten gilt nicht für Entgelte, die als Gegenleistung für konkret erbrachte Dienstleistungen erhoben werden, da diese keinen Steuer-, sondern Gebührencharakter haben",
-            "Nur der Entsendestaat kann frei entscheiden, ob er solche Gebühren entrichtet",
+            "Diese Ausnahme existiert nicht; Missionsräumlichkeiten sind ausnahmslos von jeder Zahlung befreit",
+            "Die Steuerbefreiung gilt nicht für Entgelte mit Gebührencharakter",
             "Die Ausnahme gilt nur für Missionen ständiger Sicherheitsratsmitglieder",
-            "Diese Ausnahme existiert nicht; Missionsräumlichkeiten sind ausnahmslos von jeder Zahlung befreit"
+            "Nur der Entsendestaat kann frei entscheiden, ob er solche Gebühren entrichtet"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Die steuerliche Befreiung der Missionsräumlichkeiten erstreckt sich nicht auf Entgelte für konkret erbrachte Dienstleistungen wie Müllabfuhr oder Wasserversorgung, da diese als Gegenleistung für eine tatsächliche Leistung Gebühren-, nicht Steuercharakter haben – ein feiner, aber praktisch bedeutsamer Unterschied.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welche Bedeutung hat die diplomatische Praxis der „Akkreditierung mit Sitz in einem Drittstaat\" für kleinere Staaten mit begrenzten Ressourcen?",
           "o": [
+            "Mehrfachvertretung von einem Nachbarstaat aus, um eigene Missionen zu sparen",
             "Diese Praxis existiert nicht und ist völkerrechtlich unzulässig",
-            "Diese Praxis ist nur größeren, wirtschaftlich starken Staaten vorbehalten",
             "Eine Akkreditierung mit Sitz in einem Drittstaat schließt jede diplomatische Immunität aus",
-            "Kleinere Staaten akkreditieren ihren Missionschef häufig von einem benachbarten Drittstaat aus als Mehrfachvertretung, um Kosten zu sparen, statt in jedem einzelnen Staat eine eigene ständige Mission zu unterhalten"
+            "Diese Praxis ist nur größeren, wirtschaftlich starken Staaten vorbehalten"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Insbesondere kleinere Staaten mit begrenzten diplomatischen Ressourcen nutzen häufig die Möglichkeit der Mehrfachakkreditierung von einem Drittstaat aus, um Kosten zu sparen, statt in jedem einzelnen Staat eine eigene, aufwendige ständige Mission zu unterhalten.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -10268,24 +10268,24 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Zuerkennung subsidiären Schutzes regelmäßig einer im Vergleich zur Flüchtlingsanerkennung abgestuften, aber ähnlichen Prüfungslogik folgt?",
           "o": [
-            "Subsidiärer Schutz wird völlig unabhängig von jeder individuellen Gefahrenprognose gewährt",
-            "Subsidiärer Schutz kann nur gemeinsam mit, niemals unabhängig von, einer Flüchtlingsanerkennung gewährt werden",
             "Die Prüfungslogik für subsidiären Schutz und Flüchtlingsanerkennung ist gesetzlich identisch geregelt, ohne jeden Unterschied",
-            "Auch die Zuerkennung subsidiären Schutzes erfordert regelmäßig eine individuelle Prüfung, ob dem Antragsteller bei Rückkehr ein ernsthafter Schaden droht, orientiert an ähnlichen Prüfungsgrundsätzen wie bei der Flüchtlingsanerkennung, wenngleich mit abweichenden materiellen Voraussetzungen"
+            "Auch subsidiärer Schutz verlangt eine individuelle Prognose eines ernsthaften Schadens",
+            "Subsidiärer Schutz kann nur gemeinsam mit, niemals unabhängig von, einer Flüchtlingsanerkennung gewährt werden",
+            "Subsidiärer Schutz wird völlig unabhängig von jeder individuellen Gefahrenprognose gewährt"
           ],
-          "a": 3,
+          "a": 1,
           "e": "Auch wenn sich die materiellen Voraussetzungen unterscheiden, folgt die Prüfung subsidiären Schutzes einer der Flüchtlingsanerkennung ähnlichen Logik: individuelle Prüfung der bei Rückkehr drohenden ernsthaften Gefahr, unter Berücksichtigung von Herkunftslandinformationen und persönlichem Vorbringen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass staatliche Verfolgung im Sinne der GFK auch dann vorliegen kann, wenn sie nicht unmittelbar vom Staat selbst, sondern von nichtstaatlichen Akteuren ausgeht, denen der Staat keinen wirksamen Schutz entgegensetzt?",
           "o": [
-            "Nichtstaatliche Verfolgung fällt niemals unter die GFK-Flüchtlingsdefinition, unabhängig von den Umständen",
+            "Ja, wenn der Staat nicht willens oder nicht in der Lage ist, wirksamen Schutz zu bieten",
             "Diese Frage wurde durch das New Yorker Protokoll 1967 ausdrücklich anders geregelt als in der ursprünglichen GFK",
-            "Verfolgung im Sinne der GFK kann auch von nichtstaatlichen Akteuren ausgehen, sofern der Staat nicht willens oder nicht in der Lage ist, wirksamen Schutz vor dieser Verfolgung zu bieten",
+            "Nichtstaatliche Verfolgung fällt niemals unter die GFK-Flüchtlingsdefinition, unabhängig von den Umständen",
             "Nur unmittelbar staatliche Verfolgung, niemals Verfolgung durch nichtstaatliche Akteure, ist rechtlich relevant"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Nach heute weithin anerkannter Auslegung kann Verfolgung im Sinne der GFK auch von nichtstaatlichen Akteuren ausgehen, sofern der Staat nicht willens oder nicht in der Lage ist, wirksamen Schutz zu bieten – eine wichtige Klarstellung gegenüber einem engen, rein staatszentrierten Verfolgungsbegriff.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -10377,11 +10377,11 @@
           "q": "Welche Bedeutung hat die diplomatische Gepflogenheit, wonach ein neu ernannter Botschafter vor Abreise häufig eine „Antrittsvisite\" bei relevanten Stellen des eigenen Außenministeriums absolviert?",
           "o": [
             "Sie ersetzt das Erfordernis des Agréments durch den Empfangsstaat",
-            "Diese Gepflogenheit hat keinerlei praktische Funktion und ist reine Formalität ohne Inhalt",
             "Diese Praxis ist im WÜD selbst ausdrücklich und detailliert geregelt",
-            "Sie dient der Vorbereitung und Einweisung des neu ernannten Missionschefs in die aktuelle politische Lage und die Prioritäten seines Auftrags, bevor er seine Tätigkeit im Empfangsstaat aufnimmt"
+            "Sie dient der Einweisung in Lage und Prioritäten des Auftrags vor der Ausreise",
+            "Diese Gepflogenheit hat keinerlei praktische Funktion und ist reine Formalität ohne Inhalt"
           ],
-          "a": 3,
+          "a": 2,
           "e": "Die Antrittsvisiten im eigenen Außenministerium dienen der praktischen Vorbereitung des neu ernannten Missionschefs, etwa zur Einweisung in aktuelle politische Prioritäten und thematische Schwerpunkte seines künftigen Postens – eine organisatorische Praxis außerhalb des WÜD-Textes selbst.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -10526,24 +10526,24 @@
         {
           "q": "Welche Bedeutung hat die diplomatische Gepflogenheit, wonach bedeutende bilaterale Anliegen häufig zunächst informell sondiert werden, bevor eine förmliche diplomatische Note übermittelt wird?",
           "o": [
+            "Beide Seiten können Reaktion und Fallstricke vorab einschätzen",
+            "Diese Praxis existiert nicht und widerspricht dem WÜD-Text",
             "Informelle Sondierungen sind völkerrechtlich stets ebenso bindend wie eine förmliche Note",
-            "Diese Praxis existiert nicht und widerspricht dem WÜD",
-            "Informelle Sondierungen erlauben es beiden Seiten, die voraussichtliche Reaktion und mögliche Fallstricke vorab einzuschätzen, bevor ein Anliegen förmlich und damit protokollarisch bindender kommuniziert wird",
             "Diese Praxis ist ausschließlich zwischen ständigen Sicherheitsratsmitgliedern zulässig"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Informelle Vorsondierungen erlauben eine flexible, diskrete Einschätzung der voraussichtlichen Reaktion, bevor ein Anliegen förmlich und damit protokollarisch verbindlicher kommuniziert wird – eine verbreitete diplomatische Praxis zur Vermeidung öffentlicher Fehlschläge förmlicher Initiativen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welche Bedeutung hat die Unterscheidung zwischen einem Sondergesandten (Special Envoy) und einem ständigen Missionschef?",
           "o": [
-            "Beide Begriffe bezeichnen exakt dieselbe Funktion ohne jeden Unterschied",
-            "Ein Sondergesandter wird typischerweise für eine bestimmte, oft zeitlich begrenzte Aufgabe oder Krisensituation ernannt, ohne eine ständige Mission zu leiten, während der ständige Missionschef die kontinuierliche bilaterale Vertretung wahrnimmt",
             "Ein Sondergesandter muss stets zugleich auch ständiger Missionschef in demselben Land sein",
+            "Beide Begriffe bezeichnen exakt dieselbe Funktion ohne jeden Unterschied",
+            "Ernennung für eine begrenzte Aufgabe, ohne ständige Missionsleitung",
             "Nur Sondergesandte, niemals ständige Missionschefs, genießen diplomatische Immunität"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Ein Sondergesandter wird typischerweise für eine bestimmte, oft zeitlich begrenzte Aufgabe – etwa Vermittlung in einer Krise – ernannt, ohne eine ständige Mission zu leiten; der ständige Missionschef nimmt demgegenüber die kontinuierliche bilaterale Vertretung wahr.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -10574,24 +10574,24 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Anerkennung als Flüchtling in einem Staat nicht automatisch eine Anerkennung durch alle übrigen GFK-Vertragsstaaten bewirkt?",
           "o": [
-            "Die Flüchtlingsanerkennung erfolgt grundsätzlich durch den jeweiligen Aufnahmestaat eigenständig, ohne dass eine Anerkennung in einem Staat automatisch für alle übrigen Vertragsstaaten bindend würde, auch wenn praktische Kooperationsmechanismen bestehen",
-            "Die GFK sieht ein zentrales, für alle Vertragsstaaten einheitlich bindendes Anerkennungsregister vor",
             "Eine einmal in einem Vertragsstaat erfolgte Anerkennung bindet automatisch alle anderen Vertragsstaaten weltweit",
+            "Jeder Aufnahmestaat entscheidet eigenständig; keine automatische Bindung der übrigen",
+            "Die GFK sieht ein zentrales, für alle Vertragsstaaten einheitlich bindendes Anerkennungsregister vor",
             "Nur eine Anerkennung durch das UNHCR selbst hat weltweite Bindungswirkung"
           ],
-          "a": 0,
+          "a": 1,
           "e": "Die Flüchtlingsanerkennung ist grundsätzlich eine eigenständige Entscheidung jedes einzelnen Vertragsstaats; sie bindet nicht automatisch alle übrigen GFK-Vertragsstaaten, auch wenn in der Praxis – etwa im Rahmen regionaler Kooperationssysteme – gegenseitige Berücksichtigung stattfinden kann.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass Kinder eines anerkannten Flüchtlings, die im Aufnahmestaat geboren werden, nicht automatisch selbst den Flüchtlingsstatus der Eltern erben?",
           "o": [
+            "Kinder erben den Flüchtlingsstatus ihrer Eltern stets automatisch, ohne eigene Prüfung",
             "Im Aufnahmestaat geborene Kinder sind rechtlich ausgeschlossen, jemals selbst Flüchtlingsstatus zu erhalten",
-            "Auch im Aufnahmestaat geborene Kinder anerkannter Flüchtlinge durchlaufen grundsätzlich eine eigenständige Statusprüfung bzw. -zuerkennung, wenngleich viele Staaten aus praktischen Gründen vereinfachte Verfahren für solche Familienangehörigen vorsehen",
-            "Diese Frage ist in der GFK ausdrücklich und abschließend geregelt",
-            "Kinder erben den Flüchtlingsstatus ihrer Eltern stets automatisch, ohne eigene Prüfung"
+            "Auch im Aufnahmestaat geborene Kinder durchlaufen eine eigenständige Statusprüfung",
+            "Diese Frage ist in der GFK selbst ausdrücklich und abschließend geregelt"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Formal durchläuft grundsätzlich auch ein im Aufnahmestaat geborenes Kind eines anerkannten Flüchtlings eine eigene Statusprüfung bzw. -zuerkennung, wenngleich viele nationale Rechtsordnungen aus praktischen und familieneinheitsbezogenen Gründen vereinfachte Verfahren für solche Fälle vorsehen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -10682,12 +10682,12 @@
         {
           "q": "Welche Bedeutung hat die diplomatische Praxis der „stillen Diplomatie\" im Unterschied zu öffentlicher Kritik?",
           "o": [
-            "Stille Diplomatie ist im WÜD ausdrücklich verboten",
             "Stille Diplomatie bezeichnet ausschließlich Kommunikation über verschlüsselte elektronische Kanäle",
-            "Bei der stillen Diplomatie werden Anliegen oder Kritik vertraulich, nicht öffentlich, gegenüber der anderen Seite vorgebracht, in der Erwartung, dass dies mitunter wirksamer sein kann als öffentliche Konfrontation",
-            "Stille Diplomatie bezeichnet den vollständigen Verzicht auf jede Form diplomatischer Kommunikation"
+            "Stille Diplomatie bezeichnet den vollständigen Verzicht auf jede Form diplomatischer Kommunikation",
+            "Stille Diplomatie ist im WÜD ausdrücklich verboten worden",
+            "Anliegen werden vertraulich statt öffentlich vorgebracht, oft mit größerer Wirkung"
           ],
-          "a": 2,
+          "a": 3,
           "e": "Bei der stillen Diplomatie werden Anliegen vertraulich statt öffentlich vorgebracht – eine strategische Wahl, die in bestimmten Situationen als wirksamer angesehen wird als öffentliche Konfrontation, da sie der anderen Seite einen gesichtswahrenden Ausweg lässt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -10845,23 +10845,23 @@
           "q": "Welche Bedeutung hat die Unterscheidung zwischen technischem und Verwaltungspersonal einerseits und dienstlichem Hauspersonal einer Mission andererseits für den Umfang ihrer Vorrechte?",
           "o": [
             "Nur Diplomaten selbst werden vom WÜD erfasst, alle übrigen Personalkategorien bleiben gänzlich ungeregelt",
-            "Technisches und Verwaltungspersonal genießt nach Art. 37 WÜD einen gegenüber Diplomaten leicht abgestuften, aber weiterhin substanziellen Schutz, während dienstliches Hauspersonal einen nochmals reduzierten Schutzumfang genießt",
             "Beide Kategorien genießen exakt denselben Umfang an Vorrechten wie akkreditierte Diplomaten selbst",
-            "Beide Personalkategorien genießen überhaupt keinerlei Vorrechte"
+            "Nach Art. 37 WÜD abgestuft: Verwaltungspersonal stärker, Hauspersonal schwächer geschützt",
+            "Beide Personalkategorien genießen überhaupt keinerlei Vorrechte im Empfangsstaat"
           ],
-          "a": 1,
+          "a": 2,
           "e": "Das WÜD staffelt die Vorrechte nach Personalkategorien: Technisches und Verwaltungspersonal genießt nach Art. 37 WÜD einen gegenüber Diplomaten leicht abgestuften, aber weiterhin substanziellen Schutz, dienstliches Hauspersonal einen nochmals reduzierten Umfang – ein abgestuftes System je nach Funktionsnähe zur eigentlichen Missionsarbeit.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Immunität eines Diplomaten mit endgültiger Ausreise aus dem Empfangsstaat nach Funktionsende grundsätzlich endet, für Handlungen in Ausübung seiner dienstlichen Tätigkeit aber fortbesteht?",
           "o": [
+            "Die persönliche Immunität endet, die funktionale Immunität besteht fort",
+            "Die Frage der Immunität nach Funktionsende ist im WÜD nicht ausdrücklich geregelt",
             "Jede Form der Immunität endet ausnahmslos vollständig mit der Ausreise, ohne jede Ausnahme",
-            "Immunität besteht nach Ausreise unbegrenzt für jede erdenkliche private Handlung fort",
-            "Die Frage der Immunität nach Funktionsende ist im WÜD nicht geregelt",
-            "Während die persönliche Immunität mit der Ausreise grundsätzlich endet, bleibt die funktionale Immunität für Handlungen, die der Diplomat in Ausübung seiner dienstlichen Tätigkeit vorgenommen hat, auch nach Funktionsende bestehen"
+            "Immunität besteht nach Ausreise unbegrenzt für jede erdenkliche private Handlung fort"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Nach Art. 39 Abs. 2 WÜD endet die umfassende persönliche Immunität grundsätzlich mit der Ausreise nach Funktionsende, während die funktionale Immunität für Amtshandlungen während der Dienstzeit fortbesteht – ein wichtiger Unterschied zwischen persönlicher und sachlicher Immunitätsreichweite.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -10892,10 +10892,10 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Beweiswürdigung im Asylverfahren die besonderen psychischen Belastungen traumatisierter Antragsteller berücksichtigen muss?",
           "o": [
+            "Traumatisierung spielt für die Beweiswürdigung keinerlei erkennbare Rolle",
             "Diese Frage ist ausschließlich Gegenstand des Strafrechts, nicht des Flüchtlingsrechts",
-            "Traumatisierte Antragsteller werden von der Beweispflicht vollständig freigestellt",
-            "Anerkannte Verfahrensgrundsätze verlangen, dass etwaige Widersprüche oder Erinnerungslücken im Vorbringen traumatisierter Antragsteller im Licht möglicher psychischer Belastungsfolgen gewürdigt werden, statt sie automatisch als Unglaubwürdigkeit zu werten",
-            "Traumatisierung spielt für die Beweiswürdigung keinerlei erkennbare Rolle"
+            "Widersprüche sind im Licht möglicher Traumafolgen zu würdigen",
+            "Traumatisierte Antragsteller werden von der Beweispflicht vollständig freigestellt"
           ],
           "a": 2,
           "e": "Anerkannte Verfahrensgrundsätze und einschlägige Leitlinien verlangen eine sensible Beweiswürdigung, die mögliche psychische Belastungsfolgen traumatisierter Antragsteller berücksichtigt – etwaige Widersprüche oder Erinnerungslücken sollen nicht automatisch als Unglaubwürdigkeit gewertet werden, sondern im Kontext möglicher Traumafolgen betrachtet werden.",
@@ -10988,12 +10988,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass ein Empfangsstaat einer diplomatischen Mission grundsätzlich freien Zugang zu allgemein zugänglichen Kommunikationsmitteln gewähren muss?",
           "o": [
-            "Der Empfangsstaat darf jede Form der Kommunikation der Mission nach freiem Ermessen vollständig unterbinden",
-            "Nur mündliche, niemals schriftliche oder elektronische Kommunikation ist geschützt",
+            "Nach Art. 27 WÜD frei, doch bedarf eine eigene Funksendeanlage der Zustimmung",
             "Diplomatische Kommunikation unterliegt keinerlei rechtlicher Regelung im WÜD",
-            "Nach Art. 27 WÜD muss die Mission bei der Benutzung geeigneter Mittel, einschließlich diplomatischer Kuriere und verschlüsselter Nachrichten, frei kommunizieren können, wobei die Einrichtung einer Funksendeanlage der Zustimmung des Empfangsstaats bedarf"
+            "Nur mündliche, niemals schriftliche oder elektronische Kommunikation ist geschützt",
+            "Der Empfangsstaat darf jede Form der Kommunikation der Mission nach freiem Ermessen vollständig unterbinden"
           ],
-          "a": 3,
+          "a": 0,
           "e": "Art. 27 WÜD gewährleistet der Mission freie Kommunikation mit ihrer Regierung und anderen Missionen des Entsendestaats, einschließlich verschlüsselter Nachrichten und diplomatischer Kuriere – lediglich für die Einrichtung einer eigenen Funksendeanlage ist die Zustimmung des Empfangsstaats erforderlich.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -11012,12 +11012,12 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass das Kindeswohl bei asylrechtlichen Entscheidungen über unbegleitete minderjährige Antragsteller vorrangig zu berücksichtigen ist?",
           "o": [
+            "Das Kindeswohl ist nach der VN-Kinderrechtskonvention vorrangig zu berücksichtigen",
+            "Das Kindeswohl spielt bei asylrechtlichen Entscheidungen keinerlei erkennbare Rolle",
             "Die VN-Kinderrechtskonvention regelt ausdrücklich nur wirtschaftliche, nicht aber verfahrensrechtliche Fragen",
-            "Das Kindeswohl wird ausschließlich bei begleiteten, niemals bei unbegleiteten Minderjährigen berücksichtigt",
-            "Nach international anerkannten Grundsätzen, insbesondere der VN-Kinderrechtskonvention, ist das Wohl des Kindes bei allen es betreffenden Maßnahmen ein vorrangig zu berücksichtigender Gesichtspunkt, auch im Asylverfahren",
-            "Das Kindeswohl spielt bei asylrechtlichen Entscheidungen keinerlei erkennbare Rolle"
+            "Das Kindeswohl wird ausschließlich bei begleiteten, niemals bei unbegleiteten Minderjährigen berücksichtigt"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Nach der VN-Kinderrechtskonvention ist das Wohl des Kindes bei allen es betreffenden Maßnahmen vorrangig zu berücksichtigen – ein Grundsatz, der auch das Asylverfahren unbegleiteter minderjähriger Antragsteller prägt, etwa bei der Bestellung eines Vormunds und der Verfahrensgestaltung.",
           "cat": "Flüchtlings- & Asylrecht"
         }
@@ -11198,12 +11198,12 @@
         {
           "q": "Welche Bedeutung hat die diplomatenrechtliche Regel, dass die Anzahl der Mitglieder einer Mission im Verhältnis zur Größe des Empfangsstaats angemessen sein soll?",
           "o": [
+            "Art. 11 WÜD erlaubt dem Empfangsstaat, eine angemessene Missionsgröße zu verlangen",
             "Die Missionsgröße richtet sich ausschließlich nach dem freien Ermessen des Entsendestaats, ohne jedes Mitspracherecht des Empfangsstaats",
-            "Art. 11 WÜD erlaubt dem Empfangsstaat, in Ermangelung ausdrücklicher Vereinbarung zu verlangen, dass die Missionsgröße in Anbetracht der Umstände und Bedingungen des Empfangsstaats sowie der Bedürfnisse der betreffenden Mission angemessen bleibt",
             "Diese Regel gilt ausschließlich für Missionen ständiger Sicherheitsratsmitglieder",
             "Diese Regel existiert nicht und Missionen dürfen beliebig groß sein"
           ],
-          "a": 1,
+          "a": 0,
           "e": "Art. 11 WÜD erlaubt dem Empfangsstaat, mangels ausdrücklicher anderer Vereinbarung, eine angemessene Begrenzung der Missionsgröße zu verlangen, unter Berücksichtigung seiner eigenen Umstände und der legitimen Bedürfnisse der jeweiligen Mission – ein Korrektiv gegen unverhältnismäßig große Missionen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
@@ -11234,10 +11234,10 @@
         {
           "q": "Welche Bedeutung hat der Grundsatz, dass die Prüfung der Flüchtlingseigenschaft bei Verfolgung wegen der Zugehörigkeit zu einer „bestimmten sozialen Gruppe\" eine Definition dieser Gruppe im konkreten Einzelfall erfordert?",
           "o": [
-            "Der Begriff der sozialen Gruppe ist abschließend und für alle Fälle identisch in der GFK selbst definiert",
-            "Der unbestimmte Rechtsbegriff der „bestimmten sozialen Gruppe\" erfordert eine kontextabhängige Konkretisierung im Einzelfall, wobei Rechtsprechung und Praxis verschiedener Staaten unterschiedliche Ansätze zur Bestimmung entwickelt haben",
+            "Der Begriff der sozialen Gruppe wurde durch das New Yorker Protokoll 1967 vollständig gestrichen",
+            "Der unbestimmte Begriff erfordert eine kontextabhängige Konkretisierung im Einzelfall",
             "Nur ethnische Minderheiten können jemals als soziale Gruppe im Sinne der GFK gelten",
-            "Der Begriff der sozialen Gruppe wurde durch das New Yorker Protokoll 1967 vollständig gestrichen"
+            "Der Begriff der sozialen Gruppe ist abschließend und für alle Fälle identisch in der GFK selbst definiert"
           ],
           "a": 1,
           "e": "Der in der GFK selbst nicht abschließend definierte unbestimmte Rechtsbegriff der „bestimmten sozialen Gruppe\" erfordert eine kontextabhängige Konkretisierung im jeweiligen Einzelfall; Rechtsprechung und Praxis verschiedener Vertragsstaaten haben hierzu unterschiedliche, sich teils ergänzende Ansätze entwickelt, etwa mit Blick auf angeborene Merkmale oder gemeinsame, für die Identität grundlegende Erfahrungen.",
