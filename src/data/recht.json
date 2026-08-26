@@ -1236,15 +1236,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Wie definiert Art. 2 Abs. 1 lit. a WVK den Begriff des völkerrechtlichen Vertrags?",
+          "q": "Ein völkerrechtlicher Vertrag im Sinne der Wiener Vertragsrechtskonvention ist eine Übereinkunft, die",
           "o": [
-            "Als mündliche oder schriftliche Vereinbarung, die stets der Ratifikation durch alle nationalen Parlamente bedarf",
-            "Als schriftliche, dem Völkerrecht unterstehende Übereinkunft zwischen Staaten",
-            "Als jede politische Absichtserklärung zwischen zwei oder mehr Staaten",
-            "Als Vereinbarung, die ausschließlich zwischen Staaten und internationalen Organisationen geschlossen werden kann"
+            "in Schriftform geschlossen wird und dem Völkerrecht untersteht.",
+            "von allen Vertragsparteien ratifiziert worden ist.",
+            "beim Sekretariat der Vereinten Nationen registriert worden ist.",
+            "zwischen Staaten und privaten Unternehmen geschlossen wird."
           ],
-          "a": 1,
-          "e": "Art. 2 Abs. 1 lit. a WVK definiert den völkerrechtlichen Vertrag als schriftliche, dem Völkerrecht unterstehende internationale Übereinkunft zwischen Staaten, unabhängig von ihrer Bezeichnung. Entscheidend ist der Rechtsbindungswille, nicht Form oder Name – eine bloße politische Absichtserklärung fällt gerade nicht darunter.",
+          "a": 0,
+          "e": "Art. 2 Abs. 1 Buchstabe a der Konvention verlangt eine in Schriftform geschlossene, dem Völkerrecht unterstehende Übereinkunft zwischen Staaten — gleichgültig, ob sie in einer oder mehreren Urkunden niedergelegt ist und welche Bezeichnung sie trägt. Verträge unter Beteiligung privater Unternehmen fallen nicht darunter; sie unterstehen dem Investitionsschutz- oder dem nationalen Recht. Die Ratifikation gehört nicht zur Definition, sondern ist eine von mehreren Formen, die Zustimmung zur Bindung auszudrücken. Die Registrierung nach Art. 102 der VN-Charta ist eine Folgepflicht: ein nicht registrierter Vertrag bleibt gültig, kann aber vor Organen der Vereinten Nationen nicht geltend gemacht werden.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -1554,15 +1554,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was kennzeichnet eine erga omnes-Verpflichtung im Völkerrecht?",
+          "q": "In welcher Entscheidung prägte der Internationale Gerichtshof den Begriff der Verpflichtungen erga omnes?",
           "o": [
-            "Sie besteht gegenüber der Staatengemeinschaft als Ganzes",
-            "Sie gilt nur innerhalb einer bestimmten Region",
-            "Sie erlischt automatisch nach Ablauf von zehn Jahren",
-            "Sie bindet nur die beiden ursprünglichen Vertragsparteien"
+            "Nottebohm-Fall",
+            "Lotus-Fall",
+            "Nordsee-Festlandsockel-Fall",
+            "Barcelona-Traction-Fall"
           ],
-          "a": 0,
-          "e": "Erga omnes-Verpflichtungen bestehen gegenüber der Staatengemeinschaft als Ganzes; jeder Staat hat ein rechtliches Interesse an ihrer Einhaltung, unabhängig von einer eigenen unmittelbaren Betroffenheit. Sie sind eng mit ius cogens verwandt, aber nicht mit ihm identisch.",
+          "a": 3,
+          "e": "Im Barcelona-Traction-Fall von 1970 unterschied der Internationale Gerichtshof zwischen Verpflichtungen gegenüber einzelnen Staaten und solchen gegenüber der Staatengemeinschaft als Ganzer; als Beispiele nannte er das Verbot der Aggression, des Völkermords, der Sklaverei und der Rassendiskriminierung. Der Nottebohm-Fall von 1955 betraf die Wirksamkeit einer Einbürgerung gegenüber Drittstaaten und verlangte dafür eine echte Verbindung zwischen Person und Staat. Der Lotus-Fall von 1927 behandelte die Grenzen staatlicher Strafgerichtsbarkeit. Der Nordsee-Festlandsockel-Fall von 1969 betraf die Abgrenzung des Festlandsockels und die Voraussetzungen der Gewohnheitsrechtsbildung.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -2766,27 +2766,27 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Was besagt die „persistent objector\"-Doktrin im Völkergewohnheitsrecht?",
+          "q": "Nach der Lehre vom persistent objector ist ein Staat an eine gewohnheitsrechtliche Norm nicht gebunden, wenn er",
           "o": [
-            "Wer sich von Anfang an beharrlich widersetzt, ist nicht gebunden",
-            "Jeder Staat ist automatisch an jede neu entstehende Gewohnheitsrechtsnorm gebunden",
-            "Die Doktrin betrifft ausschließlich Vertragsrecht, nicht Gewohnheitsrecht",
-            "Nur Gründungsmitglieder der Vereinten Nationen können sich einer Norm widersetzen"
+            "einem Vertrag mit gegenteiligem Inhalt beigetreten ist.",
+            "ihr nach ihrer Entstehung ausdrücklich widersprochen hat.",
+            "sie in seinem innerstaatlichen Recht nicht umgesetzt hat.",
+            "ihr von Beginn ihrer Entstehung an beharrlich widersprochen hat."
           ],
-          "a": 0,
-          "e": "Ein Staat, der eine entstehende Gewohnheitsrechtsnorm von Beginn an konsequent und offen ablehnt, ist ihr im Ergebnis nicht unterworfen – ein Ausdruck des Konsensprinzips, auf dem die Bindungskraft des Völkerrechts beruht.",
+          "a": 3,
+          "e": "Entscheidend ist der Zeitpunkt: Der Widerspruch muss bereits während der Entstehung der Norm erhoben und danach beharrlich aufrechterhalten werden. Ein erst nach der Verfestigung erklärter Widerspruch befreit gerade nicht — sonst könnte sich jeder Staat nachträglich aus dem Gewohnheitsrecht lösen. Die unterbliebene innerstaatliche Umsetzung ist völkerrechtlich unerheblich, weil sich ein Staat auf sein eigenes Recht nicht berufen kann. Ein Vertrag mit gegenteiligem Inhalt bindet nur seine Parteien und beseitigt die gewohnheitsrechtliche Geltung im Übrigen nicht.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welche zwei Elemente setzt die Entstehung von Völkergewohnheitsrecht nach ganz herrschender Auffassung voraus?",
+          "q": "Völkergewohnheitsrecht entsteht nach herrschender Auffassung aus",
           "o": [
-            "Nur eine tatsächliche Staatenübung, unabhängig von einer Rechtsüberzeugung",
-            "Ausschließlich die Zustimmung des Sicherheitsrats",
-            "Verbreitete Staatenübung (consuetudo) und Rechtsüberzeugung (opinio iuris)",
-            "Ausschließlich einen Beschluss der Generalversammlung"
+            "verbreiteter Staatenübung und entsprechender Rechtsüberzeugung.",
+            "der ständigen Rechtsprechung des Internationalen Gerichtshofs.",
+            "übereinstimmenden Resolutionen der VN-Generalversammlung.",
+            "verbreiteter Staatenübung ohne weitere Voraussetzung."
           ],
-          "a": 2,
-          "e": "Völkergewohnheitsrecht entsteht aus dem Zusammenspiel zweier Elemente: der tatsächlichen Übung der Staaten und der opinio iuris, also der Überzeugung, rechtlich und nicht bloß aus Höflichkeit oder Zweckmäßigkeit zu handeln.",
+          "a": 0,
+          "e": "Art. 38 Abs. 1 Buchstabe b des IGH-Statuts spricht von einer als Recht anerkannten allgemeinen Übung und verlangt damit zwei Elemente: die tatsächliche, hinreichend verbreitete und einheitliche Staatenübung sowie die Überzeugung, dabei einer Rechtspflicht zu folgen. Die Übung allein genügt nicht; bloße Höflichkeit oder Zweckmäßigkeit begründet keine Norm. Resolutionen der Generalversammlung sind für sich unverbindlich und können allenfalls die Rechtsüberzeugung belegen. Richterliche Entscheidungen sind nach Art. 38 Abs. 1 Buchstabe d nur Hilfsmittel zur Feststellung von Rechtsnormen, nicht selbst Rechtsquelle.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -2960,10 +2960,10 @@
         {
           "q": "Aus welcher Bestimmung der EMRK leitet der EGMR die positiven Schutzpflichten der Vertragsstaaten ab?",
           "o": [
-            "Art. 1 EMRK – Verpflichtung zur Achtung der Menschenrechte",
-            "Art. 15 EMRK – Abweichen im Notstandsfall",
+            "Art. 1 EMRK – Achtung der Menschenrechte",
             "Art. 34 EMRK – Individualbeschwerden",
-            "Art. 13 EMRK – Recht auf wirksame Beschwerde"
+            "Art. 13 EMRK – Recht auf wirksame Beschwerde",
+            "Art. 15 EMRK – Abweichen im Notstandsfall"
           ],
           "a": 0,
           "e": "Art. 1 EMRK verpflichtet die Vertragsstaaten, allen ihrer Hoheitsgewalt unterstehenden Personen die Konventionsrechte „zuzusichern“. Aus dieser Zusicherungspflicht in Verbindung mit dem jeweiligen Sachgrundrecht leitet der EGMR seit Marckx (1979) und Osman (1998) die positiven Schutzpflichten ab: der Staat muss Rechtsgutsverletzungen auch durch Private verhindern, nicht nur eigene Eingriffe unterlassen. Das Recht auf wirksame Beschwerde verpflichtet lediglich zur Bereitstellung eines innerstaatlichen Rechtsbehelfs gegen behauptete Konventionsverletzungen und begründet keine materielle Schutzpflicht. Das Abweichen im Notstandsfall regelt umgekehrt die Suspendierung von Konventionsgarantien in Krieg oder öffentlichem Notstand. Die Individualbeschwerde ist eine reine Verfahrensvorschrift über den Zugang zum Gerichtshof.",
@@ -3084,15 +3084,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was versteht man unter der „Monismus\"-Theorie zum Verhältnis von Völkerrecht und nationalem Recht?",
+          "q": "Nach der monistischen Lehre zum Verhältnis von Völkerrecht und nationalem Recht",
           "o": [
-            "Monismus bedeutet, dass ausschließlich Völkergewohnheitsrecht gilt, niemals Vertragsrecht",
-            "Eine einheitliche Rechtsordnung ohne gesonderten Umsetzungsakt",
-            "Nur ein Weltstaat könnte eine monistische Rechtsordnung verwirklichen",
-            "Nationales Recht existiert überhaupt nicht neben dem Völkerrecht"
+            "bilden beide eine einheitliche Rechtsordnung ohne gesonderten Umsetzungsakt.",
+            "richtet sich der Rang des Völkerrechts nach dem Zeitpunkt seiner Entstehung.",
+            "bestehen zwei getrennte Rechtsordnungen, die einen Umsetzungsakt erfordern.",
+            "gilt Völkerrecht erst nach Bestätigung durch das Verfassungsgericht."
           ],
-          "a": 1,
-          "e": "Die monistische Theorie begreift Völkerrecht und nationales Recht als Teile einer einheitlichen Rechtsordnung; bestimmte völkerrechtliche Normen können danach ohne besonderen Transformationsakt unmittelbare innerstaatliche Wirkung entfalten – Frankreich etwa folgt tendenziell monistischen Grundsätzen für Verträge.",
+          "a": 0,
+          "e": "Der Monismus, geprägt von Hans Kelsen und Alfred Verdross, versteht Völkerrecht und staatliches Recht als eine einzige Rechtsordnung; Völkerrecht gilt innerstaatlich unmittelbar, ein Transformationsakt ist begrifflich entbehrlich. Die Gegenposition ist der Dualismus: er geht von zwei getrennten Ordnungen aus und verlangt deshalb gerade einen Umsetzungsakt. Eine Bestätigung durch das Verfassungsgericht kennt keine der beiden Lehren. Der Zeitpunkt der Entstehung ist eine Frage der Kollisionsregeln, nicht des Geltungsmodells.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -3684,15 +3684,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Auf welche Weise kann ein Staat nach Art. 11 WVK seine Zustimmung ausdrücken, durch einen Vertrag gebunden zu sein?",
+          "q": "Nach Art. 11 WVK kann ein Staat seine Zustimmung, durch einen Vertrag gebunden zu sein, ausdrücken",
           "o": [
-            "Ausschließlich durch mündliche Erklärung des Staatsoberhaupts",
-            "Durch Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt",
-            "Ausschließlich durch Volksabstimmung",
-            "Ausschließlich durch förmliche Ratifikation, kein anderer Weg ist zulässig"
+            "durch Unterzeichnung oder Ratifikation, nicht aber durch Beitritt.",
+            "durch Registrierung des Vertrags beim Sekretariat der Vereinten Nationen.",
+            "durch Hinterlegung einer Urkunde beim Internationalen Gerichtshof.",
+            "durch Unterzeichnung, Ratifikation, Annahme, Genehmigung oder Beitritt."
           ],
-          "a": 1,
-          "e": "Art. 11 WVK lässt verschiedene Bindungsformen zu, deren Wahl den Vertragsparteien überlassen bleibt – von der bloßen Unterzeichnung bis zur förmlichen Ratifikation, je nach Vereinbarung oder Vertragsinhalt.",
+          "a": 3,
+          "e": "Art. 11 WVK zählt die Formen der Zustimmung auf und lässt daneben jede andere vereinbarte Form zu; der Vertrag selbst bestimmt, welcher Weg gilt. Der Beitritt ist ausdrücklich genannt und der übliche Weg für Staaten, die den Vertrag nicht mitverhandelt haben. Hinterlegt werden die Urkunden beim Depositar, den der Vertrag benennt — beim Sekretariat der Vereinten Nationen oder einem Staat, nie beim Internationalen Gerichtshof, der keine Verwahrfunktion hat. Die Registrierung nach Art. 102 der VN-Charta erfolgt erst nach Inkrafttreten und begründet keine Bindung.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -3708,15 +3708,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Wo werden die beim VN-Sekretariat registrierten völkerrechtlichen Verträge veröffentlicht?",
+          "q": "Wo werden die beim Sekretariat der Vereinten Nationen registrierten völkerrechtlichen Verträge veröffentlicht?",
           "o": [
-            "Ausschließlich auf der Website des Internationalen Gerichtshofs",
-            "Im Bundesgesetzblatt jedes Mitgliedstaats",
-            "In der „United Nations Treaty Series\" (UNTS)",
-            "Sie werden nicht veröffentlicht, sondern nur intern archiviert"
+            "in den Official Records of the General Assembly",
+            "im Repertory of Practice of United Nations Organs",
+            "im Yearbook of the United Nations",
+            "in der United Nations Treaty Series"
           ],
-          "a": 2,
-          "e": "Nach Art. 102 VN-Charta registrierte Verträge werden vom Sekretariat in der „United Nations Treaty Series\" veröffentlicht – eine der umfangreichsten öffentlich zugänglichen Vertragssammlungen der Welt.",
+          "a": 3,
+          "e": "Art. 102 der VN-Charta verpflichtet die Mitgliedstaaten, ihre Verträge beim Sekretariat registrieren zu lassen; veröffentlicht werden sie in der United Nations Treaty Series, die inzwischen mehr als 2.500 Bände umfasst. Das Yearbook of the United Nations ist ein jährlicher Tätigkeitsbericht der Organisation. Das Repertory of Practice dokumentiert die Auslegungspraxis der Charta durch die Hauptorgane. Die Official Records enthalten Sitzungsprotokolle und Resolutionen der Generalversammlung, nicht die Vertragstexte der Mitgliedstaaten.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -4014,15 +4014,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Bedeutet die bloße Unterzeichnung eines völkerrechtlichen Vertrags durch einen Staatenvertreter bereits dessen völkerrechtliche Bindung?",
+          "q": "Die bloße Unterzeichnung eines ratifikationsbedürftigen Vertrags",
           "o": [
-            "Nur bei Verträgen zwischen mehr als drei Staaten",
-            "Nein, niemals und unter keinen Umständen",
-            "In aller Regel nein; erst mit Ratifikation",
-            "Ja, immer und ausnahmslos ohne Ratifikation"
+            "verpflichtet den Staat zur Ratifikation binnen zwölf Monaten.",
+            "bleibt für den Staat völkerrechtlich ohne jede Rechtswirkung.",
+            "begründet bereits die volle völkerrechtliche Bindung des Staates.",
+            "verpflichtet dazu, Ziel und Zweck des Vertrags nicht zu vereiteln."
           ],
-          "a": 2,
-          "e": "Die Unterzeichnung bindet in der Regel noch nicht – erst Ratifikation, Annahme, Genehmigung oder Beitritt begründen die volle völkerrechtliche Bindung, es sei denn, der Vertrag selbst sieht ausnahmsweise die sofortige Bindung durch Unterschrift vor.",
+          "a": 3,
+          "e": "Art. 18 WVK weist der Unterzeichnung eine eigene, begrenzte Wirkung zu: Der Staat muss sich bis zur Entscheidung über die Ratifikation aller Handlungen enthalten, die Ziel und Zweck des Vertrags vereiteln würden. Die volle Bindung tritt erst mit der Ratifikation ein. Wirkungslos ist die Unterzeichnung deshalb gerade nicht — das ist der praktisch wichtigste Punkt, etwa bei der 2002 erklärten Rücknahme der amerikanischen Unterschrift unter das Römische Statut. Eine Frist zur Ratifikation besteht nicht; ein Staat kann unbegrenzt zuwarten oder ganz darauf verzichten.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -4064,12 +4064,12 @@
         {
           "q": "Der Rat beschließt über den Abschluss eines Assoziierungsabkommens nach Art. 218 Abs. 8 AEUV",
           "o": [
+            "mit einfacher Mehrheit.",
             "mit qualifizierter Mehrheit.",
-            "einstimmig.",
-            "mit der Mehrheit von vier Fünfteln seiner Mitglieder.",
-            "mit einfacher Mehrheit."
+            "mit der Mehrheit von vier Fünfteln.",
+            "mit Einstimmigkeit."
           ],
-          "a": 1,
+          "a": 3,
           "e": "Art. 218 Abs. 8 AEUV bestimmt als Regelfall die qualifizierte Mehrheit, verlangt jedoch ausdrücklich Einstimmigkeit für Assoziierungsabkommen nach Art. 217 AEUV sowie für Abkommen in Bereichen, in denen intern Einstimmigkeit gilt. Die qualifizierte Mehrheit ist deshalb die naheliegende, aber gerade nicht einschlägige Antwort. Die einfache Mehrheit gilt im Rat nur für Verfahrensfragen und die Geschäftsordnung (Art. 238 Abs. 1 AEUV). Die Mehrheit von vier Fünfteln ist ein realer Ratsschwellenwert, betrifft aber die Feststellung der Gefahr einer Werteverletzung nach Art. 7 Abs. 1 EUV und hat mit Vertragsschlüssen nichts zu tun.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
@@ -4584,15 +4584,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Das Gesetz über den Auswärtigen Dienst (GAD) regelt",
+          "q": "Das Gesetz über den Auswärtigen Dienst regelt insbesondere",
           "o": [
-            "die konsularische Betreuung deutscher Staatsangehöriger im Ausland.",
-            "die Aufgaben des Auswärtigen Dienstes und die Rechtsstellung seiner Angehörigen.",
-            "die Zustimmung des Bundestages zu völkerrechtlichen Verträgen.",
-            "die Verteilung der Vertragsschlusskompetenz zwischen Bund und Ländern."
+            "die Aufgaben und Befugnisse der Konsularbeamten.",
+            "die Besoldung und die Auslandszuschläge der Beamten.",
+            "das Verfahren bei der Ratifikation völkerrechtlicher Verträge.",
+            "die Pflicht zur Verwendung im Ausland und die Rotation."
           ],
-          "a": 1,
-          "e": "Das Gesetz über den Auswärtigen Dienst von 1990 beschreibt die Aufgaben des Auswärtigen Dienstes — Vertretung der Bundesrepublik, Pflege der Beziehungen zu ausländischen Staaten und internationalen Organisationen, Beobachtung und Berichterstattung — und regelt die besonderen Rechtsverhältnisse seiner Angehörigen, insbesondere die Verwendung im Ausland, die Rotation und die Fürsorge für die Familien. Die Verteilung der Vertragsschlusskompetenz zwischen Bund und Ländern beruht auf Art. 32 GG und der dazu geschlossenen Verwaltungsabsprache, dem Lindauer Abkommen von 1957. Die konsularische Betreuung deutscher Staatsangehöriger im Ausland ist Gegenstand des Konsulargesetzes. Die Zustimmung des Bundestages zu völkerrechtlichen Verträgen folgt aus Art. 59 Abs. 2 GG und ergeht in Gestalt eines Vertragsgesetzes.",
+          "a": 3,
+          "e": "Das Gesetz über den Auswärtigen Dienst von 1990 beschreibt die Aufgaben des Auswärtigen Dienstes und regelt die besonderen Rechtsverhältnisse seiner Angehörigen. Kennzeichnend ist die Pflicht, im Ausland Dienst zu leisten, und die daraus folgende Rotation zwischen Zentrale und Auslandsvertretungen samt der Fürsorge für die mitreisenden Familien — genau darin liegt die Abweichung vom allgemeinen Beamtenrecht. Die Aufgaben und Befugnisse der Konsularbeamten gegenüber deutschen Staatsangehörigen im Ausland regelt das Konsulargesetz. Die Dienstbezüge einschließlich der Auslandszuschläge folgen aus dem Bundesbesoldungsgesetz. Das Verfahren bei der Ratifikation völkerrechtlicher Verträge ergibt sich aus Art. 59 Abs. 2 GG und dem jeweiligen Vertragsgesetz.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         }
       ]
@@ -5214,15 +5214,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Welche Rechtsfolge kann ein materieller Vertragsbruch nach Art. 60 WVK für die andere Vertragspartei haben?",
+          "q": "Bei einem erheblichen Vertragsbruch berechtigt Art. 60 WVK die andere Vertragspartei,",
           "o": [
-            "Nur der VN-Sicherheitsrat kann auf einen materiellen Vertragsbruch reagieren",
-            "Keinerlei Rechtsfolge; ein Vertragsbruch berührt die Vertragspflichten der anderen Partei nicht",
-            "Sie kann den Vertrag ganz oder teilweise suspendieren oder beenden",
-            "Sie muss den Vertragsbrecher automatisch vor den IStGH bringen"
+            "die Sache dem Sicherheitsrat zur verbindlichen Entscheidung vorzulegen.",
+            "vom vertragsbrüchigen Staat Schadensersatz in Geld zu verlangen.",
+            "den Vertrag ganz oder teilweise zu beenden oder zu suspendieren.",
+            "den Vertrag rückwirkend für von Anfang an nichtig zu erklären."
           ],
           "a": 2,
-          "e": "Art. 60 WVK erlaubt der nicht vertragsbrüchigen Partei, je nach Schwere des Bruchs und Vertragstyp den Vertrag zu suspendieren oder zu beenden – ein Selbsthilferecht des Vertragsrechts, streng zu unterscheiden von den Gegenmaßnahmen der Staatenverantwortlichkeit.",
+          "e": "Art. 60 WVK gibt der verletzten Partei das Recht, den Vertrag ganz oder teilweise zu beenden oder seine Anwendung auszusetzen; bei mehrseitigen Verträgen bestehen dafür abgestufte Voraussetzungen. Ein Anspruch auf Geldersatz folgt nicht aus dem Vertragsrecht, sondern aus dem Recht der Staatenverantwortlichkeit und setzt einen bezifferbaren Schaden voraus. Eine rückwirkende Nichtigkeit tritt nicht ein: Die Beendigung wirkt für die Zukunft, während Nichtigkeitsgründe wie Zwang oder Verstoß gegen zwingendes Recht in den Art. 51 bis 53 gesondert geregelt sind. Der Sicherheitsrat entscheidet nicht über Vertragsverletzungen, sondern über Bedrohungen des Weltfriedens.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -5238,15 +5238,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welches Verfahren schreibt Art. 65 WVK für die Kündigung oder den Rücktritt von einem Vertrag vor?",
+          "q": "Welche Frist muss nach Art. 65 WVK zwischen der Notifikation und der Durchführung einer Vertragskündigung grundsätzlich verstreichen?",
           "o": [
-            "Die Zustimmung des Internationalen Gerichtshofs ist stets vorab erforderlich",
-            "Eine sofortige, formlose Erklärung ohne jede Fristsetzung",
-            "Förmliche Notifikation mit einer Frist von grundsätzlich drei Monaten",
-            "Nur eine interne Kabinettsentscheidung ohne Mitteilung nach außen"
+            "ein Monat",
+            "zwölf Monate",
+            "sechs Monate",
+            "drei Monate"
           ],
-          "a": 2,
-          "e": "Art. 65 WVK verlangt eine förmliche Notifikation mit angemessener Frist – grundsätzlich mindestens drei Monate –, innerhalb derer die übrigen Parteien Einspruch erheben können; erst danach kann die Kündigung wirksam vollzogen werden.",
+          "a": 3,
+          "e": "Art. 65 Abs. 2 WVK bestimmt, dass die übrigen Vertragsparteien nach Zugang der Notifikation nicht weniger als drei Monate Zeit haben, Einwendungen zu erheben; erst danach darf die angekündigte Maßnahme durchgeführt werden. Erhebt eine Partei fristgerecht Einwendungen, ist der Streit nach Art. 33 der VN-Charta beizulegen. Nur bei besonderer Dringlichkeit darf die Frist verkürzt werden. Die drei anderen Zeitspannen kommen im Verfahren der Konvention nicht vor.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -5262,15 +5262,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was besagt der Grundsatz „pacta tertiis nec nocent nec prosunt\" (Art. 34 WVK)?",
+          "q": "Der Grundsatz pacta tertiis nec nocent nec prosunt besagt, dass ein Vertrag",
           "o": [
-            "Ein Vertrag begründet für Drittstaaten weder Rechte noch Pflichten",
-            "Verträge sind stets auch für Drittstaaten unmittelbar verbindlich",
-            "Der Grundsatz betrifft ausschließlich das Seerecht",
-            "Drittstaaten können jederzeit einem Vertrag automatisch beitreten"
+            "nach Registrierung bei den Vereinten Nationen für sämtliche Staaten gilt.",
+            "seine Wirkung mit dem Beitritt weiterer Staaten teilweise verliert.",
+            "für einen Drittstaat Rechte, aber keine Pflichten begründen kann.",
+            "für Drittstaaten ohne deren Zustimmung weder Rechte noch Pflichten begründet."
           ],
-          "a": 0,
-          "e": "Ein Vertrag entfaltet grundsätzlich nur inter partes Wirkung; Rechte oder Pflichten für Dritte können nur mit deren – ausdrücklicher oder bei Rechten auch stillschweigender – Zustimmung entstehen.",
+          "a": 3,
+          "e": "Art. 34 WVK hält fest, dass ein Vertrag für einen Drittstaat ohne dessen Zustimmung weder Pflichten noch Rechte begründet; er ist Ausdruck der staatlichen Souveränität. Die zweite Option trifft nur die halbe Wahrheit: Nach Art. 36 kann ein Vertrag einem Drittstaat zwar ein Recht einräumen, doch auch dafür wird dessen Zustimmung vermutet und kann widerlegt werden — das Merkmal der Zustimmung entfällt also nicht. Die Registrierung nach Art. 102 der VN-Charta erweitert den Kreis der Gebundenen nicht. Der Beitritt weiterer Staaten erweitert diesen Kreis, schwächt aber die Wirkung zwischen den bisherigen Parteien nicht.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -5532,15 +5532,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was regelt Art. 49 WVK zum arglistigen Verhalten (Betrug) beim Vertragsschluss?",
+          "q": "Welche Bestimmung der Wiener Vertragsrechtskonvention regelt die Nichtigkeit eines durch arglistige Täuschung erlangten Vertrags?",
           "o": [
-            "Nur der Sicherheitsrat kann einen durch Betrug erschlichenen Vertrag für nichtig erklären",
-            "Der arglistig getäuschte Staat kann sich auf Nichtigkeit berufen",
-            "Betrug führt automatisch zur Nichtigkeit für alle Vertragsparteien, nicht nur den getäuschten Staat",
-            "Betrug beim Vertragsschluss bleibt völkerrechtlich vollständig folgenlos"
+            "Art. 52 WVK",
+            "Art. 49 WVK",
+            "Art. 46 WVK",
+            "Art. 53 WVK"
           ],
           "a": 1,
-          "e": "Arglistiges Verhalten eines Verhandlungspartners, das einen anderen Staat zum Vertragsschluss veranlasst, berechtigt den getäuschten Staat, sich auf die Nichtigkeit seiner eigenen Zustimmung zu berufen – ein relativer, vom betroffenen Staat geltend zu machender Nichtigkeitsgrund.",
+          "e": "Art. 49 WVK erlaubt es dem Staat, der durch betrügerisches Verhalten eines anderen Verhandlungsstaats zum Vertragsschluss bestimmt wurde, sich auf die Ungültigkeit seiner Zustimmung zu berufen; die Nichtigkeit tritt also nicht von selbst ein, sondern ist geltend zu machen. Art. 46 betrifft die Verletzung innerstaatlicher Zuständigkeitsvorschriften und lässt eine Berufung nur bei offenkundigen Verstößen gegen grundlegende Vorschriften zu. Art. 52 erklärt Verträge für nichtig, die durch Androhung oder Anwendung von Gewalt zustande gekommen sind. Art. 53 ordnet die Nichtigkeit bei Verstoß gegen zwingendes Völkerrecht an — dort tritt sie ohne Berufung ein.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -5826,15 +5826,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Wie löst Art. 30 WVK einen Normkonflikt zwischen zwei aufeinanderfolgenden Verträgen zum selben Gegenstand zwischen denselben Parteien?",
+          "q": "Schließen dieselben Staaten nacheinander zwei Verträge über denselben Gegenstand, so",
           "o": [
-            "Nur der IGH kann einen solchen Konflikt verbindlich auflösen",
-            "Beide Verträge werden bei Widerspruch automatisch insgesamt nichtig",
-            "Der frühere Vertrag geht dem späteren stets automatisch vor",
-            "Grundsätzlich geht der spätere Vertrag vor, soweit unvereinbar"
+            "werden beide Verträge im Umfang des Widerspruchs unwirksam.",
+            "geht der frühere Vertrag als der speziellere Vertrag vor.",
+            "geht der spätere Vertrag vor, soweit beide unvereinbar sind.",
+            "entscheidet der Depositar über das Verhältnis beider Verträge."
           ],
-          "a": 3,
-          "e": "Art. 30 WVK folgt grundsätzlich der Regel „lex posterior derogat legi priori\": Der spätere Vertrag geht dem früheren zwischen denselben Parteien vor, soweit sie sich widersprechen – vorbehaltlich abweichender Vereinbarungen der Parteien oder speziellerer Regelungen wie des Charta-Vorrangs.",
+          "a": 2,
+          "e": "Art. 30 Abs. 3 WVK wendet den Grundsatz lex posterior an: Der frühere Vertrag gilt nur insoweit, als er mit dem späteren vereinbar ist. Voraussetzung ist Parteienidentität und derselbe Gegenstand. Der Vorrang des Spezielleren richtet sich nicht nach dem Zeitpunkt, sondern nach dem Regelungsgehalt, und der frühere Vertrag ist nicht schon deshalb spezieller. Eine Unwirksamkeit tritt nicht ein — beide Verträge bleiben bestehen, nur die Anwendung wird geordnet. Der Depositar nimmt Urkunden entgegen und unterrichtet die Parteien; eine Entscheidungsbefugnis über Vertragskollisionen hat er nicht.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -5850,27 +5850,27 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Sind Gutachten des Internationalen Gerichtshofs für die anfragende Organisation rechtlich bindend?",
+          "q": "Gutachten des Internationalen Gerichtshofs sind für die anfragende Organisation",
           "o": [
-            "Gutachten sind nur für den Sicherheitsrat, niemals für andere Organe, bindend",
-            "Ja, jedes IGH-Gutachten ist ausnahmslos bindend",
-            "Grundsätzlich nicht; Gutachten sind ihrer Natur nach unverbindlich",
-            "Die Frage der Bindungswirkung ist völkerrechtlich vollständig ungeregelt"
+            "verbindlich, soweit sie die Auslegung der VN-Charta betreffen.",
+            "in gleicher Weise verbindlich wie ein Urteil zwischen zwei Staaten.",
+            "verbindlich, sobald die Generalversammlung sie förmlich annimmt.",
+            "rechtlich unverbindlich, entfalten aber erhebliche fachliche Autorität."
           ],
-          "a": 2,
-          "e": "Gutachten des IGH sind grundsätzlich rechtlich unverbindlich – anders als Urteile in streitigen Verfahren –, es sei denn, ein besonderes Abkommen ordnet ausnahmsweise ihre Verbindlichkeit an, wie dies etwa in einzelnen Sonderorganisationsstatuten vorgesehen ist.",
+          "a": 3,
+          "e": "Gutachten nach Art. 96 der VN-Charta und Art. 65 des IGH-Statuts sind ihrer Natur nach unverbindlich; sie beraten das anfragende Organ, ohne es rechtlich zu binden. Ihre tatsächliche Wirkung ist gleichwohl erheblich, wie die Gutachten zum Kosovo oder zur Mauer in den besetzten palästinensischen Gebieten zeigen. Urteile binden dagegen nach Art. 59 des Statuts die Streitparteien — dieser Unterschied ist der Kern der Frage. Eine Annahme durch die Generalversammlung ändert die Rechtsnatur nicht, und auch für Chartafragen gilt keine Sonderregel; einzelne Verträge können allerdings vorab vereinbaren, ein Gutachten als bindend anzuerkennen.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Woraus wird die für die Entstehung von Völkergewohnheitsrecht erforderliche opinio iuris in der Praxis abgeleitet?",
+          "q": "Die für Völkergewohnheitsrecht erforderliche Rechtsüberzeugung wird in der Praxis abgeleitet aus",
           "o": [
-            "Opinio iuris lässt sich niemals empirisch nachweisen und bleibt reine Theorie",
-            "Aus Staatenerklärungen, Abstimmungsverhalten und nationaler Gesetzgebung",
-            "Ausschließlich aus förmlichen Erklärungen vor der VN-Generalversammlung",
-            "Ausschließlich aus Entscheidungen nationaler Verfassungsgerichte"
+            "der Zahl der Vertragsstaaten einschlägiger Übereinkommen.",
+            "der übereinstimmenden Rechtsprechung nationaler Verfassungsgerichte.",
+            "Staatenerklärungen, Abstimmungsverhalten und nationaler Gesetzgebung.",
+            "den Schlussanträgen der Parteien vor dem Internationalen Gerichtshof."
           ],
-          "a": 1,
-          "e": "Die Rechtsüberzeugung der Staaten wird aus einer Vielzahl von Indizien erschlossen – offizielle Erklärungen, Abstimmungsverhalten, innerstaatliche Gesetzgebung, diplomatische Korrespondenz und militärische Handbücher zählen zu den klassischen Nachweisquellen.",
+          "a": 2,
+          "e": "Die Rechtsüberzeugung ist ein innerer Umstand und nur mittelbar nachweisbar. Herangezogen werden amtliche Erklärungen und Protestnoten, das Abstimmungsverhalten in internationalen Organisationen, diplomatische Korrespondenz und die nationale Gesetzgebung — so auch die Schlussfolgerungen der Völkerrechtskommission von 2018. Die bloße Zahl der Vertragsstaaten belegt sie nicht: Wer einem Vertrag beitritt, folgt dessen Bindung, nicht notwendig einer allgemeinen Rechtspflicht. Schlussanträge sind Parteivortrag im Prozess und geben die Position einer Partei wieder. Entscheidungen nationaler Gerichte können Staatenpraxis belegen, sind aber nur ein Ausschnitt und tragen den Nachweis nicht allein.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -6132,15 +6132,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Unter welcher Voraussetzung ist ein völkerrechtlicher Vorbehalt nach Art. 19 WVK unzulässig?",
+          "q": "Ein Vorbehalt zu einem mehrseitigen Vertrag ist nach Art. 19 WVK unzulässig, wenn",
           "o": [
-            "Vorbehalte sind im Völkervertragsrecht ausnahmslos immer unzulässig",
-            "Vorbehalte sind im Völkervertragsrecht ausnahmslos immer zulässig",
-            "Wenn der Vertrag ihn verbietet oder er Ziel und Zweck widerspricht",
-            "Nur der Sicherheitsrat kann über die Zulässigkeit eines Vorbehalts entscheiden"
+            "er mit Ziel und Zweck des Vertrags unvereinbar ist.",
+            "er sich auf eine Streitbeilegungsklausel des Vertrags bezieht.",
+            "ihm ein anderer Vertragsstaat ausdrücklich widerspricht.",
+            "er erst nach der Unterzeichnung des Vertrags erklärt wird."
           ],
-          "a": 2,
-          "e": "Art. 19 WVK benennt drei Fallgruppen unzulässiger Vorbehalte: ein vertragliches Vorbehaltsverbot, ein auf bestimmte Vorbehalte beschränktes Erlaubnisregime, das den fraglichen Vorbehalt nicht erfasst, sowie die Unvereinbarkeit mit Ziel und Zweck des Vertrags.",
+          "a": 0,
+          "e": "Art. 19 WVK lässt Vorbehalte zu, sofern der Vertrag sie nicht verbietet, sie nicht außerhalb der ausdrücklich zugelassenen liegen und sie mit Ziel und Zweck des Vertrags vereinbar sind; die letzte Schranke geht auf das Gutachten des Internationalen Gerichtshofs zur Völkermordkonvention von 1951 zurück. Der Widerspruch eines anderen Staates macht einen Vorbehalt nicht unzulässig — er regelt nach Art. 20 und 21 nur das Verhältnis zwischen diesen beiden Staaten. Der Zeitpunkt ist unschädlich, solange der Vorbehalt spätestens bei der endgültigen Bindungserklärung angebracht wird. Vorbehalte gerade zu Streitbeilegungsklauseln sind verbreitet und zulässig.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -6438,15 +6438,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Welche drei Auslegungselemente verbindet Art. 31 Abs. 1 WVK zu einer einheitlichen Auslegungsregel?",
+          "q": "Die allgemeine Auslegungsregel des Art. 31 Abs. 1 WVK verbindet",
           "o": [
-            "Wortlaut, Zusammenhang sowie Ziel und Zweck, nach Treu und Glauben",
-            "Ausschließlich die spätere Staatenpraxis, unabhängig vom Vertragstext",
-            "Ausschließlich den historischen Willen der Vertragsverhandler",
-            "Ausschließlich die Auffassung des zuletzt beigetretenen Vertragsstaats"
+            "den Willen der Verhandlungsparteien und die Umstände des Vertragsschlusses.",
+            "Wortlaut, Entstehungsgeschichte und spätere Staatenpraxis.",
+            "die authentischen Sprachfassungen in der Reihenfolge ihrer Hinterlegung.",
+            "Wortlaut, Zusammenhang sowie Ziel und Zweck nach Treu und Glauben."
           ],
-          "a": 0,
-          "e": "Art. 31 Abs. 1 WVK verbindet Wortlaut, systematischen Zusammenhang sowie Ziel und Zweck zu einer einheitlichen, nach Treu und Glauben anzuwendenden Auslegungsregel – ohne feste Rangfolge zwischen diesen Elementen.",
+          "a": 3,
+          "e": "Art. 31 Abs. 1 WVK fasst die Auslegungselemente zu einer einheitlichen Regel zusammen: nach Treu und Glauben, in Übereinstimmung mit der gewöhnlichen Bedeutung der Begriffe, in ihrem Zusammenhang und im Lichte von Ziel und Zweck. Die Entstehungsgeschichte gehört gerade nicht dazu — sie ist nach Art. 32 nur ergänzendes Auslegungsmittel und darf erst herangezogen werden, wenn die allgemeine Regel kein eindeutiges Ergebnis liefert. Dasselbe gilt für den Willen der Verhandlungsparteien und die Umstände des Vertragsschlusses. Die Behandlung mehrsprachiger Verträge regelt Art. 33, und dort sind alle authentischen Fassungen gleichermaßen maßgebend, ohne Rangfolge.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -6716,24 +6716,24 @@
         {
           "q": "Auf die clausula rebus sic stantibus nach Art. 62 WVK kann sich ein Staat nicht berufen,",
           "o": [
+            "wenn der Vertrag mehr als zehn Vertragsparteien hat.",
             "wenn der Vertrag keine ausdrückliche Kündigungsklausel enthält.",
-            "wenn der Vertrag vor Inkrafttreten der Wiener Vertragsrechtskonvention geschlossen wurde.",
-            "wenn der Vertrag eine Grenze festlegt.",
-            "wenn der Vertrag mehr als zehn Vertragsparteien hat."
+            "wenn der Vertrag vor der Wiener Vertragsrechtskonvention geschlossen wurde.",
+            "wenn der Vertrag den Verlauf einer Grenze festlegt."
           ],
-          "a": 2,
+          "a": 3,
           "e": "Art. 62 Abs. 2 WVK nimmt zwei Fälle ausdrücklich aus: Verträge, die eine Grenze festlegen, und Fälle, in denen die grundlegende Änderung der Umstände auf einer eigenen Vertragsverletzung der sich berufenden Partei beruht. Die Bestandskraft von Grenzverträgen dient der territorialen Stabilität und entspricht dem Grundsatz uti possidetis. Die Zahl der Vertragsparteien ist für Art. 62 ohne Bedeutung; die Vorschrift gilt für zwei- wie mehrseitige Verträge gleichermaßen. Der Zeitpunkt des Vertragsschlusses ist ebenfalls unerheblich: Art. 4 WVK ordnet zwar die Nichtrückwirkung der Konvention selbst an, doch gilt die clausula daneben als Völkergewohnheitsrecht fort. Das Fehlen einer Kündigungsklausel betrifft Art. 56 WVK und die dortige Frage der Kündbarkeit, nicht die Berufung auf veränderte Umstände.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
           "q": "In welcher Entscheidung formulierte der Ständige Internationale Gerichtshof den Grundsatz der vollen Wiedergutmachung?",
           "o": [
-            "Lotus-Fall",
+            "Chorzów-Fall",
+            "Wimbledon-Fall",
             "Mavrommatis-Fall",
-            "Fall der Fabrik von Chorzów",
-            "Wimbledon-Fall"
+            "Lotus-Fall"
           ],
-          "a": 2,
+          "a": 0,
           "e": "Im Fall der Fabrik von Chorzów formulierte der Ständige Internationale Gerichtshof 1928 den bis heute maßgeblichen Satz, die Wiedergutmachung müsse alle Folgen der rechtswidrigen Handlung beseitigen und den Zustand wiederherstellen, der ohne sie bestanden hätte; Art. 31 der ILC-Artikel greift ihn wörtlich auf. Der Lotus-Fall von 1927 betraf die Grenzen staatlicher Strafgerichtsbarkeit und begründete die Vermutung zugunsten staatlicher Handlungsfreiheit. Der Wimbledon-Fall von 1923 behandelte die Durchfahrt durch den Nord-Ostsee-Kanal und die Frage, ob vertragliche Bindungen die Souveränität verletzen. Der Mavrommatis-Fall von 1924 ist die Grundentscheidung zum diplomatischen Schutz.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
@@ -6744,15 +6744,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Was verbietet das völkerrechtliche Interventionsverbot (Nichteinmischungsgrundsatz)?",
+          "q": "Das völkerrechtliche Interventionsverbot untersagt",
           "o": [
-            "Jede Form diplomatischer Kritik an der Innenpolitik eines anderen Staates",
-            "Jede Form wirtschaftlicher Zusammenarbeit zwischen zwei Staaten",
-            "Ausschließlich militärische Interventionen, niemals wirtschaftlichen Zwang",
-            "Zwangsweise Einmischung in den domaine réservé eines anderen Staates"
+            "die öffentliche Kritik an der Menschenrechtslage eines anderen Staates.",
+            "wirtschaftliche Beziehungen zu einem Staat unter einem Sanktionsregime.",
+            "die zwangsweise Einmischung in den domaine réservé eines anderen Staates.",
+            "die Aufnahme von Kontakten zu einer Bürgerkriegspartei im Ausland."
           ],
-          "a": 3,
-          "e": "Das Interventionsverbot untersagt die zwangsweise Einmischung in Angelegenheiten des ausschließlich inneren Zuständigkeitsbereichs eines anderen Staates – bloße diplomatische Kritik ohne Zwangselement fällt demgegenüber nicht darunter.",
+          "a": 2,
+          "e": "Das Interventionsverbot, vom Internationalen Gerichtshof im Nicaragua-Urteil bestätigt, verbietet die Einmischung in Angelegenheiten, über die ein Staat frei entscheiden darf, sofern sie mit Zwang verbunden ist; das umfasst auch massiven wirtschaftlichen Druck, nicht nur militärische Mittel. Öffentliche Kritik bleibt zulässig — Menschenrechte sind seit langem keine ausschließlich innere Angelegenheit mehr, und Kritik ist kein Zwangsmittel. Kontakte zu einer Bürgerkriegspartei sind für sich erlaubt; die Grenze liegt bei deren militärischer Unterstützung. Wirtschaftsbeziehungen im Rahmen eines Sanktionsregimes betreffen die Einhaltung der Sanktionen, nicht das Interventionsverbot.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -6984,14 +6984,14 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welches völkerrechtliche Übereinkommen regelt die Rechtsstellung staatenloser Personen, die nicht zugleich Flüchtlinge sind?",
+          "q": "Welcher völkerrechtliche Vertrag regelt die Rechtsstellung staatenloser Personen, die nicht zugleich Flüchtlinge sind?",
           "o": [
             "Haager Abkommen von 1930",
-            "New Yorker Übereinkommen von 1954",
             "Genfer Abkommen von 1951",
-            "New Yorker Protokoll von 1967"
+            "New Yorker Protokoll von 1967",
+            "New Yorker Übereinkommen von 1954"
           ],
-          "a": 1,
+          "a": 3,
           "e": "Das Übereinkommen über die Rechtsstellung der Staatenlosen wurde am 28. September 1954 in New York geschlossen und überträgt den Schutzstandard der Flüchtlingskonvention auf Personen, die kein Staat aufgrund seines Rechts als Staatsangehörige ansieht. Ergänzt wird es durch das Übereinkommen zur Verminderung der Staatenlosigkeit von 1961. Das Genfer Abkommen von 1951 erfasst ausschließlich Flüchtlinge; staatenlose Personen fallen nur dann darunter, wenn sie zugleich verfolgt sind. Das New Yorker Protokoll von 1967 ändert allein die Flüchtlingskonvention, indem es deren zeitliche und räumliche Beschränkung aufhebt, und schafft keinen eigenen Staatenlosenschutz. Das Haager Abkommen von 1930 über Fragen des Staatsangehörigkeitskollisionsrechts will die Entstehung von Staatenlosigkeit verhindern, regelt aber nicht die Rechtsstellung bereits staatenloser Personen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
@@ -7062,15 +7062,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was versteht man unter einer Junktim-Klausel in einem völkerrechtlichen Vertrag?",
+          "q": "Eine Junktim-Klausel in einem völkerrechtlichen Vertrag verknüpft",
           "o": [
-            "Eine Klausel, die jede Vertragsänderung von vornherein ausschließt",
-            "Eine Klausel, die ausschließlich das Streitbeilegungsverfahren regelt",
-            "Eine Klausel, die nur in Verträgen mit internationalen Organisationen zulässig ist",
-            "Eine Klausel, die Bestimmungen oder Verträge voneinander abhängig macht"
+            "das Inkrafttreten mit dem Erreichen einer Mindestzahl von Ratifikationen.",
+            "die Geltung mehrerer Bestimmungen oder Verträge miteinander.",
+            "den Vertragstext mit seinen Anlagen und Zusatzprotokollen.",
+            "die Ratifikation mit der Zustimmung des nationalen Parlaments."
           ],
-          "a": 3,
-          "e": "Eine Junktim-Klausel verknüpft die Wirksamkeit oder Erfüllung verschiedener Vertragsteile oder -instrumente miteinander – ein Gestaltungsmittel, das Verhandlungspakete rechtlich absichert, indem es einseitiges Herausgreifen einzelner günstiger Bestimmungen erschwert.",
+          "a": 1,
+          "e": "Eine Junktim-Klausel macht die Geltung einer Bestimmung oder eines ganzen Vertrags von der Geltung einer anderen abhängig; ein Verhandlungspartner kann so verhindern, dass ein Zugeständnis ohne die dafür erwartete Gegenleistung wirksam wird. Die Einbeziehung von Anlagen und Protokollen ist demgegenüber eine bloße Bestandteilsklausel. Die Verknüpfung der Ratifikation mit der Zustimmung des Parlaments folgt aus dem Verfassungsrecht des jeweiligen Staates, in Deutschland aus Art. 59 Abs. 2 GG, und steht nicht im Vertrag. Die Bindung des Inkrafttretens an eine Mindestzahl von Ratifikationen ist eine gebräuchliche Inkrafttretensklausel, wie sie etwa das Seerechtsübereinkommen mit sechzig Ratifikationen vorsah.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -7356,15 +7356,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Haben Übersetzungen eines völkerrechtlichen Vertrags in eine nicht-authentische Sprache eigene rechtliche Verbindlichkeit?",
+          "q": "Für die Auslegung eines mehrsprachigen völkerrechtlichen Vertrags maßgeblich sind",
           "o": [
-            "Übersetzungen werden erst nach zehn Jahren automatisch rechtsverbindlich",
-            "Nur Übersetzungen des VN-Sekretariats sind rechtsverbindlich, alle anderen nicht",
-            "Nein; maßgeblich sind allein die authentischen Sprachfassungen",
-            "Ja, jede amtliche Übersetzung ist der authentischen Fassung rechtlich vollständig gleichgestellt"
+            "die Fassung in der bei den Verhandlungen verwendeten Sprache.",
+            "die authentischen Sprachfassungen des Vertrags.",
+            "die beim Depositar hinterlegte Urschrift in einer einzigen Sprache.",
+            "sämtliche amtlichen Übersetzungen der Vertragsstaaten."
           ],
-          "a": 2,
-          "e": "Rechtlich maßgeblich sind allein die vertraglich als authentisch bestimmten Sprachfassungen; Übersetzungen in andere Sprachen dienen der Information und Verbreitung, entfalten aber keine eigene rechtliche Verbindlichkeit im Auslegungsstreit.",
+          "a": 1,
+          "e": "Art. 33 WVK bestimmt, dass der Text in jeder authentischen Sprache gleichermaßen maßgebend ist und dass für die Begriffe in allen Fassungen dieselbe Bedeutung vermutet wird; bei einem Bedeutungsunterschied ist diejenige Auslegung zu wählen, die Ziel und Zweck des Vertrags am besten entspricht. Nicht-authentische Übersetzungen dienen nur der innerstaatlichen Verständlichkeit und binden nicht. Die Verhandlungssprache genießt keinen Vorrang, sofern der Vertrag sie nicht ausdrücklich für maßgebend erklärt. Beim Depositar wird die Urschrift in allen authentischen Sprachen hinterlegt, nicht in einer einzigen.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -7620,15 +7620,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass ein einseitiger Akt eines Staates – etwa eine förmliche Erklärung – unter bestimmten Voraussetzungen selbst völkerrechtliche Bindungswirkung entfalten kann, ohne dass ein Vertrag vorliegt?",
+          "q": "In welcher Entscheidung erkannte der Internationale Gerichtshof an, dass eine einseitige Erklärung völkerrechtlich binden kann?",
           "o": [
-            "Ja; eine Erklärung mit erkennbarem Bindungswillen kann verpflichten",
-            "Einseitige Akte können niemals eine eigenständige Bindungswirkung entfalten",
-            "Einseitige Akte bedürfen stets der nachträglichen förmlichen Bestätigung durch die Generalversammlung",
-            "Nur schriftliche, niemals mündliche einseitige Erklärungen können überhaupt Bindungswirkung entfalten"
+            "Lotus-Fall",
+            "Nuklearversuchsfall",
+            "Asylfall Haya de la Torre",
+            "Nottebohm-Fall"
           ],
-          "a": 0,
-          "e": "Im Nuklearversuche-Fall erkannte der IGH an, dass eine mit erkennbarem Bindungswillen öffentlich abgegebene einseitige Erklärung eines Staates diesen völkerrechtlich binden kann, auch ohne dass ein Vertrag mit einem anderen Staat vorliegt – ein eigenständiges, wenn auch eng gefasstes Rechtsinstitut neben dem klassischen Vertragsrecht.",
+          "a": 1,
+          "e": "In den Nuklearversuchsfällen von 1974 entschied der Internationale Gerichtshof, dass öffentliche Erklärungen französischer Regierungsvertreter, keine atmosphärischen Kernwaffenversuche mehr durchzuführen, Frankreich völkerrechtlich banden; maßgeblich war der erkennbare Wille, sich zu binden, nicht die Form. Die Völkerrechtskommission hat die Voraussetzungen 2006 in Leitlinien zusammengefasst. Der Nottebohm-Fall von 1955 betraf die Wirksamkeit einer Einbürgerung gegenüber Drittstaaten. Der Lotus-Fall von 1927 behandelte die Strafgerichtsbarkeit bei einem Schiffszusammenstoß auf Hoher See. Der Asylfall von 1950 betraf das diplomatische Asyl in lateinamerikanischen Botschaften und die Voraussetzungen regionalen Gewohnheitsrechts.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -7980,15 +7980,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welche Bedeutung hat die spätere Übung der Vertragsparteien bei der Anwendung eines Vertrags für dessen Auslegung nach Art. 31 Abs. 3 lit. b WVK?",
+          "q": "Die spätere Übung der Vertragsparteien ist nach Art. 31 Abs. 3 lit. b WVK",
           "o": [
-            "Spätere Praxis der Vertragsparteien ist für die Auslegung vollständig irrelevant",
-            "Nur die Übung des mächtigsten Staates zählt",
-            "Spätere Übung kann einen Vertrag nur formell, niemals durch Auslegung, ändern",
-            "Sie ist zusammen mit dem Zusammenhang zu berücksichtigen"
+            "als ergänzendes Auslegungsmittel nachrangig heranzuziehen.",
+            "erst nach einer Dauer von zehn Jahren beachtlich.",
+            "unbeachtlich, soweit sie vom Wortlaut des Vertrags abweicht.",
+            "gleichrangig neben Wortlaut und Zusammenhang zu berücksichtigen."
           ],
           "a": 3,
-          "e": "Art. 31 Abs. 3 lit. b WVK erhebt die spätere, eine Auslegungsübereinstimmung erkennen lassende Praxis der Vertragsparteien zu einem eigenständigen, dem Zusammenhang gleichgestellten Auslegungselement – ein Ausdruck der dynamischen, praxisnahen Vertragsauslegung.",
+          "e": "Art. 31 Abs. 3 Buchstabe b WVK ordnet die spätere Übung, aus der die Übereinstimmung der Vertragsparteien über die Auslegung hervorgeht, in die allgemeine Auslegungsregel ein — sie steht also gleichrangig neben Wortlaut, Zusammenhang sowie Ziel und Zweck. Sie ist deshalb nicht nachrangig wie die ergänzenden Auslegungsmittel des Art. 32, zu denen die Entstehungsgeschichte zählt; das ist der entscheidende Unterschied. Eine Mindestdauer verlangt die Konvention nicht; entscheidend ist die erkennbare Übereinstimmung der Parteien. Eine Abweichung vom Wortlaut macht die Übung nicht unbeachtlich, sondern ist der praktisch wichtigste Anwendungsfall — die Grenze verläuft erst bei einer förmlichen Vertragsänderung.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -8580,15 +8580,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Was regelt Art. 56 WVK für den Fall, dass ein Vertrag keine ausdrückliche Bestimmung über Kündigung oder Rücktritt enthält?",
+          "q": "Enthält ein Vertrag keine Bestimmung über Kündigung oder Rücktritt, so",
           "o": [
-            "Nur der Depositar kann in einem solchen Fall über eine Kündigung entscheiden",
-            "Jede Vertragspartei kann in diesem Fall jederzeit und ohne Weiteres kündigen",
-            "Der Vertrag kann in diesem Fall niemals gekündigt werden, unabhängig von den Umständen",
-            "Grundsätzlich kein Kündigungsrecht ohne Parteiwillen oder Vertragsnatur"
+            "ist eine Kündigung ohne entsprechenden Parteiwillen ausgeschlossen.",
+            "entscheidet der Depositar über die Zulässigkeit einer Kündigung.",
+            "kann eine Partei mit einer Frist von zwölf Monaten kündigen.",
+            "richtet sich die Kündigung nach dem Recht des kündigenden Staates."
           ],
-          "a": 3,
-          "e": "Art. 56 WVK stellt bei fehlender ausdrücklicher Kündigungsklausel grundsätzlich eine Vermutung gegen ein Kündigungsrecht auf, lässt aber Ausnahmen zu, wenn sich ein solches Recht aus der erkennbaren Parteiabsicht oder der Natur des Vertrags ergibt – etwa bei bestimmten, auf Widerruflichkeit angelegten Vertragstypen.",
+          "a": 0,
+          "e": "Art. 56 WVK geht vom Fortbestand des Vertrags aus: Ohne ausdrückliche Regelung ist eine Kündigung nur möglich, wenn feststeht, dass die Parteien sie zulassen wollten, oder wenn sich ein Kündigungsrecht aus der Natur des Vertrags ergibt. Praktisch bedeutsam wurde das beim Streit über die Kündbarkeit des Internationalen Pakts über bürgerliche und politische Rechte. Die Zwölfmonatsfrist des Art. 56 Abs. 2 gilt erst, wenn ein Kündigungsrecht überhaupt besteht — sie begründet keines. Der Depositar hat nur Verwahr- und Unterrichtungsaufgaben. Auf innerstaatliches Recht kann sich ein Staat nach Art. 27 WVK gerade nicht berufen.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -8604,15 +8604,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Kann bewusstes Unterlassen eines Staates – etwa das Absehen von einer bestimmten Handlung – zur Entstehung von Völkergewohnheitsrecht beitragen?",
+          "q": "Zur Staatenübung im Sinne des Völkergewohnheitsrechts zählt",
           "o": [
-            "Unterlassen ist im Völkergewohnheitsrecht ausschließlich als Verstoß, niemals als Praxisbeitrag, relevant",
-            "Nein, Völkergewohnheitsrecht kann sich ausschließlich aus positivem, aktivem Handeln entwickeln",
-            "Ja; auch bewusstes Unterlassen aus Rechtsüberzeugung zählt als Praxis",
-            "Nur schriftlich dokumentiertes Unterlassen kann jemals berücksichtigt werden"
+            "das Verhalten staatlicher Organe, nicht jedoch ein bloßes Unterlassen.",
+            "auch bewusstes Unterlassen, wenn es von einer Rechtsüberzeugung getragen ist.",
+            "das Abstimmungsverhalten in Organisationen erst nach dessen Wiederholung.",
+            "das Verhalten privater Unternehmen mit Sitz im betreffenden Staat."
           ],
-          "a": 2,
-          "e": "Auch ein bewusstes Unterlassen – etwa die durchgehende Nichteinmischung in bestimmte Angelegenheiten aus Rechtsüberzeugung – kann als Staatenpraxis gewertet werden und zur Entstehung von Völkergewohnheitsrecht beitragen, sofern das Unterlassen erkennbar auf einer entsprechenden Rechtsüberzeugung beruht.",
+          "a": 1,
+          "e": "Die Völkerrechtskommission hält in ihren Schlussfolgerungen von 2018 ausdrücklich fest, dass Staatenpraxis in einem Tun oder einem Unterlassen bestehen kann; das Unterlassen muss allerdings bewusst und von der Vorstellung getragen sein, dazu verpflichtet zu sein — bloße Untätigkeit genügt nicht. Der klassische Beleg ist der Verzicht auf die Ausübung von Strafgerichtsbarkeit gegenüber fremden Staatsoberhäuptern. Die zweite Option verkennt genau diesen Punkt. Für das Abstimmungsverhalten gilt keine Wiederholungsschwelle; es zählt von Anfang an als Praxis. Das Verhalten privater Unternehmen ist keine Staatenpraxis, solange es dem Staat nicht zurechenbar ist.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -8898,15 +8898,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Verlangt die gerichtliche Durchsetzung einer erga omnes-Verpflichtung vor dem Internationalen Gerichtshof automatisch, dass jeder beliebige Staat klagebefugt ist?",
+          "q": "Der erga omnes-Charakter einer Verpflichtung bewirkt vor dem Internationalen Gerichtshof",
           "o": [
-            "Ja, der erga omnes-Charakter einer Norm verleiht automatisch jedem Staat der Welt eine eigene Klagebefugnis vor dem IGH",
-            "Erga omnes-Normen sind vor dem IGH nie einklagbar",
-            "Nein; der IGH verlangt weiterhin eine eigene Klagebefugnis",
-            "Nur der Sicherheitsrat, niemals ein einzelner Staat, kann erga omnes-Verpflichtungen gerichtlich geltend machen"
+            "einen Verzicht auf das Erfordernis der Erschöpfung des innerstaatlichen Rechtswegs.",
+            "eine Klagebefugnis jedes Mitgliedstaats der Vereinten Nationen.",
+            "eine Zuständigkeit auch ohne Unterwerfungserklärung der beklagten Partei.",
+            "keine Erweiterung der Zuständigkeit; sie richtet sich weiter nach dem Statut."
           ],
-          "a": 2,
-          "e": "Auch wenn der IGH im Barcelona-Traction-Fall die Existenz erga omnes-Verpflichtungen anerkannte, verlangt die gerichtliche Durchsetzung grundsätzlich weiterhin eine eigenständige Klagebefugnis – der materielle erga omnes-Charakter einer Norm und die prozessuale Klagebefugnis sind rechtlich zu unterscheidende Fragen.",
+          "a": 3,
+          "e": "Der Gerichtshof hat bereits im Südwestafrika-Urteil von 1966 und erneut in Osttimor 1995 klargestellt, dass der erga omnes-Charakter einer Norm nichts über die Zuständigkeit aussagt: Diese setzt stets die Zustimmung der beklagten Partei voraus, etwa über eine Unterwerfungserklärung nach Art. 36 Abs. 2 des Statuts oder eine Streitbeilegungsklausel. Deshalb entsteht weder eine allgemeine Klagebefugnis aller VN-Mitglieder noch eine Zuständigkeit ohne Zustimmung. Zutreffend ist allerdings, dass Art. 48 der ILC-Artikel auch nicht unmittelbar verletzten Staaten die Geltendmachung erlaubt — das betrifft die materielle Berechtigung, nicht den Gerichtszugang. Die Erschöpfung des Rechtswegs ist eine Voraussetzung des diplomatischen Schutzes und hier nicht einschlägig.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -9204,16 +9204,16 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Können zwei Staaten in einem bilateralen Zusatzabkommen vereinbaren, dass ihre Konsularbeamten weitergehende, dem Diplomatenrecht angenäherte Vorrechte genießen, als das WÜK selbst grundsätzlich vorsieht?",
+          "q": "Ein bilaterales Zusatzabkommen zum Wiener Übereinkommen über konsularische Beziehungen",
           "o": [
-            "Ja; das WÜK schließt eine solche Assimilierung nicht aus",
-            "Nur multilaterale, niemals bilaterale Zusatzabkommen können das WÜK-Niveau erhöhen",
-            "Nein, das WÜK-Schutzniveau ist für alle Vertragsstaaten ausnahmslos zwingend und unveränderlich",
-            "Nur der Sicherheitsrat darf dies erlauben"
+            "wirkt zugleich zugunsten der Konsularbeamten dritter Vertragsstaaten.",
+            "kann die Vorrechte des Übereinkommens einschränken, aber nicht erweitern.",
+            "bedarf der Zustimmung des Generalsekretärs der Vereinten Nationen.",
+            "kann Konsularbeamten weitergehende Vorrechte einräumen als das Übereinkommen."
           ],
-          "a": 0,
-          "e": "Das WÜK setzt einen Mindeststandard, schließt aber nicht aus, dass Staaten sich bilateral auf eine weitergehende „Assimilierung\" konsularischer an diplomatische Vorrechte verständigen – eine in der Praxis vorkommende, wenn auch nicht durchgängige Gestaltungsoption.",
-          "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
+          "a": 3,
+          "e": "Art. 73 Abs. 2 WÜK erlaubt es den Vertragsstaaten ausdrücklich, internationale Übereinkünfte zu schließen, die die Bestimmungen des Übereinkommens bestätigen, ergänzen, ausdehnen oder erweitern; zahlreiche Konsularverträge nähern die Stellung der Konsularbeamten deshalb dem Diplomatenrecht an. Das Übereinkommen setzt also einen Mindest-, keinen Höchststandard; die Annahme, Zusatzabkommen könnten die Vorrechte nur einschränken, kehrt das Verhältnis um. Eine Zustimmung des Generalsekretärs ist nicht vorgesehen; er ist Depositar, nicht Genehmigungsinstanz. Eine Wirkung zugunsten dritter Staaten scheidet nach dem Grundsatz pacta tertiis aus.",
+          "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
           "q": "Wird die Frage, ob das Verbot des Non-Refoulement inzwischen den Rang von ius cogens erreicht hat, in der völkerrechtlichen Lehre einheitlich bejaht?",
@@ -9804,15 +9804,15 @@
       "note": "alle 10 Themenmodule abgedeckt",
       "items": [
         {
-          "q": "Kann ein völkerrechtlicher Vertrag auch durch einen bloßen Notenwechsel zwischen zwei Staaten wirksam zustande kommen, ohne ein förmliches Ratifikationsverfahren zu durchlaufen?",
+          "q": "Ein Notenwechsel zwischen zwei Staaten",
           "o": [
-            "Ja; ein Notenwechsel kann eine vereinfachte Vertragsform sein",
-            "Notenwechsel sind ausschließlich für Fragen des Protokolls, niemals für materielle Verpflichtungen, zulässig",
-            "Ein Notenwechsel hat niemals rechtliche Bindungswirkung",
-            "Nein, jeder völkerrechtliche Vertrag bedarf zwingend eines förmlichen Ratifikationsverfahrens"
+            "begründet politische, aber keine rechtlichen Bindungen zwischen den Staaten.",
+            "dient der Übermittlung protokollarischer Mitteilungen ohne Rechtsfolgen.",
+            "bedarf zu seiner Wirksamkeit der Hinterlegung bei einem Depositar.",
+            "kann eine vereinfachte Form des völkerrechtlichen Vertragsschlusses sein."
           ],
-          "a": 0,
-          "e": "Ein Notenwechsel kann, sofern von den beteiligten Staaten so gewollt, eine vereinfachte, gleichwohl völkerrechtlich bindende Vertragsform darstellen – die WVK lässt verschiedene Bindungsformen zu und schreibt kein bestimmtes förmliches Verfahren zwingend vor.",
+          "a": 3,
+          "e": "Ein Notenwechsel ist eine der gebräuchlichsten Formen des Vertragsschlusses in vereinfachter Form: Die eine Seite unterbreitet einen Vorschlag, die andere bestätigt ihn wortgleich, und beide Noten zusammen bilden den Vertrag. Art. 13 WVK erfasst diesen Weg ausdrücklich; ein Ratifikationsverfahren ist entbehrlich, wenn die Beteiligten es so wollen. Für bloß protokollarische Mitteilungen wird dieselbe Form zwar auch verwendet, doch schließt das die vertragsbegründende Wirkung nicht aus — es kommt auf den Inhalt an. Eine Hinterlegung bei einem Depositar ist bei zweiseitigen Abkommen nicht üblich. Ob eine rechtliche oder nur politische Bindung gewollt ist, richtet sich nach dem Willen der Parteien und ist nicht durch die Form vorgegeben.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -9948,15 +9948,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Bedeutung hat Art. 27 WVK für das Verhältnis zwischen völkerrechtlichen Vertragspflichten und innerstaatlichem Recht?",
+          "q": "Auf die Verletzung innerstaatlicher Zuständigkeitsvorschriften beim Vertragsschluss kann sich ein Staat berufen, wenn",
           "o": [
-            "Innerstaatliches Recht geht völkerrechtlichen Vertragspflichten grundsätzlich automatisch vor",
-            "Innerstaatliches Recht rechtfertigt keine Nichterfüllung",
-            "Die Vorschrift trat nie in Kraft",
-            "Art. 27 WVK betrifft ausschließlich das Verhältnis zwischen zwei völkerrechtlichen Verträgen zueinander"
+            "der andere Vertragsstaat der Berufung auf die Verletzung zustimmt.",
+            "sie später von einem nationalen Gericht festgestellt worden ist.",
+            "er den Vertrag noch nicht ratifiziert, sondern erst unterzeichnet hat.",
+            "die Verletzung offenkundig war und eine grundlegende Vorschrift betraf."
           ],
-          "a": 1,
-          "e": "Art. 27 WVK verankert den Grundsatz, dass sich eine Vertragspartei nicht auf ihr innerstaatliches Recht berufen kann, um die Nichterfüllung eines völkerrechtlichen Vertrags zu rechtfertigen – ein zentraler Ausdruck des Vorrangs des Völkervertragsrechts gegenüber widersprechendem nationalem Recht auf der völkerrechtlichen Ebene, unbeschadet der innerstaatlichen Wirkungsfragen.",
+          "a": 3,
+          "e": "Art. 46 WVK ist die eng begrenzte Gegenausnahme zu dem Grundsatz, dass innerstaatliches Recht die Nichterfüllung nicht rechtfertigt: Nur wenn die Verletzung offenkundig war — also für jeden Staat bei gutgläubigem Vorgehen erkennbar — und eine innerstaatliche Rechtsvorschrift von grundlegender Bedeutung betraf, kann sich ein Staat darauf berufen. Der Internationale Gerichtshof legte diesen Maßstab im Kamerun-Nigeria-Urteil von 2002 sehr streng aus. Eine spätere Feststellung durch ein nationales Gericht genügt nicht, weil sie an der fehlenden Erkennbarkeit für den Vertragspartner nichts ändert. Der Stand des Verfahrens ist unerheblich. Die Zustimmung des anderen Staates ist nicht Voraussetzung; die Parteien können den Vertrag ohnehin einvernehmlich aufheben.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -10068,15 +10068,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die Zustimmung eines verletzten Staates zu einer an sich völkerrechtswidrigen Handlung deren Rechtswidrigkeit ausschließen kann?",
+          "q": "Die wirksame Zustimmung eines Staates zu einer sonst völkerrechtswidrigen Handlung",
           "o": [
-            "Zustimmung schließt die Rechtswidrigkeit einer Handlung ausnahmslos gegenüber allen Staaten der Welt aus, nicht nur im bilateralen Verhältnis",
-            "Gültige Zustimmung schließt die Rechtswidrigkeit bilateral aus",
-            "Eine Zustimmung kann niemals wirksam zurückgenommen werden",
-            "Eine Zustimmung des betroffenen Staates ist für die Frage der Rechtswidrigkeit einer Handlung stets vollständig irrelevant"
+            "ist unwirksam, soweit sie nicht in Schriftform erteilt worden ist.",
+            "schließt deren Rechtswidrigkeit gegenüber allen Staaten aus.",
+            "schließt deren Rechtswidrigkeit im Verhältnis zu diesem Staat aus.",
+            "lässt die Rechtswidrigkeit unberührt und wirkt erst bei der Wiedergutmachung."
           ],
-          "a": 1,
-          "e": "Die gültige Zustimmung eines Staates zu einer bestimmten Handlung eines anderen Staates kann deren Rechtswidrigkeit im bilateralen Verhältnis zwischen diesen beiden Staaten ausschließen, soweit sich die Handlung im Rahmen der erteilten Zustimmung hält – ein anerkannter, aber eng auf das bilaterale Verhältnis begrenzter Rechtfertigungsgrund im Recht der Staatenverantwortlichkeit.",
+          "a": 2,
+          "e": "Art. 20 der ILC-Artikel schließt die Rechtswidrigkeit aus, soweit die Handlung im Rahmen der erteilten Zustimmung bleibt — praktisch bedeutsam bei der Stationierung fremder Truppen oder bei Rettungseinsätzen auf fremdem Gebiet. Die Wirkung ist auf das Verhältnis zum zustimmenden Staat beschränkt: Rechte dritter Staaten kann er nicht preisgeben, und gegenüber zwingendem Völkerrecht ist eine Zustimmung nach Art. 26 von vornherein unbeachtlich. Eine bloße Verlagerung auf die Wiedergutmachung findet nicht statt; die Zustimmung wirkt bereits auf der Ebene der Rechtswidrigkeit. Eine Form schreibt das Recht nicht vor, verlangt aber, dass die Zustimmung tatsächlich erteilt, frei von Willensmängeln und von einem zuständigen Organ erklärt wurde.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -10122,15 +10122,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Worin unterscheidet sich der völkerrechtliche estoppel-Grundsatz von der förmlichen Anerkennung eines Staates oder einer Rechtslage?",
+          "q": "Der völkerrechtliche estoppel-Grundsatz knüpft an",
           "o": [
-            "Anerkennung kann niemals durch schlüssiges Verhalten erfolgen, estoppel dagegen ausschließlich",
-            "Beide Begriffe sind vollständig identisch und austauschbar",
-            "Anerkennung ist eine gestaltende Erklärung, estoppel folgt aus Verhalten",
-            "Estoppel setzt stets eine förmliche schriftliche Erklärung voraus, Anerkennung dagegen nie"
+            "eine förmliche Erklärung des Staatsoberhaupts oder der Regierung an.",
+            "ein Verhalten an, auf das der andere Staat vertraut und sich eingerichtet hat.",
+            "die Registrierung eines Vertrags beim Sekretariat der Vereinten Nationen an.",
+            "die ausdrückliche Zustimmung des betroffenen Drittstaats an."
           ],
-          "a": 2,
-          "e": "Während die förmliche Anerkennung eine bewusste, meist ausdrückliche rechtsgestaltende Erklärung darstellt, wird estoppel aus dem tatsächlichen, ein berechtigtes Vertrauen begründenden Verhalten eines Staates abgeleitet – eine Rechtsfolge, die auch ohne eine förmliche Anerkennungserklärung eintreten kann.",
+          "a": 1,
+          "e": "Estoppel verbietet es einem Staat, sich zu seinem früheren Verhalten in Widerspruch zu setzen, wenn ein anderer Staat darauf vertraut und sich darauf eingerichtet hat; der Internationale Gerichtshof wandte den Gedanken im Tempel-von-Preah-Vihear-Urteil von 1962 an, als Thailand jahrelang gegen eine Grenzkarte nicht protestiert hatte. Maßgeblich ist also das Verhalten samt Vertrauenstatbestand, nicht eine Willenserklärung. Genau darin liegt der Unterschied zur Anerkennung, die eine gestaltende Erklärung ist und ausdrücklich abgegeben wird. Die Registrierung eines Vertrags erzeugt keinen Vertrauenstatbestand. Eine Zustimmung des Drittstaats ist keine Voraussetzung — estoppel wirkt gerade dort, wo eine ausdrückliche Erklärung fehlt.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
