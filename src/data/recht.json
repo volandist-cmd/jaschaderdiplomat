@@ -2958,15 +2958,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Verpflichtet die EMRK die Vertragsstaaten nur zur Unterlassung von Grundrechtseingriffen oder auch zu aktivem Schutz?",
+          "q": "Aus welcher Bestimmung der EMRK leitet der EGMR die positiven Schutzpflichten der Vertragsstaaten ab?",
           "o": [
-            "Nur zur Unterlassung; positive Schutzpflichten kennt die Konvention nicht",
-            "Nur im Bereich des Eigentumsschutzes",
-            "Nur gegenüber eigenen Staatsangehörigen",
-            "Auch zu aktivem Schutz; der EGMR leitet positive Schutzpflichten ab"
+            "Art. 1 EMRK – Verpflichtung zur Achtung der Menschenrechte",
+            "Art. 15 EMRK – Abweichen im Notstandsfall",
+            "Art. 34 EMRK – Individualbeschwerden",
+            "Art. 13 EMRK – Recht auf wirksame Beschwerde"
           ],
-          "a": 3,
-          "e": "Der EGMR hat aus den materiellen Konventionsrechten wiederholt positive Schutzpflichten der Staaten abgeleitet – etwa effektive Ermittlungen bei Gewalttaten oder Schutz vor gefährlichen Umweltbeeinträchtigungen –, die über bloße Unterlassungspflichten hinausgehen.",
+          "a": 0,
+          "e": "Art. 1 EMRK verpflichtet die Vertragsstaaten, allen ihrer Hoheitsgewalt unterstehenden Personen die Konventionsrechte „zuzusichern“. Aus dieser Zusicherungspflicht in Verbindung mit dem jeweiligen Sachgrundrecht leitet der EGMR seit Marckx (1979) und Osman (1998) die positiven Schutzpflichten ab: der Staat muss Rechtsgutsverletzungen auch durch Private verhindern, nicht nur eigene Eingriffe unterlassen. Das Recht auf wirksame Beschwerde verpflichtet lediglich zur Bereitstellung eines innerstaatlichen Rechtsbehelfs gegen behauptete Konventionsverletzungen und begründet keine materielle Schutzpflicht. Das Abweichen im Notstandsfall regelt umgekehrt die Suspendierung von Konventionsgarantien in Krieg oder öffentlichem Notstand. Die Individualbeschwerde ist eine reine Verfahrensvorschrift über den Zugang zum Gerichtshof.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -4062,15 +4062,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche besondere Mehrheit verlangt der Abschluss eines Assoziierungsabkommens im Rat der Europäischen Union typischerweise?",
+          "q": "Der Rat beschließt über den Abschluss eines Assoziierungsabkommens nach Art. 218 Abs. 8 AEUV",
           "o": [
-            "Eine einfache Mehrheit wie im Regelfall der Ratsbeschlüsse",
-            "Eine Zustimmung des Rates ist überhaupt nicht erforderlich",
-            "Einstimmigkeit, anders als bei gewöhnlichen Handelsabkommen",
-            "Eine Mehrheit von neunzig Prozent aller Mitgliedstaaten"
+            "mit qualifizierter Mehrheit.",
+            "einstimmig.",
+            "mit der Mehrheit von vier Fünfteln seiner Mitglieder.",
+            "mit einfacher Mehrheit."
           ],
-          "a": 2,
-          "e": "Wegen ihrer weitreichenden politischen und institutionellen Bedeutung verlangen Assoziierungsabkommen im Rat Einstimmigkeit, während gewöhnliche Handelsabkommen im Regelfall mit qualifizierter Mehrheit beschlossen werden können.",
+          "a": 1,
+          "e": "Art. 218 Abs. 8 AEUV bestimmt als Regelfall die qualifizierte Mehrheit, verlangt jedoch ausdrücklich Einstimmigkeit für Assoziierungsabkommen nach Art. 217 AEUV sowie für Abkommen in Bereichen, in denen intern Einstimmigkeit gilt. Die qualifizierte Mehrheit ist deshalb die naheliegende, aber gerade nicht einschlägige Antwort. Die einfache Mehrheit gilt im Rat nur für Verfahrensfragen und die Geschäftsordnung (Art. 238 Abs. 1 AEUV). Die Mehrheit von vier Fünfteln ist ein realer Ratsschwellenwert, betrifft aber die Feststellung der Gefahr einer Werteverletzung nach Art. 7 Abs. 1 EUV und hat mit Vertragsschlüssen nichts zu tun.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -4230,15 +4230,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Rolle spielt das Berufungsgremium (Appellate Body) im WTO-Streitbeilegungssystem, und in welchem Zustand befindet es sich seit 2019?",
+          "q": "Das Berufungsgremium (Appellate Body) der Welthandelsorganisation",
           "o": [
-            "Es ist voll funktionsfähig und entscheidet regelmäßig neue Fälle",
-            "Es wurde durch ein neues, direkt dem Sicherheitsrat unterstelltes Gremium ersetzt",
-            "Durch blockierte Neubesetzungen seit 2019 faktisch arbeitsunfähig",
-            "Es wurde 2019 formell aufgelöst und existiert nicht mehr"
+            "entscheidet seit 2019 nur noch über Verfahrensfragen.",
+            "ist seit Dezember 2019 mangels Neubesetzungen beschlussunfähig.",
+            "wurde 2020 durch das Mehrparteien-Interimsschiedsverfahren (MPIA) ersetzt.",
+            "prüft Panelberichte allein auf ihre Tatsachenfeststellungen."
           ],
-          "a": 2,
-          "e": "Da die USA seit Jahren die Neubesetzung frei werdender Richterstellen blockieren, ist das WTO-Berufungsgremium seit Dezember 2019 mangels beschlussfähiger Besetzung faktisch handlungsunfähig – eine anhaltende Krise des multilateralen Streitbeilegungssystems, die einzelne Mitglieder durch alternative Vereinbarungen zu umgehen suchen.",
+          "a": 1,
+          "e": "Das Berufungsgremium benötigt für jede Berufung eine Kammer von drei Mitgliedern. Da die Vereinigten Staaten seit 2017 jede Neubesetzung im Streitbeilegungsgremium blockieren, fiel die Mitgliederzahl im Dezember 2019 unter diese Schwelle; seither ist das Gremium beschlussunfähig, ohne aufgelöst zu sein. Die Prüfung allein der Tatsachenfeststellungen trifft nicht zu: Art. 17 Abs. 6 des Streitbeilegungsübereinkommens beschränkt die Berufung ausdrücklich auf Rechtsfragen und die Rechtsauslegung des Panels. Das Mehrparteien-Interimsschiedsverfahren existiert seit 2020 tatsächlich, ist aber eine freiwillige Behelfslösung nur zwischen den teilnehmenden Mitgliedern und hat das Berufungsgremium rechtlich nicht ersetzt. Eine Beschränkung auf Verfahrensfragen sieht das Streitbeilegungsübereinkommen an keiner Stelle vor.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -4368,16 +4368,16 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Unter welcher Voraussetzung kann die Europäische Kommission delegierte Rechtsakte nach Art. 290 AEUV erlassen?",
+          "q": "Delegierte Rechtsakte der Kommission nach Art. 290 AEUV dienen dazu,",
           "o": [
-            "Delegierte Rechtsakte gibt es im Unionsrecht nicht",
-            "Nur mit Zustimmung aller nationalen Parlamente im Einzelfall",
-            "Zur Ergänzung nicht wesentlicher Bestimmungen, auf Ermächtigung",
-            "Jederzeit nach freiem Ermessen, ohne besondere Ermächtigung"
+            "wesentliche Vorschriften eines Gesetzgebungsakts erstmals festzulegen.",
+            "die Vereinbarkeit nationaler Umsetzungsmaßnahmen mit dem Unionsrecht festzustellen.",
+            "einheitliche Bedingungen für die Durchführung verbindlicher Rechtsakte zu schaffen.",
+            "nicht wesentliche Vorschriften eines Gesetzgebungsakts zu ergänzen oder zu ändern."
           ],
-          "a": 2,
-          "e": "Delegierte Rechtsakte erlauben der Kommission, nicht wesentliche Bestimmungen eines Gesetzgebungsakts zu ergänzen oder zu ändern – stets auf ausdrückliche Ermächtigung durch den Gesetzgeber und unter dessen Kontrolle, etwa durch Widerrufsrecht oder Einwände von Parlament und Rat.",
-          "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
+          "a": 3,
+          "e": "Art. 290 Abs. 1 AEUV erlaubt es dem Gesetzgeber, der Kommission die Befugnis zu übertragen, nicht wesentliche Vorschriften eines Gesetzgebungsakts zu ergänzen oder zu ändern. Die wesentlichen Aspekte eines Bereichs sind dem Gesetzgebungsakt ausdrücklich vorbehalten und können gerade nicht delegiert werden — die erstmalige Festlegung wesentlicher Vorschriften ist damit der im Vertrag genannte Gegenschluss. Die Schaffung einheitlicher Durchführungsbedingungen ist Gegenstand der Durchführungsrechtsakte nach Art. 291 AEUV, die dem Komitologieverfahren unterliegen und von den delegierten Rechtsakten streng zu trennen sind. Die Feststellung, ob nationale Maßnahmen dem Unionsrecht entsprechen, erfolgt im Vertragsverletzungsverfahren nach Art. 258 AEUV.",
+          "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
           "q": "Was entschied das Bundesverfassungsgericht in seinem Klimabeschluss vom 24. März 2021 zu Art. 20a GG?",
@@ -4584,15 +4584,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche drei „stillen Verhandlungspartner\" begrenzen und verlangsamen nach der Systematik des Kompendiums deutsche außenpolitische Zusagen?",
+          "q": "Das Gesetz über den Auswärtigen Dienst (GAD) regelt",
           "o": [
-            "Die Vereinten Nationen, der Europarat und die NATO",
-            "Der Bundesrechnungshof, die Deutsche Bundesbank und der Bundestagspräsident",
-            "Der Bundespräsident, die Bundeskanzlerin bzw. der Bundeskanzler und der Außenminister",
-            "Bundesverfassungsgericht, Parlamentsvorbehalt und Verfassungsidentität"
+            "die konsularische Betreuung deutscher Staatsangehöriger im Ausland.",
+            "die Aufgaben des Auswärtigen Dienstes und die Rechtsstellung seiner Angehörigen.",
+            "die Zustimmung des Bundestages zu völkerrechtlichen Verträgen.",
+            "die Verteilung der Vertragsschlusskompetenz zwischen Bund und Ländern."
           ],
-          "a": 3,
-          "e": "Karlsruher Kontrollvorbehalte (Solange, Ultra-vires, Identitätskontrolle), der parlamentarische Zustimmungsvorbehalt bei Auslandseinsätzen und Vertragsgesetzen sowie die verfassungsrechtlich geschützte nationale Identität verlangsamen deutsche außenpolitische Zusagen – verleihen ihnen aber zugleich erhöhte demokratische Legitimität und Verlässlichkeit.",
+          "a": 1,
+          "e": "Das Gesetz über den Auswärtigen Dienst von 1990 beschreibt die Aufgaben des Auswärtigen Dienstes — Vertretung der Bundesrepublik, Pflege der Beziehungen zu ausländischen Staaten und internationalen Organisationen, Beobachtung und Berichterstattung — und regelt die besonderen Rechtsverhältnisse seiner Angehörigen, insbesondere die Verwendung im Ausland, die Rotation und die Fürsorge für die Familien. Die Verteilung der Vertragsschlusskompetenz zwischen Bund und Ländern beruht auf Art. 32 GG und der dazu geschlossenen Verwaltungsabsprache, dem Lindauer Abkommen von 1957. Die konsularische Betreuung deutscher Staatsangehöriger im Ausland ist Gegenstand des Konsulargesetzes. Die Zustimmung des Bundestages zu völkerrechtlichen Verträgen folgt aus Art. 59 Abs. 2 GG und ergeht in Gestalt eines Vertragsgesetzes.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         }
       ]
@@ -5088,15 +5088,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Muss sich ein Flüchtling im Sinne der GFK zwingend außerhalb seines Herkunftslandes befinden?",
+          "q": "Die Flüchtlingseigenschaft nach der Genfer Flüchtlingskonvention setzt voraus, dass sich die betroffene Person",
           "o": [
-            "Nur bei besonders schwerer Verfolgung wird vom Grenzübertrittserfordernis abgesehen",
-            "Ja; der Grenzübertritt ist konstitutiv – Binnenvertriebene fallen nicht darunter",
-            "Das Erfordernis wurde durch das New Yorker Protokoll von 1967 vollständig aufgehoben",
-            "Nein, auch Binnenvertriebene innerhalb ihres eigenen Landes fallen unmittelbar unter die GFK-Flüchtlingsdefinition"
+            "bereits ein förmliches Asylverfahren durchlaufen hat.",
+            "gerade von staatlichen Stellen verfolgt wird.",
+            "in einem unmittelbar angrenzenden Nachbarstaat aufhält.",
+            "außerhalb ihres Herkunftslandes befindet."
           ],
-          "a": 1,
-          "e": "Die GFK-Flüchtlingsdefinition setzt voraus, dass sich die Person außerhalb ihres Herkunftslandes befindet; Binnenvertriebene (internally displaced persons) fallen begrifflich nicht darunter, auch wenn ihnen faktisch vergleichbarer Schutzbedarf zukommen kann – sie unterliegen einem gesonderten, schwächer institutionalisierten Schutzregime.",
+          "a": 3,
+          "e": "Art. 1 der Genfer Flüchtlingskonvention verlangt, dass sich die Person aus begründeter Furcht vor Verfolgung außerhalb des Landes befindet, dessen Staatsangehörigkeit sie besitzt. Der Grenzübertritt ist damit konstitutiv; Binnenvertriebene werden von der Konvention nicht erfasst und unterfallen nur den unverbindlichen Leitlinien der Vereinten Nationen von 1998. Ein förmliches Asylverfahren ist nicht Voraussetzung, sondern stellt die Flüchtlingseigenschaft lediglich deklaratorisch fest — sie besteht bereits mit Erfüllung der Merkmale. Auf einen angrenzenden Nachbarstaat kommt es nicht an; das Aufnahmeland ist beliebig. Auch die Herkunft der Verfolgung vom Staat ist nicht erforderlich: nach heute herrschender Auffassung genügt Verfolgung durch nichtstaatliche Akteure, wenn der Herkunftsstaat keinen Schutz bietet.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -5946,15 +5946,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Ist die Europäische Union der Europäischen Menschenrechtskonvention bereits beigetreten, wie es Art. 6 Abs. 2 EUV vorschreibt?",
+          "q": "In welcher Entscheidung erklärte der Gerichtshof der Europäischen Union den Entwurf über den Beitritt der Union zur EMRK für unvereinbar mit dem Unionsrecht?",
           "o": [
-            "Ein Beitritt ist im EUV überhaupt nicht vorgesehen",
-            "Nein; der EuGH erklärte den Beitrittsentwurf 2014 für vertragswidrig",
-            "Der Beitritt wurde bereits 1999 vollzogen, lange vor Lissabon",
-            "Ja, der Beitritt erfolgte bereits 2014"
+            "Rechtssache Bosphorus",
+            "Rechtssache Kadi",
+            "Gutachten 2/13",
+            "Gutachten 1/91"
           ],
-          "a": 1,
-          "e": "Obwohl Art. 6 Abs. 2 EUV den Beitritt der Union zur EMRK vorschreibt, erklärte der EuGH den ausgehandelten Beitrittsentwurf 2014 in seinem Gutachten 2/13 für mit dem Unionsrecht unvereinbar – der Beitritt steht seither aus und wird immer wieder neu verhandelt.",
+          "a": 2,
+          "e": "Im Gutachten 2/13 vom 18. Dezember 2014 entschied das Plenum des Gerichtshofs, dass der ausgehandelte Beitrittsentwurf mit Art. 6 Abs. 2 EUV und dem Protokoll Nr. 8 unvereinbar ist; beanstandet wurden vor allem die Gefährdung der Autonomie des Unionsrechts, das Vorabbefassungsverfahren und die Gemeinsame Außen- und Sicherheitspolitik. Das Gutachten 1/91 betraf ebenfalls die Autonomie der Unionsrechtsordnung, bezog sich aber auf den Gerichtshof des geplanten Europäischen Wirtschaftsraums. Die Rechtssache Kadi behandelte die Überprüfung von Umsetzungsakten zu Sanktionen des Sicherheitsrats am Maßstab der Unionsgrundrechte. Bosphorus ist keine Entscheidung des Gerichtshofs, sondern das Urteil des EGMR von 2005, das dem Unionsrechtsschutz einen gleichwertigen Grundrechtsstandard vermutet.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -6714,15 +6714,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Was regelt Art. 62 Abs. 2 WVK als wichtige Einschränkung der clausula rebus sic stantibus?",
+          "q": "Auf die clausula rebus sic stantibus nach Art. 62 WVK kann sich ein Staat nicht berufen,",
           "o": [
-            "Nicht anwendbar auf Grenzverträge und bei eigener Vertragsverletzung",
-            "Sie ist auf Grenzverträge stets uneingeschränkt anwendbar",
-            "Sie gilt nur für multilaterale, niemals für bilaterale Verträge",
-            "Sie wurde durch das New Yorker Protokoll von 1967 vollständig aufgehoben"
+            "wenn der Vertrag keine ausdrückliche Kündigungsklausel enthält.",
+            "wenn der Vertrag vor Inkrafttreten der Wiener Vertragsrechtskonvention geschlossen wurde.",
+            "wenn der Vertrag eine Grenze festlegt.",
+            "wenn der Vertrag mehr als zehn Vertragsparteien hat."
           ],
-          "a": 0,
-          "e": "Art. 62 Abs. 2 WVK schließt die Berufung auf eine grundlegende Änderung der Umstände bei Grenzverträgen ausdrücklich aus und versagt sie ebenso, wenn der sich berufende Staat die Änderung durch eigene Vertragsverletzung selbst herbeigeführt hat – enge Grenzen gegen missbräuchliche Vertragslösung.",
+          "a": 2,
+          "e": "Art. 62 Abs. 2 WVK nimmt zwei Fälle ausdrücklich aus: Verträge, die eine Grenze festlegen, und Fälle, in denen die grundlegende Änderung der Umstände auf einer eigenen Vertragsverletzung der sich berufenden Partei beruht. Die Bestandskraft von Grenzverträgen dient der territorialen Stabilität und entspricht dem Grundsatz uti possidetis. Die Zahl der Vertragsparteien ist für Art. 62 ohne Bedeutung; die Vorschrift gilt für zwei- wie mehrseitige Verträge gleichermaßen. Der Zeitpunkt des Vertragsschlusses ist ebenfalls unerheblich: Art. 4 WVK ordnet zwar die Nichtrückwirkung der Konvention selbst an, doch gilt die clausula daneben als Völkergewohnheitsrecht fort. Das Fehlen einer Kündigungsklausel betrifft Art. 56 WVK und die dortige Frage der Kündbarkeit, nicht die Berufung auf veränderte Umstände.",
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
@@ -6984,15 +6984,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Regelt die Genfer Flüchtlingskonvention auch den Schutz Staatenloser, die nicht zugleich Flüchtlinge sind?",
+          "q": "Welches völkerrechtliche Übereinkommen regelt die Rechtsstellung staatenloser Personen, die nicht zugleich Flüchtlinge sind?",
           "o": [
-            "Der Schutz Staatenloser wurde im Jahr 2018 vollständig in die GFK integriert",
-            "Nein; Staatenlose schützen eigenständig die Übereinkommen von 1954 und 1961",
-            "Ja, die GFK regelt umfassend sowohl Flüchtlings- als auch Staatenlosenschutz in einem einzigen Instrument",
-            "Staatenlosigkeit ist völkerrechtlich bislang überhaupt nicht geregelt"
+            "Haager Abkommen von 1930",
+            "New Yorker Übereinkommen von 1954",
+            "Genfer Abkommen von 1951",
+            "New Yorker Protokoll von 1967"
           ],
           "a": 1,
-          "e": "Der Schutz Staatenloser bildet ein eigenständiges Regelungsfeld, getrennt von der GFK: das Übereinkommen von 1954 regelt die Rechtsstellung Staatenloser, das Übereinkommen von 1961 zielt auf die Verminderung von Staatenlosigkeit – beide ergänzen, ersetzen aber nicht die GFK.",
+          "e": "Das Übereinkommen über die Rechtsstellung der Staatenlosen wurde am 28. September 1954 in New York geschlossen und überträgt den Schutzstandard der Flüchtlingskonvention auf Personen, die kein Staat aufgrund seines Rechts als Staatsangehörige ansieht. Ergänzt wird es durch das Übereinkommen zur Verminderung der Staatenlosigkeit von 1961. Das Genfer Abkommen von 1951 erfasst ausschließlich Flüchtlinge; staatenlose Personen fallen nur dann darunter, wenn sie zugleich verfolgt sind. Das New Yorker Protokoll von 1967 ändert allein die Flüchtlingskonvention, indem es deren zeitliche und räumliche Beschränkung aufhebt, und schafft keinen eigenen Staatenlosenschutz. Das Haager Abkommen von 1930 über Fragen des Staatsangehörigkeitskollisionsrechts will die Entstehung von Staatenlosigkeit verhindern, regelt aber nicht die Rechtsstellung bereits staatenloser Personen.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -8028,15 +8028,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "In welcher Zuständigkeitskategorie ist die Verbraucherschutzpolitik der Europäischen Union nach Art. 169 AEUV angesiedelt?",
+          "q": "Die Verbraucherschutzpolitik der Europäischen Union nach Art. 169 AEUV fällt in die",
           "o": [
-            "Verbraucherschutz ist im AEUV überhaupt nicht geregelt",
-            "In der ausschließlichen Zuständigkeit der Union",
-            "In der ausschließlich unterstützenden Zuständigkeit ohne jede Harmonisierungsbefugnis der Union",
-            "In der geteilten Zuständigkeit zwischen Union und Mitgliedstaaten"
+            "ausschließliche Zuständigkeit der Union.",
+            "Zuständigkeit zur Koordinierung der Wirtschaftspolitik.",
+            "unterstützende Zuständigkeit der Union.",
+            "geteilte Zuständigkeit von Union und Mitgliedstaaten."
           ],
           "a": 3,
-          "e": "Verbraucherschutz zählt zu den geteilten Zuständigkeiten: Die Union kann tätig werden, verdrängt aber mitgliedstaatliches Handeln nur insoweit, wie sie ihre Zuständigkeit tatsächlich ausübt – anders als bei den kurzen, abschließend aufgezählten ausschließlichen Zuständigkeiten.",
+          "e": "Art. 4 Abs. 2 Buchstabe f AEUV zählt den Verbraucherschutz ausdrücklich zu den geteilten Zuständigkeiten: die Mitgliedstaaten dürfen tätig werden, soweit die Union ihre Zuständigkeit nicht ausgeübt hat. Die ausschließliche Zuständigkeit ist in Art. 3 AEUV abschließend aufgezählt und umfasst etwa Zollunion, Wettbewerbsregeln des Binnenmarkts, Währungspolitik der Eurozone und gemeinsame Handelspolitik — der Verbraucherschutz steht dort nicht. Die unterstützende Zuständigkeit nach Art. 6 AEUV betrifft Bereiche wie Kultur, Tourismus und Bildung, in denen die Union nationale Maßnahmen nur ergänzen darf. Die Koordinierung der Wirtschaftspolitik ist eine eigene Kategorie nach Art. 5 AEUV und erfasst die haushalts- und beschäftigungspolitische Abstimmung, nicht den Verbraucherschutz.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -9828,15 +9828,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Was regelt der 2012 unterzeichnete Europäische Fiskalpakt außerhalb des regulären EU-Vertragsrahmens?",
+          "q": "Der 2012 unterzeichnete Europäische Fiskalpakt verpflichtet seine Vertragsstaaten",
           "o": [
-            "Der Fiskalpakt wurde vollständig in den EU-Vertragsrahmen integriert und existiert nicht mehr eigenständig",
-            "Er schafft eine gemeinsame europäische Armee",
-            "Er regelt ausschließlich Fragen der gemeinsamen Handelspolitik",
-            "Er verpflichtet zu strengeren Haushaltsregeln, etwa einer Schuldenbremse"
+            "zur Einführung einer nationalen Schuldenbremse.",
+            "zur Vorlage ihrer Haushaltsentwürfe beim Europäischen Parlament.",
+            "zur Einführung des Euro binnen fünf Jahren.",
+            "zur Einzahlung von Stammkapital in den Europäischen Stabilitätsmechanismus."
           ],
-          "a": 3,
-          "e": "Der Fiskalpakt wurde als völkerrechtlicher Vertrag außerhalb des regulären EU-Vertragsrahmens zwischen der Mehrheit der Mitgliedstaaten geschlossen und verpflichtet zu strengeren nationalen Haushaltsdisziplinregeln, insbesondere einer an die deutsche Schuldenbremse angelehnten Vorgabe zur Begrenzung struktureller Neuverschuldung.",
+          "a": 0,
+          "e": "Der Vertrag über Stabilität, Koordinierung und Steuerung in der Wirtschafts- und Währungsunion verpflichtet die Vertragsparteien, die Regel eines nahezu ausgeglichenen Haushalts mit einer Obergrenze für das strukturelle Defizit dauerhaft und vorzugsweise verfassungsrechtlich zu verankern — im deutschen Recht die Schuldenbremse des Art. 109 GG. Eine Pflicht zur Euro-Einführung enthält er nicht; sie folgt für Mitgliedstaaten ohne Ausnahmeregelung aus Art. 140 AEUV und kennt keine Frist. Die Einzahlung von Stammkapital betrifft den Europäischen Stabilitätsmechanismus, einen eigenständigen Vertrag von 2012, der mit dem Fiskalpakt nur politisch verknüpft ist. Die Vorlage der Haushaltsentwürfe folgt aus dem Zweipack von 2013 und richtet sich an die Kommission und die Eurogruppe, nicht an das Europäische Parlament.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -10218,39 +10218,39 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat die verfassungsrechtliche Unterscheidung zwischen Deutschen-Grundrechten und Jedermann-Grundrechten für den Kreis der Berechtigten?",
+          "q": "Welches der folgenden Grundrechte steht nach dem Wortlaut des Grundgesetzes nur Deutschen zu?",
           "o": [
-            "Jedermann-Grundrechte stehen ausschließlich Ausländern zu, niemals deutschen Staatsangehörigen",
-            "Beide Kategorien stehen ausnahmslos jeder Person gleichermaßen zu, unabhängig von der Staatsangehörigkeit",
-            "Deutschen-Grundrechte nur für Deutsche nach Art. 116 GG, sonst jedermann",
-            "Diese Unterscheidung wurde durch den Vertrag von Lissabon vollständig aufgehoben"
+            "Versammlungsfreiheit nach Art. 8 GG",
+            "Meinungsfreiheit nach Art. 5 GG",
+            "Glaubens- und Bekenntnisfreiheit nach Art. 4 GG",
+            "Unverletzlichkeit der Wohnung nach Art. 13 GG"
           ],
-          "a": 2,
-          "e": "Bestimmte Grundrechte – etwa Versammlungsfreiheit oder Berufsfreiheit in ihrer ursprünglichen Formulierung – sind ausdrücklich nur Deutschen im Sinne des Art. 116 GG vorbehalten, während die meisten übrigen Grundrechte als Jedermann-Grundrechte jeder Person unabhängig von der Staatsangehörigkeit zustehen.",
+          "a": 0,
+          "e": "Art. 8 Abs. 1 GG beginnt mit den Worten „Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln“ und ist damit ein Deutschen-Grundrecht; wer Deutscher ist, bestimmt Art. 116 GG. Ausländer werden für Versammlungen über die allgemeine Handlungsfreiheit des Art. 2 Abs. 1 GG geschützt. Die weiteren Deutschen-Grundrechte sind die Vereinigungsfreiheit, die Freizügigkeit, die Berufsfreiheit und die staatsbürgerlichen Rechte des Art. 33 GG. Die Glaubens- und Bekenntnisfreiheit, die Meinungsfreiheit und die Unverletzlichkeit der Wohnung sind dagegen sämtlich als Jedermann-Grundrechte formuliert und stehen jeder natürlichen Person unabhängig von der Staatsangehörigkeit zu.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat die Ausnahme von der steuerlichen Befreiung einer Mission für Gebühren konkret erbrachter Dienstleistungen, etwa Müllabfuhr oder Wasserversorgung?",
+          "q": "Die Befreiung der Räumlichkeiten einer diplomatischen Mission von Steuern und Abgaben nach Art. 23 WÜD gilt nicht für",
           "o": [
-            "Diese Ausnahme existiert nicht; Missionsräumlichkeiten sind ausnahmslos von jeder Zahlung befreit",
-            "Die Steuerbefreiung gilt nicht für Entgelte mit Gebührencharakter",
-            "Die Ausnahme gilt nur für Missionen ständiger Sicherheitsratsmitglieder",
-            "Nur der Entsendestaat kann frei entscheiden, ob er solche Gebühren entrichtet"
+            "Abgaben der Gebietskörperschaften des Empfangsstaats.",
+            "Gebühren für einzeln erbrachte Dienstleistungen.",
+            "Grundsteuern des Empfangsstaats.",
+            "Zölle auf Gegenstände für den amtlichen Gebrauch der Mission."
           ],
           "a": 1,
-          "e": "Die steuerliche Befreiung der Missionsräumlichkeiten erstreckt sich nicht auf Entgelte für konkret erbrachte Dienstleistungen wie Müllabfuhr oder Wasserversorgung, da diese als Gegenleistung für eine tatsächliche Leistung Gebühren-, nicht Steuercharakter haben – ein feiner, aber praktisch bedeutsamer Unterschied.",
+          "e": "Art. 23 Abs. 1 WÜD befreit den Entsendestaat und den Missionschef von allen staatlichen, regionalen und kommunalen Steuern und Abgaben für die Räumlichkeiten der Mission, nimmt davon aber ausdrücklich solche Abgaben aus, die als Vergütung für bestimmte Dienstleistungen erhoben werden. Wasser, Abwasser, Müllabfuhr und Strom sind deshalb zu bezahlen: maßgeblich ist der Gebührencharakter, also die konkrete Gegenleistung. Grundsteuern sind klassische Objektsteuern ohne Gegenleistung und damit von der Befreiung erfasst. Abgaben der Gebietskörperschaften nennt die Vorschrift mit den Worten „regional und kommunal“ selbst und bezieht sie ebenfalls in die Befreiung ein. Zölle auf Gegenstände für den amtlichen Gebrauch der Mission sind nach Art. 36 Abs. 1 WÜD gesondert befreit.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Bedeutung hat die diplomatische Praxis der „Akkreditierung mit Sitz in einem Drittstaat\" für kleinere Staaten mit begrenzten Ressourcen?",
+          "q": "Nach Art. 5 WÜD kann ein Entsendestaat einen Missionschef",
           "o": [
-            "Mehrfachvertretung von einem Nachbarstaat aus, um eigene Missionen zu sparen",
-            "Diese Praxis existiert nicht und ist völkerrechtlich unzulässig",
-            "Eine Akkreditierung mit Sitz in einem Drittstaat schließt jede diplomatische Immunität aus",
-            "Diese Praxis ist nur größeren, wirtschaftlich starken Staaten vorbehalten"
+            "von der Gerichtsbarkeit des Entsendestaats befreien.",
+            "ohne vorherige Zustimmung des Empfangsstaats ernennen.",
+            "zugleich zum Konsularbeamten eines Drittstaats bestellen.",
+            "bei mehreren Empfangsstaaten zugleich beglaubigen."
           ],
-          "a": 0,
-          "e": "Insbesondere kleinere Staaten mit begrenzten diplomatischen Ressourcen nutzen häufig die Möglichkeit der Mehrfachakkreditierung von einem Drittstaat aus, um Kosten zu sparen, statt in jedem einzelnen Staat eine eigene, aufwendige ständige Mission zu unterhalten.",
+          "a": 3,
+          "e": "Art. 5 Abs. 1 WÜD gestattet es dem Entsendestaat, nach gehöriger Notifikation einen Missionschef oder Mitglieder des diplomatischen Personals bei mehreren Staaten zu beglaubigen, sofern keiner der Empfangsstaaten ausdrücklich widerspricht. Staaten mit begrenzten Mitteln nutzen diese Mehrfachakkreditierung, um von einem Standort aus mehrere Länder abzudecken. Ohne vorherige Zustimmung ernennen kann der Entsendestaat den Missionschef nicht: Art. 4 WÜD verlangt das Agrément des Empfangsstaats, das ohne Begründung verweigert werden darf. Eine Bestellung zum Konsularbeamten eines Drittstaats scheidet aus, weil konsularische Aufgaben für einen dritten Staat nach Art. 8 WÜK dessen und des Empfangsstaats Zustimmung voraussetzen. Von der Gerichtsbarkeit des eigenen Entsendestaats befreit die diplomatische Immunität ausdrücklich nicht, wie Art. 31 Abs. 4 WÜD klarstellt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -10524,15 +10524,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat die diplomatische Gepflogenheit, wonach bedeutende bilaterale Anliegen häufig zunächst informell sondiert werden, bevor eine förmliche diplomatische Note übermittelt wird?",
+          "q": "Eine Verbalnote im diplomatischen Schriftverkehr",
           "o": [
-            "Beide Seiten können Reaktion und Fallstricke vorab einschätzen",
-            "Diese Praxis existiert nicht und widerspricht dem WÜD-Text",
-            "Informelle Sondierungen sind völkerrechtlich stets ebenso bindend wie eine förmliche Note",
-            "Diese Praxis ist ausschließlich zwischen ständigen Sicherheitsratsmitgliedern zulässig"
+            "wird in der ersten Person abgefasst und vom Missionschef unterzeichnet.",
+            "ist die förmliche Erklärung eines Diplomaten zur unerwünschten Person.",
+            "wird in der dritten Person abgefasst und nicht unterzeichnet.",
+            "ist die Urkunde, mit der ein neuer Missionschef beglaubigt wird."
           ],
-          "a": 0,
-          "e": "Informelle Vorsondierungen erlauben eine flexible, diskrete Einschätzung der voraussichtlichen Reaktion, bevor ein Anliegen förmlich und damit protokollarisch verbindlicher kommuniziert wird – eine verbreitete diplomatische Praxis zur Vermeidung öffentlicher Fehlschläge förmlicher Initiativen.",
+          "a": 2,
+          "e": "Die Verbalnote ist die übliche Form der schriftlichen Mitteilung zwischen einer Mission und dem Außenministerium des Empfangsstaats. Sie ist in der dritten Person abgefasst, trägt Siegel und Paraphe, wird aber nicht unterzeichnet — daraus folgt ihr geringerer förmlicher Rang gegenüber der persönlichen Note. Genau diese persönliche Note ist es, die in der ersten Person abgefasst und vom Missionschef unterzeichnet wird; sie bleibt Anliegen von besonderem Gewicht vorbehalten. Die Urkunde zur Beglaubigung eines neuen Missionschefs ist das Beglaubigungsschreiben, das dem Staatsoberhaupt des Empfangsstaats übergeben wird. Die Erklärung zur unerwünschten Person nach Art. 9 WÜD ist keine Notenform, sondern eine Maßnahme des Empfangsstaats, die jederzeit und ohne Begründung ergehen kann.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -11196,15 +11196,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat die diplomatenrechtliche Regel, dass die Anzahl der Mitglieder einer Mission im Verhältnis zur Größe des Empfangsstaats angemessen sein soll?",
+          "q": "Welche Bestimmung des Wiener Übereinkommens über diplomatische Beziehungen erlaubt es dem Empfangsstaat, den Umfang einer Mission auf ein angemessenes Maß zu begrenzen?",
           "o": [
-            "Art. 11 WÜD erlaubt dem Empfangsstaat, eine angemessene Missionsgröße zu verlangen",
-            "Die Missionsgröße richtet sich ausschließlich nach dem freien Ermessen des Entsendestaats, ohne jedes Mitspracherecht des Empfangsstaats",
-            "Diese Regel gilt ausschließlich für Missionen ständiger Sicherheitsratsmitglieder",
-            "Diese Regel existiert nicht und Missionen dürfen beliebig groß sein"
+            "Art. 9 WÜD",
+            "Art. 31 WÜD",
+            "Art. 11 WÜD",
+            "Art. 22 WÜD"
           ],
-          "a": 0,
-          "e": "Art. 11 WÜD erlaubt dem Empfangsstaat, mangels ausdrücklicher anderer Vereinbarung, eine angemessene Begrenzung der Missionsgröße zu verlangen, unter Berücksichtigung seiner eigenen Umstände und der legitimen Bedürfnisse der jeweiligen Mission – ein Korrektiv gegen unverhältnismäßig große Missionen.",
+          "a": 2,
+          "e": "Art. 11 Abs. 1 WÜD erlaubt es dem Empfangsstaat mangels ausdrücklicher Vereinbarung, zu verlangen, dass der Umfang der Mission in den Grenzen dessen bleibt, was er unter Berücksichtigung der Verhältnisse im Empfangsstaat und der Bedürfnisse der betreffenden Mission als angemessen ansieht. Art. 9 WÜD regelt die Erklärung zur unerwünschten Person, die sich gegen einzelne Personen richtet und nicht gegen die Größe der Mission. Art. 22 WÜD betrifft die Unverletzlichkeit der Räumlichkeiten und das Betretungsverbot für den Empfangsstaat. Art. 31 WÜD regelt die Immunität des Diplomaten von der Straf-, Zivil- und Verwaltungsgerichtsbarkeit des Empfangsstaats.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
