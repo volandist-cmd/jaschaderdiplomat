@@ -1500,15 +1500,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Formen der Wiedergutmachung sieht das Recht der Staatenverantwortlichkeit für eine völkerrechtswidrige Handlung vor?",
+          "q": "Welche drei Formen der Wiedergutmachung nennen die ILC-Artikel zur Staatenverantwortlichkeit?",
           "o": [
-            "Restitution, Entschädigung (compensation) und Genugtuung (satisfaction)",
-            "Ausschließlich die Rückgabe des ursprünglichen Zustands ohne weitere Optionen",
-            "Ausschließlich finanzielle Entschädigung",
-            "Nur die förmliche Entschuldigung gegenüber dem verletzten Staat"
+            "Restitution, Entschädigung und Genugtuung",
+            "Restitution, Garantie der Nichtwiederholung und Vergeltung",
+            "Entschädigung, Genugtuung und Retorsion",
+            "Beendigung, Entschädigung und Gegenmaßnahme"
           ],
           "a": 0,
-          "e": "Das Recht der Staatenverantwortlichkeit kennt drei Formen der Wiedergutmachung – Restitution, Entschädigung und Genugtuung –, die je nach Art des Schadens allein oder kombiniert zur Anwendung kommen.",
+          "e": "Art. 34 der ILC-Artikel von 2001 nennt abschließend drei Formen der Wiedergutmachung: Restitution (Wiederherstellung des früheren Zustands), Entschädigung (Ersatz des bezifferbaren Schadens) und Genugtuung (etwa Anerkennung der Verletzung, Bedauern, förmliche Entschuldigung). Die übrigen Aufzählungen mischen jeweils ein Rechtsinstitut hinzu, das gerade keine Wiedergutmachungsform ist: die Beendigung des rechtswidrigen Verhaltens und die Garantie der Nichtwiederholung stehen in Art. 30 als eigenständige Pflichten neben der Wiedergutmachung; die Gegenmaßnahme nach Art. 49 ist ein Durchsetzungsmittel des verletzten Staates; Vergeltung und Retorsion sind unfreundliche, aber für sich rechtmäßige Reaktionen und keine Leistung an den Verletzten.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -1830,15 +1830,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Auf welchem Weg kann ein Verfahren vor dem Internationalen Strafgerichtshof eingeleitet werden?",
+          "q": "Ein Verfahren vor dem Internationalen Strafgerichtshof kann eingeleitet werden",
           "o": [
-            "Nur auf Antrag des unmittelbar betroffenen Opfers",
-            "Durch Vertragsstaat, Sicherheitsrat oder den Ankläger proprio motu",
-            "Nur durch einstimmigen Beschluss der VN-Generalversammlung",
-            "Ausschließlich durch eine Überweisung des VN-Sicherheitsrats"
+            "durch das betroffene Opfer oder eine anerkannte Menschenrechtsorganisation.",
+            "durch einen Vertragsstaat oder die Generalversammlung der Vereinten Nationen.",
+            "durch den Sicherheitsrat oder den Internationalen Gerichtshof.",
+            "durch einen Vertragsstaat, den Sicherheitsrat oder den Ankläger von Amts wegen."
           ],
-          "a": 1,
-          "e": "Nach Art. 13 des Römischen Statuts kann ein Verfahren durch Staatenüberweisung, Sicherheitsratsüberweisung oder aus eigener Initiative des Anklägers eingeleitet werden – der Sicherheitsrat ist entgegen einer verbreiteten Annahme nicht der einzige Auslöser.",
+          "a": 3,
+          "e": "Art. 13 des Römischen Statuts nennt drei Auslöser: die Unterbreitung einer Situation durch einen Vertragsstaat, die Unterbreitung durch den Sicherheitsrat nach Kapitel VII der VN-Charta und die Einleitung von Amts wegen durch den Ankläger, die allerdings der Genehmigung der Vorverfahrenskammer bedarf. Die Generalversammlung hat keine Zuständigkeit zur Unterbreitung; ihre Beschlüsse binden die Mitgliedstaaten nicht. Der Internationale Gerichtshof entscheidet allein Streitigkeiten zwischen Staaten und steht in keinem Verfahrensverhältnis zum Strafgerichtshof. Opfer und nichtstaatliche Organisationen können dem Ankläger zwar Informationen übermitteln und werden im Verfahren beteiligt, können es aber nicht selbst einleiten.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -2136,15 +2136,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Wird ultra-vires-Handeln eines Staatsorgans (Überschreitung seiner Zuständigkeit) dem Staat völkerrechtlich zugerechnet?",
+          "q": "Handelt ein Staatsorgan unter Überschreitung seiner Zuständigkeit, so",
           "o": [
-            "Ja; auch bei Kompetenzüberschreitung in amtlicher Eigenschaft",
-            "Nein, ultra-vires-Handeln ist dem Staat grundsätzlich nie zurechenbar",
-            "Nur, wenn der Staat das Verhalten nachträglich ausdrücklich billigt",
-            "Nur bei besonders schweren Völkerrechtsverstößen des Organs"
+            "wird das Verhalten dem Staat zugerechnet, sofern es in amtlicher Eigenschaft erfolgt.",
+            "hängt die Zurechnung von der Schwere des begangenen Verstoßes ab.",
+            "haftet das handelnde Organ persönlich nach dem Recht des verletzten Staates.",
+            "entfällt die Zurechnung, sobald der Staat das Verhalten nachträglich missbilligt."
           ],
           "a": 0,
-          "e": "Nach dem Recht der Staatenverantwortlichkeit wird auch ultra-vires-Handeln eines Staatsorgans dem Staat zugerechnet, solange das Organ in amtlicher Eigenschaft handelt – der Staat kann sich nicht durch den Verweis auf eine interne Kompetenzüberschreitung seiner Verantwortlichkeit entziehen.",
+          "e": "Art. 7 der ILC-Artikel stellt klar, dass das Verhalten eines Staatsorgans dem Staat auch dann zugerechnet wird, wenn das Organ seine Befugnisse überschreitet oder Weisungen zuwiderhandelt — maßgeblich ist allein, dass es in amtlicher Eigenschaft auftritt. Andernfalls könnte sich ein Staat der Verantwortlichkeit durch Verweis auf seine interne Kompetenzordnung entziehen. Eine nachträgliche Missbilligung ändert an der bereits eingetretenen Zurechnung nichts; sie kann allenfalls im Rahmen der Wiedergutmachung Bedeutung erlangen. Eine persönliche Haftung des Organs nach fremdem Recht sieht das Völkerrecht nicht vor; es regelt das Verhältnis der Staaten zueinander. Auf die Schwere des Verstoßes kommt es für die Zurechnung nicht an — sie wirkt sich erst auf die Rechtsfolgen aus.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -3336,15 +3336,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Was besagt der Grundsatz „aut dedere aut iudicare\" im Völkerstrafrecht?",
+          "q": "Der völkerstrafrechtliche Grundsatz aut dedere aut iudicare verpflichtet einen Staat,",
           "o": [
-            "Ein Staat darf einen Verdächtigen niemals ausliefern",
-            "Der Grundsatz gilt ausschließlich für Kriegsverbrechen im engeren Sinn",
-            "Nur der Internationale Strafgerichtshof darf über Auslieferungen entscheiden",
-            "Ein Staat muss ausliefern oder selbst strafrechtlich verfolgen"
+            "einen Verdächtigen an den Internationalen Strafgerichtshof zu überstellen.",
+            "für einen Verdächtigen ein Auslieferungsersuchen an den Tatortstaat zu richten.",
+            "einen Verdächtigen dem Staat zu übergeben, dessen Staatsangehörigkeit er besitzt.",
+            "einen Verdächtigen entweder auszuliefern oder selbst strafrechtlich zu verfolgen."
           ],
           "a": 3,
-          "e": "„Aut dedere aut iudicare\" – ausliefern oder verfolgen – verpflichtet den Staat, in dessen Gewalt sich ein mutmaßlicher Täter bestimmter völkerrechtlicher Verbrechen befindet, ihn entweder an einen zur Verfolgung bereiten und berechtigten Staat auszuliefern oder selbst ein Verfahren einzuleiten.",
+          "e": "Aut dedere aut iudicare bedeutet wörtlich „entweder ausliefern oder aburteilen“. Der Aufenthaltsstaat hat die Wahl zwischen beiden Wegen, darf den Verdächtigen aber nicht straflos ziehen lassen; die Pflicht findet sich unter anderem in der Antifolterkonvention und in den Genfer Abkommen. Eine Pflicht zur Überstellung an den Internationalen Strafgerichtshof besteht nur gegenüber dessen Vertragsstaaten und nur in laufenden Verfahren, nicht als allgemeine Regel. Eine Übergabe an den Heimatstaat des Verdächtigen ist gerade nicht gemeint; das aktive Personalitätsprinzip begründet dessen Zuständigkeit, verpflichtet den Aufenthaltsstaat aber nicht. Ein Auslieferungsersuchen an den Tatortstaat kehrt die Richtung um: ersucht wird der Aufenthaltsstaat, er ersucht nicht selbst.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -3948,15 +3948,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Wie definiert die Völkermordkonvention von 1948 den Tatbestand des Völkermords?",
+          "q": "Der Tatbestand des Völkermords nach der Konvention von 1948 setzt voraus, dass die Tat",
           "o": [
-            "Handlungen in der Absicht, eine Gruppe ganz oder teilweise zu zerstören",
-            "Jede Form organisierter Gewalt gegen die Zivilbevölkerung",
-            "Ausschließlich die Tötung von Kriegsgefangenen im Konflikt",
-            "Als jede Form der Diskriminierung, unabhängig von einer Zerstörungsabsicht"
+            "von einem Träger staatlicher Gewalt begangen wird.",
+            "im Rahmen eines ausgedehnten Angriffs auf die Zivilbevölkerung begangen wird.",
+            "in Zerstörungsabsicht gegen eine geschützte Gruppe begangen wird.",
+            "im Zusammenhang mit einem bewaffneten Konflikt begangen wird."
           ],
-          "a": 0,
-          "e": "Entscheidend für den Völkermordtatbestand ist die spezifische Zerstörungsabsicht (dolus specialis) gegen eine der vier geschützten Gruppen als solche – eine besonders hohe subjektive Hürde, die den Tatbestand von anderen Massenverbrechen abgrenzt.",
+          "a": 2,
+          "e": "Kennzeichnend für den Völkermord ist die Zerstörungsabsicht, der dolus specialis: die Tat muss in der Absicht begangen werden, eine nationale, ethnische, rassische oder religiöse Gruppe als solche ganz oder teilweise zu zerstören. Der ausgedehnte oder systematische Angriff auf die Zivilbevölkerung ist demgegenüber das Kontextmerkmal des Verbrechens gegen die Menschlichkeit nach Art. 7 des Römischen Statuts. Der Zusammenhang mit einem bewaffneten Konflikt kennzeichnet die Kriegsverbrechen nach Art. 8; Völkermord kann auch in Friedenszeiten begangen werden. Eine staatliche Täterschaft verlangt die Konvention nicht — sie erfasst ausdrücklich auch Privatpersonen.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -4572,15 +4572,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Spannung veranschaulicht der Al-Bashir-Fall zwischen Staatenimmunität und dem Recht des Internationalen Strafgerichtshofs?",
+          "q": "Welche Bestimmung des Römischen Statuts schließt die Berufung auf die amtliche Eigenschaft als Staatsoberhaupt aus?",
           "o": [
-            "Nur die Vereinten Nationen selbst können über diese Frage entscheiden",
-            "Festnahmepflicht als Vertragsstaat trifft auf die Statusimmunität des Amtsträgers",
-            "Es besteht überhaupt keine rechtliche Spannung, beide Rechtsregime stimmen stets überein",
-            "Der IStGH hat gegenüber Staatsoberhäuptern grundsätzlich keinerlei Zuständigkeit"
+            "Art. 53 des Römischen Statuts",
+            "Art. 17 des Römischen Statuts",
+            "Art. 12 des Römischen Statuts",
+            "Art. 27 des Römischen Statuts"
           ],
-          "a": 1,
-          "e": "Der gegen den sudanesischen Präsidenten Al-Bashir erlassene IStGH-Haftbefehl stellte Vertragsstaaten vor die Frage, ob seine völkergewohnheitsrechtliche Immunität als amtierendes Staatsoberhaupt einer aus dem Römischen Statut folgenden Festnahmepflicht entgegensteht – eine bis heute diskutierte Spannungslage.",
+          "a": 3,
+          "e": "Art. 27 des Römischen Statuts erklärt die amtliche Eigenschaft für unerheblich: das Statut gilt gleichermaßen für Staats- und Regierungschefs, Regierungsmitglieder und Parlamentarier, und Immunitäten hindern den Gerichtshof nicht an der Ausübung seiner Gerichtsbarkeit. Auf dieser Vorschrift beruhte der Haftbefehl gegen den amtierenden sudanesischen Präsidenten von 2009. Art. 12 regelt die Voraussetzungen der Gerichtsbarkeit, also die Anknüpfung an Tatort- oder Täterstaat. Art. 17 betrifft die Zulässigkeit eines Verfahrens und damit den Komplementaritätsgrundsatz gegenüber nationaler Strafverfolgung. Art. 53 regelt die Einleitung der Ermittlungen durch den Ankläger.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -4890,15 +4890,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Formen der Wiedergutmachung sieht das Recht der Staatenverantwortlichkeit für eine völkerrechtswidrige Handlung vor?",
+          "q": "Welche Form der Wiedergutmachung hat nach den ILC-Artikeln Vorrang vor den übrigen?",
           "o": [
-            "Ausschließlich finanzielle Entschädigung",
-            "Restitution, Entschädigung (compensation) und Genugtuung (satisfaction)",
-            "Nur eine förmliche Entschuldigung",
-            "Ausschließlich die Wiederherstellung des ursprünglichen Zustands"
+            "die Entschädigung",
+            "die Genugtuung",
+            "die Garantie der Nichtwiederholung",
+            "die Restitution"
           ],
-          "a": 1,
-          "e": "Die ILC-Artikel zur Staatenverantwortlichkeit nennen drei Wiedergutmachungsformen – Restitution, Entschädigung und Genugtuung –, die je nach Schadensart einzeln oder kombiniert zur Anwendung kommen, in der Tradition des Chorzów-Grundsatzes von 1928.",
+          "a": 3,
+          "e": "Die ILC-Artikel ordnen die Wiedergutmachungsformen in ein Stufenverhältnis: Art. 35 verpflichtet vorrangig zur Restitution, also zur Wiederherstellung des vor der Verletzung bestehenden Zustands. Erst soweit die Restitution unmöglich ist oder eine völlig unverhältnismäßige Last bedeutet, tritt nach Art. 36 die Entschädigung an ihre Stelle. Die Genugtuung nach Art. 37 kommt nur in Betracht, soweit der Schaden weder durch Restitution noch durch Entschädigung ausgeglichen werden kann. Die Garantie der Nichtwiederholung ist keine Wiedergutmachungsform, sondern steht in Art. 30 neben der Beendigung des rechtswidrigen Verhaltens.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -5136,15 +5136,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Bewirkt der Verzicht eines Staates auf seine Immunität von der Gerichtsbarkeit automatisch auch den Verzicht auf Immunität von der Zwangsvollstreckung in sein Vermögen?",
+          "q": "Verzichtet ein Staat auf seine Immunität von der Gerichtsbarkeit, so",
           "o": [
-            "Nur bei Handelsgeschäften entfällt automatisch auch die Vollstreckungsimmunität",
-            "Vollstreckungsimmunität existiert als eigenständige Kategorie überhaupt nicht",
-            "Ja, beide Verzichtsarten sind automatisch miteinander verbunden",
-            "Nein; der Verzicht auf Vollstreckungsimmunität muss gesondert erklärt werden"
+            "bedarf der Verzicht auf die Vollstreckungsimmunität einer gesonderten Erklärung.",
+            "kann er den Verzicht bis zur Urteilsverkündung noch widerrufen.",
+            "entfällt die Immunität rückwirkend auch für bereits abgeschlossene Verfahren.",
+            "erstreckt sich der Verzicht ohne weiteres auf die Zwangsvollstreckung."
           ],
-          "a": 3,
-          "e": "Die Immunität von der Erkenntnisgerichtsbarkeit (das Verfahren selbst) und die Immunität von der Zwangsvollstreckung in Staatsvermögen sind rechtlich getrennt zu behandeln: Ein Verzicht auf Ersteres umfasst nicht automatisch einen Verzicht auf Letzteres – dieser bedarf einer gesonderten, ausdrücklichen Erklärung.",
+          "a": 0,
+          "e": "Erkenntnis- und Vollstreckungsverfahren sind immunitätsrechtlich streng zu trennen. Der Verzicht auf die Immunität von der Gerichtsbarkeit erlaubt es lediglich, den Staat zu verklagen und ein Urteil gegen ihn zu erwirken; für den Zugriff auf sein Vermögen bedarf es einer eigenen Verzichtserklärung, wie es das Übereinkommen der Vereinten Nationen über die Immunität der Staaten von 2004 ausdrücklich festhält. Der Grund liegt darin, dass die Zwangsvollstreckung erheblich tiefer in die Souveränität eingreift. Eine Rückwirkung auf abgeschlossene Verfahren tritt nicht ein; der Verzicht wirkt für das Verfahren, in dem er erklärt wird. Ein Widerruf ist nach Beginn des Verfahrens ausgeschlossen, weil der Verzicht sonst zum prozesstaktischen Mittel würde.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -5184,15 +5184,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Wie definiert die Völkermordkonvention von 1948 den Tatbestand des Völkermords?",
+          "q": "Welche Gruppe zählt nach der Völkermordkonvention von 1948 nicht zu den geschützten Gruppen?",
           "o": [
-            "Als jede Form der Diskriminierung unabhängig von einer Zerstörungsabsicht",
-            "Handlungen mit der Absicht, eine geschützte Gruppe teilweise zu zerstören",
-            "Als jede Form organisierter Gewalt gegen Zivilisten unabhängig von der Motivation",
-            "Ausschließlich die Tötung von Kriegsgefangenen und Verwundeten"
+            "religiöse Gruppen",
+            "politische Gruppen",
+            "nationale Gruppen",
+            "ethnische Gruppen"
           ],
           "a": 1,
-          "e": "Entscheidend für den Völkermordtatbestand ist die spezifische Zerstörungsabsicht (dolus specialis) gegen eine der vier geschützten Gruppen als solche – eine besonders hohe subjektive Hürde, die den Tatbestand von anderen Massenverbrechen unterscheidet.",
+          "e": "Art. II der Konvention nennt abschließend vier geschützte Gruppen: nationale, ethnische, rassische und religiöse. Politische Gruppen wurden bei den Verhandlungen 1948 bewusst ausgeklammert, weil mehrere Staaten befürchteten, das Vorgehen gegen innenpolitische Gegner könnte darunter fallen; diese Beschränkung gilt bis heute und wurde in Art. 6 des Römischen Statuts wortgleich übernommen. Verfolgungen aus politischen Gründen können deshalb allenfalls als Verbrechen gegen die Menschlichkeit erfasst werden.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -5808,15 +5808,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Bedeutung hat das Recht der Staatenverantwortlichkeit für internationale Organisationen wie die Vereinten Nationen selbst?",
+          "q": "In welchem Jahr verabschiedete die Völkerrechtskommission ihren Artikelentwurf zur Verantwortlichkeit internationaler Organisationen?",
           "o": [
-            "Internationale Organisationen können völkerrechtlich niemals verantwortlich gemacht werden",
-            "Ja; nach eigenständigen, den ILC-Staatenartikeln nachgebildeten Grundsätzen",
-            "Nur ihre Mitgliedstaaten, niemals die Organisation selbst, tragen völkerrechtliche Verantwortung",
-            "Die Frage ist im Völkerrecht bislang vollständig ungeregelt geblieben"
+            "2001",
+            "2006",
+            "2011",
+            "1999"
           ],
-          "a": 1,
-          "e": "Die ILC entwickelte mit den „Articles on the Responsibility of International Organizations\" (2011) ein eigenständiges, den Staatenartikeln nachgebildetes Regelwerk für die völkerrechtliche Verantwortlichkeit internationaler Organisationen – praktisch bedeutsam etwa bei Fragen der VN-Haftung für Fehlverhalten von Friedenstruppen.",
+          "a": 2,
+          "e": "Die Völkerrechtskommission verabschiedete den Artikelentwurf zur Verantwortlichkeit internationaler Organisationen im Jahr 2011. Er folgt dem Aufbau der zehn Jahre älteren Staatenartikel, trägt aber der Besonderheit Rechnung, dass Organisationen über ihre Mitgliedstaaten handeln. Die drei anderen Jahre stehen für andere Regelwerke derselben Kommission: 1999 die Artikel über die Staatsangehörigkeit natürlicher Personen bei Staatennachfolge, 2001 die Artikel über die Staatenverantwortlichkeit, 2006 die Artikel über den diplomatischen Schutz.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -6114,15 +6114,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Was besagt der Grundsatz, dass ein Staat für das Verhalten seiner Organe auch dann völkerrechtlich verantwortlich ist, wenn diese ultra vires (unter Überschreitung ihrer Zuständigkeit) handeln?",
+          "q": "Welchen Maßstab legte der Internationale Gerichtshof im Nicaragua-Urteil für die Zurechnung des Verhaltens nichtstaatlicher Gruppen an einen Staat an?",
           "o": [
-            "Auch kompetenzüberschreitendes Handeln in amtlicher Eigenschaft wird zugerechnet",
-            "Nur vorsätzliches, niemals fahrlässiges Organhandeln wird zugerechnet",
-            "Ultra-vires-Handeln wird dem Staat niemals völkerrechtlich zugerechnet",
-            "Der Staat kann sich stets erfolgreich auf die interne Kompetenzordnung berufen, um die Zurechnung auszuschließen"
+            "faktische Anerkennung",
+            "Gesamtkontrolle",
+            "effektive Kontrolle",
+            "wirtschaftliche Abhängigkeit"
           ],
-          "a": 0,
-          "e": "Nach dem Recht der Staatenverantwortlichkeit wird auch ultra-vires-Handeln einem Staat zugerechnet, solange das handelnde Organ in amtlicher Eigenschaft auftrat – ein Staat kann sich seiner Verantwortlichkeit nicht durch den bloßen Hinweis auf eine interne Kompetenzüberschreitung entziehen.",
+          "a": 2,
+          "e": "Im Nicaragua-Urteil von 1986 verlangte der Internationale Gerichtshof für die Zurechnung des Verhaltens der Contras an die Vereinigten Staaten den Nachweis effektiver Kontrolle über die einzelne Operation; Finanzierung, Ausbildung und Ausrüstung genügten ihm nicht. Der Maßstab der Gesamtkontrolle stammt demgegenüber vom Jugoslawien-Strafgerichtshof, der ihn 1999 im Fall Tadić für organisierte bewaffnete Gruppen entwickelte — der Internationale Gerichtshof hat ihn im Bosnien-Urteil von 2007 für die Staatenverantwortlichkeit ausdrücklich abgelehnt. Faktische Anerkennung und wirtschaftliche Abhängigkeit sind keine Zurechnungsmaßstäbe: die erste betrifft den Umgang mit Regierungen und Gebietseinheiten, die zweite ist für die Zurechnung ohne Belang.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -6396,15 +6396,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Voraussetzung muss nach dem Recht der Staatenverantwortlichkeit erfüllt sein, damit eine Gegenmaßnahme (countermeasure) völkerrechtlich zulässig ist?",
+          "q": "Eine völkerrechtliche Gegenmaßnahme setzt voraus, dass sie",
           "o": [
-            "Sie darf beliebig lange und ohne jede Verhältnismäßigkeitsprüfung fortgesetzt werden",
-            "Sie muss stets mit militärischen Mitteln erfolgen, um wirksam zu sein",
-            "Sie bedarf stets der vorherigen Genehmigung durch den VN-Sicherheitsrat",
-            "Verhältnismäßig, grundsätzlich reversibel und ohne Verstoß gegen ius cogens"
+            "sich gegen einen Staat richtet, der demselben Vertrag angehört.",
+            "zuvor vom Sicherheitsrat der Vereinten Nationen genehmigt worden ist.",
+            "verhältnismäßig und umkehrbar ist und zwingendes Völkerrecht unberührt lässt.",
+            "vor ihrer Ergreifung dem Internationalen Gerichtshof angezeigt worden ist."
           ],
-          "a": 3,
-          "e": "Zulässige Gegenmaßnahmen müssen verhältnismäßig zum erlittenen Schaden sein, grundsätzlich reversibel bleiben und dürfen nicht gegen ius cogens-Normen wie das Gewaltverbot oder grundlegende Menschenrechte verstoßen – enge Grenzen, die Selbsthilfe von Eskalation abgrenzen.",
+          "a": 2,
+          "e": "Die ILC-Artikel binden Gegenmaßnahmen an enge Voraussetzungen: sie müssen dem erlittenen Unrecht angemessen sein (Art. 51), sollen umkehrbar sein, damit die Erfüllung der Pflichten später wieder aufgenommen werden kann (Art. 49 Abs. 3), und dürfen weder das Gewaltverbot noch sonstiges zwingendes Völkerrecht oder die Menschenrechte antasten (Art. 50). Eine Genehmigung des Sicherheitsrats ist nicht erforderlich — Gegenmaßnahmen sind gerade das dezentrale Durchsetzungsmittel des verletzten Staates; die Genehmigungspflicht gilt für Zwangsmaßnahmen nach Kapitel VII der VN-Charta. Eine gemeinsame Vertragsmitgliedschaft ist nicht Voraussetzung; die verletzte Pflicht kann auch gewohnheitsrechtlich sein. Eine Anzeige beim Internationalen Gerichtshof sieht das Recht nicht vor; anzuzeigen ist die Maßnahme nach Art. 52 dem verantwortlichen Staat.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -6702,15 +6702,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Bedeutung hat die Unterscheidung zwischen primären und sekundären Regeln im Recht der Staatenverantwortlichkeit?",
+          "q": "Sekundäre Regeln im Sinne des Rechts der Staatenverantwortlichkeit sind Regeln über",
           "o": [
-            "Sekundäre Regeln sind stets rechtlich unverbindlich, primäre Regeln stets verbindlich",
-            "Beide Regelkategorien sind inhaltlich vollständig identisch",
-            "Primäre Regeln bestimmen die Pflichten, sekundäre die Folgen ihres Bruchs",
-            "Primäre Regeln gelten nur für Staaten, sekundäre Regeln nur für internationale Organisationen"
+            "die Zuständigkeit internationaler Gerichte für Staatenstreitigkeiten.",
+            "den Inhalt der völkerrechtlichen Pflichten selbst.",
+            "das Rangverhältnis von Völkervertrags- und Völkergewohnheitsrecht.",
+            "die Rechtsfolgen der Verletzung einer völkerrechtlichen Pflicht."
           ],
-          "a": 2,
-          "e": "Primäre Regeln (etwa das Gewaltverbot oder Menschenrechtsnormen) begründen die eigentlichen inhaltlichen Verhaltenspflichten; sekundäre Regeln wie die ILC-Artikel zur Staatenverantwortlichkeit regeln übergreifend, unter welchen Voraussetzungen und mit welchen Folgen ein Verstoß gegen beliebige primäre Regeln völkerrechtliche Verantwortlichkeit auslöst.",
+          "a": 3,
+          "e": "Die Unterscheidung geht auf den Sonderberichterstatter Roberto Ago zurück und trägt die gesamte Systematik der ILC-Artikel: primäre Regeln bestimmen, was ein Staat tun oder unterlassen muss, und stehen in den jeweiligen Verträgen und im Gewohnheitsrecht; sekundäre Regeln bestimmen, was gilt, wenn eine solche Pflicht verletzt wird — Zurechnung, Rechtfertigungsgründe, Wiedergutmachung, Geltendmachung. Genau deshalb konnten die ILC-Artikel verabschiedet werden, ohne den Inhalt einer einzigen materiellen Pflicht festzulegen. Der Inhalt der Pflichten selbst ist die Beschreibung der primären Regeln. Das Rangverhältnis der Rechtsquellen ist eine Frage der Rechtsquellenlehre nach Art. 38 des IGH-Statuts. Die Gerichtszuständigkeit richtet sich nach den jeweiligen Statuten und Unterwerfungserklärungen.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -6726,15 +6726,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was regelt die Pflicht zur „Wiedergutmachung in vollem Umfang\" (full reparation) nach dem Chorzów-Grundsatz für das Verhältnis der Wiedergutmachungsformen zueinander?",
+          "q": "In welcher Entscheidung formulierte der Ständige Internationale Gerichtshof den Grundsatz der vollen Wiedergutmachung?",
           "o": [
-            "Alle Folgen der Verletzung sind zu beseitigen, soweit dies möglich ist",
-            "Wiedergutmachung beschränkt sich stets auf höchstens die Hälfte des tatsächlich entstandenen Schadens",
-            "Nur symbolische, niemals vollständige Wiedergutmachung ist völkerrechtlich vorgesehen",
-            "Der Grundsatz gilt nur für Schäden an staatlichem Eigentum, nie an Personen"
+            "Lotus-Fall",
+            "Mavrommatis-Fall",
+            "Fall der Fabrik von Chorzów",
+            "Wimbledon-Fall"
           ],
-          "a": 0,
-          "e": "Der 1928 im Fall der Fabrik von Chorzów formulierte Grundsatz verlangt, soweit möglich, die vollständige Beseitigung aller Folgen der Rechtsverletzung und die Wiederherstellung des hypothetischen Zustands ohne die Verletzung – der bis heute maßgebliche Ausgangspunkt jeder Wiedergutmachungsbemessung im Völkerrecht.",
+          "a": 2,
+          "e": "Im Fall der Fabrik von Chorzów formulierte der Ständige Internationale Gerichtshof 1928 den bis heute maßgeblichen Satz, die Wiedergutmachung müsse alle Folgen der rechtswidrigen Handlung beseitigen und den Zustand wiederherstellen, der ohne sie bestanden hätte; Art. 31 der ILC-Artikel greift ihn wörtlich auf. Der Lotus-Fall von 1927 betraf die Grenzen staatlicher Strafgerichtsbarkeit und begründete die Vermutung zugunsten staatlicher Handlungsfreiheit. Der Wimbledon-Fall von 1923 behandelte die Durchfahrt durch den Nord-Ostsee-Kanal und die Frage, ob vertragliche Bindungen die Souveränität verletzen. Der Mavrommatis-Fall von 1924 ist die Grundentscheidung zum diplomatischen Schutz.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
@@ -7020,15 +7020,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Gibt es eine allgemeine völkerrechtliche Verjährungsfrist für die Geltendmachung von Ansprüchen aus Staatenverantwortlichkeit?",
+          "q": "Für die Geltendmachung von Ansprüchen aus Staatenverantwortlichkeit gilt völkerrechtlich",
           "o": [
-            "Solche Ansprüche können niemals verjähren",
-            "Die Frist richtet sich ausschließlich nach dem innerstaatlichen Recht des verletzten Staates",
-            "Ja, eine einheitliche Frist von zehn Jahren gilt für alle völkerrechtlichen Ansprüche ausnahmslos",
-            "Nein; keine starre Frist, doch kann Zeitablauf im Einzelfall wirken"
+            "keine feste Frist; unangemessene Verzögerung kann den Anspruch jedoch ausschließen.",
+            "die Frist des Übereinkommens über die Nichtverjährbarkeit von Kriegsverbrechen.",
+            "eine Frist von zehn Jahren ab Kenntnis der Verletzung.",
+            "die Verjährungsfrist des Rechts des verletzten Staates."
           ],
-          "a": 3,
-          "e": "Anders als viele nationale Rechtsordnungen kennt das allgemeine Völkerrecht keine starre, einheitliche Verjährungsfrist für Ansprüche aus Staatenverantwortlichkeit; erheblicher Zeitablauf und mögliche Nachteile für die Verteidigung können aber im Rahmen einer Billigkeitsprüfung berücksichtigt werden.",
+          "a": 0,
+          "e": "Das Völkerrecht kennt keine allgemeine Verjährungsfrist. Art. 45 der ILC-Artikel bestimmt jedoch, dass ein Anspruch nicht mehr geltend gemacht werden kann, wenn der verletzte Staat wegen seines Verhaltens als auf ihn verzichtend anzusehen ist; die Rechtsprechung erkennt daneben den Einwand der unangemessenen Verzögerung an. Eine Zehnjahresfrist gibt es nicht; sie stammt aus nationalen Rechtsordnungen. Auf innerstaatliches Recht kommt es nicht an, da die Staatenverantwortlichkeit ein Verhältnis zwischen Staaten regelt. Das Übereinkommen über die Nichtverjährbarkeit von 1968 gilt für die individuelle Strafverfolgung wegen Kriegsverbrechen und Verbrechen gegen die Menschlichkeit, nicht für zwischenstaatliche Ersatzansprüche — Deutschland hat es zudem nicht ratifiziert.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -7584,15 +7584,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Was bedeutet der Grundsatz, dass ein Staat sich seiner völkerrechtlichen Verantwortlichkeit nicht durch Berufung auf innerstaatliches Recht entziehen kann?",
+          "q": "Welche Bestimmung der Wiener Vertragsrechtskonvention verbietet es, sich zur Rechtfertigung der Nichterfüllung eines Vertrags auf innerstaatliches Recht zu berufen?",
           "o": [
-            "Der Grundsatz gilt nur für Verfassungsrecht, nicht für einfache Gesetze",
-            "Innerstaatliches Recht hat im Verhältnis zum Völkerrecht stets automatisch Vorrang",
-            "Ein Staat kann sich zur Rechtfertigung nicht auf eigenes Recht berufen",
-            "Innerstaatliches Recht ist für die Frage der Staatenverantwortlichkeit vollständig irrelevant"
+            "Art. 31 WVK",
+            "Art. 27 WVK",
+            "Art. 46 WVK",
+            "Art. 18 WVK"
           ],
-          "a": 2,
-          "e": "Ein Staat kann sich seiner völkerrechtlichen Verantwortlichkeit nicht durch Verweis auf eigenes innerstaatliches Recht entziehen – die Vereinbarkeit staatlichen Handelns mit dem Völkerrecht beurteilt sich unabhängig davon, was das innerstaatliche Recht erlaubt oder vorschreibt.",
+          "a": 1,
+          "e": "Art. 27 WVK bestimmt, dass sich eine Vertragspartei nicht auf ihr innerstaatliches Recht berufen kann, um die Nichterfüllung eines Vertrags zu rechtfertigen; Art. 3 der ILC-Artikel enthält denselben Gedanken für die Staatenverantwortlichkeit. Art. 18 WVK verpflichtet dazu, vor Inkrafttreten Ziel und Zweck eines unterzeichneten Vertrags nicht zu vereiteln. Art. 31 WVK enthält die allgemeine Auslegungsregel. Art. 46 WVK bildet die eng begrenzte Gegenausnahme: auf eine Verletzung innerstaatlicher Zuständigkeitsvorschriften beim Vertragsschluss kann sich ein Staat nur berufen, wenn die Verletzung offenkundig war und eine innerstaatliche Rechtsvorschrift von grundlegender Bedeutung betraf.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -7878,15 +7878,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Was bedeutet der Grundsatz, dass ein durch Selbstverteidigung gerechtfertigtes Handeln eines Staates seine Rechtswidrigkeit auch dann ausschließt, wenn dabei völkerrechtlich geschützte Rechtsgüter eines Drittstaats berührt werden, der am ursprünglichen Angriff nicht beteiligt war?",
+          "q": "Bei der Ausübung des Selbstverteidigungsrechts gegenüber einem unbeteiligten Drittstaat gelten",
           "o": [
-            "Die Frage ist im Recht der Staatenverantwortlichkeit vollständig ungeregelt",
-            "Selbstverteidigung rechtfertigt niemals irgendeine Beeinträchtigung von Rechtsgütern eines unbeteiligten Drittstaats",
-            "Selbstverteidigung rechtfertigt automatisch jede Handlung gegenüber jedem beliebigen Staat",
-            "Auch gegenüber Drittstaaten gelten Notwendigkeit und Verhältnismäßigkeit"
+            "allein die Regeln des humanitären Völkerrechts.",
+            "die Bestimmungen über Gegenmaßnahmen entsprechend.",
+            "die Erfordernisse der Notwendigkeit und der Verhältnismäßigkeit fort.",
+            "vorrangig die Vorschriften über den völkerrechtlichen Notstand."
           ],
-          "a": 3,
-          "e": "Auch als Rechtfertigungsgrund anerkannte Selbstverteidigung entbindet nicht von den Grundsätzen der Notwendigkeit und Verhältnismäßigkeit; eine Beeinträchtigung der Rechte unbeteiligter Drittstaaten bleibt nur in engen Grenzen gerechtfertigt und ist gesondert zu prüfen.",
+          "a": 2,
+          "e": "Notwendigkeit und Verhältnismäßigkeit sind gewohnheitsrechtliche Schranken jeder Selbstverteidigung; der Internationale Gerichtshof hat sie im Nicaragua-Urteil und im Gutachten zu Kernwaffen bestätigt. Sie entfallen nicht dadurch, dass Rechtsgüter eines am Angriff unbeteiligten Staates berührt werden — im Gegenteil verschärft sich die Prüfung. Das humanitäre Völkerrecht regelt die Art und Weise der Kampfführung, gilt aber neben und nicht anstelle der Schranken des Selbstverteidigungsrechts. Der Notstand nach Art. 25 der ILC-Artikel ist ein selbständiger Rechtfertigungsgrund mit eigenen, deutlich engeren Voraussetzungen und tritt nicht an die Stelle der Selbstverteidigung. Gegenmaßnahmen dürfen nach Art. 50 gerade keine Gewalt umfassen und passen deshalb auf diese Lage nicht.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -9066,15 +9066,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die Feststellung einer völkerrechtswidrigen Handlung nicht notwendig eine fortdauernde Rechtswidrigkeit für die Zukunft impliziert, wenn der Staat sein Verhalten inzwischen geändert hat?",
+          "q": "Hat ein Staat sein völkerrechtswidriges Verhalten inzwischen eingestellt, so",
           "o": [
-            "Ist das Verhalten eingestellt, beschränkt sich die Pflicht auf die Folgen",
-            "Eine einmal festgestellte Rechtswidrigkeit wirkt automatisch für alle Zeit fort, unabhängig von jeder Verhaltensänderung",
-            "Die Frage der zeitlichen Fortdauer ist im Recht der Staatenverantwortlichkeit vollständig ungeregelt",
-            "Rechtswidriges Verhalten kann niemals beendet werden, sobald es einmal begonnen hat"
+            "tritt an die Stelle der Wiedergutmachung eine Garantie der Nichtwiederholung.",
+            "bleibt die Pflicht zur Wiedergutmachung der eingetretenen Folgen bestehen.",
+            "erlischt mit der Einstellung auch die Pflicht zur Wiedergutmachung.",
+            "entfällt die Feststellung der Rechtswidrigkeit rückwirkend."
           ],
-          "a": 0,
-          "e": "Hat ein Staat ein bereits abgeschlossenes rechtswidriges Verhalten beendet, richtet sich die Wiedergutmachungspflicht auf die eingetretenen Folgen; eine Unterlassungsverpflichtung für in die Zukunft gerichtetes, aber bereits beendetes Verhalten ist gegenstandslos – anders bei fortdauernden Verstößen, bei denen die Verletzung selbst noch andauert.",
+          "a": 1,
+          "e": "Art. 30 und 31 der ILC-Artikel trennen zwei Pflichten: die Beendigung des andauernden rechtswidrigen Verhaltens und die Wiedergutmachung des bereits entstandenen Schadens. Die Einstellung erfüllt nur die erste; die zweite besteht unabhängig davon fort, weil sonst ein Staat sich durch bloßes Aufhören von den Folgen befreien könnte. Ein rückwirkender Wegfall der Rechtswidrigkeit ist ausgeschlossen: nach Art. 14 bestimmt sich die Verletzung nach dem Zeitpunkt der Handlung. Die Garantie der Nichtwiederholung ist keine Ersatzleistung, sondern steht nach Art. 30 neben der Beendigung und wird nur verlangt, wenn die Umstände sie erfordern.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -9396,15 +9396,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass ein Staat für eine Verletzung diplomatischer Vorrechte durch einen seiner Sicherheitsorgane völkerrechtlich verantwortlich gemacht werden kann, auch wenn das Organ eigenmächtig, ohne ausdrückliche Weisung, gehandelt hat?",
+          "q": "In welchem Verfahren entschied der Internationale Gerichtshof über die Verantwortlichkeit eines Staates für die Besetzung einer Botschaft durch Demonstranten?",
           "o": [
-            "Auch eigenmächtiges Handeln in amtlicher Eigenschaft wird zugerechnet",
-            "Nur ausdrücklich angewiesenes Handeln kann dem Staat jemals zugerechnet werden",
-            "Die Frage ist ausschließlich Gegenstand des Diplomatenrechts, nicht der allgemeinen Staatenverantwortlichkeit",
-            "Eigenmächtiges Handeln eines Sicherheitsorgans schließt jede Zurechnung zum Staat automatisch aus"
+            "Teheraner Geiselfall",
+            "Korfu-Kanal-Fall",
+            "LaGrand-Fall",
+            "Barcelona-Traction-Fall"
           ],
           "a": 0,
-          "e": "Auch eigenmächtiges, nicht ausdrücklich angewiesenes Handeln eines in amtlicher Eigenschaft auftretenden Staatsorgans wird nach dem Recht der Staatenverantwortlichkeit grundsätzlich dem Staat zugerechnet – ein praktisch bedeutsamer Grundsatz gerade bei Übergriffen von Sicherheitskräften gegen diplomatisch geschützte Personen oder Einrichtungen.",
+          "e": "Im Teheraner Geiselfall entschied der Internationale Gerichtshof 1980, dass der Iran zunächst nicht für die Besetzung der amerikanischen Botschaft durch Studenten verantwortlich war, weil diese nicht als Staatsorgane handelten — wohl aber dafür, dass er die Botschaft pflichtwidrig nicht schützte, und sodann für die Besetzung selbst, nachdem er sie ausdrücklich gebilligt und aufrechterhalten hatte. Der Fall ist die Grundentscheidung zur nachträglichen Anerkennung fremden Verhaltens, heute Art. 11 der ILC-Artikel. Der Korfu-Kanal-Fall von 1949 betraf Seeminen in albanischen Hoheitsgewässern und begründete die Sorgfaltspflicht des Gebietsstaats. Der Barcelona-Traction-Fall von 1970 ist die Leitentscheidung zu Verpflichtungen erga omnes und zum diplomatischen Schutz juristischer Personen. Der LaGrand-Fall von 2001 betraf die unterbliebene konsularische Belehrung nach Art. 36 WÜK.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -9678,15 +9678,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die völkerrechtliche Verantwortlichkeit eines Staates auch dann bestehen kann, wenn er die Verletzung durch einen Privaten nicht verhindert hat, obwohl er dazu objektiv in der Lage gewesen wäre (due diligence)?",
+          "q": "In welcher Entscheidung leitete der Internationale Gerichtshof die Pflicht her, das eigene Gebiet nicht wissentlich für völkerrechtswidrige Handlungen nutzen zu lassen?",
           "o": [
-            "Der Sorgfaltsmaßstab gilt ausschließlich im Umweltvölkerrecht, nirgendwo sonst",
-            "Unterlässt er zumutbare Schutzmaßnahmen gegen erkennbare Gefahren, haftet er",
-            "Staaten haften für jedes private Verhalten automatisch, unabhängig von jeder eigenen Sorgfaltspflicht",
-            "Staaten haften niemals für das Verhalten Privater, unabhängig von den Umständen"
+            "Nordsee-Festlandsockel-Fall",
+            "Korfu-Kanal-Fall",
+            "Fall der Fabrik von Chorzów",
+            "Nicaragua-Fall"
           ],
           "a": 1,
-          "e": "Der due-diligence-Maßstab begründet eine eigenständige Verantwortlichkeit des Staates, wenn er zumutbare, ihm zur Verfügung stehende Maßnahmen zur Verhinderung einer erkennbaren Rechtsverletzung durch Private – etwa bei angekündigten Angriffen auf eine Mission – unterlassen hat, unabhängig von einer unmittelbaren Zurechnung des privaten Verhaltens selbst.",
+          "e": "Im Korfu-Kanal-Fall von 1949 hielt der Internationale Gerichtshof fest, es sei die Pflicht jedes Staates, sein Gebiet nicht wissentlich für Handlungen nutzen zu lassen, die Rechte anderer Staaten verletzen. Albanien haftete, weil es britische Schiffe nicht vor den Minen in seinen Hoheitsgewässern gewarnt hatte, obwohl es davon Kenntnis haben musste. Aus diesem Satz entwickelte sich der Sorgfaltsmaßstab der due diligence, der heute vor allem im Umwelt- und im Cybervölkerrecht Bedeutung hat. Der Nicaragua-Fall von 1986 betraf das Gewaltverbot und den Maßstab der effektiven Kontrolle. Der Nordsee-Festlandsockel-Fall von 1969 behandelte die Abgrenzung des Festlandsockels und die Entstehung von Gewohnheitsrecht. Der Fall der Fabrik von Chorzów ist die Grundentscheidung zur vollen Wiedergutmachung.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -9924,15 +9924,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass eine völkerrechtswidrige Handlung eines Staates auch dann vorliegen kann, wenn sie aus einer Unterlassung besteht?",
+          "q": "Welche Bestimmung der ILC-Artikel erfasst neben dem Tun ausdrücklich auch das Unterlassen?",
           "o": [
-            "Nur vorsätzliches, niemals fahrlässiges Unterlassen kann jemals relevant werden",
-            "Unterlassen ist im Recht der Staatenverantwortlichkeit rechtlich vollständig irrelevant",
-            "Völkerrechtswidriges Verhalten kann ausschließlich in einem aktiven Tun bestehen, niemals in einem Unterlassen",
-            "Auch das Unterlassen einer gebotenen Handlung kann völkerrechtswidrig sein"
+            "Art. 48 – Geltendmachung durch nicht verletzte Staaten",
+            "Art. 25 – Notstand als Rechtfertigungsgrund",
+            "Art. 20 – Einwilligung des verletzten Staates",
+            "Art. 2 – Elemente der völkerrechtswidrigen Handlung"
           ],
           "a": 3,
-          "e": "Das Recht der Staatenverantwortlichkeit erfasst nicht nur aktives Tun, sondern auch das Unterlassen einer völkerrechtlich gebotenen Handlung – etwa die Nichterfüllung einer positiven Schutzpflicht –, sofern die verletzte primäre Norm ein solches Handeln tatsächlich verlangte.",
+          "e": "Art. 2 der ILC-Artikel nennt die beiden Elemente jeder völkerrechtswidrigen Handlung: das Verhalten muss dem Staat zurechenbar sein und eine völkerrechtliche Pflicht verletzen. Ausdrücklich heißt es dort, das Verhalten könne in einem Tun oder einem Unterlassen bestehen — praktisch bedeutsam etwa beim unterbliebenen Schutz diplomatischer Räumlichkeiten. Art. 20 regelt die wirksame Einwilligung als Grund für den Ausschluss der Rechtswidrigkeit. Art. 25 enthält den Notstand mit seinen engen Voraussetzungen. Art. 48 bestimmt, wann ein nicht unmittelbar verletzter Staat die Verantwortlichkeit geltend machen kann, etwa bei Verpflichtungen gegenüber der Staatengemeinschaft als Ganzer.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -10314,15 +10314,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die völkerrechtliche Verantwortlichkeit auch bei Lenkung oder Kontrolle der völkerrechtswidrigen Handlung eines anderen Staates entstehen kann, ohne dass der lenkende Staat die Handlung selbst unmittelbar ausführt?",
+          "q": "Lenkt und kontrolliert ein Staat die völkerrechtswidrige Handlung eines anderen Staates, so",
           "o": [
-            "Lenkung oder Kontrolle einer fremden völkerrechtswidrigen Handlung ist rechtlich stets bedeutungslos",
-            "Nur unmittelbar ausführendes Handeln, niemals Lenkung oder Kontrolle, kann jemals Verantwortlichkeit begründen",
-            "Nach Art. 17 der ILC-Artikel haftet, wer die Handlung leitet und kontrolliert",
-            "Diese Zurechnungsform gilt ausschließlich zwischen Staaten mit gemeinsamer Grenze"
+            "tritt seine Verantwortlichkeit an die Stelle der des handelnden Staates.",
+            "ist er dafür neben dem handelnden Staat selbst verantwortlich.",
+            "trifft die Verantwortlichkeit weiterhin den handelnden Staat.",
+            "entsteht seine Verantwortlichkeit erst mit Zustimmung des verletzten Staates."
           ],
-          "a": 2,
-          "e": "Art. 17 der ILC-Artikel erfasst die eigenständige Verantwortlichkeit eines Staates, der einen anderen Staat bei der Begehung einer völkerrechtswidrigen Handlung leitet und kontrolliert – ein von der bloßen Beihilfe nach Art. 16 zu unterscheidender, engerer Zurechnungstatbestand mit stärkerer Einflussnahme.",
+          "a": 1,
+          "e": "Art. 17 der ILC-Artikel begründet eine eigenständige Verantwortlichkeit des lenkenden Staates: Wer die Begehung einer völkerrechtswidrigen Handlung durch einen anderen Staat leitet und kontrolliert, haftet dafür selbst, sofern er die Umstände kennt und die Handlung auch für ihn rechtswidrig wäre. Die Verantwortlichkeit des handelnden Staates bleibt daneben bestehen — es handelt sich nicht um einen Übergang, sondern um eine Hinzutretung. Deshalb ist auch die Annahme unzutreffend, es bleibe allein bei der Verantwortlichkeit des Ausführenden. Eine Zustimmung des verletzten Staates ist keine Entstehungsvoraussetzung; sie könnte allenfalls nach Art. 20 die Rechtswidrigkeit von vornherein ausschließen.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -10704,15 +10704,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die völkerrechtliche Verantwortlichkeit eines Staates für Nötigung eines anderen Staates zu einer völkerrechtswidrigen Handlung nach Art. 18 der ILC-Artikel eigenständig neben der Verantwortlichkeit des genötigten Staates selbst bestehen kann?",
+          "q": "Ein Staat, der einem anderen Staat bei der Begehung einer völkerrechtswidrigen Handlung Beihilfe leistet,",
           "o": [
-            "Nötigung ist ausschließlich im nationalen Strafrecht, nicht im Völkerrecht, ein anerkanntes Rechtsinstitut",
-            "Nur der genötigte Staat, niemals der nötigende Staat, trägt jemals Verantwortung",
-            "Nach Art. 18 haftet der nötigende Staat eigenständig neben dem genötigten",
-            "Nötigung eines anderen Staates zu völkerrechtswidrigem Handeln ist rechtlich vollständig irrelevant"
+            "trägt Verantwortung erst nach einer Feststellung durch den Sicherheitsrat.",
+            "haftet erst, wenn der unterstützte Staat zur Wiedergutmachung außerstande ist.",
+            "haftet gesamtschuldnerisch mit dem unterstützten Staat für den gesamten Schaden.",
+            "ist dafür selbst verantwortlich, wenn er die Umstände der Handlung kennt."
           ],
-          "a": 2,
-          "e": "Art. 18 der ILC-Artikel erfasst die eigenständige Verantwortlichkeit eines nötigenden Staates, unabhängig von der Frage, ob und in welchem Umfang die Nötigung die Verantwortlichkeit des genötigten Staates selbst ausschließt oder mildert – ein von der Beihilfe und Lenkung zu unterscheidender, auf Zwang beruhender eigener Zurechnungstatbestand.",
+          "a": 3,
+          "e": "Art. 16 der ILC-Artikel macht den Beihilfe leistenden Staat selbst verantwortlich, wenn er in Kenntnis der Umstände handelt und die Handlung auch für ihn selbst rechtswidrig wäre. Seine Verantwortlichkeit bezieht sich dabei auf den eigenen Beitrag, nicht auf die Haupttat — deshalb ist eine gesamtschuldnerische Haftung für den gesamten Schaden gerade nicht vorgesehen. Ein Nachrang gegenüber dem unterstützten Staat besteht ebenfalls nicht; beide Verantwortlichkeiten stehen nebeneinander. Eine Feststellung durch den Sicherheitsrat ist keine Voraussetzung: dieser handelt zur Wahrung des Weltfriedens und nicht als Instanz zur Feststellung von Staatenverantwortlichkeit.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         }
       ]
