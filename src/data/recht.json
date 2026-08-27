@@ -828,15 +828,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Unter welcher Voraussetzung kann die EMRK nach der Rechtsprechung des EGMR ausnahmsweise auch außerhalb des Hoheitsgebiets eines Vertragsstaats Anwendung finden?",
+          "q": "Die EMRK findet nach der Rechtsprechung des EGMR außerhalb des Staatsgebiets Anwendung,",
           "o": [
-            "Nur mit ausdrücklicher Zustimmung des betroffenen Drittstaats",
-            "Bei effektiver Kontrolle über Gebiet oder Personen im Ausland",
-            "Niemals, die Konvention gilt ausschließlich territorial",
-            "Bei jeder Auslandstätigkeit von Staatsangehörigen des Vertragsstaats"
+            "wenn ein Staat effektive Kontrolle über ein Gebiet oder über Personen ausübt.",
+            "wenn der betroffene Staat ebenfalls Vertragspartei der Konvention ist.",
+            "wenn der Betroffene die Staatsangehörigkeit eines Vertragsstaats besitzt.",
+            "wenn die Handlung von einem Staatsangehörigen des Vertragsstaats ausgeht."
           ],
-          "a": 1,
-          "e": "Aus der Formel „ihrer Hoheitsgewalt unterstehend\" in Art. 1 EMRK hat der Gerichtshof eine begrenzte extraterritoriale Anwendbarkeit entwickelt – etwa bei effektiver Kontrolle über fremdes Gebiet oder bei Gewaltausübung über Personen durch eigene Staatsorgane im Ausland.",
+          "a": 0,
+          "e": "Art. 1 EMRK knüpft an die Hoheitsgewalt an, die der Gerichtshof primär territorial versteht. Ausnahmsweise reicht sie über das Staatsgebiet hinaus, wenn ein Staat effektive Kontrolle über ein fremdes Gebiet ausübt, wie in Loizidou zu Nordzypern, oder Hoheitsgewalt über eine Person, wie in Al-Skeini und Hassan zum Irak. Auf die Staatsangehörigkeit des Handelnden kommt es nicht an — einen solchen personalen Ansatz hat der Gerichtshof ausdrücklich abgelehnt. Ob der andere Staat Vertragspartei ist, spielt für die Zurechnung keine Rolle. Auch die Staatsangehörigkeit des Betroffenen ist unerheblich, da die Konvention jedermann schützt.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -1134,15 +1134,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Unter welcher Voraussetzung darf ein Vertragsstaat nach Art. 15 Abs. 1 EMRK ausnahmsweise von seinen Konventionspflichten abweichen?",
+          "q": "Eine Abweichung von Konventionspflichten nach Art. 15 EMRK setzt voraus:",
           "o": [
-            "Nur nach vorheriger Genehmigung durch den Europäischen Gerichtshof für Menschenrechte",
-            "Im Krieg oder bei einem anderen öffentlichen Notstand, der das Leben der Nation bedroht",
-            "Bei jeder innenpolitischen Krise nach freiem Ermessen der Regierung",
-            "Niemals; die EMRK kennt keine Abweichungsmöglichkeit"
+            "eine erhebliche Störung der öffentlichen Sicherheit und Ordnung.",
+            "eine Zustimmung des Ministerkomitees des Europarats.",
+            "eine wirtschaftliche Krise von außergewöhnlichem Ausmaß.",
+            "Krieg oder einen anderen Notstand, der das Leben der Nation bedroht."
           ],
-          "a": 1,
-          "e": "Art. 15 Abs. 1 EMRK erlaubt eine Abweichung von den Konventionspflichten nur im Krieg oder bei einem anderen öffentlichen Notstand, der das Leben der Nation bedroht – eine hohe, objektiv zu prüfende Schwelle, die eine bloße innenpolitische Krise nicht erreicht.",
+          "a": 3,
+          "e": "Art. 15 Abs. 1 EMRK erlaubt Abweichungen im Falle eines Krieges oder eines anderen öffentlichen Notstands, der das Leben der Nation bedroht, und nur soweit es die Lage unbedingt erfordert. Notstandsfest bleiben nach Absatz 2 das Recht auf Leben mit Ausnahme rechtmäßiger Kriegshandlungen, das Folterverbot, das Verbot der Sklaverei und der Grundsatz keine Strafe ohne Gesetz. Eine bloße Störung der öffentlichen Sicherheit genügt nicht — die Schwelle liegt deutlich höher, wie der Gerichtshof in Lawless festhielt. Der Generalsekretär ist lediglich zu unterrichten; eine Zustimmung des Ministerkomitees ist nicht erforderlich. Eine Wirtschaftskrise erfüllt die Voraussetzungen nach ständiger Rechtsprechung nicht.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -1464,15 +1464,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Über den engen Konventionsflüchtling hinaus erfasst das Mandat des UNHCR in der Praxis auch welche Personengruppen?",
+          "q": "Das Mandat des UNHCR erstreckt sich über Konventionsflüchtlinge hinaus auf",
           "o": [
-            "Nur Personen, die sich bereits in einem sicheren Drittstaat befinden",
-            "Ausschließlich Personen mit förmlich anerkanntem Konventionsstatus",
-            "Staatenlose sowie, in der Praxis, Binnenvertriebene und Rückkehrer",
-            "Nur Kinder und unbegleitete Minderjährige unter achtzehn Jahren"
+            "Opfer von Naturkatastrophen im eigenen Land.",
+            "Arbeitsmigranten und ihre Familienangehörigen.",
+            "Staatenlose, Binnenvertriebene und Rückkehrer.",
+            "Angehörige nationaler Minderheiten in Drittstaaten."
           ],
           "a": 2,
-          "e": "Das Mandat des UNHCR reicht über den engen Konventionsflüchtling hinaus und erfasst in der Praxis auch Staatenlose sowie Binnenvertriebene und Rückkehrer, obwohl diese Gruppen nicht unmittelbar unter die Flüchtlingsdefinition der GFK fallen.",
+          "e": "Das Statut von 1950 beauftragt das Amt mit dem Schutz von Flüchtlingen; Generalversammlung und Praxis haben das Mandat erweitert: Staatenlose fallen seit den Übereinkommen von 1954 und 1961 darunter, Binnenvertriebene und Rückkehrer werden im Rahmen des Cluster-Ansatzes betreut. Arbeitsmigranten sind Gegenstand der Internationalen Organisation für Migration und der Wanderarbeitnehmerkonvention, nicht des UNHCR. Opfer von Naturkatastrophen fallen grundsätzlich nicht unter das Mandat; über einen Schutzstatus für Klimavertriebene wird erst diskutiert. Minderheitenschutz obliegt der OSZE und den Menschenrechtsgremien.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -2016,15 +2016,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welchen Status genießen die zum Haushalt eines Diplomaten gehörenden Familienangehörigen nach dem WÜD?",
+          "q": "Die zum Haushalt eines Diplomaten gehörenden Familienangehörigen genießen nach Art. 37 WÜD",
           "o": [
-            "Immunität nur für minderjährige Kinder, nicht aber für Ehepartner",
-            "Keinerlei diplomatischen Sonderstatus im Empfangsstaat",
-            "Nur Steuerbefreiung, aber keine persönliche Unverletzlichkeit",
-            "Grundsätzlich denselben Status wie der Diplomat selbst"
+            "dieselben Vorrechte wie der Diplomat, sofern sie nicht Empfangsstaatsangehörige sind.",
+            "Vorrechte allein für die Dauer eines dienstlichen Aufenthalts im Empfangsstaat.",
+            "Schutz vor Ausweisung, nicht jedoch Befreiung von der Gerichtsbarkeit.",
+            "dieselben Vorrechte wie das Verwaltungs- und technische Personal der Mission."
           ],
-          "a": 3,
-          "e": "Die zum Haushalt gehörenden Familienangehörigen teilen grundsätzlich den Status des Diplomaten, solange sie nicht Staatsangehörige oder ständige Einwohner des Empfangsstaats sind – in diesem Fall schrumpft der Schutz auf Amtshandlungen.",
+          "a": 0,
+          "e": "Art. 37 Abs. 1 WÜD stellt die zum Haushalt gehörenden Familienangehörigen dem Diplomaten gleich, wenn sie nicht Angehörige des Empfangsstaats sind — diese Ausnahme ist der entscheidende Vorbehalt. Das Verwaltungs- und technische Personal steht nach Absatz 2 schlechter: Seine Immunität von der Zivil- und Verwaltungsgerichtsbarkeit gilt nur für Handlungen in Ausübung des Dienstes. Eine Beschränkung auf dienstliche Aufenthalte kennt die Vorschrift nicht; maßgeblich ist die Haushaltszugehörigkeit. Der Schutz umfasst gerade auch die Befreiung von der Gerichtsbarkeit, nicht nur den Ausweisungsschutz.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -2334,15 +2334,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Funktionen üben Konsularbeamte nach dem WÜK typischerweise aus?",
+          "q": "Zu den Aufgaben der Konsularbeamten nach Art. 5 WÜK gehören",
           "o": [
-            "Ausschließlich diplomatische Verhandlungsführung auf Regierungsebene",
-            "Ausschließlich militärische Verbindungsaufgaben zur Streitkräftekoordination",
-            "Unter anderem Handelsförderung, Nachlasssachen, Pässe und Visa",
-            "Ausschließlich die Vertretung des Entsendestaats in politischen Verhandlungen"
+            "die Führung von Vertragsverhandlungen mit dem Empfangsstaat.",
+            "die Vertretung des Entsendestaats gegenüber dessen Staatsoberhaupt.",
+            "die Berichterstattung über die politische Lage an internationale Organisationen.",
+            "Handelsförderung, Nachlasssachen sowie die Ausstellung von Pässen und Visa."
           ],
-          "a": 2,
-          "e": "Konsularische Funktionen nach Art. 5 WÜK umfassen unter anderem die Förderung von Handel und Wirtschaftsbeziehungen, Hilfe für eigene Staatsangehörige einschließlich Nachlasssachen sowie die Ausstellung von Pässen und Visa – im Unterschied zur politischen Vertretungsfunktion der Diplomaten.",
+          "a": 3,
+          "e": "Art. 5 WÜK zählt die konsularischen Aufgaben in dreizehn Buchstaben auf: Schutz der Interessen des Entsendestaats und seiner Angehörigen, Förderung von Handel, Wirtschaft und Kultur, Ausstellung von Pässen und Visa, Beurkundungen, Nachlass- und Vormundschaftssachen sowie Hilfe für Schiffe und Luftfahrzeuge. Die Führung von Vertragsverhandlungen ist eine diplomatische Kernfunktion nach Art. 3 WÜD, nicht eine konsularische. Die Vertretung gegenüber dem Staatsoberhaupt obliegt dem Missionschef, der dort beglaubigt ist. Berichterstattung erfolgt an den Entsendestaat, nicht an internationale Organisationen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -2394,15 +2394,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Freiheiten umfasst die Freiheit der Hohen See nach Art. 87 SRÜ unter anderem?",
+          "q": "Zu den Freiheiten der Hohen See nach Art. 87 SRÜ zählen",
           "o": [
-            "Ausschließlich die Freiheit zur Verlegung von Unterseekabeln und Rohrleitungen",
-            "Das Recht jedes Staates, auf Hoher See eigene Hoheitsgebiete und ständige Anlagen zu errichten",
-            "Ausschließlich die Schifffahrtsfreiheit; alle übrigen Nutzungen bedürfen einer Genehmigung",
-            "Schifffahrts-, Überflug- und Fischereifreiheit sowie die Freiheit wissenschaftlicher Forschung"
+            "Schifffahrt, Überflug, Fischerei und wissenschaftliche Forschung.",
+            "Fischerei, Bergbau und die Errichtung dauerhafter Siedlungen.",
+            "Schifffahrt, Überflug und Hoheitsgewalt über fremde Schiffe.",
+            "Schifffahrt, Überflug und die Ausbeutung des Tiefseebodens."
           ],
-          "a": 3,
-          "e": "Art. 87 SRÜ nennt unter anderem Schifffahrts-, Überflug-, Fischerei- und Forschungsfreiheit sowie die Freiheit zur Verlegung von Kabeln und Rohrleitungen – sämtlich unter angemessener Rücksichtnahme auf die Interessen anderer Staaten und das Verbot einer Aneignung der Hohen See.",
+          "a": 0,
+          "e": "Art. 87 SRÜ zählt sechs Freiheiten auf: Schifffahrt, Überflug, Verlegung von Kabeln und Rohrleitungen, Errichtung künstlicher Inseln, Fischerei und wissenschaftliche Forschung; sie sind unter Rücksichtnahme auf die Interessen anderer Staaten auszuüben. Die Ausbeutung des Tiefseebodens gehört gerade nicht dazu — der Meeresboden jenseits nationaler Hoheit ist gemeinsames Erbe der Menschheit und untersteht der Internationalen Meeresbodenbehörde. Dauerhafte Siedlungen auf Hoher See sind mit dem Aneignungsverbot des Art. 89 SRÜ unvereinbar. Hoheitsgewalt über fremde Schiffe steht allein deren Flaggenstaat zu.",
           "cat": "Seerecht"
         },
         {
@@ -2520,15 +2520,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Welche Kriterien muss ein Staat nach den 1993 formulierten „Kopenhagener Kriterien\" erfüllen, um der EU beitreten zu können?",
+          "q": "Die Kopenhagener Kriterien von 1993 verlangen von einem Beitrittskandidaten",
           "o": [
-            "Ausschließlich die geografische Lage auf dem europäischen Kontinent",
-            "Nur die Übernahme des Euro als Währung",
-            "Ausschließlich ein Mindest-Bruttoinlandsprodukt",
-            "Demokratische Institutionen, Marktwirtschaft, Übernahme des Besitzstands"
+            "stabile demokratische Institutionen, Marktwirtschaft und Rechtsübernahme.",
+            "die Mitgliedschaft im Europarat und die Ratifikation der EMRK.",
+            "die Erfüllung der Konvergenzkriterien des Vertrags von Maastricht.",
+            "die Einführung des Euro und den Beitritt zum Schengen-Raum."
           ],
-          "a": 3,
-          "e": "Die Kopenhagener Kriterien verlangen stabile demokratisch-rechtsstaatliche Institutionen mit Menschen- und Minderheitenrechtsschutz, eine funktionsfähige Marktwirtschaft und die Fähigkeit, die Mitgliedschaftspflichten – den „Besitzstand\" (acquis communautaire) – zu übernehmen.",
+          "a": 0,
+          "e": "Der Europäische Rat formulierte 1993 drei Kriterien: ein politisches — institutionelle Stabilität, Demokratie, Rechtsstaatlichkeit, Menschen- und Minderheitenrechte; ein wirtschaftliches — funktionsfähige Marktwirtschaft mit Wettbewerbsfähigkeit; und das Acquis-Kriterium, also die Fähigkeit zur Übernahme der aus der Mitgliedschaft folgenden Verpflichtungen. Euro-Einführung und Schengen-Beitritt sind Folgen der Mitgliedschaft, nicht ihre Voraussetzung. Die Ratifikation der EMRK ist praktisch unerlässlich, aber kein förmliches Kopenhagener Kriterium. Die Konvergenzkriterien von Maastricht betreffen die Einführung des Euro, nicht den Beitritt zur Union.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -2628,27 +2628,27 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Vorrechte genießt ein Diplomat nach dem WÜD in Steuerfragen?",
+          "q": "Die Steuerbefreiung des Diplomaten nach Art. 34 WÜD erstreckt sich nicht auf",
           "o": [
-            "Befreiung ausschließlich von der Erbschaftsteuer des Empfangsstaats",
-            "Keinerlei steuerliche Vorrechte im Empfangsstaat",
-            "Befreiung von den meisten Steuern und Abgaben, nicht aber von indirekten",
-            "Steuerbefreiung nur für den Missionschef, nicht für das übrige diplomatische Personal"
+            "Abgaben auf bewegliche Gegenstände seines persönlichen Gebrauchs.",
+            "Steuern auf sein Dienstgehalt aus dem Entsendestaat.",
+            "Personalsteuern des Empfangsstaats auf sein Vermögen im Ausland.",
+            "indirekte Steuern, die üblicherweise im Preis enthalten sind."
           ],
-          "a": 2,
-          "e": "Art. 34 WÜD befreit Diplomaten grundsätzlich von staatlichen, regionalen und kommunalen Steuern und Abgaben, mit im Vertrag ausdrücklich benannten Ausnahmen wie indirekten, im Warenpreis enthaltenen Steuern oder Gebühren für konkret erbrachte Dienstleistungen.",
+          "a": 3,
+          "e": "Art. 34 WÜD befreit den Diplomaten von allen staatlichen, regionalen und kommunalen Personal- und Realsteuern, nimmt davon aber sieben Fälle aus — an erster Stelle indirekte Steuern, die normalerweise im Preis der Waren enthalten sind, also insbesondere die Mehrwertsteuer beim Einkauf. Weitere Ausnahmen sind Steuern auf privates unbewegliches Vermögen im Empfangsstaat, Erbschaftsteuern und Steuern auf private Einkünfte im Empfangsstaat. Das Dienstgehalt aus dem Entsendestaat ist gerade befreit. Vermögen im Ausland unterliegt der Steuerhoheit des Empfangsstaats ohnehin nicht. Gegenstände des persönlichen Gebrauchs sind nach Art. 36 WÜD sogar zollbefreit.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Genießt auch die private Wohnung eines Diplomaten Unverletzlichkeit nach dem WÜD?",
+          "q": "Die Privatwohnung eines Diplomaten ist nach Art. 30 WÜD",
           "o": [
-            "Nein, Unverletzlichkeit gilt nur für die offiziellen Missionsräumlichkeiten",
-            "Nur, wenn der Empfangsstaat dem im Einzelfall ausdrücklich zustimmt",
-            "Ja; Art. 30 WÜD erstreckt die Unverletzlichkeit auch auf die Privatwohnung",
-            "Nur während der ersten sechs Monate nach dem Amtsantritt"
+            "in demselben Umfang unverletzlich wie die Räumlichkeiten der Mission.",
+            "geschützt, sobald der Empfangsstaat sie förmlich als solche anerkannt hat.",
+            "gegen Durchsuchung geschützt, nicht jedoch gegen Beschlagnahme.",
+            "nur während seiner tatsächlichen Anwesenheit im Empfangsstaat geschützt."
           ],
-          "a": 2,
-          "e": "Art. 30 WÜD erstreckt die Unverletzlichkeit ausdrücklich auf die Privatwohnung des Diplomaten sowie auf seine Papiere, Korrespondenz und – vorbehaltlich weiterer Regelungen – sein Vermögen.",
+          "a": 0,
+          "e": "Art. 30 Abs. 1 WÜD stellt die Privatwohnung des Diplomaten den Missionsräumlichkeiten gleich; Absatz 2 erstreckt den Schutz auf seine Papiere, seine Korrespondenz und grundsätzlich auch auf sein Vermögen. Der Schutz hängt nicht von der Anwesenheit ab — er dient der ungestörten Aufgabenwahrnehmung, nicht dem persönlichen Komfort. Er umfasst gerade auch das Verbot von Beschlagnahme, Durchsuchung und Vollstreckung; eine Trennung nach Maßnahmearten sieht die Vorschrift nicht vor. Eine förmliche Anerkennung durch den Empfangsstaat ist nicht erforderlich; die Notifikation nach Art. 10 WÜD hat lediglich deklaratorische Bedeutung.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -2688,15 +2688,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Was verbietet das Verbot der Kollektivausweisung (Art. 4 des Vierten Zusatzprotokolls zur EMRK)?",
+          "q": "Das Refoulement-Verbot des Art. 33 GFK gilt nicht zugunsten eines Flüchtlings,",
           "o": [
-            "Jede Ausweisung eines Ausländers unter allen Umständen und Bedingungen",
-            "Ausschließlich die Ausweisung eigener Staatsangehöriger ins Ausland",
-            "Nur die Ausweisung während eines laufenden bewaffneten Konflikts",
-            "Die Ausweisung von Ausländern als Gruppe ohne Prüfung der Einzelfälle"
+            "der zuvor in einem sicheren Drittstaat um Schutz nachgesucht hat.",
+            "der ohne gültige Ausweispapiere in das Aufnahmeland eingereist ist.",
+            "dessen Asylantrag in erster Instanz bereits abgelehnt worden ist.",
+            "der eine Gefahr für die Sicherheit des Aufnahmelandes darstellt."
           ],
           "a": 3,
-          "e": "Das Verbot untersagt nicht jede gleichzeitige Ausweisung mehrerer Personen, wohl aber eine Ausweisung als Gruppenmaßnahme ohne individuelle, angemessene Prüfung jedes Einzelfalls.",
+          "e": "Art. 33 Abs. 2 GFK enthält die einzige Ausnahme vom Refoulement-Verbot: Sie greift, wenn schwerwiegende Gründe den Flüchtling als Gefahr für die Sicherheit des Aufnahmelandes erscheinen lassen oder er wegen eines besonders schweren Verbrechens rechtskräftig verurteilt wurde und eine Gefahr für die Allgemeinheit darstellt. Das Verbot des Art. 3 EMRK bleibt davon unberührt und wirkt absolut. Die Einreise ohne Papiere ist gerade kein Ausschlussgrund — Art. 31 GFK schützt davor sogar strafrechtlich. Eine erstinstanzliche Ablehnung beendet den Schutz nicht, solange Rechtsbehelfe offenstehen. Ein Antrag in einem Drittstaat betrifft die Zuständigkeitsverteilung, nicht das Refoulement-Verbot.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -2724,15 +2724,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Was verbietet Art. 89 SRÜ hinsichtlich der Hohen See?",
+          "q": "Ein Staat darf ein Seeräuberschiff auf Hoher See nach Art. 105 SRÜ",
           "o": [
-            "Die Errichtung von Forschungsstationen und schwimmenden Anlagen auf der Hohen See",
-            "Die Durchfahrt fremder Kriegsschiffe ohne Zustimmung des nächstgelegenen Küstenstaats",
-            "Dass ein Staat einen Teil der Hohen See rechtmäßig seiner Souveränität unterwirft",
-            "Jede wirtschaftliche Nutzung der Hohen See durch Küstenstaaten ohne vorherige Genehmigung"
+            "nach vorheriger Zustimmung des Flaggenstaats aufbringen.",
+            "aufbringen und an den nächstgelegenen Küstenstaat übergeben.",
+            "aufbringen und dem Internationalen Seegerichtshof überstellen.",
+            "aufbringen und die Besatzung seiner Gerichtsbarkeit unterwerfen."
           ],
-          "a": 2,
-          "e": "Art. 89 SRÜ verbietet die Inanspruchnahme der Hohen See durch die Souveränität irgendeines Staates – ein Kernstück des Freiheitsprinzips, das die Hohe See als Raum jenseits nationaler Aneignung sichert.",
+          "a": 3,
+          "e": "Art. 105 SRÜ begründet eine der wenigen Ausnahmen vom Flaggenstaatsprinzip: Jeder Staat darf auf Hoher See ein Seeräuberschiff aufbringen, die Personen festnehmen und die Vermögenswerte beschlagnahmen; über die Strafen entscheiden die Gerichte des aufbringenden Staates. Das ist echte Universaljurisdiktion, die auf die Einordnung des Seeräubers als hostis humani generis zurückgeht. Eine Zustimmung des Flaggenstaats ist gerade nicht erforderlich — sonst liefe die Vorschrift leer. Eine Übergabepflicht an den Küstenstaat besteht nicht; in der Praxis werden Übergabeabkommen geschlossen, etwa im Rahmen der Operation Atalanta. Der Internationale Seegerichtshof ist kein Strafgericht und entscheidet über zwischenstaatliche Streitigkeiten.",
           "cat": "Seerecht"
         },
         {
@@ -2994,15 +2994,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Können Vertragsstaaten der GFK Vorbehalte gegen das Non-Refoulement-Verbot (Art. 33) erklären?",
+          "q": "Nach Art. 42 GFK sind Vorbehalte unzulässig gegen",
           "o": [
-            "Ja, Vorbehalte sind gegen jede Bestimmung uneingeschränkt zulässig",
-            "Nein; Art. 42 GFK schließt Vorbehalte gegen Kernbestimmungen wie Art. 33 aus",
-            "Nur europäische Vertragsstaaten dürfen einen solchen Vorbehalt erklären",
-            "Vorbehalte sind nur mit Zustimmung des UNHCR-Exekutivkomitees möglich"
+            "die Bestimmungen über die Ausstellung von Reiseausweisen.",
+            "die Bestimmungen über die soziale Sicherheit.",
+            "das Refoulement-Verbot und die Flüchtlingsdefinition.",
+            "die Bestimmungen über den Zugang zu Erwerbstätigkeit."
           ],
-          "a": 1,
-          "e": "Art. 42 GFK schließt Vorbehalte gegen bestimmte Kernvorschriften – darunter das Non-Refoulement-Verbot des Art. 33 – ausdrücklich aus und schützt damit den Kern des Konventionsschutzes vor Aushöhlung durch Vertragsvorbehalte.",
+          "a": 2,
+          "e": "Art. 42 GFK lässt Vorbehalte zu, nimmt davon aber einen Kern aus: die Flüchtlingsdefinition des Art. 1, das Diskriminierungsverbot des Art. 3, die Religionsfreiheit des Art. 4, den Zugang zu Gerichten nach Art. 16 Abs. 1, das Refoulement-Verbot des Art. 33 sowie die Schlussbestimmungen. Diese Vorschriften bilden den unverzichtbaren Bestand der Konvention. Reiseausweise nach Art. 28, Erwerbstätigkeit nach Art. 17 bis 19 und soziale Sicherheit nach Art. 24 sind dagegen vorbehaltsfähig, und zahlreiche Staaten haben davon Gebrauch gemacht.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -3744,15 +3744,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Bis wann gilt das naturgegebene Selbstverteidigungsrecht nach Art. 51 VN-Charta zeitlich fort?",
+          "q": "Das Selbstverteidigungsrecht nach Art. 51 VN-Charta besteht",
           "o": [
-            "Nur für 24 Stunden nach dem bewaffneten Angriff",
-            "Für immer, unabhängig vom weiteren Handeln des Sicherheitsrats",
-            "Bis der Sicherheitsrat die erforderlichen Maßnahmen getroffen hat",
-            "Nur bis zur nächsten Sitzung der Generalversammlung"
+            "bis der Sicherheitsrat die erforderlichen Maßnahmen getroffen hat.",
+            "für längstens dreißig Tage nach dem bewaffneten Angriff.",
+            "bis der Internationale Gerichtshof über die Rechtmäßigkeit entscheidet.",
+            "bis die Generalversammlung eine entsprechende Resolution verabschiedet."
           ],
-          "a": 2,
-          "e": "Art. 51 VN-Charta gestaltet das Selbstverteidigungsrecht als vorläufig aus: Es gilt, bis der Sicherheitsrat die erforderlichen Maßnahmen getroffen hat, und tritt dann hinter die kollektive Reaktion der Organisation zurück.",
+          "a": 0,
+          "e": "Art. 51 VN-Charta erhält das naturgegebene Recht zur individuellen und kollektiven Selbstverteidigung, bis der Sicherheitsrat die zur Wahrung des Weltfriedens erforderlichen Maßnahmen getroffen hat; die Maßnahmen sind ihm zudem sofort anzuzeigen. Die Generalversammlung hat hier keine Rolle — ihre Uniting-for-Peace-Praxis betrifft die Lage bei Blockade des Sicherheitsrats, nicht die Dauer des Selbstverteidigungsrechts. Eine feste Frist von dreißig Tagen kennt die Charta nicht. Der Internationale Gerichtshof kann die Rechtmäßigkeit nachträglich beurteilen, wie im Nicaragua-Fall, begrenzt das Recht aber nicht zeitlich.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -3852,27 +3852,27 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Aufgaben nennt Art. 3 WÜD als Kernfunktionen einer diplomatischen Mission?",
+          "q": "Zu den Aufgaben einer diplomatischen Mission nach Art. 3 WÜD gehören",
           "o": [
-            "Vertretung, Schutz der Interessen, Verhandlung, Berichterstattung, Förderung",
-            "Ausschließlich die Überwachung von Handelsabkommen des Entsendestaats",
-            "Ausschließlich die Ausstellung von Visa und Reisedokumenten",
-            "Ausschließlich militärische Aufklärung im Empfangsstaat"
+            "Beurkundung, Nachlasssachen, Passwesen und Hilfe für Schiffe.",
+            "Kontrolle der Einhaltung völkerrechtlicher Verträge durch den Empfangsstaat.",
+            "Rechtsberatung eigener Staatsangehöriger vor Gerichten des Empfangsstaats.",
+            "Vertretung, Interessenschutz, Verhandlung, Berichterstattung und Förderung."
           ],
-          "a": 0,
-          "e": "Art. 3 Abs. 1 WÜD nennt fünf klassische Missionsfunktionen, von der politischen Vertretung über den Interessenschutz bis zur – ausdrücklich auf rechtmäßige Mittel beschränkten – Berichterstattung.",
+          "a": 3,
+          "e": "Art. 3 Abs. 1 WÜD nennt fünf Kernfunktionen: Vertretung des Entsendestaats, Schutz seiner Interessen und derjenigen seiner Angehörigen, Verhandlung mit der Regierung des Empfangsstaats, Beobachtung und Berichterstattung sowie Förderung freundschaftlicher und wirtschaftlicher Beziehungen. Beurkundung, Nachlasssachen und Passwesen sind die konsularischen Aufgaben nach Art. 5 WÜK; Absatz 2 erlaubt der Mission allerdings, sie zusätzlich wahrzunehmen. Eine Rechtsberatung oder gar Vertretung vor Gerichten gehört gerade nicht dazu — das ist die Grenze der konsularischen Betreuung. Eine Vertragskontrolle gegenüber dem Empfangsstaat ist keine Missionsfunktion.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Genießen die Räumlichkeiten einer diplomatischen Mission Befreiung von staatlichen und kommunalen Steuern?",
+          "q": "Art. 41 WÜD verpflichtet alle Personen, die Vorrechte genießen,",
           "o": [
-            "Nur die Residenz des Missionschefs, nicht die übrigen Missionsräume",
-            "Nur mit einer jährlich neu zu beantragenden Sondergenehmigung",
-            "Nein, sie unterliegen denselben Steuern wie jedes andere Gebäude",
-            "Grundsätzlich ja, außer bei Gebühren für konkrete Dienstleistungen"
+            "ihren Wohnsitz innerhalb des Amtsbezirks der Mission zu nehmen.",
+            "auf ihre Immunität zu verzichten, sobald ein Strafverfahren droht.",
+            "sich vor jeder öffentlichen Äußerung mit dem Außenministerium abzustimmen.",
+            "die Gesetze des Empfangsstaats zu beachten, unbeschadet ihrer Immunität."
           ],
           "a": 3,
-          "e": "Missionsräumlichkeiten sind grundsätzlich von staatlichen, regionalen und kommunalen Steuern befreit; ausgenommen bleiben Entgelte für konkrete Dienstleistungen, die kein Steuercharakter, sondern Gebührencharakter haben.",
+          "e": "Art. 41 Abs. 1 WÜD stellt klar, dass Vorrechte und Immunitäten nicht von der Pflicht befreien, die Gesetze und Vorschriften des Empfangsstaats zu beachten; sie schützen lediglich vor deren zwangsweiser Durchsetzung. Absatz 1 Satz 2 verbietet zudem die Einmischung in innere Angelegenheiten. Eine Abstimmungspflicht vor öffentlichen Äußerungen besteht nicht — die Grenze ist das Einmischungsverbot, nicht eine Genehmigung. Auf die Immunität kann nur der Entsendestaat verzichten, und zwar nach Art. 32 WÜD ausdrücklich; eine Pflicht dazu gibt es nicht. Eine Residenzpflicht im Amtsbezirk kennt das WÜD nicht.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -4050,15 +4050,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Was regelt Art. 217 AEUV zu Assoziierungsabkommen der Europäischen Union?",
+          "q": "Art. 217 AEUV ermöglicht der Union den Abschluss von Abkommen, die",
           "o": [
-            "Er regelt ausschließlich die Aufnahme neuer Mitgliedstaaten",
-            "Er betrifft nur die Beziehungen zu anderen EU-Institutionen",
-            "Er erlaubt Assoziierungen mit gegenseitigen Rechten und Pflichten",
-            "Er verbietet der Union jede Sonderbeziehung mit Drittstaaten"
+            "ausschließlich den gegenseitigen Zollabbau zum Gegenstand haben.",
+            "einem Drittstaat den Beitritt zur Union verbindlich zusagen.",
+            "die Anwendung des Unionsrechts auf einen Drittstaat unmittelbar erstrecken.",
+            "eine Assoziation mit gegenseitigen Rechten und Pflichten begründen."
           ],
-          "a": 2,
-          "e": "Assoziierungsabkommen nach Art. 217 AEUV ermöglichen enge, über gewöhnliche Handelsabkommen hinausgehende Beziehungen zu Drittstaaten – von der Zollunion mit der Türkei bis zu den Assoziierungsabkommen mit Staaten der Östlichen Partnerschaft.",
+          "a": 3,
+          "e": "Art. 217 AEUV erlaubt Abkommen, die eine Assoziierung mit gegenseitigen Rechten und Pflichten, gemeinsamem Vorgehen und besonderen Verfahren begründen; sie können weit über Handelsfragen hinausgehen, wie die Abkommen mit der Türkei oder die Stabilisierungs- und Assoziierungsabkommen des Westbalkans zeigen. Ein bloßer Zollabbau wäre ein Handelsabkommen nach Art. 207 AEUV. Eine Beitrittszusage enthält die Assoziierung gerade nicht; der Beitritt richtet sich allein nach Art. 49 EUV. Eine unmittelbare Erstreckung des Unionsrechts findet nicht statt — im Europäischen Wirtschaftsraum geschieht dies über ein eigenes Abkommen und dessen Übernahmemechanismus.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -4206,15 +4206,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Rechtsnatur hat die friedliche Durchfahrt durch das Küstenmeer für Kriegsschiffe im Vergleich zu Handelsschiffen?",
+          "q": "Kriegsschiffe genießen im fremden Küstenmeer",
           "o": [
-            "Auch Kriegsschiffe genießen die friedliche Durchfahrt; einzelne Küstenstaaten verlangen Anmeldung",
-            "Kriegsschiffe benötigen stets die vorherige Zustimmung des VN-Sicherheitsrats",
-            "Kriegsschiffe sind von der friedlichen Durchfahrt im Küstenmeer eines fremden Staates vollständig ausgeschlossen",
-            "Nur Kriegsschiffe genießen ein Durchfahrtsrecht, Handelsschiffe brauchen eine Erlaubnis"
+            "ein Durchfahrtsrecht einschließlich Übungen und Manövern.",
+            "ein Durchfahrtsrecht erst nach Genehmigung des Küstenstaats.",
+            "kein Durchfahrtsrecht, sondern allein ein Nothafenrecht.",
+            "das Recht der friedlichen Durchfahrt wie andere Schiffe."
           ],
-          "a": 0,
-          "e": "Das SRÜ gewährt grundsätzlich auch Kriegsschiffen das Recht der friedlichen Durchfahrt; einige Küstenstaaten verlangen dennoch eine vorherige Anmeldung, was von Seemächten wie den USA als völkerrechtswidrige Einschränkung kritisiert wird – ein bis heute umstrittener Praxispunkt.",
+          "a": 3,
+          "e": "Das Seerechtsübereinkommen unterscheidet bei der friedlichen Durchfahrt nicht nach Schiffstypen; auch Kriegsschiffe sind erfasst, müssen aber nach Art. 20 getaucht fahrende U-Boote auftauchen lassen und nach Art. 19 jede Übung mit Waffen unterlassen. Eine Reihe von Küstenstaaten verlangt gleichwohl vorherige Anmeldung oder Genehmigung — eine Praxis, die von den Seemächten bestritten wird. Ein Genehmigungserfordernis ergibt sich aus dem Übereinkommen selbst nicht. Ein bloßes Nothafenrecht griffe erheblich zu kurz. Übungen und Manöver sind ausdrücklich unvereinbar mit der Friedlichkeit der Durchfahrt.",
           "cat": "Seerecht"
         },
         {
@@ -4242,15 +4242,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Endet die Pflicht des Empfangsstaats zum Schutz der Missionsräumlichkeiten und Archive automatisch mit dem Abbruch der diplomatischen Beziehungen?",
+          "q": "Werden die diplomatischen Beziehungen abgebrochen, so muss der Empfangsstaat nach Art. 45 WÜD",
           "o": [
-            "Die Schutzpflicht geht in diesem Fall automatisch auf die Vereinten Nationen über",
-            "Nur die Archive, nicht die Räumlichkeiten selbst, bleiben geschützt",
-            "Nein; nach Art. 45 WÜD sind Räumlichkeiten und Archive weiter zu schützen",
-            "Ja, mit dem Abbruch erlischt jede Schutzpflicht des Empfangsstaats sofort"
+            "die Schutzpflichten auf eine internationale Organisation übertragen.",
+            "die Archive dem Entsendestaat unverzüglich zur Ausfuhr übergeben.",
+            "Räumlichkeiten, Vermögen und Archive der Mission weiterhin schützen.",
+            "die Räumlichkeiten binnen dreißig Tagen an sich nehmen und verwalten."
           ],
           "a": 2,
-          "e": "Aus dem Einvernehmensprinzip des Diplomatenrechts folgt zwar das Recht, Beziehungen abzubrechen, doch Art. 45 WÜD verpflichtet den (ehemaligen) Empfangsstaat weiterhin zum Schutz von Räumlichkeiten und Archiven – oft übernimmt eine dritte Schutzmacht die praktische Wahrnehmung der Interessen.",
+          "e": "Art. 45 WÜD ordnet an, dass der Empfangsstaat auch bei Abbruch der Beziehungen oder dauernder Abberufung die Räumlichkeiten der Mission samt Vermögen und Archiven zu schonen und zu schützen hat; der Entsendestaat kann deren Obhut sowie die Wahrnehmung seiner Interessen einem Drittstaat anvertrauen — der sogenannten Schutzmacht. Eine Inbesitznahme durch den Empfangsstaat wäre das genaue Gegenteil dieser Pflicht. Eine Herausgabe der Archive schreibt die Vorschrift nicht vor; sie bleiben unverletzlich, wo immer sie sich befinden. Die Übertragung erfolgt an einen Drittstaat, nicht an eine internationale Organisation.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -4266,15 +4266,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Was regelt das TRIPS-Übereinkommen im Rahmen der Welthandelsorganisation?",
+          "q": "Das TRIPS-Übereinkommen der Welthandelsorganisation regelt",
           "o": [
-            "Ausschließlich den grenzüberschreitenden Dienstleistungshandel",
-            "Ausschließlich Umweltstandards im internationalen Welthandel",
-            "Handelsbezogene Rechte des geistigen Eigentums mit Mindeststandards",
-            "Ausschließlich landwirtschaftliche Subventionen der Mitglieder"
+            "Mindeststandards für den grenzüberschreitenden Dienstleistungshandel.",
+            "die Beseitigung technischer Handelshemmnisse und Normungsfragen.",
+            "die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Maßnahmen.",
+            "Mindeststandards für handelsbezogene Rechte des geistigen Eigentums."
           ],
-          "a": 2,
-          "e": "Das TRIPS-Übereinkommen (Trade-Related Aspects of Intellectual Property Rights) setzt für alle WTO-Mitglieder verbindliche Mindeststandards im Bereich des geistigen Eigentums – ein Feld wiederkehrender Spannungen etwa bei Patenten auf Arzneimittel in Entwicklungsländern.",
+          "a": 3,
+          "e": "TRIPS verpflichtet die Mitglieder auf Mindeststandards für Patente, Marken, Urheberrechte, geografische Angaben und deren Durchsetzung; die Doha-Erklärung von 2001 stellte klar, dass es dem Zugang zu Arzneimitteln nicht entgegensteht. Der Dienstleistungshandel ist Gegenstand des GATS. Technische Handelshemmnisse regelt das TBT-Übereinkommen. Gesundheitspolizeiliche und pflanzenschutzrechtliche Maßnahmen sind Gegenstand des SPS-Übereinkommens — alle drei sind reale Bestandteile desselben WTO-Vertragswerks.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -4320,15 +4320,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welche Mittel friedlicher Streitbeilegung zählt Art. 33 Abs. 1 VN-Charta beispielhaft auf?",
+          "q": "Art. 33 Abs. 1 VN-Charta zählt als Mittel friedlicher Streitbeilegung auf:",
           "o": [
-            "Verhandlung, Vermittlung, Vergleich, Schiedsspruch, gerichtliche Entscheidung",
-            "Ausschließlich militärische Zwangsmaßnahmen nach Kapitel VII der Charta",
-            "Nur die Vermittlung durch den VN-Generalsekretär",
-            "Ausschließlich die gerichtliche Entscheidung durch den Internationalen Gerichtshof"
+            "Beobachtermission, Friedenstruppe und Übergangsverwaltung.",
+            "Gegenmaßnahme, Retorsion, Repressalie und Handelsembargo.",
+            "Wirtschaftssanktion, Waffenembargo und diplomatische Isolierung.",
+            "Verhandlung, Vermittlung, Vergleich und gerichtliche Entscheidung."
           ],
-          "a": 0,
-          "e": "Art. 33 Abs. 1 VN-Charta nennt eine offene, nicht abschließende Liste friedlicher Streitbeilegungsmittel und überlässt den Streitparteien grundsätzlich die Wahl unter ihnen – ein zentraler Baustein des in Kapitel VI verankerten Gewaltverbots-Komplements.",
+          "a": 3,
+          "e": "Art. 33 Abs. 1 VN-Charta verpflichtet die Streitparteien, eine Lösung durch Verhandlung, Untersuchung, Vermittlung, Vergleich, Schiedsspruch, gerichtliche Entscheidung, Inanspruchnahme regionaler Einrichtungen oder andere friedliche Mittel eigener Wahl anzustreben; die Aufzählung ist beispielhaft und lässt den Parteien die Wahl. Gegenmaßnahmen, Retorsion und Repressalie sind Instrumente des Rechts der Staatenverantwortlichkeit und keine Mittel der Streitbeilegung. Wirtschaftssanktionen und Waffenembargos sind Zwangsmaßnahmen nach Kapitel VII, nicht friedliche Mittel nach Kapitel VI. Beobachtermissionen und Friedenstruppen sind operative Instrumente der Friedenssicherung ohne Grundlage in Art. 33.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -4416,39 +4416,39 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Ist ein Staat völkerrechtlich verpflichtet, die Errichtung einer ständigen diplomatischen Mission eines anderen Staates auf seinem Gebiet zuzulassen?",
+          "q": "Die Aufnahme diplomatischer Beziehungen erfolgt nach Art. 2 WÜD",
           "o": [
-            "Nur unmittelbare Nachbarstaaten sind zum Empfang verpflichtet",
-            "Nein; nach Art. 2 WÜD erfolgt dies im gegenseitigen Einvernehmen",
-            "Nur VN-Mitgliedstaaten sind zum Empfang fremder Missionen verpflichtet",
-            "Ja, jeder Staat muss jede angebotene diplomatische Mission empfangen"
+            "nach Zustimmung des Generalsekretärs der Vereinten Nationen.",
+            "durch einseitige Erklärung des entsendenden Staates.",
+            "in gegenseitigem Einvernehmen der beteiligten Staaten.",
+            "mit der Anerkennung eines Staates von Rechts wegen."
           ],
-          "a": 1,
-          "e": "Diplomatische Beziehungen und ständige Missionen beruhen auf gegenseitigem Einvernehmen (Art. 2 WÜD) – niemand ist verpflichtet, eine Botschaft zu empfangen. Aus demselben Einvernehmensprinzip folgt auch das Recht, Beziehungen abzubrechen.",
+          "a": 2,
+          "e": "Art. 2 WÜD bestimmt, dass die Aufnahme diplomatischer Beziehungen und ständiger diplomatischer Missionen in gegenseitigem Einvernehmen erfolgt; kein Staat ist verpflichtet, eine fremde Mission zuzulassen. Eine einseitige Erklärung genügt deshalb nicht. Die Anerkennung eines Staates ist von der Aufnahme diplomatischer Beziehungen zu unterscheiden: Sie ist deren Voraussetzung, führt sie aber nicht automatisch herbei — Staaten können einander anerkennen, ohne Beziehungen zu unterhalten. Die Vereinten Nationen wirken daran nicht mit.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Unter welcher Voraussetzung kann der Empfangsstaat einen Diplomaten nach Art. 9 WÜD zur persona non grata erklären?",
+          "q": "Vor der Ernennung eines Missionschefs muss der Entsendestaat nach Art. 4 WÜD",
           "o": [
-            "Nur bei Vorliegen einer rechtskräftigen Verurteilung wegen einer Straftat",
-            "Jederzeit und ohne Angabe von Gründen; ein voraussetzungsloses Gestaltungsrecht",
-            "Nur als Gegenmaßnahme auf einen nachgewiesenen Rechtsverstoß des Diplomaten",
-            "Nur nach vorheriger Anhörung des betroffenen Entsendestaats"
+            "das Agrément des Empfangsstaats für die Person einholen.",
+            "die Person dem Empfangsstaat lediglich schriftlich anzeigen.",
+            "die Ernennung beim Generalsekretär der Vereinten Nationen notifizieren.",
+            "die Zustimmung des Doyens des diplomatischen Korps einholen."
           ],
-          "a": 1,
-          "e": "Die persona-non-grata-Erklärung kann der Empfangsstaat jederzeit und ohne Begründung aussprechen – gerade ihre Voraussetzungslosigkeit macht sie zum universellen Standardinstrument, unabhängig von Immunitäten. Sie kann auch verwaltungs- und technisches Personal treffen und bereits vor dessen Einreise ausgesprochen werden.",
+          "a": 0,
+          "e": "Art. 4 WÜD verlangt, dass sich der Entsendestaat vor der Ernennung des Missionschefs vergewissert, dass der Empfangsstaat das Agrément erteilt hat; die Verweigerung muss nach Absatz 2 nicht begründet werden. Für das übrige diplomatische Personal genügt dagegen nach Art. 7 WÜD die freie Auswahl mit anschließender Notifikation — dort trifft die bloße Anzeige zu, nicht beim Missionschef. Der Doyen ist der dienstälteste Missionschef und hat protokollarische, keine Zustimmungsfunktion. Eine Notifikation bei den Vereinten Nationen ist nicht vorgesehen.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Darf der Empfangsstaat die Größe einer ausländischen diplomatischen Mission auf seinem Gebiet begrenzen?",
+          "q": "Die Vorrechte eines Diplomaten beginnen nach Art. 39 WÜD",
           "o": [
-            "Nur der VN-Sicherheitsrat kann Missionsgrößen verbindlich begrenzen",
-            "Ja; nach Art. 11 WÜD darf er die Mission in angemessenen Grenzen halten lassen",
-            "Eine Begrenzung ist nur im Fall eines bewaffneten Konflikts zulässig",
-            "Nein, die Größe einer Mission liegt ausschließlich in der Entscheidung des Entsendestaats"
+            "mit der Einreise oder, bei bereits Anwesenden, mit der Notifikation.",
+            "mit der Eintragung in die Diplomatenliste des Außenministeriums.",
+            "mit der Übergabe des Beglaubigungsschreibens an das Staatsoberhaupt.",
+            "mit der Erteilung des Agréments durch den Empfangsstaat."
           ],
-          "a": 1,
-          "e": "Art. 11 WÜD gibt dem Empfangsstaat ein Korrektiv gegen unangemessen große Missionen, ohne das freie Ernennungsrecht des Entsendestaats für sein Personal (Art. 7 WÜD) grundsätzlich infrage zu stellen.",
+          "a": 0,
+          "e": "Art. 39 Abs. 1 WÜD knüpft den Beginn an die Einreise zum Antritt des Dienstes; befindet sich die Person bereits im Empfangsstaat, beginnen die Vorrechte mit der Notifikation beim Außenministerium. Sie enden nach Absatz 2 mit der Ausreise oder nach Ablauf einer angemessenen Frist, wobei die Immunität für Amtshandlungen fortbesteht. Die Übergabe des Beglaubigungsschreibens ist protokollarisch bedeutsam für den Rang und den Amtsantritt des Missionschefs, nicht für den Beginn der Vorrechte. Das Agrément liegt zeitlich vor der Einreise. Die Diplomatenliste ist ein Verzeichnis ohne konstitutive Wirkung.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -4512,15 +4512,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Kann jede Person unabhängig von einer eigenen Betroffenheit eine Individualbeschwerde beim EGMR erheben (actio popularis)?",
+          "q": "Eine Individualbeschwerde zum EGMR setzt nach Art. 34 EMRK voraus, dass der Beschwerdeführer",
           "o": [
-            "Nur Nichtregierungsorganisationen dürfen unabhängig von eigener Betroffenheit klagen",
-            "Ja, jede Person kann Beschwerde erheben",
-            "Nur Staatsangehörige des beklagten Staates dürfen Beschwerde erheben",
-            "Nein; Art. 34 EMRK verlangt eigene Opfereigenschaft"
+            "die Staatsangehörigkeit eines Vertragsstaats besitzt.",
+            "ein allgemeines öffentliches Interesse geltend macht.",
+            "von einer Menschenrechtsorganisation vertreten wird.",
+            "selbst durch die beanstandete Maßnahme betroffen ist."
           ],
           "a": 3,
-          "e": "Art. 34 EMRK verlangt eigene Opfereigenschaft des Beschwerdeführers; eine actio popularis im Interesse der Allgemeinheit ohne eigene, unmittelbare Betroffenheit ist vor dem EGMR unzulässig.",
+          "e": "Art. 34 EMRK lässt Beschwerden nur zu, wenn der Beschwerdeführer behauptet, selbst Opfer einer Konventionsverletzung zu sein; eine Popularklage ist ausgeschlossen. Anerkannt sind allerdings die potenzielle Opfereigenschaft, etwa bei geheimer Überwachung, und die mittelbare Opfereigenschaft naher Angehöriger. Das Geltendmachen eines allgemeinen Interesses ist genau die ausgeschlossene actio popularis. Eine Vertretung durch eine Organisation ist nicht erforderlich; Beschwerden können zunächst selbst eingelegt werden. Die Staatsangehörigkeit ist unerheblich — geschützt ist jede der Hoheitsgewalt unterstehende Person, auch Staatenlose und Drittstaatsangehörige.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -4662,15 +4662,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welchen Grundsatz begründete die Rechtssache Soering gegen das Vereinigte Königreich (1989)?",
+          "q": "Welche Rechtssache begründete, dass eine Auslieferung wegen drohender Behandlung im Zielstaat gegen Art. 3 EMRK verstoßen kann?",
           "o": [
-            "Dass die Todesstrafe automatisch verboten ist",
-            "Dass nur Abschiebungen, niemals Auslieferungen, unter das Refoulement-Verbot fallen",
-            "Dass Auslieferungen grundsätzlich niemals menschenrechtlich überprüfbar sind",
-            "Art. 3 EMRK kann einer Auslieferung entgegenstehen"
+            "Soering gegen Vereinigtes Königreich",
+            "Öcalan gegen Türkei",
+            "Handyside gegen Vereinigtes Königreich",
+            "Golder gegen Vereinigtes Königreich"
           ],
-          "a": 3,
-          "e": "Soering etablierte, dass Art. 3 EMRK auch Auslieferungen begrenzt: Droht im Zielstaat eine gegen das absolute Folter- und Misshandlungsverbot verstoßende Behandlung – im konkreten Fall die Todeszelle in den USA –, ist die Auslieferung konventionswidrig. Die Linie wurde in Chahal (1996) und Saadi (2008) fortgeführt und gilt strenger als die Ausnahmen der Genfer Flüchtlingskonvention.",
+          "a": 0,
+          "e": "Im Urteil Soering von 1989 entschied der Gerichtshof, dass eine Auslieferung in die Vereinigten Staaten Art. 3 EMRK verletzen würde, weil dem Betroffenen dort das sogenannte Todeszellensyndrom drohte; damit war erstmals eine Verantwortlichkeit für Folgen außerhalb des Konventionsraums begründet. Auf dieser Linie liegen später Chahal und Saadi. Golder von 1975 leitete aus Art. 6 EMRK ein Recht auf Zugang zu Gericht ab. Handyside von 1976 prägte die Formeln vom Beurteilungsspielraum und davon, dass die Meinungsfreiheit auch schockierende Äußerungen schützt. Öcalan von 2005 betraf faires Verfahren und Todesstrafe, nicht die Auslieferung.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -4818,15 +4818,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Genießt ein amtierender Außenminister nach dem Haftbefehls-Fall des IGH (2002) Immunität vor ausländischer Strafgerichtsbarkeit?",
+          "q": "In welchem Verfahren entschied der Internationale Gerichtshof über die Immunität eines amtierenden Außenministers?",
           "o": [
-            "Ja; die außenpolitische Troika genießt vollständige Immunität",
-            "Nur bei Vorwürfen einfacher Straftaten, nicht bei Völkerrechtsverbrechen",
-            "Nein, Außenminister genießen im Ausland keinerlei Immunität",
-            "Nur mit ausdrücklicher Zustimmung des VN-Sicherheitsrats"
+            "LaGrand-Fall (Deutschland gegen USA)",
+            "Teheraner Geiselfall (USA gegen Iran)",
+            "Haftbefehlsfall (Kongo gegen Belgien)",
+            "Nottebohm-Fall (Liechtenstein gegen Guatemala)"
           ],
-          "a": 0,
-          "e": "Der IGH bestätigte im Haftbefehls-Fall die umfassende Immunität amtierender Troika-Mitglieder (Staatsoberhaupt, Regierungschef, Außenminister) vor fremder Strafgerichtsbarkeit – Verantwortlichkeit bleibt nur auf internationaler Ebene oder nach Amtsende möglich.",
+          "a": 2,
+          "e": "Im Haftbefehlsfall von 2002 entschied der Internationale Gerichtshof, dass ein amtierender Außenminister während seiner Amtszeit vollständige persönliche Immunität vor ausländischer Strafgerichtsbarkeit genießt, auch bei Vorwürfen von Kriegsverbrechen; Belgien musste den gegen den kongolesischen Außenminister erlassenen Haftbefehl aufheben. Zur außenpolitischen Troika zählen daneben Staats- und Regierungschef. Der Teheraner Geiselfall von 1980 betraf die Verantwortlichkeit für die Besetzung einer Botschaft. Der LaGrand-Fall von 2001 behandelte die unterbliebene konsularische Belehrung nach Art. 36 WÜK. Der Nottebohm-Fall von 1955 betraf die Wirksamkeit einer Einbürgerung gegenüber Drittstaaten.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -4842,15 +4842,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Verpflichtet die Genfer Flüchtlingskonvention die Vertragsstaaten, Flüchtlingen ein subjektives Recht auf Asylgewährung einzuräumen?",
+          "q": "Die Genfer Flüchtlingskonvention begründet",
           "o": [
-            "Nur Vertragsstaaten mit gemeinsamer Grenze zum Herkunftsland sind zur Asylgewährung verpflichtet",
-            "Nein; sie begründet ein Schutzniveau, vor allem Non-Refoulement, kein Recht auf Asyl",
-            "Das Asylrecht ist ausschließlich eine Angelegenheit des Europarats, nicht der GFK",
-            "Ja, jeder Flüchtling im Sinne der GFK hat einen unmittelbaren Asylanspruch gegen jeden Vertragsstaat"
+            "ein Recht auf Einbürgerung nach fünf Jahren Aufenthalt.",
+            "ein einklagbares Recht auf Aufnahme im Vertragsstaat.",
+            "ein Recht auf Familienzusammenführung im Aufnahmestaat.",
+            "ein Schutzniveau, aber kein Recht auf Asylgewährung."
           ],
-          "a": 1,
-          "e": "Die GFK selbst verbürgt kein subjektives Recht auf Asylgewährung; im Zentrum steht das Schutzniveau, allen voran das Non-Refoulement-Verbot. Ob, wie und in welcher Form ein Staat Asyl gewährt, regelt grundsätzlich sein eigenes nationales oder regionales Recht.",
+          "a": 3,
+          "e": "Die Konvention regelt die Rechtsstellung anerkannter Flüchtlinge und verbietet vor allem die Zurückweisung in den Verfolgerstaat; ein Recht auf Asylgewährung enthält sie nicht — die Aufnahme bleibt Sache des Staates, und auch die Allgemeine Erklärung der Menschenrechte spricht nur vom Recht, Asyl zu suchen und zu genießen. Ein einklagbarer Aufnahmeanspruch besteht deshalb nicht; das deutsche Art. 16a GG geht insoweit über die Konvention hinaus. Art. 34 GFK verpflichtet die Staaten lediglich, die Einbürgerung zu erleichtern, ohne Frist und ohne Anspruch. Ein Recht auf Familienzusammenführung enthält die Konvention nicht; die Schlussakte empfahl es lediglich.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -5160,15 +5160,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche drei Amtsträger zählen zur sogenannten „Troika\", die nach Völkergewohnheitsrecht kraft ihres Amtes umfassende Immunität vor fremder Strafgerichtsbarkeit genießt?",
+          "q": "Nach dem Ende seiner Amtszeit genießt ein früheres Staatsoberhaupt",
           "o": [
-            "Verteidigungsminister, Innenminister und Justizminister",
-            "Staatsoberhaupt, Regierungschef und Außenminister",
-            "Parlamentspräsidentin bzw. -präsident und die Präsidentin bzw. der Präsident des obersten Gerichts",
-            "Der jeweilige Botschafter sowie sein gesamtes Missionspersonal"
+            "fortwirkende Immunität für seine früheren Amtshandlungen.",
+            "Immunität allein vor den Gerichten seines Heimatstaats.",
+            "keine Immunität mehr, auch nicht für Amtshandlungen.",
+            "weiterhin umfassende persönliche Immunität wie im Amt."
           ],
-          "a": 1,
-          "e": "Die Troika-Immunität erfasst Staatsoberhaupt, Regierungschef und Außenminister kraft ihres Amtes, unabhängig vom WÜD, das nur für diplomatische Missionen gilt – ihre Grundlage ist eigenständiges Völkergewohnheitsrecht.",
+          "a": 0,
+          "e": "Das Völkergewohnheitsrecht unterscheidet zwei Immunitäten: Die persönliche Immunität ratione personae schützt Staatsoberhaupt, Regierungschef und Außenminister umfassend, endet aber mit dem Amt; die funktionelle Immunität ratione materiae haftet den Amtshandlungen an und wirkt darüber hinaus fort. Deshalb konnte gegen Augusto Pinochet nach seinem Rücktritt verhandelt werden, während der Internationale Gerichtshof im Haftbefehlsfall die Immunität des amtierenden Außenministers bestätigte. Eine unverändert fortbestehende persönliche Immunität gibt es nicht — das ist der Kern der Unterscheidung. Eine Beschränkung auf die Gerichte des Heimatstaats trifft nicht zu; dort besteht ohnehin keine völkerrechtliche Immunität. Ein vollständiger Wegfall auch für Amtshandlungen wäre die Gegenthese, die sich nicht durchgesetzt hat; umstritten ist allein, ob sie bei Völkerstraftaten durchbrochen wird.",
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
@@ -5286,15 +5286,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Was verlangt Kapitel VIII der VN-Charta von regionalen Abmachungen oder Einrichtungen für Zwangsmaßnahmen?",
+          "q": "Zwangsmaßnahmen regionaler Abmachungen bedürfen nach Kapitel VIII der VN-Charta",
           "o": [
-            "Nur die Generalversammlung kann regionale Abmachungen ermächtigen",
-            "Regionale Einrichtungen dürfen Zwangsmaßnahmen völlig frei von jeder Ermächtigung ergreifen",
-            "Kapitel VIII verbietet regionale Abmachungen vollständig",
-            "Zwangsmaßnahmen bedürfen der Ermächtigung durch den Sicherheitsrat"
+            "der Ermächtigung durch den Sicherheitsrat.",
+            "der Zustimmung sämtlicher beteiligter Regionalstaaten.",
+            "der Anzeige beim Generalsekretär der Vereinten Nationen.",
+            "der Zustimmung der Generalversammlung."
           ],
-          "a": 3,
-          "e": "Regionale Abmachungen im Sinne des Kapitels VIII dürfen zwar der friedlichen Streitbeilegung dienen, benötigen für Zwangsmaßnahmen aber grundsätzlich die Ermächtigung des Sicherheitsrats – ein wichtiger Unterschied zum kollektiven Selbstverteidigungsrecht aus Art. 51, auf das sich etwa die NATO stützt.",
+          "a": 0,
+          "e": "Art. 53 Abs. 1 VN-Charta erlaubt dem Sicherheitsrat, regionale Abmachungen für Zwangsmaßnahmen in Anspruch zu nehmen, verbietet aber solche Maßnahmen ohne seine Ermächtigung; das Gewaltmonopol bleibt damit beim Rat. Praktisch bedeutsam wurde das bei den Einsätzen der NATO und der Afrikanischen Union. Die Generalversammlung hat keine Ermächtigungsbefugnis. Eine bloße Anzeige beim Generalsekretär genügt nicht — zu unterrichten ist nach Art. 54 der Sicherheitsrat, und zwar zusätzlich zur Ermächtigung. Die Zustimmung der Regionalstaaten begründet für sich keine Befugnis zur Gewaltanwendung.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -5442,15 +5442,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Erstreckt sich die Unverletzlichkeit der Missionsarchive nach Art. 24 WÜD zeitlich unbegrenzt, auch über einen Abbruch der diplomatischen Beziehungen hinaus?",
+          "q": "Die Unverletzlichkeit der Missionsräumlichkeiten nach Art. 22 WÜD bedeutet, dass Vertreter des Empfangsstaats",
           "o": [
-            "Nein, mit dem Abbruch der Beziehungen endet jeder Schutz der Archive sofort",
-            "Ja; nach Art. 24 WÜD sind Archive und Schriftstücke jederzeit unverletzlich",
-            "Nur mit ausdrücklicher Zustimmung des VN-Sicherheitsrats",
-            "Nur für die Dauer eines Jahres nach dem Abbruch der Beziehungen"
+            "sie nach richterlicher Anordnung durchsuchen dürfen.",
+            "sie bei Gefahr für Leben und Gesundheit ohne Zustimmung betreten dürfen.",
+            "sie nur mit Zustimmung des Missionschefs betreten dürfen.",
+            "sie zur Vollstreckung eines rechtskräftigen Urteils betreten dürfen."
           ],
-          "a": 1,
-          "e": "Die Unverletzlichkeit der Archive gilt nach Art. 24 WÜD zeitlich unbegrenzt („jederzeit\") und unabhängig vom Fortbestand diplomatischer Beziehungen – ergänzt durch Art. 45 WÜD, der auch nach einem Abbruch der Beziehungen fortwirkende Schutzpflichten begründet.",
+          "a": 2,
+          "e": "Art. 22 Abs. 1 WÜD verbietet den Vertretern des Empfangsstaats das Betreten ohne Zustimmung des Missionschefs; Absatz 3 schützt Räumlichkeiten, Einrichtung und Beförderungsmittel zusätzlich vor Durchsuchung, Beschlagnahme und Vollstreckung. Eine Notstandsausnahme für Feuer oder Lebensgefahr enthält die Vorschrift ausdrücklich nicht — sie wurde bei den Verhandlungen erwogen und bewusst nicht aufgenommen; erörtert wird allenfalls eine mutmaßliche Zustimmung. Auch eine richterliche Anordnung durchbricht die Unverletzlichkeit nicht, da diese absolut wirkt. Dasselbe gilt für die Zwangsvollstreckung.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -5772,15 +5772,15 @@
           "cat": "Seerecht"
         },
         {
-          "q": "Dürfen U-Boote bei der Transitdurchfahrt durch eine internationale Meerenge getaucht fahren?",
+          "q": "Bei der Transitdurchfahrt durch eine internationale Meerenge dürfen U-Boote",
           "o": [
-            "Ja; die Transitdurchfahrt erlaubt U-Booten die getauchte Fahrt in ihrer normalen Fahrweise",
-            "Nein; die Transitdurchfahrt verlangt für alle Schiffe und U-Boote ausnahmslos aufgetauchte Fahrt",
-            "Nur mit vorheriger Genehmigung beider Anrainerstaaten der jeweiligen Meerenge",
-            "U-Boote sind von jeder Durchfahrt durch internationale Meerengen generell ausgeschlossen"
+            "getaucht in ihrer normalen Fahrweise fahren.",
+            "die Meerenge in Begleitung eines Lotsen durchfahren.",
+            "die Meerenge nach vorheriger Anmeldung durchfahren.",
+            "nur aufgetaucht und unter Zeigen ihrer Flagge fahren."
           ],
           "a": 0,
-          "e": "Die Transitdurchfahrt erlaubt Schiffen und U-Booten ihre normale Fahrweise, einschließlich getauchter Fahrt für U-Boote – ein wesentlicher Unterschied zur friedlichen Durchfahrt im Küstenmeer, die aufgetauchte Fahrt und das Zeigen der Flagge verlangt.",
+          "e": "Die Transitdurchfahrt nach Art. 38 SRÜ verlangt die Fahrt in der normalen Betriebsweise des Schiffes; für U-Boote schließt das die getauchte Fahrt ein, und der Überflug ist ebenfalls erfasst. Genau darin liegt der Unterschied zur friedlichen Durchfahrt im Küstenmeer, wo Art. 20 SRÜ das Auftauchen und Zeigen der Flagge vorschreibt — das Auftauchen unter Zeigen der Flagge gehört also zur anderen Rechtsfigur. Eine Anmeldepflicht besteht nicht; die Transitdurchfahrt darf weder behindert noch ausgesetzt werden. Eine Lotsenpflicht kann der Anliegerstaat nur im Rahmen der Sicherheit der Schifffahrt und nicht als Zugangsbedingung vorsehen.",
           "cat": "Seerecht"
         },
         {
@@ -5874,27 +5874,27 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welche Sprachformeln kennzeichnen typischerweise verbindliche Sicherheitsratsbeschlüsse nach Kapitel VII, im Unterschied zu bloßen Empfehlungen nach Kapitel VI?",
+          "q": "Welche Formel kennzeichnet typischerweise einen verbindlichen Beschluss des Sicherheitsrats?",
           "o": [
-            "Kapitel VII nutzt „decides\" oder „demands\", Kapitel VI „calls upon\"",
-            "Verbindliche Beschlüsse sind stets auf Deutsch, Empfehlungen stets auf Englisch verfasst",
-            "Beide Kapitel verwenden ausnahmslos identische Formulierungen",
-            "Nur die Überschrift der Resolution, niemals der Text selbst, zeigt die Rechtsnatur an"
+            "calls upon",
+            "invites",
+            "recommends",
+            "decides"
           ],
-          "a": 0,
-          "e": "Auch wenn die Sprachformel allein nicht abschließend entscheidet, deuten Begriffe wie „decides\" oder „demands\" typischerweise auf verbindliche Kapitel-VII-Beschlüsse hin, während „calls upon\" oder „urges\" eher unverbindliche Empfehlungscharakter signalisieren – die endgültige Einordnung erfordert stets eine Gesamtwürdigung der Resolution.",
+          "a": 3,
+          "e": "Der Sicherheitsrat verwendet decides für verbindliche Beschlüsse nach Kapitel VII, die nach Art. 25 VN-Charta alle Mitgliedstaaten binden; daneben steht demands für verbindliche Forderungen an eine Partei. Empfehlende Sprache nach Kapitel VI arbeitet dagegen mit calls upon, recommends oder invites — sie begründet keine Rechtspflicht. Die Wortwahl ist deshalb der erste Prüfstein für die Bindungswirkung einer Resolution, wichtiger als deren ausdrückliche Berufung auf ein Kapitel, die häufig ganz fehlt.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Wie werden VN-Friedenssicherungseinsätze („Blauhelme\") typischerweise finanziert?",
+          "q": "VN-Friedenssicherungseinsätze werden finanziert",
           "o": [
-            "Ausschließlich durch freiwillige Spenden einzelner Mitgliedstaaten",
-            "Ausschließlich durch Mittel der Weltbank",
-            "Vollständig durch die truppenstellenden Staaten selbst",
-            "Über einen eigenen Peacekeeping-Beitragsschlüssel der Generalversammlung"
+            "durch den Gaststaat und beteiligte regionale Organisationen.",
+            "durch freiwillige Beiträge der truppenstellenden Staaten.",
+            "aus dem ordentlichen Haushalt der Vereinten Nationen.",
+            "über einen eigenen Beitragsschlüssel der Generalversammlung."
           ],
           "a": 3,
-          "e": "Peacekeeping-Einsätze werden über einen eigenen Pflichtbeitragsschlüssel finanziert, der von der Generalversammlung beschlossen wird und die ständigen Sicherheitsratsmitglieder in Anerkennung ihrer besonderen Verantwortung für die Wahrung des Friedens anteilig stärker heranzieht als den regulären Haushaltsschlüssel.",
+          "e": "Für Friedenssicherungseinsätze besteht ein gesonderter Haushalt mit eigenem Beitragsschlüssel, den die Generalversammlung beschließt; die ständigen Mitglieder des Sicherheitsrats tragen darin einen erhöhten Anteil, weil sie über die Mandate entscheiden. Der ordentliche Haushalt deckt Sekretariat und Hauptorgane, nicht die Missionen. Freiwillige Beiträge finanzieren Sonderorganisationen und Fonds wie UNHCR oder UNICEF; truppenstellende Staaten erhalten umgekehrt Kostenerstattungen. Eine Finanzierung durch den Gaststaat wäre mit der Unparteilichkeit der Mission unvereinbar.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -6054,15 +6054,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Was verpflichtet Art. 1 EMRK die Vertragsstaaten zu sichern?",
+          "q": "Art. 1 EMRK verpflichtet die Vertragsstaaten, die Konventionsrechte zu sichern",
           "o": [
-            "Die Konventionsrechte nur gegenüber anderen Vertragsstaaten, nicht gegenüber Individuen",
-            "Die Konventionsrechte allen ihrer Hoheitsgewalt unterstehenden Personen",
-            "Die Konventionsrechte ausschließlich innerhalb der Grenzen der Europäischen Union",
-            "Die Konventionsrechte nur für die eigenen Staatsangehörigen"
+            "allen Staatsangehörigen der Vertragsstaaten.",
+            "allen natürlichen Personen im Gebiet des Europarats.",
+            "allen Personen mit rechtmäßigem Aufenthalt im Land.",
+            "allen ihrer Hoheitsgewalt unterstehenden Personen."
           ],
-          "a": 1,
-          "e": "Art. 1 EMRK verpflichtet die Vertragsstaaten, die Konventionsrechte jeder ihrer Hoheitsgewalt unterstehenden Person zu sichern – unabhängig von deren Staatsangehörigkeit; aus dieser Formel hat der EGMR auch eine begrenzte extraterritoriale Anwendbarkeit entwickelt.",
+          "a": 3,
+          "e": "Art. 1 EMRK knüpft allein an die Hoheitsgewalt an: Jeder, der ihr untersteht, genießt die Konventionsrechte — unabhängig von Staatsangehörigkeit, Aufenthaltsstatus und Wohnsitz. Aus dieser Zusicherungspflicht leitet der Gerichtshof zugleich die positiven Schutzpflichten ab. Eine Beschränkung auf Staatsangehörige widerspräche dem Wortlaut und dem universellen Anspruch der Konvention. Der Aufenthaltsstatus ist unerheblich; auch Personen ohne Aufenthaltstitel sind geschützt, was gerade in Abschiebungsfällen entscheidend ist. Auf das geografische Gebiet kommt es nicht an — maßgeblich ist die Ausübung von Hoheitsgewalt, die auch außerhalb erfolgen kann.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -6090,15 +6090,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Regelung trifft das Seerechtsübereinkommen für den Fall, dass sich Küstenmeere zweier gegenüberliegender Staaten überlappen?",
+          "q": "Überlappen sich die Küstenmeere zweier gegenüberliegender Staaten, so gilt nach Art. 15 SRÜ",
           "o": [
-            "Mangels Vereinbarung gilt die Mittellinie, sofern nicht historische Titel entgegenstehen",
-            "Der wirtschaftlich stärkere Staat erhält automatisch das gesamte überlappende Gebiet",
-            "Nur der VN-Sicherheitsrat kann eine solche Überlappung durch Resolution auflösen",
-            "Beide Staaten müssen auf ihr Küstenmeer in diesem Bereich vollständig verzichten"
+            "mangels Vereinbarung die seewärtige Verlängerung der Landgrenze.",
+            "eine Aufteilung nach der Länge der jeweiligen Küstenlinie.",
+            "die Entscheidung des Internationalen Seegerichtshofs in Hamburg.",
+            "mangels Vereinbarung die Mittellinie zwischen den Basislinien."
           ],
-          "a": 0,
-          "e": "Nach Art. 15 SRÜ gilt bei überlappenden Küstenmeeren mangels anderer Vereinbarung grundsätzlich die Mittellinie, sofern nicht historische Titel oder besondere Umstände eine abweichende Grenzziehung rechtfertigen.",
+          "a": 3,
+          "e": "Art. 15 SRÜ bestimmt, dass ohne gegenteilige Vereinbarung keiner der beiden Staaten sein Küstenmeer über die Mittellinie hinaus ausdehnen darf, deren Punkte von den nächstgelegenen Punkten der Basislinien gleich weit entfernt sind; abweichen darf man nur bei historischen Rechtstiteln oder besonderen Umständen. Die Verlängerung der Landgrenze ist keine im Übereinkommen vorgesehene Methode. Der Seegerichtshof entscheidet nur, wenn die Parteien ihn anrufen; er ersetzt nicht die vertragliche Regel. Eine Aufteilung nach Küstenlänge spielt bei der Abgrenzung von Festlandsockel und Wirtschaftszone eine Rolle, nicht beim Küstenmeer.",
           "cat": "Seerecht"
         },
         {
@@ -6372,15 +6372,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Rechte behalten Drittstaaten in der ausschließlichen Wirtschaftszone eines Küstenstaats trotz von dessen souveränen Ressourcenrechten?",
+          "q": "In der ausschließlichen Wirtschaftszone eines Küstenstaats behalten Drittstaaten",
           "o": [
-            "Nur militärische Nutzungsrechte, jedoch keine zivilen Freiheiten",
-            "Keinerlei Rechte; die Wirtschaftszone steht ausschließlich dem Küstenstaat offen",
-            "Nur das Recht auf freien Warenhandel mit dem jeweiligen Küstenstaat",
-            "Insbesondere Schifffahrt, Überflug und die Verlegung von Kabeln und Rohrleitungen"
+            "das Recht zur Errichtung künstlicher Inseln, Anlagen und Bauwerke.",
+            "das Recht zur Erforschung und Ausbeutung der lebenden Ressourcen.",
+            "Schifffahrt, Überflug und das Recht zum freien Fischfang in der Zone.",
+            "Schifffahrt, Überflug sowie das Legen von Kabeln und Rohrleitungen."
           ],
           "a": 3,
-          "e": "Trotz der souveränen Ressourcenrechte des Küstenstaats behalten Drittstaaten in der AWZ grundlegende Freiheiten wie Schifffahrt, Überflug und die Verlegung von Kabeln und Rohrleitungen – ein Ausgleich zwischen Küstenstaats- und Allgemeininteressen.",
+          "e": "Art. 58 SRÜ erhält allen Staaten in der Wirtschaftszone die Freiheiten der Schifffahrt und des Überflugs sowie das Recht zur Verlegung unterseeischer Kabel und Rohrleitungen; die Zone gehört nicht zum Staatsgebiet des Küstenstaats. Diesem stehen nach Art. 56 souveräne Rechte zur Erforschung, Ausbeutung, Erhaltung und Bewirtschaftung der lebenden und nichtlebenden Ressourcen zu — genau deshalb ist der freie Fischfang durch Dritte ausgeschlossen und das Ausbeutungsrecht dem Küstenstaat vorbehalten. Auch die Errichtung künstlicher Inseln und Anlagen ist nach Art. 60 dem Küstenstaat zugewiesen.",
           "cat": "Seerecht"
         },
         {
@@ -6522,27 +6522,27 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Mehrheit ist im Rat der Europäischen Union für die meisten Rechtsakte im ordentlichen Gesetzgebungsverfahren erforderlich?",
+          "q": "Die qualifizierte Mehrheit im Rat setzt nach Art. 16 Abs. 4 EUV voraus:",
           "o": [
-            "Eine einfache Mehrheit der anwesenden Ratsmitglieder genügt stets",
-            "Einstimmigkeit aller Ratsmitglieder ist stets erforderlich",
-            "Die Mehrheit richtet sich ausschließlich nach der Wirtschaftskraft der Mitgliedstaaten",
-            "Die qualifizierte Mehrheit als doppelte Mehrheit von Staaten und Bevölkerung"
+            "zwei Drittel der Mitgliedstaaten unabhängig von der Bevölkerung.",
+            "65 Prozent der Mitgliedstaaten, die 55 Prozent der Bevölkerung vertreten.",
+            "eine Mehrheit der Mitgliedstaaten und der abgegebenen Stimmen.",
+            "55 Prozent der Mitgliedstaaten, die 65 Prozent der Bevölkerung vertreten."
           ],
           "a": 3,
-          "e": "Seit Lissabon gilt im ordentlichen Gesetzgebungsverfahren grundsätzlich die qualifizierte Mehrheit als Regelfall; Einstimmigkeit bleibt bestimmten, meist besonders sensiblen Bereichen wie Steuern oder der GASP vorbehalten.",
+          "e": "Seit dem 1. November 2014 gilt die doppelte Mehrheit: mindestens 55 Prozent der Mitgliedstaaten, also derzeit 15 von 27, die zusammen mindestens 65 Prozent der Unionsbevölkerung vertreten. Eine Sperrminorität erfordert mindestens vier Mitgliedstaaten. Die Vertauschung der beiden Prozentsätze ist der naheliegendste Fehler und deshalb hier als Distraktor gewählt. Eine einfache Mehrheit gilt nur für Verfahrensfragen nach Art. 238 Abs. 1 AEUV. Eine reine Zweidrittelmehrheit der Staaten ohne Bevölkerungskomponente kennt der Vertrag nicht.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Was regelt das Frühwarnverfahren zur Subsidiaritätskontrolle, wenn ein Drittel der nationalen Parlamente Bedenken äußert?",
+          "q": "Rügt ein Drittel der nationalen Parlamente einen Verstoß gegen das Subsidiaritätsprinzip, so",
           "o": [
-            "Das Verfahren betrifft ausschließlich Vorschläge der Mitgliedstaaten, nie der Kommission",
-            "Die Kommission muss ihren Vorschlag überprüfen, ist aber nicht zu dessen Rücknahme verpflichtet",
-            "Der EuGH entscheidet automatisch verbindlich über die Streitfrage",
-            "Der Vorschlag wird automatisch und endgültig verworfen"
+            "muss die Kommission ihren Entwurf überprüfen und ihre Entscheidung begründen.",
+            "entscheidet der Gerichtshof vorab über die Vereinbarkeit mit dem Vertrag.",
+            "ruht das Gesetzgebungsverfahren für die Dauer von sechs Monaten.",
+            "muss die Kommission ihren Entwurf zurücknehmen und neu vorlegen."
           ],
-          "a": 1,
-          "e": "Erreichen begründete Subsidiaritätsrügen die „gelbe Karte\"-Schwelle eines Drittels der Stimmen, muss die Kommission ihren Vorschlag überprüfen, kann ihn nach eigener Prüfung aber unverändert aufrechterhalten – ein politischer, kein rechtlich zwingender Mechanismus.",
+          "a": 0,
+          "e": "Das Frühwarnsystem des Subsidiaritätsprotokolls kennt zwei Stufen. Bei Erreichen eines Drittels der Stimmen der nationalen Parlamente — der gelben Karte — muss die Kommission ihren Entwurf überprüfen und begründen, ob sie ihn beibehält, ändert oder zurückzieht; eine Rücknahmepflicht besteht gerade nicht. Bei einer einfachen Mehrheit im ordentlichen Gesetzgebungsverfahren, der orangen Karte, kommt zusätzlich eine Ablehnung durch Parlament oder Rat in Betracht. Ein Ruhen des Verfahrens ist nicht vorgesehen. Der Gerichtshof entscheidet erst nachträglich über eine Subsidiaritätsklage nach Art. 8 des Protokolls.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -6654,15 +6654,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Wirkung hat eine von einem Vertragsstaat erklärte Verlängerung oder Erneuerung einer Notstandsderogation nach Art. 15 EMRK für die fortlaufende gerichtliche Kontrolle durch den EGMR?",
+          "q": "Verlängert ein Vertragsstaat eine Notstandsderogation nach Art. 15 EMRK, so",
           "o": [
-            "Eine einmal erklärte Derogation entzieht sich für immer jeder gerichtlichen Überprüfung",
-            "Nur das Ministerkomitee, niemals der Gerichtshof, darf eine Derogation überprüfen",
-            "Der Gerichtshof prüft fortlaufend, ob die Voraussetzungen fortbestehen",
-            "Der EGMR verliert mit einer Derogationserklärung dauerhaft jede Zuständigkeit für den betroffenen Staat"
+            "gilt die Derogation längstens für weitere zwölf Monate.",
+            "bedarf die Verlängerung der Zustimmung der Parlamentarischen Versammlung.",
+            "entfällt die gerichtliche Kontrolle für die Dauer der Verlängerung.",
+            "prüft der Gerichtshof weiterhin, ob deren Voraussetzungen fortbestehen."
           ],
-          "a": 2,
-          "e": "Auch während einer fortdauernden Notstandsderogation bleibt der EGMR zuständig, das tatsächliche Fortbestehen der Notstandsvoraussetzungen und die Erforderlichkeit der konkreten Abweichungsmaßnahmen zu überprüfen – Derogation ist kein dauerhafter Freibrief.",
+          "a": 3,
+          "e": "Die Notstandserklärung entzieht die Maßnahmen nicht der Kontrolle: Der Gerichtshof prüft, ob ein Notstand vorliegt, ob die Maßnahmen unbedingt erforderlich sind und ob die notstandsfesten Rechte gewahrt bleiben; den Staaten steht dabei ein weiter, aber überprüfbarer Beurteilungsspielraum zu. Ein kontrollfreier Raum entsteht deshalb gerade nicht — das war die Kernaussage in Brannigan und McBride. Eine Zustimmung der Parlamentarischen Versammlung ist nicht vorgesehen; Art. 15 Abs. 3 verlangt lediglich die Unterrichtung des Generalsekretärs. Eine Höchstdauer kennt die Konvention nicht; die Grenze ist die fortdauernde Erforderlichkeit.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -6816,27 +6816,27 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Welche Aufgaben umfassen die sogenannten „Petersberg-Aufgaben\" im Rahmen der Gemeinsamen Sicherheits- und Verteidigungspolitik der EU?",
+          "q": "Zu den Petersberg-Aufgaben der Gemeinsamen Sicherheits- und Verteidigungspolitik zählen",
           "o": [
-            "Humanitäre Hilfe, Rettung, Friedenserhaltung und Krisenbewältigung",
-            "Ausschließlich Ausbildungsmissionen ohne Exekutivmandat",
-            "Ausschließlich klassische Landesverteidigung im Bündnisfall",
-            "Ausschließlich diplomatische Verhandlungsführung ohne jeden militärischen Bezug"
+            "die kollektive Verteidigung des Bündnisgebiets gegen einen Angriff.",
+            "die gemeinsame Beschaffung und Standardisierung von Rüstungsgütern.",
+            "die Sicherung der Außengrenzen und die Rückführung von Migranten.",
+            "humanitäre Aufgaben, Rettungseinsätze und Krisenbewältigung."
           ],
-          "a": 0,
-          "e": "Die nach Art. 43 Abs. 1 EUV in die Verträge aufgenommenen Petersberg-Aufgaben reichen von humanitären Einsätzen über friedenserhaltende Maßnahmen bis zu Kampfeinsätzen bei der Krisenbewältigung – das Aufgabenspektrum ziviler und militärischer EU-Missionen.",
+          "a": 3,
+          "e": "Die 1992 von der Westeuropäischen Union in Petersberg formulierten und heute in Art. 43 EUV übernommenen Aufgaben umfassen humanitäre Aufgaben und Rettungseinsätze, Konfliktverhütung und Erhaltung des Friedens sowie Kampfeinsätze zur Krisenbewältigung einschließlich Friedensschaffung; hinzugekommen sind Abrüstungsmaßnahmen, militärische Beratung und Stabilisierung nach Konflikten. Die kollektive Verteidigung ist Aufgabe der NATO und findet ihre unionsrechtliche Entsprechung in der Beistandsklausel des Art. 42 Abs. 7 EUV, nicht in den Petersberg-Aufgaben. Grenzsicherung und Rückführung obliegen Frontex. Rüstungsbeschaffung ist Sache der Europäischen Verteidigungsagentur.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Wie werden restriktive Maßnahmen (Sanktionen) der EU gegen Drittstaaten typischerweise rechtlich umgesetzt?",
+          "q": "Restriktive Maßnahmen der Union gegen Drittstaaten beruhen auf",
           "o": [
-            "Ausschließlich durch eine unmittelbar wirkende Entscheidung der Kommission ohne Ratsbeteiligung",
-            "Sanktionen bedürfen stets der Zustimmung des VN-Sicherheitsrats, bevor die EU tätig werden darf",
-            "Ausschließlich durch unmittelbar geltendes nationales Recht jedes Mitgliedstaats",
-            "Einstimmiger GASP-Beschluss, dann Verordnung nach Art. 215 AEUV"
+            "einem Beschluss des Europäischen Rates und einer Empfehlung an die Staaten.",
+            "einer Resolution des Sicherheitsrats und deren nationaler Umsetzung.",
+            "einem Beschluss der Kommission und einer Durchführungsrichtlinie.",
+            "einem Beschluss im Rahmen der GASP und einer Verordnung des Rates."
           ],
           "a": 3,
-          "e": "EU-Sanktionen folgen einem zweistufigen Verfahren: zunächst ein einstimmiger GASP-Grundsatzbeschluss, dann eine mit qualifizierter Mehrheit erlassene Durchführungsverordnung nach Art. 215 AEUV – ein eigenständiges Instrument, unabhängig von einer vorherigen VN-Ermächtigung.",
+          "e": "Sanktionen entstehen zweistufig: Zunächst fasst der Rat einstimmig einen Beschluss im Rahmen der Gemeinsamen Außen- und Sicherheitspolitik nach Art. 29 EUV; soweit dieser wirtschaftliche Maßnahmen wie das Einfrieren von Geldern oder Handelsbeschränkungen vorsieht, folgt eine unmittelbar geltende Verordnung nach Art. 215 AEUV, die der Rat mit qualifizierter Mehrheit auf gemeinsamen Vorschlag des Hohen Vertreters und der Kommission erlässt. Die Kommission allein kann keine Sanktionen verhängen. Eine Resolution des Sicherheitsrats kann Anlass sein, ist aber nicht erforderlich — die Union verhängt auch autonome Sanktionen. Eine Empfehlung wäre unverbindlich.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -6912,15 +6912,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Kann ein Missionschef nach dem WÜD gleichzeitig mehrere Empfangsstaaten vertreten?",
+          "q": "Welche drei Rangklassen der Missionschefs unterscheidet Art. 14 WÜD?",
           "o": [
-            "Eine Mehrfachakkreditierung ist nur mit Zustimmung des VN-Sicherheitsrats möglich",
-            "Ja; nach Art. 5 WÜD ist Mehrfachakkreditierung ohne Widerspruch möglich",
-            "Nur Botschafter, niemals Geschäftsträger, dürfen mehrfach akkreditiert werden",
-            "Nein, ein Missionschef darf stets nur einen einzigen Empfangsstaat gleichzeitig vertreten"
+            "Botschafter, Generalkonsuln und Vizekonsuln",
+            "Botschafter, Konsuln und Attachés",
+            "Nuntien, Konsuln und Legaten",
+            "Botschafter, Gesandte und Geschäftsträger"
           ],
-          "a": 1,
-          "e": "Art. 5 WÜD erlaubt die Mehrfachakkreditierung eines Missionschefs bei mehreren Staaten, sofern keiner der betroffenen Empfangsstaaten widerspricht – in der Praxis häufig bei kleineren Staaten mit begrenzten diplomatischen Ressourcen genutzt.",
+          "a": 3,
+          "e": "Art. 14 WÜD teilt die Missionschefs in drei Klassen: Botschafter und Nuntien, die beim Staatsoberhaupt beglaubigt sind; Gesandte, Minister und Internuntien, ebenfalls beim Staatsoberhaupt; sowie Geschäftsträger, die beim Außenminister beglaubigt sind. Diese Einteilung geht auf den Wiener Kongress von 1815 zurück. Konsuln, Generalkonsuln und Vizekonsuln sind keine Missionschefs, sondern Leiter konsularischer Vertretungen nach Art. 9 WÜK und gehören einer eigenen Rangordnung an. Attachés sind Mitglieder des diplomatischen Personals, nicht Missionschefs. Legaten sind eine historische Bezeichnung päpstlicher Gesandter.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -6948,15 +6948,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Können auch juristische Personen wie Unternehmen Individualbeschwerde beim EGMR erheben?",
+          "q": "Beschwerdeberechtigt nach Art. 34 EMRK sind neben natürlichen Personen auch",
           "o": [
-            "Ja; Art. 34 EMRK erfasst auch Organisationen und Personenvereinigungen",
-            "Nein, nur natürliche Personen können jemals Beschwerdeführer sein",
-            "Nur Unternehmen mit Sitz im beklagten Staat selbst können Beschwerde erheben",
-            "Juristische Personen können nur gemeinsam mit mindestens einer natürlichen Person Beschwerde erheben"
+            "die Vertragsstaaten selbst gegen ihre eigenen Behörden.",
+            "staatlich beherrschte Rundfunkanstalten der Vertragsstaaten.",
+            "nichtstaatliche Organisationen und Personengruppen.",
+            "Gemeinden und andere Gebietskörperschaften der Vertragsstaaten."
           ],
-          "a": 0,
-          "e": "Art. 34 EMRK öffnet die Individualbeschwerde ausdrücklich auch nichtstaatlichen Organisationen und Personenvereinigungen wie Unternehmen, insbesondere bei Verletzungen des Eigentumsrechts nach dem Ersten Zusatzprotokoll.",
+          "a": 2,
+          "e": "Art. 34 EMRK nennt ausdrücklich natürliche Personen, nichtstaatliche Organisationen und Personengruppen; Unternehmen können sich deshalb etwa auf Eigentumsschutz, faires Verfahren und Meinungsfreiheit berufen. Ausgeschlossen sind Träger von Hoheitsgewalt — Gemeinden und Gebietskörperschaften gelten als staatliche Organisationen und sind nicht beschwerdeberechtigt, ebenso staatlich beherrschte Rundfunkanstalten, sofern sie nicht redaktionell unabhängig sind. Ein Staat kann nicht gegen sich selbst vorgehen; die Staatenbeschwerde nach Art. 33 EMRK richtet sich gegen einen anderen Vertragsstaat.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -6972,15 +6972,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Sind alle Bestimmungen der GFK gleichermaßen vorbehaltsfähig?",
+          "q": "Wer ist nach Art. 1 F GFK von der Flüchtlingseigenschaft ausgeschlossen?",
           "o": [
-            "Nein, die GFK schließt jeden Vorbehalt ausnahmslos für alle Bestimmungen aus",
-            "Nein; Kernbestimmungen wie Art. 33 und Art. 1 sind nach Art. 42 GFK nicht vorbehaltsfähig",
-            "Vorbehalte sind nur bei Beitritt, niemals bei ursprünglicher Ratifikation, möglich",
-            "Ja, jede einzelne Bestimmung der GFK kann ohne Ausnahme vorbehalten werden"
+            "wer ein Verbrechen gegen die Menschlichkeit begangen hat.",
+            "wer seinen Antrag verspätet gestellt hat.",
+            "wer ohne gültige Ausweispapiere eingereist ist.",
+            "wer bereits durch einen sicheren Drittstaat gereist ist."
           ],
-          "a": 1,
-          "e": "Art. 42 GFK schließt Vorbehalte nur zu bestimmten Kernvorschriften wie dem Non-Refoulement-Verbot und der Flüchtlingsdefinition aus; zu vielen anderen Bestimmungen der Konvention haben Vertragsstaaten in der Praxis durchaus Vorbehalte erklärt.",
+          "a": 0,
+          "e": "Art. 1 F GFK schließt Personen aus, bei denen schwerwiegende Gründe die Annahme rechtfertigen, dass sie ein Verbrechen gegen den Frieden, ein Kriegsverbrechen oder ein Verbrechen gegen die Menschlichkeit begangen haben, ein schweres nichtpolitisches Verbrechen außerhalb des Aufnahmelandes oder Handlungen gegen die Ziele der Vereinten Nationen. Die Klausel dient dem Schutz der Institution des Asyls vor Missbrauch und ist eng auszulegen. Die Einreise ohne Papiere ist gerade kein Ausschlussgrund, wie Art. 31 GFK zeigt. Die Reise durch einen sicheren Drittstaat betrifft die Zuständigkeit, nicht die Flüchtlingseigenschaft. Eine verspätete Antragstellung kann die Glaubwürdigkeit berühren, schließt den Status aber nicht aus.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -6996,15 +6996,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Können Vertragsstaaten bei Unterzeichnung oder Ratifikation des Seerechtsübereinkommens zwischen mehreren Streitbeilegungsforen wählen?",
+          "q": "Ein Staat kann bei der Ratifikation nach Art. 287 SRÜ wählen zwischen",
           "o": [
-            "Nein, jeder Vertragsstaat ist automatisch und ausschließlich dem Internationalen Seegerichtshof unterworfen",
-            "Die Wahl des Forums steht ausschließlich der beklagten, niemals der klagenden Partei zu",
-            "Eine Wahlmöglichkeit besteht nur für Küstenstaaten, nicht aber für Binnenstaaten",
-            "Ja; nach Art. 287 SRÜ kann ein Staat zwischen ISGH, IGH, Schiedsgericht und Sondertribunal wählen"
+            "Schiedsgericht und Vermittlungsverfahren vor der Meeresbodenbehörde.",
+            "Internationalem Gerichtshof und Internationalem Strafgerichtshof.",
+            "Seegerichtshof, Gerichtshof und zwei Arten von Schiedsgerichten.",
+            "Seegerichtshof und Internationalem Gerichtshof."
           ],
-          "a": 3,
-          "e": "Art. 287 SRÜ eröffnet den Vertragsstaaten die Wahl zwischen mehreren gleichrangigen Streitbeilegungsforen; treffen beide Streitparteien keine oder unterschiedliche Wahl, greift nach Art. 287 Abs. 5 SRÜ das allgemeine Schiedsgericht als Auffangmechanismus.",
+          "a": 2,
+          "e": "Art. 287 Abs. 1 SRÜ nennt vier Foren: den Internationalen Seegerichtshof in Hamburg, den Internationalen Gerichtshof, ein Schiedsgericht nach Anlage VII und ein besonderes Schiedsgericht nach Anlage VIII für Fischerei-, Umwelt-, Forschungs- und Schifffahrtsfragen. Eine Beschränkung auf zwei ständige Gerichte trifft deshalb nicht zu und übersieht gerade die praktisch häufigsten Verfahren. Der Internationale Strafgerichtshof verfolgt Individuen wegen Völkerstraftaten und steht im Seerecht nicht zur Wahl. Die Meeresbodenbehörde verwaltet das Gebiet; für Streitigkeiten dort besteht die Kammer für Meeresbodenstreitigkeiten des Seegerichtshofs.",
           "cat": "Seerecht"
         },
         {
@@ -7218,15 +7218,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Genießen Ausländer ohne rechtmäßigen Aufenthaltstitel im Hoheitsgebiet eines Vertragsstaats gleichwohl EMRK-Schutz?",
+          "q": "Welche Bestimmung der EMRK verbietet die Kollektivausweisung von Ausländern?",
           "o": [
-            "Nur EU-Bürger ohne Aufenthaltstitel genießen ausnahmsweise Konventionsschutz",
-            "Der Konventionsschutz erlischt automatisch mit Ablauf eines Aufenthaltstitels",
-            "Nein, der Konventionsschutz setzt stets einen rechtmäßigen Aufenthaltstitel voraus",
-            "Ja; maßgeblich ist nach Art. 1 EMRK die tatsächliche Hoheitsgewalt"
+            "Art. 1 des Zwölften Zusatzprotokolls",
+            "Art. 1 des Sechsten Zusatzprotokolls",
+            "Art. 4 des Vierten Zusatzprotokolls",
+            "Art. 2 des Siebten Zusatzprotokolls"
           ],
-          "a": 3,
-          "e": "Der Konventionsschutz knüpft nach Art. 1 EMRK an die tatsächliche Unterstellung unter die Hoheitsgewalt eines Vertragsstaats an – die Rechtmäßigkeit des Aufenthalts ist für die grundsätzliche Anwendbarkeit der Konvention nicht entscheidend, wohl aber für einzelne materielle Fragen wie Ausweisungsschutz.",
+          "a": 2,
+          "e": "Art. 4 des Vierten Zusatzprotokolls verbietet die Kollektivausweisung, also die Ausweisung einer Gruppe ohne angemessene Prüfung der Lage jedes Einzelnen; der Gerichtshof wandte ihn etwa in Hirsi Jamaa auf Zurückweisungen auf Hoher See an. Art. 1 des Sechsten Zusatzprotokolls schafft die Todesstrafe in Friedenszeiten ab, ergänzt durch das Dreizehnte Protokoll für alle Zeiten. Art. 2 des Siebten Zusatzprotokolls gewährt das Recht auf Überprüfung strafrechtlicher Verurteilungen durch ein übergeordnetes Gericht. Art. 1 des Zwölften Zusatzprotokolls enthält das allgemeine Diskriminierungsverbot, das Deutschland nicht ratifiziert hat.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -7242,15 +7242,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz des „Non-Penalization\" (Straflosigkeit) nach Art. 31 GFK für illegal eingereiste Flüchtlinge?",
+          "q": "Art. 31 GFK verbietet die Bestrafung wegen unrechtmäßiger Einreise, wenn der Flüchtling",
           "o": [
-            "Keine Bestrafung für unrechtmäßige Einreise, wenn sie sich unverzüglich melden",
-            "Non-Penalization ist ein rein politisches Prinzip ohne jede rechtliche Grundlage in der GFK",
-            "Flüchtlinge genießen ausnahmslose Straflosigkeit für jede in ihrem Aufnahmestaat begangene Straftat",
-            "Der Grundsatz gilt nur für Flüchtlinge, die bereits offiziell als solche anerkannt sind, nicht für Asylsuchende während des Verfahrens"
+            "binnen drei Monaten einen förmlichen Asylantrag stellt.",
+            "gültige Ausweispapiere seines Herkunftsstaats vorlegt.",
+            "sich unverzüglich meldet und seine Einreisegründe darlegt.",
+            "unmittelbar aus einem angrenzenden Staat eingereist ist."
           ],
-          "a": 0,
-          "e": "Art. 31 GFK schützt Flüchtlinge vor Bestrafung wegen unrechtmäßiger Einreise oder Aufenthalts, sofern sie unverzüglich bei den Behörden vorstellig werden und plausible Gründe für die irreguläre Einreise darlegen – ein zentraler, oft übersehener Schutzmechanismus jenseits des Non-Refoulement-Verbots.",
+          "a": 2,
+          "e": "Art. 31 Abs. 1 GFK verbietet Strafen wegen unrechtmäßiger Einreise oder unrechtmäßigen Aufenthalts, wenn der Flüchtling unmittelbar aus einem Gebiet kommt, in dem ihm Verfolgung drohte, sich unverzüglich bei den Behörden meldet und die Gründe darlegt. Die Vorschrift trägt dem Umstand Rechnung, dass Verfolgte selten mit gültigen Papieren reisen können. Eine Dreimonatsfrist kennt die Konvention nicht; verlangt ist die Unverzüglichkeit. Auf einen angrenzenden Staat kommt es nicht an — maßgeblich ist, dass keine anderweitige Schutzgewährung dazwischentrat. Gültige Papiere sind gerade keine Voraussetzung, sondern der Regelfall, in dem die Vorschrift nicht gebraucht wird.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -7266,15 +7266,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Freiheit gehört nach Art. 87 SRÜ zu den klassischen Freiheiten der Hohen See?",
+          "q": "Auf Hoher See untersteht ein Schiff nach Art. 92 SRÜ",
           "o": [
-            "Ausschließlich die Freiheit des Warenhandels zwischen Vertragsstaaten",
-            "Unter anderem Schifffahrt, Überflug, Fischerei und wissenschaftliche Forschung",
-            "Die Freiheit der Hohen See wurde durch das Seerechtsübereinkommen vollständig abgeschafft",
-            "Die Freiheit jedes Staates, auf der Hohen See eigene Hoheitsgebiete zu errichten"
+            "der Hoheitsgewalt des nächstgelegenen Küstenstaats.",
+            "der Hoheitsgewalt des Heimatstaats seiner Eigentümer.",
+            "der gemeinsamen Hoheitsgewalt aller Vertragsstaaten.",
+            "der Hoheitsgewalt seines eigenen Flaggenstaats."
           ],
-          "a": 1,
-          "e": "Art. 87 SRÜ zählt zu den klassischen Freiheiten der Hohen See unter anderem Schifffahrt, Überflug, Verlegung von Kabeln und Rohrleitungen, Errichtung von Anlagen, Fischerei und wissenschaftliche Forschung – stets unter angemessener Rücksichtnahme auf die Interessen anderer Staaten und ohne Aneignungsmöglichkeit.",
+          "a": 3,
+          "e": "Art. 92 SRÜ verankert das Flaggenstaatsprinzip: Auf Hoher See untersteht ein Schiff der ausschließlichen Hoheitsgewalt des Staates, dessen Flagge es führt. Durchbrechungen sind eng begrenzt und in Art. 110 aufgezählt — Verdacht auf Seeräuberei, Sklavenhandel, nicht genehmigte Rundfunksendungen, Staatenlosigkeit des Schiffes oder verschleierte Flaggenführung. Der nächstgelegene Küstenstaat hat auf Hoher See keine Befugnisse; seine Rechte enden mit Anschlusszone und Wirtschaftszone. Auf die Staatsangehörigkeit der Eigentümer kommt es nicht an, weshalb Billigflaggen überhaupt möglich sind. Eine gemeinsame Hoheitsgewalt aller Vertragsstaaten kennt das Übereinkommen nicht.",
           "cat": "Seerecht"
         },
         {
@@ -7548,15 +7548,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Rolle spielt die Glaubhaftmachung im Verfahren zur Feststellung der Flüchtlingseigenschaft, angesichts der oft schwierigen Beweislage von Antragstellenden?",
+          "q": "Für den Nachweis im Verfahren zur Feststellung der Flüchtlingseigenschaft gilt",
           "o": [
-            "Die Beweislast liegt ausschließlich und vollständig beim Aufnahmestaat, niemals beim Antragstellenden",
-            "Es genügt eine Glaubhaftmachung; im Zweifel gilt „in dubio pro refugio\"",
-            "Antragstellende müssen jede einzelne Tatsache mit demselben strengen Beweismaß wie im Strafprozess zweifelsfrei nachweisen",
-            "Eine Glaubhaftmachung ist im Flüchtlingsrecht grundsätzlich unzulässig, es gilt ausschließlich der Urkundenbeweis"
+            "die freie Beweiswürdigung ohne Mitwirkung des Antragstellers.",
+            "die Glaubhaftmachung, im Zweifel zugunsten des Antragstellers.",
+            "der Vollbeweis nach den Regeln des Zivilprozessrechts.",
+            "die Beweislast des Aufnahmestaats für die Verfolgungsfreiheit."
           ],
           "a": 1,
-          "e": "Da Verfolgte häufig keine lückenlosen Beweismittel vorlegen können, genügt nach anerkannten Grundsätzen eine schlüssige Glaubhaftmachung der Verfolgungsgeschichte; verbleibende Zweifel können im Rahmen des Grundsatzes „in dubio pro refugio\" zugunsten des Antragstellenden gewürdigt werden.",
+          "e": "Angesichts der typischen Beweisnot Verfolgter genügt es, dass der Antragsteller einen in sich stimmigen, detailreichen Sachverhalt vorträgt, der die Furcht vor Verfolgung nachvollziehbar macht; verbleiben Zweifel, wirkt der Grundsatz in dubio pro refugio zu seinen Gunsten, wie auch das Handbuch des UNHCR festhält. Ein Vollbeweis nach zivilprozessualen Maßstäben wäre praktisch unerfüllbar. Eine Beweislast des Staates für die Verfolgungsfreiheit besteht nicht; die Feststellungslast bleibt beim Antragsteller, wird aber abgesenkt. Eine Mitwirkungspflicht besteht sehr wohl — sie ist die Kehrseite des herabgesetzten Beweismaßes.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -7698,15 +7698,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Wie hat sich die Praxis der VN-Sicherheitsratssanktionen seit den 1990er-Jahren grundlegend verändert?",
+          "q": "Die Sanktionspraxis des Sicherheitsrats verlagerte sich seit den 1990er-Jahren",
           "o": [
-            "Weg von Handelsembargos hin zu gezielten „smart\"-Sanktionen",
-            "Sanktionen wurden ausschließlich auf wirtschaftlich unbedeutende Kleinstaaten beschränkt",
-            "Der Sicherheitsrat verzichtete vollständig auf jede Form von Sanktionen",
-            "Der Sicherheitsrat verhängt seither ausschließlich militärische, niemals wirtschaftliche Sanktionen"
+            "von verbindlichen Beschlüssen zu unverbindlichen Empfehlungen.",
+            "von Waffenembargos zu militärischen Zwangsmaßnahmen.",
+            "von umfassenden Handelsembargos zu gezielten Einzelsanktionen.",
+            "von gezielten Einzelsanktionen zu umfassenden Handelsembargos."
           ],
-          "a": 0,
-          "e": "Nach den erheblichen humanitären Folgen umfassender Embargos wie im Fall des Irak in den 1990er-Jahren verlagerte sich die Sanktionspraxis zunehmend auf gezielte Maßnahmen gegen bestimmte Verantwortliche, Organisationen oder Wirtschaftssektoren – die sogenannten „smart sanctions\".",
+          "a": 2,
+          "e": "Die umfassenden Embargos der 1990er-Jahre, vor allem gegen den Irak, trafen die Zivilbevölkerung schwer und gerieten humanitär wie politisch unter Druck. Seither arbeitet der Rat mit gezielten Sanktionen gegen benannte Personen und Einrichtungen: Reiseverbote, Einfrieren von Vermögen, Waffenembargos. Damit stellte sich die Frage des Rechtsschutzes der Gelisteten, die zur Einrichtung einer Ombudsperson für das Al-Qaida-Sanktionsregime führte. Die umgekehrte Entwicklung fand nicht statt. Militärische Zwangsmaßnahmen sind ein eigenes Instrument des Art. 42 und lösten die Embargos nicht ab. Die Verbindlichkeit der Beschlüsse nach Kapitel VII blieb unverändert.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -7734,15 +7734,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Funktion übernimmt die Europäische Zentralbank seit 2014 im Rahmen des Einheitlichen Aufsichtsmechanismus (Single Supervisory Mechanism)?",
+          "q": "Im Einheitlichen Aufsichtsmechanismus übt die Europäische Zentralbank seit 2014",
           "o": [
-            "Sie ersetzt vollständig alle nationalen Finanzaufsichtsbehörden für sämtliche Finanzprodukte",
-            "Sie übernimmt keinerlei Aufsichtsfunktionen über Kreditinstitute",
-            "Unmittelbare Aufsicht über die bedeutendsten Banken des Euroraums",
-            "Der Einheitliche Aufsichtsmechanismus betrifft ausschließlich Versicherungsunternehmen"
+            "die Sicherung der Kundeneinlagen bis zu 100.000 Euro aus.",
+            "die Abwicklung von Instituten in wirtschaftlicher Schieflage aus.",
+            "die unmittelbare Aufsicht über die bedeutenden Institute des Euroraums aus.",
+            "die unmittelbare Aufsicht über sämtliche Kreditinstitute der Union aus."
           ],
           "a": 2,
-          "e": "Seit 2014 übernimmt die EZB im Rahmen des Einheitlichen Aufsichtsmechanismus die unmittelbare Aufsicht über die bedeutendsten Kreditinstitute des Euroraums – eine Reaktion auf die Finanz- und Staatsschuldenkrise zur Stärkung der Bankenstabilität.",
+          "e": "Seit November 2014 beaufsichtigt die Europäische Zentralbank die als bedeutend eingestuften Institute des Euroraums unmittelbar; die übrigen bleiben bei den nationalen Behörden, wobei die Zentralbank die Aufsicht an sich ziehen kann. Nicht dem Euroraum angehörende Mitgliedstaaten können freiwillig eine enge Zusammenarbeit eingehen, sind aber nicht automatisch erfasst — eine unionsweite Aufsicht besteht deshalb nicht. Die Abwicklung ist die zweite Säule der Bankenunion und liegt beim Einheitlichen Abwicklungsausschuss. Die Einlagensicherung ist die dritte Säule und bislang national organisiert.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -7806,27 +7806,27 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Unterliegt der Bau oder Umbau eines Botschaftsgebäudes dem Baurecht des Empfangsstaats?",
+          "q": "Der Bau eines Botschaftsgebäudes unterliegt dem Baurecht des Empfangsstaats",
           "o": [
-            "Grundsätzlich ja, soweit es mit der Unverletzlichkeit vereinbar bleibt",
-            "Nur das Baurecht des Entsendestaats ist für Missionsgebäude maßgeblich",
-            "Bauvorhaben bedürfen stets der vorherigen Zustimmung des VN-Sicherheitsrats",
-            "Nein, Missionsgebäude sind von jeder baurechtlichen Regelung des Empfangsstaats vollständig ausgenommen"
+            "nicht, weil das Grundstück Gebiet des Entsendestaats ist.",
+            "erst nach Aufnahme in das Verzeichnis geschützter Liegenschaften.",
+            "grundsätzlich, soweit die Unverletzlichkeit gewahrt bleibt.",
+            "nur mit Zustimmung des Entsendestaats zum jeweiligen Verfahren."
           ],
-          "a": 0,
-          "e": "Missionsgebäude unterliegen grundsätzlich dem materiellen Baurecht des Empfangsstaats, soweit dessen Anwendung nicht mit der Unverletzlichkeit der Räumlichkeiten oder den Funktionserfordernissen der Mission kollidiert – ein Beispiel für das Zusammenspiel von diplomatischem Sonderrecht und allgemeinem innerstaatlichem Recht.",
+          "a": 2,
+          "e": "Die Missionsräumlichkeiten bleiben Gebiet des Empfangsstaats; die Unverletzlichkeit nach Art. 22 WÜD begründet keine Exterritorialität, sondern nur ein Zutritts- und Vollstreckungsverbot. Bau-, Denkmalschutz- und Brandschutzrecht gelten deshalb grundsätzlich, können aber nicht zwangsweise durchgesetzt werden; in der Praxis wird über das Außenministerium verhandelt. Die Vorstellung vom Botschaftsgelände als fremdem Staatsgebiet ist eine überholte Fiktion des 19. Jahrhunderts. Ein Zustimmungserfordernis zum Verfahren kennt das WÜD nicht. Ein Verzeichnis geschützter Liegenschaften gibt es im Diplomatenrecht nicht.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Arbeitssprachen verwendet der Europäische Gerichtshof für Menschenrechte vorrangig in seinen Verfahren?",
+          "q": "Die Amtssprachen des Europäischen Gerichtshofs für Menschenrechte sind",
           "o": [
-            "Jede der sechsundvierzig Sprachen der Europaratsstaaten gleichberechtigt",
-            "Ausschließlich die jeweilige Landessprache des beklagten Vertragsstaats",
-            "Ausschließlich Latein als traditionelle Rechtssprache",
-            "Englisch und Französisch als die beiden Amtssprachen des Gerichtshofs"
+            "Englisch und Französisch.",
+            "die Amtssprachen sämtlicher Vertragsstaaten.",
+            "Französisch und Deutsch.",
+            "Englisch, Französisch und Deutsch."
           ],
-          "a": 3,
-          "e": "Englisch und Französisch sind die beiden Amtssprachen des EGMR, in denen Urteile grundsätzlich verfasst werden; Beschwerden können in der Anfangsphase des Verfahrens jedoch auch in einer Amtssprache eines Vertragsstaats eingereicht werden.",
+          "a": 0,
+          "e": "Art. 34 der Verfahrensordnung bestimmt Englisch und Französisch als Amtssprachen des Gerichtshofs; Urteile ergehen in einer oder beiden Sprachen. Eine Beschwerde kann allerdings zunächst in jeder Amtssprache eines Vertragsstaats eingereicht werden — nach Zustellung an die Regierung ist dann grundsätzlich eine der beiden Amtssprachen zu verwenden. Deutsch ist keine Amtssprache des Gerichtshofs, obwohl Deutschland, Österreich und die Schweiz Vertragsstaaten sind; deutsche Übersetzungen wichtiger Urteile erstellen die Justizministerien. Eine Vielsprachigkeit wie beim Gerichtshof der Europäischen Union, der alle Amtssprachen kennt, besteht in Straßburg nicht.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -7866,15 +7866,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Bedeutung hat die Bezeichnung eines Meeresgebiets als „Gebiet\" (the Area) im Sinne des Seerechtsübereinkommens?",
+          "q": "Das Gebiet im Sinne des Seerechtsübereinkommens bezeichnet",
           "o": [
-            "Das Küstenmeer jedes einzelnen Küstenstaats innerhalb der Zwölf-Seemeilen-Zone",
-            "Ausschließlich die Anschlusszone der einzelnen Küstenstaaten",
-            "Der Begriff wird im Seerechtsübereinkommen überhaupt nicht verwendet",
-            "Den Meeresboden jenseits nationaler Hoheit, gemeinsames Erbe der Menschheit"
+            "den Festlandsockel innerhalb der Zweihundertmeilengrenze.",
+            "die Wassersäule der Hohen See über dem Meeresboden.",
+            "den Meeresboden jenseits nationaler Hoheitsbefugnisse.",
+            "die Wirtschaftszone jenseits der Grenze des Küstenmeers."
           ],
-          "a": 3,
-          "e": "„Das Gebiet\" bezeichnet den Meeresboden und -untergrund jenseits nationaler Hoheitsbereiche, der nach Art. 136 SRÜ als gemeinsames Erbe der Menschheit gilt und dessen Ressourcen unter Aufsicht der Internationalen Meeresbodenbehörde zum Nutzen der gesamten Menschheit bewirtschaftet werden sollen.",
+          "a": 2,
+          "e": "Art. 1 Abs. 1 Nr. 1 SRÜ definiert das Gebiet als Meeresboden und Meeresuntergrund jenseits der Grenzen nationaler Hoheitsbefugnisse; nach Art. 136 ist es gemeinsames Erbe der Menschheit, seine Ressourcen werden von der Internationalen Meeresbodenbehörde verwaltet, und eine Aneignung ist ausgeschlossen. Die darüber liegende Wassersäule ist Hohe See mit den Freiheiten des Art. 87 — Boden und Wasserkörper folgen also verschiedenen Regimen. Die Wirtschaftszone und der Festlandsockel innerhalb der Zweihundertmeilengrenze unterstehen gerade den souveränen Rechten des Küstenstaats und liegen damit außerhalb des Gebiets.",
           "cat": "Seerecht"
         },
         {
@@ -7890,15 +7890,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Bedeutung hat das Vetorecht der ständigen Sicherheitsratsmitglieder für Verfahren der friedlichen Streitbeilegung nach Kapitel VI der VN-Charta?",
+          "q": "Für Sachfragen nach Kapitel VI der VN-Charta gilt das Vetorecht",
           "o": [
-            "Kapitel-VI-Empfehlungen bedürfen stets der Einstimmigkeit aller fünfzehn Mitglieder",
-            "Das Vetorecht gilt ausschließlich für Kapitel VII, niemals für Kapitel VI",
-            "Auch Kapitel-VI-Sachfragen unterliegen grundsätzlich dem Vetorecht",
-            "Empfehlungen zur friedlichen Streitbeilegung nach Kapitel VI sind vom Vetorecht vollständig ausgenommen"
+            "nicht, da Beschlüsse nach Kapitel VI Verfahrensfragen sind.",
+            "nicht, weil Kapitel VI lediglich Empfehlungen vorsieht.",
+            "grundsätzlich ebenso wie für Sachfragen nach Kapitel VII.",
+            "nur, wenn ein ständiges Mitglied selbst Streitpartei ist."
           ],
           "a": 2,
-          "e": "Auch Beschlüsse zu Sachfragen im Rahmen des Kapitels VI unterliegen grundsätzlich dem Vetorecht der ständigen Mitglieder; praktisch relativiert wird dies dadurch, dass Kapitel-VI-Empfehlungen ohnehin nur unverbindlichen Charakter haben und damit weniger politisches Gewicht als Kapitel-VII-Beschlüsse tragen.",
+          "e": "Art. 27 Abs. 3 VN-Charta verlangt für alle nichtverfahrensrechtlichen Beschlüsse die Zustimmung der ständigen Mitglieder; die Unterscheidung verläuft zwischen Verfahrens- und Sachfragen, nicht zwischen den Kapiteln. Auch Empfehlungen nach Kapitel VI sind Sachfragen und damit vetobehaftet. Eine Besonderheit besteht allerdings umgekehrt: Bei Beschlüssen nach Kapitel VI hat sich eine Streitpartei der Stimme zu enthalten — die Annahme, das Veto greife nur bei eigener Parteistellung, kehrt diese Regel gerade um. Verfahrensfragen sind Beschlüsse über Tagesordnung und Sitzungsleitung, nicht Streitbeilegungsempfehlungen.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -8052,15 +8052,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Verbleibt die Entscheidung über den nationalen Energiemix trotz geteilter Unionszuständigkeit für Energiepolitik nach Art. 194 AEUV bei den Mitgliedstaaten?",
+          "q": "Über die Wahl zwischen verschiedenen Energiequellen entscheidet nach Art. 194 AEUV",
           "o": [
-            "Energiepolitik fällt vollständig in die alleinige Zuständigkeit der Mitgliedstaaten, ohne jede Unionskompetenz",
-            "Der Energiemix wird ausschließlich durch Beschlüsse der Europäischen Zentralbank festgelegt",
-            "Ja; Art. 194 Abs. 2 AEUV belässt den Energiemix den Mitgliedstaaten",
-            "Nein, die Union entscheidet seit Lissabon abschließend und allein über den Energiemix jedes Mitgliedstaats"
+            "das Europäische Parlament.",
+            "die Kommission im Benehmen mit dem Rat.",
+            "der jeweilige Mitgliedstaat.",
+            "der Rat mit qualifizierter Mehrheit."
           ],
           "a": 2,
-          "e": "Trotz geteilter Unionszuständigkeit für Energiepolitik im Übrigen stellt Art. 194 Abs. 2 AEUV ausdrücklich klar, dass die Wahl des nationalen Energiemixes und die allgemeine Struktur der Energieversorgung in der Entscheidungshoheit der Mitgliedstaaten verbleiben – ein bewusst geschütztes nationales Reservat innerhalb eines ansonsten europäisierten Politikfelds.",
+          "e": "Art. 194 Abs. 2 Unterabsatz 2 AEUV stellt ausdrücklich klar, dass die Maßnahmen der Union nicht das Recht eines Mitgliedstaats berühren, die Bedingungen für die Nutzung seiner Energieressourcen, die Wahl zwischen verschiedenen Energiequellen und die allgemeine Struktur seiner Energieversorgung zu bestimmen. Diese Souveränitätsklausel war die Bedingung dafür, dass die Energiepolitik mit Lissabon überhaupt eine eigene Rechtsgrundlage erhielt; sie erklärt, warum Kernenergieausstieg und Kohleverstromung national unterschiedlich geregelt sind. Weder Kommission noch Rat noch Parlament können den Energiemix vorgeben; die geteilte Zuständigkeit erstreckt sich auf Binnenmarkt, Versorgungssicherheit, Effizienz und Netze.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -8124,27 +8124,27 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Setzt die Aufnahme diplomatischer Beziehungen zwischen zwei Staaten zwingend die Errichtung einer ständigen Mission voraus?",
+          "q": "Diplomatische Beziehungen zwischen zwei Staaten setzen eine ständige Mission",
           "o": [
-            "Ständige Missionen sind völkerrechtlich ausnahmslos verpflichtend, sobald diplomatische Beziehungen aufgenommen wurden",
-            "Ja, ohne ständige Mission bestehen keinerlei diplomatische Beziehungen",
-            "Nein; Beziehungen sind auch ohne ständige Mission möglich",
-            "Eine ständige Mission ist nur für VN-Mitgliedstaaten verzichtbar"
+            "nicht voraus; sie können auch ohne Missionserrichtung bestehen.",
+            "voraus, weil sonst kein Missionschef beglaubigt werden könnte.",
+            "voraus, sobald beide Staaten einander förmlich anerkannt haben.",
+            "voraus, sofern beide Mitglieder der Vereinten Nationen sind."
           ],
-          "a": 2,
-          "e": "Diplomatische Beziehungen und die Errichtung einer ständigen Mission sind rechtlich zu unterscheiden: Staaten können Beziehungen unterhalten, ohne vor Ort eine eigene Mission zu errichten, etwa durch Mehrfachakkreditierung eines in einem Drittstaat residierenden Missionschefs.",
+          "a": 0,
+          "e": "Art. 2 WÜD nennt die Aufnahme diplomatischer Beziehungen und die Errichtung ständiger Missionen als zwei getrennte Vorgänge, die beide des Einvernehmens bedürfen. Staaten mit geringen Mitteln unterhalten deshalb häufig Beziehungen ohne eigene Mission und decken das Land über eine Mehrfachakkreditierung nach Art. 5 WÜD ab. Die gegenseitige Anerkennung ist Voraussetzung der Beziehungen, nicht der Mission. Die Mitgliedschaft in den Vereinten Nationen begründet keinerlei Pflicht zur Missionserrichtung. Ein Missionschef kann gerade auch mit Sitz in einem Drittstaat beglaubigt werden.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Bedeutung hat die Entscheidung eines Ausschusses von drei Richtern (Committee) beim EGMR im Unterschied zu einer regulären Kammer?",
+          "q": "Ein Ausschuss von drei Richtern des EGMR kann",
           "o": [
-            "Ein Dreier-Ausschuss ersetzt die Große Kammer vollständig",
-            "Ein Dreier-Ausschuss entscheidet stets über die schwierigsten Grundsatzfragen des Konventionsrechts",
-            "Diese Verfahrensart wurde nie tatsächlich eingeführt und existiert nur theoretisch",
-            "Er kann unzulässige oder gefestigte Fälle vereinfacht entscheiden"
+            "eine Beschwerde für unzulässig erklären oder gefestigte Fälle entscheiden.",
+            "über die Auslegung eines ergangenen Urteils verbindlich entscheiden.",
+            "über jede bei ihm anhängige Beschwerde abschließend entscheiden.",
+            "eine bei ihm anhängige Beschwerde an die Große Kammer verweisen."
           ],
-          "a": 3,
-          "e": "Der seit dem 14. Zusatzprotokoll eingeführte Dreier-Ausschuss kann offensichtlich unzulässige Beschwerden einstimmig zurückweisen oder Fälle mit bereits gefestigter Rechtsprechungslinie im vereinfachten Verfahren entscheiden – ein Instrument zur Bewältigung der chronischen Verfahrensflut des Gerichtshofs.",
+          "a": 0,
+          "e": "Nach Art. 28 EMRK kann ein Dreierausschuss eine Beschwerde einstimmig für unzulässig erklären oder im Register streichen sowie in der Sache entscheiden, wenn die zugrunde liegende Frage bereits Gegenstand gefestigter Rechtsprechung ist; das Verfahren dient der Bewältigung des Fallaufkommens. Über alle übrigen Beschwerden entscheidet die Kammer mit sieben Richtern. Die Verweisung an die Große Kammer nach Art. 30 EMRK steht der Kammer zu, nicht dem Ausschuss. Über die Auslegung eines Urteils entscheidet nach der Verfahrensordnung der Spruchkörper, der es erlassen hat.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -8244,27 +8244,27 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Konsequenz hat die persona-non-grata-Erklärung für einen bereits amtierenden Missionschef, im Unterschied zum ursprünglichen Agrément?",
+          "q": "Die Zulassung eines Konsularbeamten zur Wahrnehmung seiner Aufgaben erfolgt nach dem WÜK durch",
           "o": [
-            "Der Empfangsstaat kann ihn nicht per Agrémentwiderruf, wohl aber per PNG abberufen lassen",
-            "Ein Agrémentwiderruf führt automatisch zum Abbruch aller diplomatischen Beziehungen",
-            "Ein einmal erteiltes Agrément kann durch den Empfangsstaat später niemals in seiner Wirkung beeinträchtigt werden",
-            "Nur der Entsendestaat, niemals der Empfangsstaat, kann das Verbleiben des Missionschefs beenden"
+            "das Beglaubigungsschreiben des Entsendestaats.",
+            "das Agrément des Empfangsstaats.",
+            "die Notifikation beim Außenministerium.",
+            "das Exequatur des Empfangsstaats."
           ],
-          "a": 0,
-          "e": "Das Agrément betrifft die vorherige Zustimmung zur Entsendung; ist der Missionschef bereits im Amt, erfolgt die faktische Beendigung seines Aufenthalts über das eigenständige Instrument der persona-non-grata-Erklärung, nicht über einen förmlichen „Widerruf\" des ursprünglichen Agréments.",
+          "a": 3,
+          "e": "Art. 12 WÜK macht die Zulassung des Leiters einer konsularischen Vertretung vom Exequatur abhängig, das der Empfangsstaat in beliebiger Form erteilt und ohne Begründung verweigern kann. Das Agrément ist der entsprechende Akt im Diplomatenrecht und betrifft den Missionschef nach Art. 4 WÜD — die Begriffe werden häufig verwechselt. Das Beglaubigungsschreiben ist die Urkunde des Entsendestaats für seinen Missionschef, im Konsularrecht entspricht ihm das Bestallungsschreiben nach Art. 11 WÜK. Die bloße Notifikation genügt für die übrigen Mitglieder der Vertretung, nicht für deren Leiter.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Rolle spielt das Prinzip der loyalen Zusammenarbeit nach Art. 4 Abs. 3 EUV im Verhältnis der Mitgliedstaaten zur Union bei der Umsetzung von Richtlinien?",
+          "q": "Aus dem Grundsatz der loyalen Zusammenarbeit nach Art. 4 Abs. 3 EUV folgt für die Mitgliedstaaten",
           "o": [
-            "Es gilt nur für Verordnungen, nicht für Richtlinien",
-            "Es verpflichtet ausschließlich die Union gegenüber den Mitgliedstaaten, nicht umgekehrt",
-            "Es verpflichtet zu fristgerechter und richtlinienkonformer Umsetzung",
-            "Es begründet keinerlei konkrete Verpflichtung der Mitgliedstaaten"
+            "die Pflicht, Richtlinien fristgerecht und wirksam umzusetzen.",
+            "die Pflicht, Umsetzungsentwürfe vorab vom Gerichtshof prüfen zu lassen.",
+            "das Recht, die Umsetzung bei nationalen Bedenken auszusetzen.",
+            "die Pflicht, jede Richtlinie wörtlich in nationales Recht zu übernehmen."
           ],
-          "a": 2,
-          "e": "Der Grundsatz der loyalen Zusammenarbeit verpflichtet die Mitgliedstaaten zu allen geeigneten Maßnahmen zur Erfüllung unionsrechtlicher Verpflichtungen – bei Richtlinien insbesondere zu fristgerechter, vollständiger und richtlinienkonformer Umsetzung – und zur Unterlassung unionszielgefährdenden Verhaltens.",
+          "a": 0,
+          "e": "Art. 4 Abs. 3 EUV verpflichtet die Mitgliedstaaten, alle geeigneten Maßnahmen zur Erfüllung der Verpflichtungen aus den Verträgen zu ergreifen und alles zu unterlassen, was die Verwirklichung der Unionsziele gefährden könnte; daraus folgen die fristgerechte und wirksame Umsetzung, die richtlinienkonforme Auslegung und das Verbot, während der Umsetzungsfrist das Ziel zu vereiteln. Eine wörtliche Übernahme verlangt Art. 288 AEUV gerade nicht — die Richtlinie ist hinsichtlich des Ziels verbindlich, überlässt aber Form und Mittel. Ein Aussetzungsrecht bei nationalen Bedenken besteht nicht; dafür steht die Nichtigkeitsklage offen. Eine Vorabprüfung nationaler Entwürfe durch den Gerichtshof gibt es nicht.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         }
       ]
@@ -8358,15 +8358,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Ist die Europäische Staatsanwaltschaft (EUStA) für alle Mitgliedstaaten der Europäischen Union zuständig?",
+          "q": "Die Europäische Staatsanwaltschaft beruht auf",
           "o": [
-            "Die EUStA wurde nie tatsächlich operativ",
-            "Sie ist ausschließlich für zivilrechtliche Streitigkeiten zuständig",
-            "Nein; sie beruht auf Verstärkter Zusammenarbeit weniger Mitgliedstaaten",
-            "Ja, für alle siebenundzwanzig Mitgliedstaaten ausnahmslos"
+            "einer Verstärkten Zusammenarbeit eines Teils der Mitgliedstaaten.",
+            "einer Verordnung, die in allen Mitgliedstaaten unmittelbar gilt.",
+            "einem einstimmigen Beschluss sämtlicher Mitgliedstaaten der Union.",
+            "einem Abkommen zwischen der Union und dem Europarat."
           ],
-          "a": 2,
-          "e": "Die seit 2021 operative Europäische Staatsanwaltschaft wurde im Wege der Verstärkten Zusammenarbeit eingerichtet und ist deshalb nur für die daran teilnehmenden Mitgliedstaaten zuständig, während einzelne Staaten außen vor bleiben – ein praktisches Beispiel differenzierter Integration.",
+          "a": 0,
+          "e": "Nachdem im Rat keine Einstimmigkeit zustande kam, wurde die Europäische Staatsanwaltschaft 2017 im Wege der Verstärkten Zusammenarbeit nach Art. 86 AEUV errichtet; ihr gehören derzeit 24 Mitgliedstaaten an, während unter anderem Ungarn, Polen, Irland und Dänemark fernbleiben. Sie verfolgt Straftaten zulasten der finanziellen Interessen der Union und nahm 2021 die Arbeit auf. Ein einstimmiger Beschluss aller Mitgliedstaaten kam gerade nicht zustande — das war der Anlass für die Verstärkte Zusammenarbeit. Der Europarat ist eine andere Organisation und nicht beteiligt. Die Verordnung gilt nur in den teilnehmenden Staaten.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -8418,15 +8418,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Genießen Familienangehörige eines Diplomaten, die im Empfangsstaat einer eigenen gewerblichen oder beruflichen Erwerbstätigkeit nachgehen, hinsichtlich dieser Tätigkeit denselben Immunitätsschutz wie der Diplomat selbst?",
+          "q": "Die Immunität des Diplomaten von der Zivilgerichtsbarkeit gilt nach Art. 31 WÜD nicht bei",
           "o": [
-            "Familienangehörige dürfen nach dem WÜD niemals einer eigenen Erwerbstätigkeit im Empfangsstaat nachgehen",
-            "Nein; für eine eigene Erwerbstätigkeit entfällt der Immunitätsschutz insoweit",
-            "Ja, uneingeschränkt und ohne jede Ausnahme für jede Tätigkeit",
-            "Der Immunitätsschutz für Familienangehörige ist stets weitergehender als der des Diplomaten selbst"
+            "Verkehrsunfällen, die er im Empfangsstaat schuldhaft verursacht hat.",
+            "Forderungen des Empfangsstaats auf rückständige indirekte Steuern.",
+            "einer freiberuflichen oder gewerblichen Tätigkeit außerhalb des Dienstes.",
+            "Streitigkeiten aus dem Mietvertrag über seine Dienstwohnung."
           ],
-          "a": 1,
-          "e": "Nimmt ein Familienangehöriger eine eigene gewerbliche oder berufliche Tätigkeit im Empfangsstaat auf, entfällt insoweit regelmäßig der abgeleitete Immunitätsschutz für diese Tätigkeit – ein praktisch bedeutsamer Punkt angesichts wachsender eigener Erwerbstätigkeit von Diplomatenfamilien.",
+          "a": 2,
+          "e": "Art. 31 Abs. 1 WÜD nennt drei Ausnahmen von der Immunität in Zivil- und Verwaltungssachen: dingliche Klagen über privates unbewegliches Vermögen, erbrechtliche Verfahren, in denen der Diplomat als Privatperson beteiligt ist, und Klagen aus einer beruflichen oder gewerblichen Tätigkeit außerhalb seiner amtlichen Aufgaben. Verkehrsunfälle sind gerade nicht ausgenommen — deshalb besteht in der Praxis eine Pflichtversicherung, und der Entsendestaat verzichtet häufig auf die Immunität. Die Dienstwohnung fällt unter Art. 30 WÜD und dient amtlichen Zwecken; die Ausnahme greift nur bei privatem Grundeigentum. Indirekte Steuern schuldet der Diplomat zwar, doch bleibt die Vollstreckung durch die Immunität gesperrt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -8562,15 +8562,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Welche Bedeutung hat das Recht auf Achtung des Familienlebens nach Art. 8 EMRK für die aufenthaltsrechtliche Behandlung eng verbundener Familienangehöriger?",
+          "q": "Bei aufenthaltsbeendenden Maßnahmen gegenüber Familienangehörigen verlangt Art. 8 EMRK",
           "o": [
-            "Die Vorschrift gilt ausschließlich für verheiratete Ehepaare, niemals für andere familiäre Bindungen",
-            "Art. 8 EMRK ist auf aufenthaltsrechtliche Fragen überhaupt nicht anwendbar",
-            "Art. 8 EMRK begründet ein absolutes, uneingeschränktes Aufenthaltsrecht für jeden Familienangehörigen ohne jede Abwägung",
-            "Erforderlich ist eine Verhältnismäßigkeitsabwägung im Einzelfall"
+            "die Zustimmung des Herkunftsstaats zur Rückkehr der ganzen Familie.",
+            "den Nachweis einer rechtlich anerkannten Ehe zwischen den Betroffenen.",
+            "eine Abwägung zwischen öffentlichem Interesse und familiären Bindungen.",
+            "ein ausnahmsloses Verbot der Trennung von Eltern und Kindern."
           ],
-          "a": 3,
-          "e": "Bei aufenthaltsbeendenden Maßnahmen gegenüber Personen mit gewachsenen familiären Bindungen im Aufnahmestaat verlangt der EGMR regelmäßig eine sorgfältige Verhältnismäßigkeitsabwägung zwischen staatlichem Interesse an der Aufenthaltsbeendigung und dem durch Art. 8 EMRK geschützten Recht auf Achtung des Familienlebens.",
+          "a": 2,
+          "e": "Art. 8 EMRK schützt das Familienleben, gewährt aber kein Recht auf Aufenthalt in einem bestimmten Staat; der Gerichtshof verlangt eine Abwägung, in die Dauer des Aufenthalts, Intensität der Bindungen, Schwere einer etwaigen Straftat und Zumutbarkeit einer Fortführung des Familienlebens im Ausland eingehen — die Kriterien der Urteile Boultif und Üner. Auf eine förmliche Ehe kommt es nicht an: Geschützt ist die tatsächlich gelebte Beziehung, auch die nichteheliche. Eine Zustimmung des Herkunftsstaats ist kein Kriterium. Ein absolutes Trennungsverbot besteht nicht — auch das Kindeswohl geht in die Abwägung ein, ohne sie zu ersetzen.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         }
       ]
@@ -8922,15 +8922,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was regelte der 2015 verabschiedete Addis-Abeba-Aktionsplan im Kontext der VN-Entwicklungsagenda?",
+          "q": "Die Addis-Abeba-Aktionsagenda von 2015 regelt",
           "o": [
-            "Er regelte ausschließlich Fragen der weltweiten Abrüstung",
-            "Er gründete die Vereinten Nationen vollständig neu",
-            "Er betraf ausschließlich die Finanzierung militärischer Friedensmissionen",
-            "Einen globalen Rahmen zur Finanzierung nachhaltiger Entwicklung"
+            "die Finanzierung der Agenda 2030 für nachhaltige Entwicklung.",
+            "den Schutz der biologischen Vielfalt und der Meeresökosysteme.",
+            "die Minderung von Treibhausgasemissionen bis zum Jahr 2030.",
+            "die Ziele für nachhaltige Entwicklung und ihre Indikatoren."
           ],
-          "a": 3,
-          "e": "Der Addis-Abeba-Aktionsplan formulierte 2015 einen globalen Rahmen zur Finanzierung nachhaltiger Entwicklung – von öffentlicher Entwicklungshilfe über private Investitionen bis zu inländischer Ressourcenmobilisierung – als wichtige finanzielle Flankierung der im selben Jahr verabschiedeten Agenda 2030.",
+          "a": 0,
+          "e": "Die dritte Konferenz über Entwicklungsfinanzierung verabschiedete im Juli 2015 in Addis Abeba einen Rahmen für die Mittel zur Umsetzung der wenige Wochen später beschlossenen Agenda 2030: heimische Ressourcenmobilisierung, private Investitionen, öffentliche Entwicklungszusammenarbeit, Handel, Verschuldung und Technologietransfer. Die Ziele selbst samt Indikatoren stehen in der Agenda 2030. Die Emissionsminderung regelt das Übereinkommen von Paris aus demselben Jahr. Die biologische Vielfalt ist Gegenstand des Übereinkommens von Rio und seiner Folgeabkommen.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -8946,27 +8946,27 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Wie veränderte sich das Mandat der EU-Grenzschutzagentur Frontex im Jahr 2019?",
+          "q": "Mit der Verordnung von 2019 erhielt Frontex",
           "o": [
-            "Frontex wurde 2019 vollständig aufgelöst",
-            "Das Mandat wurde 2019 auf reine Beratungstätigkeit ohne jede operative Komponente reduziert",
-            "Frontex wurde 2019 vollständig den nationalen Behörden der Mitgliedstaaten unterstellt",
-            "Frontex erhielt eine eigene ständige Reserve mit eigenem Personal"
+            "die Zuständigkeit für die Prüfung von Asylanträgen an der Außengrenze.",
+            "das Recht, ohne Zustimmung eines Mitgliedstaats an dessen Grenze tätig zu werden.",
+            "eine ständige Reserve aus eigenem und abgeordnetem Personal.",
+            "die Befugnis, Visa für den Schengen-Raum selbst zu erteilen."
           ],
-          "a": 3,
-          "e": "Die 2019 beschlossene Reform stärkte das Mandat von Frontex erheblich, unter anderem durch den schrittweisen Aufbau einer eigenen ständigen Reserve mit eigenem Personal – ein bedeutsamer Schritt hin zu einer stärker europäisierten Grenzschutzarchitektur.",
+          "a": 2,
+          "e": "Die Verordnung 2019/1896 baute Frontex zur Europäischen Agentur für die Grenz- und Küstenwache aus und schuf erstmals eine ständige Reserve, die aus eigenem Statutspersonal sowie langfristig und kurzfristig abgeordneten nationalen Kräften besteht und auf 10.000 Einsatzkräfte anwachsen soll. Der Einsatz setzt weiterhin das Einvernehmen des betroffenen Mitgliedstaats voraus; die Verantwortung für die Grenzkontrolle bleibt national. Asylanträge prüfen die nationalen Behörden, unterstützt von der Asylagentur der Union. Visa erteilen die Konsulate der Mitgliedstaaten.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Sind alle Schengen-Staaten zugleich Mitgliedstaaten der Europäischen Union?",
+          "q": "Dem Schengen-Raum gehören außer Mitgliedstaaten der Union auch an:",
           "o": [
-            "Nein; Norwegen, Island, die Schweiz und Liechtenstein sind assoziiert",
-            "Ja, ausnahmslos jeder Schengen-Staat ist auch EU-Mitgliedstaat",
-            "Nur Staaten mit gemeinsamer Grenze zu Deutschland können dem Schengen-Raum beitreten",
-            "Der Schengen-Raum existiert nur auf dem Papier, praktisch nimmt kein Staat teil"
+            "die Türkei, Serbien und Nordmazedonien.",
+            "das Vereinigte Königreich, Irland und Norwegen.",
+            "Norwegen, Island, die Schweiz und Liechtenstein.",
+            "Andorra, Monaco und San Marino."
           ],
-          "a": 0,
-          "e": "Norwegen, Island, die Schweiz und Liechtenstein nehmen als assoziierte Staaten am Schengen-Raum teil, ohne EU-Mitgliedstaaten zu sein – ein praktisches Beispiel dafür, dass Schengen-Zugehörigkeit und EU-Mitgliedschaft rechtlich zu unterscheidende Kategorien sind.",
+          "a": 2,
+          "e": "Vier Nichtmitgliedstaaten sind über Assoziierungsübereinkommen vollständig in den Schengen-Raum eingebunden: Norwegen und Island seit 2001, die Schweiz seit 2008 und Liechtenstein seit 2011. Umgekehrt gehören nicht alle Unionsmitglieder dazu — Irland nimmt nur an der polizeilichen Zusammenarbeit teil. Das Vereinigte Königreich war nie Schengen-Mitglied und ist seit dem Austritt auch nicht mehr Unionsmitglied. Die Türkei, Serbien und Nordmazedonien sind weder Mitglied noch assoziiert. Andorra, Monaco und San Marino haben offene Grenzen zu ihren Nachbarn, sind aber förmlich nicht Teil des Schengen-Raums.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -9030,15 +9030,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Findet die EMRK grundsätzlich auch während bewaffneter Konflikte Anwendung, parallel zum humanitären Völkerrecht?",
+          "q": "Im bewaffneten Konflikt gilt die EMRK nach der Rechtsprechung des EGMR",
           "o": [
-            "Grundsätzlich ja; der EGMR konkretisierte dies in Hassan (2014)",
-            "Die EMRK gilt in bewaffneten Konflikten nur für die Streitkräfte des jeweiligen Vertragsstaats, niemals für Zivilpersonen",
-            "Diese Frage wurde vom EGMR bislang nie behandelt",
-            "Nein, die EMRK ist während bewaffneter Konflikte automatisch und vollständig suspendiert"
+            "fort, sobald der betroffene Staat eine Notstandsderogation erklärt hat.",
+            "nicht, weil das humanitäre Völkerrecht sie als spezielleres Recht verdrängt.",
+            "fort, wobei ihre Garantien im Licht des humanitären Völkerrechts auszulegen sind.",
+            "fort im internationalen, nicht aber im nichtinternationalen Konflikt."
           ],
-          "a": 0,
-          "e": "Der EGMR hat im Fall Hassan gegen das Vereinigte Königreich das komplexe Verhältnis von EMRK und humanitärem Völkerrecht während bewaffneter Konflikte konkretisiert, ohne die grundsätzliche EMRK-Anwendbarkeit während Konfliktsituationen generell auszuschließen – ein Feld anhaltender rechtlicher Auseinandersetzung.",
+          "a": 2,
+          "e": "Im Urteil Hassan von 2014 entschied die Große Kammer, dass die Konvention auch im bewaffneten Konflikt fortgilt, ihre Garantien aber im Einklang mit dem humanitären Völkerrecht auszulegen sind; die Haftgründe des Art. 5 EMRK wurden deshalb um die Kriegsgefangenschaft nach den Genfer Abkommen erweitert. Eine vollständige Verdrängung findet gerade nicht statt — beide Rechtsordnungen gelten nebeneinander, wie auch der Internationale Gerichtshof im Mauergutachten festhielt. Auf eine Derogation kommt es nicht an; Hassan erging, obwohl das Vereinigte Königreich keine erklärt hatte. Eine Beschränkung auf internationale Konflikte kennt die Rechtsprechung nicht.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -9288,15 +9288,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat die Unterscheidung zwischen diplomatischem Rang und diplomatischem Titel, etwa bei einem „Botschafter für besondere Aufgaben\"?",
+          "q": "Der Titel eines Botschafters für besondere Aufgaben bezeichnet",
           "o": [
-            "Beide Begriffe sind stets identisch und bezeichnen zwingend die Leitung einer ständigen diplomatischen Mission",
-            "Diese Unterscheidung existiert in der diplomatischen Praxis überhaupt nicht",
-            "Der Titel kann auch ohne Missionsleitung verliehen werden und bezeichnet dann einen Rang",
-            "Der Titel „Botschafter\" darf ausschließlich an Personen vergeben werden, die tatsächlich eine ständige Mission leiten"
+            "den Leiter einer Vertretung bei einer internationalen Organisation.",
+            "einen Amtsträger mit Botschafterrang ohne Leitung einer Mission.",
+            "den ranghöchsten Missionschef am jeweiligen Dienstort.",
+            "den Vertreter eines Missionschefs während dessen Abwesenheit."
           ],
-          "a": 2,
-          "e": "In der diplomatischen Praxis wird der Titel „Botschafter\" auch an Persönlichkeiten verliehen, die eine besondere, oft thematisch begrenzte Aufgabe wahrnehmen – etwa als Sonderbeauftragte –, ohne eine ständige Mission zu leiten; der Titel bezeichnet in solchen Fällen vorrangig einen protokollarischen Rang.",
+          "a": 1,
+          "e": "Im deutschen Auswärtigen Dienst wird der Botschaftertitel auch an Amtsträger verliehen, die keine Auslandsvertretung leiten, etwa Sonderbeauftragte für eine Region oder ein Verhandlungsthema; der Titel bezeichnet dann den Rang, nicht die Funktion. Der ranghöchste Missionschef am Dienstort ist der Doyen, dessen Stellung sich nach Art. 16 WÜD nach dem Zeitpunkt des Amtsantritts richtet. Der Vertreter eines abwesenden Missionschefs ist der Geschäftsträger ad interim nach Art. 19 WÜD. Der Leiter einer Vertretung bei einer internationalen Organisation ist Ständiger Vertreter.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -9336,15 +9336,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Wie verhält sich das Recht auf konsularischen Zugang zu inhaftierten eigenen Staatsangehörigen nach Art. 36 WÜK zur allgemeinen Pflicht des Empfangsstaats zur Unterrichtung?",
+          "q": "Wird ein Ausländer festgenommen, so verlangt Art. 36 WÜK vom Empfangsstaat,",
           "o": [
-            "Eine solche Unterrichtungspflicht besteht nach dem WÜK überhaupt nicht",
-            "Nur bei Todesstrafen, niemals bei anderen Straftaten, besteht diese Unterrichtungspflicht",
-            "Er muss den Festgenommenen über sein Recht unterrichten und das Konsulat informieren",
-            "Die Unterrichtungspflicht gilt nur gegenüber ständigen Sicherheitsratsmitgliedern"
+            "ihm einen Konsularbeamten als Verteidiger beizuordnen.",
+            "ihn über sein Recht auf konsularische Unterrichtung zu belehren.",
+            "die Festnahme dem Entsendestaat auf diplomatischem Weg anzuzeigen.",
+            "das Konsulat auch ohne oder gegen seinen Willen zu benachrichtigen."
           ],
-          "a": 2,
-          "e": "Art. 36 WÜK verpflichtet den Empfangsstaat, festgenommene ausländische Staatsangehörige unverzüglich über ihr Recht auf konsularische Benachrichtigung zu unterrichten und, auf deren Verlangen, die zuständige Vertretung zu informieren – eine Pflicht, deren Verletzung Gegenstand bekannter internationaler Streitfälle wie LaGrand und Avena war.",
+          "a": 1,
+          "e": "Art. 36 Abs. 1 Buchstabe b WÜK verlangt eine unverzügliche Belehrung des Festgenommenen über seine Rechte; die Benachrichtigung des Konsulats erfolgt nur auf sein Verlangen. Genau diese Belehrungspflicht verletzten die Vereinigten Staaten in den Fällen LaGrand und Avena, was der Internationale Gerichtshof 2001 und 2004 feststellte. Eine Benachrichtigung gegen den Willen des Betroffenen ist deshalb unzulässig — die Vorschrift schützt auch dessen Entscheidung. Ein Konsularbeamter darf nach Buchstabe c Besuche machen und Rechtsbeistand vermitteln, aber nicht selbst als Verteidiger auftreten. Der diplomatische Weg ist nicht vorgeschrieben; die Unterrichtung geht an die konsularische Vertretung.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -9534,27 +9534,27 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz der Komplementarität zwischen regionalen Organisationen wie der Afrikanischen Union und den Vereinten Nationen bei der Friedenssicherung?",
+          "q": "Das Verhältnis regionaler Organisationen zu den Vereinten Nationen bei der Friedenssicherung ist geprägt von",
           "o": [
-            "Regionale Organisationen ergänzen die VN, etwa durch Frühwarnung und Vermittlung",
-            "Regionale Organisationen ersetzen die Vereinten Nationen bei der Friedenssicherung vollständig",
-            "Nur die Europäische Union darf als regionale Organisation überhaupt an Friedenssicherung mitwirken",
-            "Regionale Organisationen dürfen sich mit Fragen des Friedens und der Sicherheit überhaupt nicht befassen"
+            "ergänzender Zusammenarbeit unter dem Vorrang des Sicherheitsrats.",
+            "einer Weisungsbefugnis der regionalen Organisation gegenüber den VN.",
+            "einem Vorrang der regionalen Organisation im eigenen Gebiet.",
+            "einer strikten Trennung der jeweiligen Zuständigkeitsbereiche."
           ],
           "a": 0,
-          "e": "Regionale Organisationen wie die Afrikanische Union ergänzen das VN-System bei der Friedenssicherung durch Frühwarnung, Vermittlung und eigene Missionen, müssen aber für Zwangsmaßnahmen die Vorgaben des Kapitels VIII der VN-Charta beachten, insbesondere die grundsätzliche Ermächtigungspflicht durch den Sicherheitsrat.",
+          "e": "Kapitel VIII der VN-Charta ermutigt zur regionalen Streitbeilegung, hält aber am Vorrang des Sicherheitsrats fest: Regionale Einrichtungen sollen Streitigkeiten zunächst selbst beilegen, Zwangsmaßnahmen bedürfen jedoch seiner Ermächtigung. Die Afrikanische Union stellt in der Praxis Frühwarnung, Vermittlung und Truppen; die Vereinten Nationen tragen Mandat und häufig die Finanzierung. Ein Vorrang der Regionalorganisation im eigenen Gebiet besteht deshalb nicht. Eine strikte Trennung widerspräche der ausdrücklich gewollten Zusammenarbeit. Eine Weisungsbefugnis gegenüber den Vereinten Nationen kennt die Charta nicht.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Was ist das Investitionsgerichtssystem (Investment Court System, ICS), wie es in neueren EU-Handelsabkommen wie CETA vorgesehen ist?",
+          "q": "Das Investitionsgerichtssystem neuerer EU-Handelsabkommen sieht vor:",
           "o": [
-            "Es ist identisch mit dem klassischen privaten Investor-Staat-Schiedsverfahren (ISDS) ohne jede strukturelle Änderung",
-            "Das ICS wurde nie tatsächlich in einem EU-Handelsabkommen umgesetzt",
-            "Ein ständiges Gericht mit Berufungsinstanz statt Ad-hoc-Schiedsgerichten",
-            "Es betrifft ausschließlich Streitigkeiten zwischen Mitgliedstaaten der Union untereinander"
+            "die Zuständigkeit des Gerichtshofs der Union für Klagen von Investoren.",
+            "ein Schiedsgericht mit von den Parteien für den Einzelfall benannten Richtern.",
+            "die ausschließliche Zuständigkeit der Gerichte des Gastlandes.",
+            "ein ständiges Gericht mit fest bestellten Richtern und einer Berufungsinstanz."
           ],
-          "a": 2,
-          "e": "Das Investitionsgerichtssystem reagiert auf Kritik am klassischen privaten ISDS-Modell und sieht stattdessen ein ständiges, aus vorab benannten und öffentlich besetzten Richtern gebildetes Gericht mit eigener Berufungsinstanz vor – ein von der EU vorangetriebenes Reformmodell für Investitionsstreitigkeiten.",
+          "a": 3,
+          "e": "Als Reaktion auf die Kritik an der klassischen Investor-Staat-Schiedsgerichtsbarkeit sieht das Abkommen mit Kanada ein Gericht mit fest ernannten, unabhängigen Mitgliedern und eine Berufungsinstanz vor; der Gerichtshof erklärte es im Gutachten 1/17 von 2019 für unionsrechtskonform. Gerade das für den Einzelfall gebildete Schiedsgericht mit parteibenannten Schiedsrichtern ist das abgelöste Modell. Eine ausschließliche Zuständigkeit der Gerichte des Gastlandes wäre die Rückkehr zur Lage vor dem Investitionsschutz. Der Gerichtshof selbst entscheidet nicht über Investorenklagen; seine Zuständigkeit hätte die Autonomie des Unionsrechts gerade nicht gewahrt.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -9630,15 +9630,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Bedeutung hat das Konzept der „funktionalen Notwendigkeit\" für die Rechtfertigung diplomatischer Vorrechte, wie es in der Präambel des WÜD zum Ausdruck kommt?",
+          "q": "Nach der Präambel des WÜD dienen diplomatische Vorrechte dazu,",
           "o": [
-            "Vorrechte werden nach diesem Konzept ausschließlich aus historischer Tradition gewährt, ohne inhaltliche Rechtfertigung",
-            "Das Konzept wurde 1961 zugunsten eines rein persönlichen Privilegienansatzes vollständig aufgegeben",
-            "Die Vorrechte sichern die Aufgabenwahrnehmung, sie begünstigen nicht Personen",
-            "Funktionale Notwendigkeit bedeutet, dass jeder Staat individuell über den Umfang der Vorrechte frei entscheiden kann, unabhängig vom WÜD-Text"
+            "die Gleichbehandlung aller Entsendestaaten sicherzustellen.",
+            "die wirksame Wahrnehmung der Aufgaben der Mission zu sichern.",
+            "die Souveränität des Entsendestaats auf fremdem Gebiet auszuüben.",
+            "den persönlichen Rang der Missionsangehörigen hervorzuheben."
           ],
-          "a": 2,
-          "e": "Die funktionale Rechtfertigung diplomatischer Vorrechte – anders als ein historisch begründeter persönlicher Privilegienansatz – stellt auf die wirksame Aufgabenwahrnehmung der Mission als Ganzes ab, wie es die WÜD-Präambel ausdrücklich klarstellt: Vorrechte dienen nicht der Bevorzugung Einzelner.",
+          "a": 1,
+          "e": "Die Präambel des WÜD hält ausdrücklich fest, dass Vorrechte und Immunitäten nicht dem Zweck dienen, Einzelne zu bevorzugen, sondern die wirksame Wahrnehmung der Aufgaben diplomatischer Missionen zu gewährleisten — die Lehre von der funktionalen Notwendigkeit. Sie hat die älteren Begründungen abgelöst: die Repräsentationstheorie, die auf die Würde des Entsendestaats abstellte, und die Exterritorialitätstheorie, wonach die Mission fremdes Staatsgebiet sei. Der persönliche Rang wird von der Rangordnung des Art. 14 WÜD erfasst, nicht von den Vorrechten. Die Gleichbehandlung folgt aus dem Grundsatz der souveränen Gleichheit, nicht aus dem Zweck der Vorrechte.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -9888,15 +9888,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Haben alle Vertragsstaaten der EMRK, einschließlich Deutschland, das Zwölfte Zusatzprotokoll mit seinem eigenständigen, allgemeinen Diskriminierungsverbot ratifiziert?",
+          "q": "Das Zwölfte Zusatzprotokoll zur EMRK mit dem allgemeinen Diskriminierungsverbot",
           "o": [
-            "Nur Deutschland hat unter allen Vertragsstaaten dieses Protokoll ratifiziert",
-            "Ja, ausnahmslos alle Vertragsstaaten haben dieses Protokoll ratifiziert",
-            "Das Zwölfte Zusatzprotokoll wurde nie tatsächlich zur Unterzeichnung aufgelegt",
-            "Nein; es ist nicht von allen Staaten ratifiziert, auch nicht von Deutschland"
+            "gilt nur für Staaten, die zugleich der Europäischen Union angehören.",
+            "ist für sämtliche Vertragsstaaten der Konvention verbindlich.",
+            "wurde vom Ministerkomitee bislang nicht zur Zeichnung aufgelegt.",
+            "ist von einem Teil der Vertragsstaaten ratifiziert, von Deutschland nicht."
           ],
           "a": 3,
-          "e": "Das Zwölfte Zusatzprotokoll mit seinem eigenständigen, allgemeinen Diskriminierungsverbot wurde bislang nicht von allen EMRK-Vertragsstaaten ratifiziert – Deutschland gehört zu den Staaten, die es bislang nicht ratifiziert haben, sodass insoweit weiterhin nur das akzessorische Diskriminierungsverbot des Art. 14 EMRK für Deutschland gilt.",
+          "e": "Das Zwölfte Zusatzprotokoll von 2000 erweitert das Diskriminierungsverbot des Art. 14 EMRK, das nur akzessorisch zu anderen Konventionsrechten gilt, zu einem eigenständigen Verbot für jedes gesetzlich niedergelegte Recht. Es trat 2005 in Kraft, ist aber nur von einer Minderheit der Vertragsstaaten ratifiziert; Deutschland hat es 2000 gezeichnet und bis heute nicht ratifiziert, weil die Reichweite des Verbots im Privatrechtsverkehr umstritten blieb. Eine Bindung aller Vertragsstaaten besteht deshalb nicht — Zusatzprotokolle gelten nur für ihre Ratifikanten. Zur Zeichnung aufgelegt ist es seit 2000. Ein Bezug zur Unionsmitgliedschaft besteht nicht.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -9912,15 +9912,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass ein Küstenstaat seine Anschlusszone nicht über eine bestimmte Höchstausdehnung hinaus ausdehnen darf?",
+          "q": "Wie weit darf sich die Anschlusszone nach Art. 33 SRÜ höchstens von der Basislinie erstrecken?",
           "o": [
-            "Die Anschlusszone kennt keinerlei Höchstausdehnung und kann beliebig weit ausgedehnt werden",
-            "Die Anschlusszone darf sich beliebig weit in die Hohe See hinein erstrecken, ohne jede Begrenzung",
-            "Die Höchstausdehnung der Anschlusszone richtet sich ausschließlich nach der Größe des jeweiligen Küstenstaats",
-            "Die Anschlusszone darf sich nach Art. 33 SRÜ nicht über 24 Seemeilen von der Basislinie hinaus erstrecken"
+            "12 Seemeilen",
+            "350 Seemeilen",
+            "200 Seemeilen",
+            "24 Seemeilen"
           ],
           "a": 3,
-          "e": "Art. 33 SRÜ begrenzt die Anschlusszone auf höchstens 24 Seemeilen von der Basislinie – in ihr kann der Küstenstaat bestimmte Kontroll- und Ahndungsbefugnisse zu Zoll-, Steuer-, Einwanderungs- und Gesundheitsfragen ausüben, die über die bloßen Regelungsbefugnisse im Küstenmeer hinausgehen.",
+          "e": "Art. 33 Abs. 2 SRÜ begrenzt die Anschlusszone auf 24 Seemeilen von der Basislinie; da das Küstenmeer bis zu 12 Seemeilen reicht, bleiben höchstens weitere 12 Seemeilen. In dieser Zone darf der Küstenstaat die zur Verhinderung und Ahndung von Verstößen gegen Zoll-, Steuer-, Einreise- und Gesundheitsvorschriften erforderliche Kontrolle ausüben — souveräne Rechte über Ressourcen erhält er dort nicht. 12 Seemeilen ist die Höchstbreite des Küstenmeers nach Art. 3. 200 Seemeilen begrenzen die Wirtschaftszone nach Art. 57. 350 Seemeilen sind die äußerste Grenze des erweiterten Festlandsockels nach Art. 76.",
           "cat": "Seerecht"
         },
         {
@@ -9960,15 +9960,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz der „Schutzverantwortung\" (R2P) für das Verhältnis zwischen staatlicher Souveränität und internationaler Gemeinschaft?",
+          "q": "Die Schutzverantwortung von 2005 begreift staatliche Souveränität als",
           "o": [
-            "R2P hebt die staatliche Souveränität vollständig auf und ersetzt sie durch ein automatisches Interventionsrecht jedes Staates",
-            "Das Konzept wurde nie von der VN-Generalversammlung gebilligt",
-            "R2P betrifft ausschließlich wirtschaftliche, niemals menschenrechtliche Fragen",
-            "Souveränität als Verantwortung; subsidiär ist die Staatengemeinschaft gefordert"
+            "Recht auf Nichteinmischung in innere Angelegenheiten.",
+            "unbeschränkte Handlungsfreiheit im eigenen Hoheitsgebiet.",
+            "Verantwortung des Staates, seine Bevölkerung zu schützen.",
+            "Anspruch auf Beistand der Staatengemeinschaft im Krisenfall."
           ],
-          "a": 3,
-          "e": "R2P begreift staatliche Souveränität als mit einer Schutzverantwortung für die eigene Bevölkerung verbunden; versagt ein Staat offenkundig bei deren Wahrnehmung, tritt subsidiär eine Verantwortung der internationalen Gemeinschaft hinzu – Zwangsmaßnahmen bleiben dabei grundsätzlich an eine Sicherheitsratsermächtigung gebunden, wie 2005 von der Generalversammlung politisch gebilligt.",
+          "a": 2,
+          "e": "Das Abschlussdokument des Weltgipfels von 2005 formulierte die Schutzverantwortung in drei Säulen: Jeder Staat trägt die primäre Verantwortung, seine Bevölkerung vor Völkermord, Kriegsverbrechen, ethnischer Säuberung und Verbrechen gegen die Menschlichkeit zu schützen; die Staatengemeinschaft unterstützt ihn dabei; und sie handelt subsidiär über den Sicherheitsrat, wenn er offensichtlich versagt. Souveränität wird damit als Pflicht gedeutet, nicht als Freibrief — die Vorstellung unbeschränkter Handlungsfreiheit beschreibt genau das überwundene Verständnis. Das Nichteinmischungsgebot bleibt bestehen, wird aber von der Schutzverantwortung überlagert. Ein Anspruch auf Beistand folgt daraus nicht.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -10080,15 +10080,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass Beschlüsse der VN-Generalversammlung zu inhaltlichen (nicht bloß verfahrensmäßigen) Fragen grundsätzlich empfehlenden, nicht bindenden Charakter haben?",
+          "q": "Beschlüsse der Generalversammlung zu Sachfragen sind",
           "o": [
-            "Nur Beschlüsse, die einstimmig gefasst wurden, entfalten überhaupt irgendeine Wirkung",
-            "Generalversammlungsbeschlüsse sind ausschließlich für den Sicherheitsrat bindend, nicht für die übrigen Mitgliedstaaten",
-            "Rechtlich unverbindliche Empfehlungen mit politischem Gewicht",
-            "Alle Beschlüsse der Generalversammlung sind ausnahmslos unmittelbar rechtsverbindlich für alle Mitgliedstaaten"
+            "verbindlich, sobald der Sicherheitsrat sie bestätigt hat.",
+            "für sämtliche Mitgliedstaaten rechtlich verbindlich.",
+            "rechtlich unverbindliche Empfehlungen mit politischem Gewicht.",
+            "verbindlich, wenn sie mit Zweidrittelmehrheit gefasst werden."
           ],
           "a": 2,
-          "e": "Generalversammlungsbeschlüsse zu inhaltlichen Fragen sind grundsätzlich unverbindliche Empfehlungen – mit Ausnahme bestimmter interner Organisationsfragen –, können aber erhebliche politische Bedeutung entfalten und, bei entsprechender Staatenpraxis und Rechtsüberzeugung, als Beleg für sich entwickelndes Völkergewohnheitsrecht dienen.",
+          "e": "Art. 10 bis 14 VN-Charta geben der Generalversammlung ein Erörterungs- und Empfehlungsrecht; ihre Beschlüsse zu Sachfragen binden die Mitgliedstaaten nicht. Rechtsverbindlich sind allein Beschlüsse zur inneren Organisation, insbesondere über den Haushalt nach Art. 17 und über Aufnahme und Wahlen. Dennoch entfalten die Resolutionen erhebliche Wirkung: Sie können Völkergewohnheitsrecht bezeugen oder dessen Entstehung anstoßen, wie die Allgemeine Erklärung der Menschenrechte oder die Friendly-Relations-Deklaration. Eine Bestätigung durch den Sicherheitsrat ist als Mechanismus nicht vorgesehen. Die Zweidrittelmehrheit betrifft nach Art. 18 wichtige Fragen, ändert aber nichts an der Rechtsnatur.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -10146,15 +10146,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass VN-Friedensmissionen grundsätzlich der Zustimmung des betroffenen Gaststaats bedürfen (consent-based peacekeeping)?",
+          "q": "Klassische VN-Friedensmissionen beruhen auf den Grundsätzen",
           "o": [
-            "Klassisches Peacekeeping setzt die Zustimmung des Gaststaats voraus",
-            "Nur ständige Sicherheitsratsmitglieder müssen einer Friedensmission zustimmen, der Gaststaat selbst nicht",
-            "Die Zustimmung des Gaststaats ist für Peacekeeping-Missionen rechtlich vollständig bedeutungslos",
-            "VN-Friedensmissionen werden stets ohne jede Zustimmung des betroffenen Staates zwangsweise entsandt"
+            "vorherige Zustimmung der Parlamente aller truppenstellenden Staaten.",
+            "Mandat nach Kapitel VII, Robustheit und Durchsetzungsauftrag.",
+            "Beteiligung mindestens eines ständigen Sicherheitsratsmitglieds.",
+            "Zustimmung des Gaststaats, Unparteilichkeit und Gewaltverzicht."
           ],
-          "a": 0,
-          "e": "Klassisches Peacekeeping beruht traditionell auf dem Zustimmungsgrundsatz, Unparteilichkeit und minimaler Gewaltanwendung nur zur Selbstverteidigung – im Unterschied zu robusteren Mandaten oder Zwangsmaßnahmen nach Kapitel VII, die grundsätzlich ohne Zustimmung des betroffenen Staates auskommen können.",
+          "a": 3,
+          "e": "Die drei tragenden Grundsätze gehen auf Dag Hammarskjöld zurück: Zustimmung der Konfliktparteien, Unparteilichkeit und Gewaltanwendung nur zur Selbstverteidigung. Neuere robuste Mandate nach Kapitel VII, etwa in der Demokratischen Republik Kongo oder in Mali, weichen davon ab und erlauben Gewalt auch zum Schutz der Zivilbevölkerung — sie sind aber gerade nicht das klassische Modell. Eine Beteiligung ständiger Ratsmitglieder wurde in der Frühzeit sogar bewusst vermieden, um die Unparteilichkeit zu wahren. Die parlamentarische Zustimmung richtet sich nach dem Verfassungsrecht des jeweiligen Truppenstellers, etwa dem deutschen Parlamentsvorbehalt, und ist keine Voraussetzung der Mission.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
@@ -10290,15 +10290,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass der Festlandsockel eines Küstenstaats kraft Natur der Sache besteht, ohne dass es einer förmlichen Proklamation bedarf?",
+          "q": "Die Rechte des Küstenstaats am Festlandsockel bestehen",
           "o": [
-            "Der Festlandsockel existiert nur, wenn er von der Meeresbodenbehörde ausdrücklich anerkannt wurde",
-            "Die Rechte bestehen ipso facto und ab initio; anders als bei der AWZ bedarf es keiner Proklamation",
-            "Der Festlandsockel entsteht ausschließlich durch eine förmliche staatliche Proklamation, ohne die er rechtlich nicht existiert",
-            "Der Festlandsockel ist im Seerechtsübereinkommen als Rechtsbegriff überhaupt nicht enthalten"
+            "kraft Natur der Sache, ohne dass es einer Proklamation bedarf.",
+            "erst nach Registrierung beim Sekretariat der Vereinten Nationen.",
+            "erst nach einer förmlichen Proklamation durch den Küstenstaat.",
+            "erst nach Anerkennung durch die Internationale Meeresbodenbehörde."
           ],
-          "a": 1,
-          "e": "Souveräne Rechte am Festlandsockel bestehen nach der grundlegenden Rechtsprechung des IGH und Art. 77 SRÜ kraft Natur der Sache (ipso facto und ab initio), unabhängig von einer förmlichen Proklamation oder tatsächlichen Inbesitznahme durch den Küstenstaat – ein wichtiger Unterschied etwa zur ausschließlichen Wirtschaftszone, die einer Proklamation bedarf.",
+          "a": 0,
+          "e": "Art. 77 Abs. 3 SRÜ stellt klar, dass die Rechte des Küstenstaats am Festlandsockel nicht von einer tatsächlichen oder fiktiven Besitzergreifung und auch nicht von einer ausdrücklichen Erklärung abhängen; der Internationale Gerichtshof sprach im Nordsee-Festlandsockel-Fall von Rechten ipso facto und ab initio. Genau darin liegt der Unterschied zur ausschließlichen Wirtschaftszone, die der Küstenstaat proklamieren muss, um sie entstehen zu lassen. Die Meeresbodenbehörde ist für das Gebiet jenseits nationaler Hoheit zuständig und nicht für den Festlandsockel. Eine Registrierung bei den Vereinten Nationen ist nur für die Grenzangaben eines erweiterten Sockels vorgesehen.",
           "cat": "Seerecht"
         },
         {
@@ -10386,15 +10386,15 @@
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass der EGMR bei der Beurteilung, ob eine Freiheitsentziehung im Sinne des Art. 5 EMRK vorliegt, auf eine Gesamtwürdigung der tatsächlichen Umstände abstellt, statt allein auf die formale Bezeichnung der Maßnahme?",
+          "q": "Ob eine Freiheitsentziehung im Sinne des Art. 5 EMRK vorliegt, beurteilt der EGMR nach",
           "o": [
-            "Der EGMR verzichtet grundsätzlich auf jede eigenständige Prüfung und übernimmt stets die nationale rechtliche Einordnung",
-            "Ausschließlich die formale nationale Bezeichnung einer Maßnahme entscheidet darüber, ob eine Freiheitsentziehung im Sinne der EMRK vorliegt",
-            "Freiheitsentziehung ist nur bei Untersuchungshaft denkbar",
-            "Gesamtwürdigung von Art, Dauer, Wirkung und Vollzugsweise"
+            "der Bezeichnung der Maßnahme im nationalen Recht.",
+            "der Zustimmung des Betroffenen zur angeordneten Maßnahme.",
+            "Art, Dauer, Wirkung und Vollzugsweise der Maßnahme.",
+            "der Dauer der Maßnahme als allein maßgeblichem Merkmal."
           ],
-          "a": 3,
-          "e": "Der EGMR prüft materiell, anhand einer Gesamtwürdigung von Art, Dauer, Wirkung und tatsächlicher Vollzugsweise, ob eine Freiheitsentziehung im Sinne des Art. 5 EMRK vorliegt – unabhängig von der formalen Bezeichnung der Maßnahme im jeweiligen nationalen Recht, um eine Umgehung des Konventionsschutzes durch bloße Umetikettierung zu verhindern.",
+          "a": 2,
+          "e": "Der Gerichtshof stellt seit Guzzardi auf eine Gesamtwürdigung der konkreten Lage ab: Art, Dauer, Wirkungen und Modalitäten des Vollzugs entscheiden, ob eine bloße Beschränkung der Bewegungsfreiheit nach Art. 2 des Vierten Zusatzprotokolls oder eine Freiheitsentziehung nach Art. 5 EMRK vorliegt; der Unterschied ist einer des Grades, nicht der Natur. Die nationale Bezeichnung ist gerade nicht maßgeblich — sonst könnten Staaten den Schutzbereich selbst bestimmen. Die Dauer allein genügt nicht; auch kurze Maßnahmen können Freiheitsentziehungen sein, wie Kesselungen bei Demonstrationen zeigen. Eine wirksame Zustimmung kann bedeutsam sein, ist aber kein Prüfungsmaßstab für den Begriff.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -10452,39 +10452,39 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Welche grundsätzlichen Hindernisse erschweren seit Jahrzehnten eine umfassende Reform des VN-Sicherheitsrats?",
+          "q": "Welchen Anteil der Mitglieder verlangt Art. 108 VN-Charta für die Ratifikation einer Chartaänderung?",
           "o": [
-            "Eine Reform wurde bereits im Jahr 2010 vollständig umgesetzt",
-            "Der Sicherheitsrat selbst hat jede weitere Reformdebatte formell verboten",
-            "Regionale Interessen und die hohe Hürde des Art. 108 VN-Charta",
-            "Eine Reform ist technisch unmöglich, da die VN-Charta keinerlei Änderungsverfahren vorsieht"
+            "zwei Drittel",
+            "vier Fünftel",
+            "die Hälfte",
+            "drei Viertel"
           ],
-          "a": 2,
-          "e": "Neben unterschiedlichen regionalen Interessen und konkurrierenden Reformvorschlägen steht vor allem die hohe Änderungshürde des Art. 108 VN-Charta einer Reform entgegen, die die Zustimmung aller fünf ständigen Mitglieder verlangt – ein struktureller Interessenkonflikt, da diese ihre eigene privilegierte Vetoposition nur ungern relativieren.",
+          "a": 0,
+          "e": "Art. 108 VN-Charta verlangt für eine Änderung zunächst die Annahme mit Zweidrittelmehrheit in der Generalversammlung und sodann die Ratifikation durch zwei Drittel der Mitgliedstaaten — darunter zwingend alle ständigen Mitglieder des Sicherheitsrats. Diese doppelte Hürde erklärt, warum eine Reform des Sicherheitsrats trotz jahrzehntelanger Debatte nicht zustande kommt: Jedes ständige Mitglied kann sie allein verhindern. Die übrigen Quoren kommen in der Charta nicht vor; die Hälfte genügt nirgends für Änderungen, drei Viertel und vier Fünftel finden sich in anderen Regelwerken.",
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Was regelt der EU-Digital Services Act (DSA) von 2022 im Kern?",
+          "q": "Der Digital Services Act von 2022 begründet vor allem",
           "o": [
-            "Der DSA wurde niemals tatsächlich förmlich verabschiedet",
-            "Sorgfalts- und Transparenzpflichten für Online-Plattformen",
-            "Er regelt ausschließlich Fragen des Straßenverkehrsrechts der Union",
-            "Er verbietet jede Form von Online-Werbung in der Union vollständig"
+            "eine allgemeine Pflicht der Plattformen zur Überwachung aller Inhalte.",
+            "einheitliche Vorgaben für die Besteuerung digitaler Dienstleistungen.",
+            "abgestufte Sorgfalts- und Transparenzpflichten für Online-Plattformen.",
+            "ein Verbot personenbezogener Werbung gegenüber sämtlichen Nutzern."
           ],
-          "a": 1,
-          "e": "Der Digital Services Act legt abgestufte Sorgfalts- und Transparenzpflichten für Online-Plattformen fest – von Melde- und Abhilfeverfahren für illegale Inhalte bis zu besonderen Pflichten für sehr große Plattformen – als zentrales Element der EU-Plattformregulierung.",
+          "a": 2,
+          "e": "Der Digital Services Act staffelt die Pflichten nach Art und Größe des Dienstes: Melde- und Abhilfeverfahren, Begründungspflichten bei Inhaltsentscheidungen, Beschwerdemanagement und Transparenz über Empfehlungssysteme, für sehr große Plattformen zusätzlich Risikobewertungen und externe Audits. Eine allgemeine Überwachungspflicht bleibt ausdrücklich ausgeschlossen; das Haftungsprivileg der E-Commerce-Richtlinie wurde übernommen. Personalisierte Werbung ist nicht generell verboten, sondern nur gegenüber Minderjährigen und auf Grundlage besonderer Datenkategorien. Die Besteuerung digitaler Dienstleistungen ist Gegenstand gesonderter Vorhaben.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Bedeutung hat der EU-KI-Verordnung (AI Act) von 2024 für die Regulierung künstlicher Intelligenz?",
+          "q": "Die KI-Verordnung der Union von 2024 folgt",
           "o": [
-            "Ein risikobasierter Ansatz mit abgestuften Anforderungen je Risikoniveau",
-            "Sie verbietet jede Nutzung künstlicher Intelligenz in der Europäischen Union vollständig",
-            "Der AI Act betrifft ausschließlich autonome Fahrzeuge",
-            "Sie gilt ausschließlich für staatliche, niemals für private KI-Systeme"
+            "einem risikobasierten Ansatz mit abgestuften Anforderungen.",
+            "einer Beschränkung auf Anbieter mit Sitz innerhalb der Union.",
+            "einem Verbot des Einsatzes künstlicher Intelligenz in der Verwaltung.",
+            "einer Zulassungspflicht für jedes System vor dem Inverkehrbringen."
           ],
           "a": 0,
-          "e": "Der KI-Verordnung liegt ein risikobasierter Ansatz zugrunde, der KI-Systeme je nach ihrem Risikoniveau abgestuften Anforderungen unterwirft – von einem grundsätzlichen Verbot bestimmter als unannehmbar eingestufter Praktiken bis zu bloßen Transparenzpflichten bei Systemen mit geringem Risiko.",
+          "e": "Die Verordnung unterscheidet vier Stufen: verbotene Praktiken wie Social Scoring durch Behörden oder manipulative Systeme, Hochrisikosysteme mit umfangreichen Anforderungen an Datenqualität, Dokumentation und menschliche Aufsicht, Systeme mit Transparenzpflichten wie Chatbots und Deepfakes sowie den unregulierten Rest. Ein pauschales Verbot in der Verwaltung besteht nicht — Hochrisikoanwendungen sind dort zulässig, aber streng geregelt. Eine Zulassungspflicht für jedes System wäre gerade der nicht gewählte Ansatz; Konformitätsbewertungen betreffen nur Hochrisikosysteme. Die Verordnung gilt auch für Anbieter aus Drittstaaten, wenn ihre Systeme in der Union eingesetzt werden.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -10560,15 +10560,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die Überwachung der Umsetzung von EGMR-Urteilen dem Ministerkomitee des Europarats obliegt, nicht dem Gerichtshof selbst?",
+          "q": "Welches Organ überwacht nach Art. 46 EMRK die Umsetzung der Urteile des EGMR?",
           "o": [
-            "Nach Art. 46 Abs. 2 EMRK überwacht das Ministerkomitee, nicht der Gerichtshof",
-            "Nur der VN-Sicherheitsrat überwacht die Umsetzung von EGMR-Urteilen",
-            "Der Gerichtshof selbst überwacht unmittelbar und ausschließlich die vollständige Umsetzung jedes eigenen Urteils",
-            "Die Umsetzung von EGMR-Urteilen wird überhaupt nicht überwacht"
+            "das Ministerkomitee des Europarats",
+            "die Große Kammer des Gerichtshofs",
+            "die Parlamentarische Versammlung",
+            "der Menschenrechtskommissar des Europarats"
           ],
           "a": 0,
-          "e": "Art. 46 Abs. 2 EMRK überträgt die Überwachung der Urteilsumsetzung dem Ministerkomitee des Europarats als politischem Gremium, nicht dem Gerichtshof selbst – eine institutionelle Gewaltenteilung zwischen richterlicher Feststellung und politischer Durchsetzungsüberwachung.",
+          "e": "Art. 46 Abs. 2 EMRK überträgt die Überwachung der Urteilsumsetzung dem Ministerkomitee, in dem die Außenminister der Mitgliedstaaten vertreten sind; es prüft die Zahlung der Entschädigung sowie individuelle und allgemeine Maßnahmen und kann seit dem Vierzehnten Protokoll ein Vertragsverletzungsverfahren vor dem Gerichtshof einleiten. Die Parlamentarische Versammlung wählt die Richter und übt politische Kontrolle aus, überwacht die Umsetzung aber nicht förmlich. Der Menschenrechtskommissar hat eine unabhängige Beobachtungs- und Beratungsfunktion ohne Entscheidungsbefugnis. Der Gerichtshof selbst wird nach dem Urteil nur auf Vorlage des Ministerkomitees erneut tätig.",
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
@@ -10770,15 +10770,15 @@
           "cat": "Vereinte Nationen & internationale Organisationen"
         },
         {
-          "q": "Was regelt die EU-Chemikalienverordnung REACH von 2006 im Kern?",
+          "q": "Die Chemikalienverordnung REACH von 2006 verlangt vom Hersteller",
           "o": [
-            "Sie verbietet die Herstellung jeglicher Chemikalien in der Europäischen Union vollständig",
-            "REACH betrifft ausschließlich Chemikalien, die außerhalb der Union hergestellt werden",
-            "Sie regelt ausschließlich landwirtschaftliche Erzeugnisse der Union",
-            "Registrierung, Bewertung und Zulassung chemischer Stoffe"
+            "die Rücknahme eines Stoffes nach Ablauf von zehn Jahren.",
+            "die Kennzeichnung eines Stoffes mit einheitlichen Piktogrammen.",
+            "die Zulassung eines Stoffes durch die nationale Umweltbehörde.",
+            "die Registrierung eines Stoffes vor dem Inverkehrbringen."
           ],
           "a": 3,
-          "e": "REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) verpflichtet Hersteller und Importeure zur systematischen Registrierung und Bewertung chemischer Stoffe, mit Zulassungspflicht für besonders besorgniserregende Stoffe – eines der umfangreichsten Regelwerke des EU-Umwelt- und Gesundheitsschutzes.",
+          "e": "REACH beruht auf dem Grundsatz, dass ohne Daten kein Markt besteht: Wer einen Stoff in Mengen ab einer Tonne jährlich herstellt oder einführt, muss ihn bei der Europäischen Chemikalienagentur registrieren und die Sicherheitsdaten selbst beibringen; die Beweislast liegt damit bei der Industrie. Es folgen Bewertung, Zulassung besonders besorgniserregender Stoffe und gegebenenfalls Beschränkung. Die Kennzeichnung mit einheitlichen Piktogrammen regelt die eigenständige CLP-Verordnung von 2008. Eine automatische Rücknahme nach zehn Jahren kennt REACH nicht. Über die Zulassung entscheidet die Kommission auf Empfehlung der Agentur, nicht eine nationale Behörde.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -10890,15 +10890,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die Beweiswürdigung im Asylverfahren die besonderen psychischen Belastungen traumatisierter Antragsteller berücksichtigen muss?",
+          "q": "Bei der Beweiswürdigung im Asylverfahren sind Widersprüche im Vortrag",
           "o": [
-            "Traumatisierung spielt für die Beweiswürdigung keinerlei erkennbare Rolle",
-            "Diese Frage ist ausschließlich Gegenstand des Strafrechts, nicht des Flüchtlingsrechts",
-            "Widersprüche sind im Licht möglicher Traumafolgen zu würdigen",
-            "Traumatisierte Antragsteller werden von der Beweispflicht vollständig freigestellt"
+            "für die Entscheidung ohne jede Bedeutung.",
+            "im Licht möglicher Traumafolgen zu würdigen.",
+            "zwingend durch ein psychiatrisches Gutachten aufzuklären.",
+            "als Beleg für fehlende Glaubwürdigkeit zu werten."
           ],
-          "a": 2,
-          "e": "Anerkannte Verfahrensgrundsätze und einschlägige Leitlinien verlangen eine sensible Beweiswürdigung, die mögliche psychische Belastungsfolgen traumatisierter Antragsteller berücksichtigt – etwaige Widersprüche oder Erinnerungslücken sollen nicht automatisch als Unglaubwürdigkeit gewertet werden, sondern im Kontext möglicher Traumafolgen betrachtet werden.",
+          "a": 1,
+          "e": "Traumatisierung kann zu Erinnerungslücken, zeitlichen Verschiebungen und zunächst widersprüchlichen Angaben führen; die Rechtsprechung verlangt deshalb, Ungereimtheiten vor diesem Hintergrund zu würdigen, statt sie schematisch gegen den Antragsteller zu wenden. Eine pauschale Wertung als Unglaubwürdigkeit verkennt diesen Befund. Bedeutungslos sind Widersprüche freilich nicht — sie bleiben zu erörtern und aufzuklären, etwa durch Nachfragen in der Anhörung. Ein Sachverständigengutachten ist nicht in jedem Fall zwingend; es kommt in Betracht, wenn konkrete Anhaltspunkte für eine Traumatisierung vorliegen und die Entscheidung davon abhängt.",
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
@@ -10986,15 +10986,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass ein Empfangsstaat einer diplomatischen Mission grundsätzlich freien Zugang zu allgemein zugänglichen Kommunikationsmitteln gewähren muss?",
+          "q": "Für den amtlichen Nachrichtenverkehr einer Mission gilt nach Art. 27 WÜD:",
           "o": [
-            "Nach Art. 27 WÜD frei, doch bedarf eine eigene Funksendeanlage der Zustimmung",
-            "Diplomatische Kommunikation unterliegt keinerlei rechtlicher Regelung im WÜD",
-            "Nur mündliche, niemals schriftliche oder elektronische Kommunikation ist geschützt",
-            "Der Empfangsstaat darf jede Form der Kommunikation der Mission nach freiem Ermessen vollständig unterbinden"
+            "freie Nutzung, soweit der Empfangsstaat die Verschlüsselung genehmigt.",
+            "Nutzung ausschließlich der Netze des Empfangsstaats.",
+            "freie Nutzung aller Mittel einschließlich eigener Funksendeanlagen.",
+            "freie Nutzung aller geeigneten Mittel, eine Funkanlage nur mit Zustimmung."
           ],
-          "a": 0,
-          "e": "Art. 27 WÜD gewährleistet der Mission freie Kommunikation mit ihrer Regierung und anderen Missionen des Entsendestaats, einschließlich verschlüsselter Nachrichten und diplomatischer Kuriere – lediglich für die Einrichtung einer eigenen Funksendeanlage ist die Zustimmung des Empfangsstaats erforderlich.",
+          "a": 3,
+          "e": "Art. 27 Abs. 1 WÜD gestattet der Mission den freien Verkehr zu allen amtlichen Zwecken und die Verwendung aller geeigneten Mittel einschließlich diplomatischer Kuriere und verschlüsselter Nachrichten; eine eigene Funksendeanlage darf sie jedoch nur mit Zustimmung des Empfangsstaats errichten und verwenden. Genau dieser Vorbehalt ist die praktisch bedeutsame Grenze. Eine Beschränkung auf die Netze des Empfangsstaats widerspräche der Vertraulichkeit des Verkehrs. Für die Verschlüsselung ist keine Genehmigung erforderlich; sie ist im Vorschriftentext ausdrücklich erlaubt.",
           "cat": "Diplomaten- & Konsularrecht (WÜD/WÜK)"
         },
         {
@@ -11010,15 +11010,15 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass das Kindeswohl bei asylrechtlichen Entscheidungen über unbegleitete minderjährige Antragsteller vorrangig zu berücksichtigen ist?",
+          "q": "Welches Übereinkommen verankert den Vorrang des Kindeswohls bei allen Maßnahmen?",
           "o": [
-            "Das Kindeswohl ist nach der VN-Kinderrechtskonvention vorrangig zu berücksichtigen",
-            "Das Kindeswohl spielt bei asylrechtlichen Entscheidungen keinerlei erkennbare Rolle",
-            "Die VN-Kinderrechtskonvention regelt ausdrücklich nur wirtschaftliche, nicht aber verfahrensrechtliche Fragen",
-            "Das Kindeswohl wird ausschließlich bei begleiteten, niemals bei unbegleiteten Minderjährigen berücksichtigt"
+            "die Europäische Menschenrechtskonvention von 1950",
+            "die VN-Kinderrechtskonvention von 1989",
+            "der Zivilpakt der Vereinten Nationen von 1966",
+            "die Genfer Flüchtlingskonvention von 1951"
           ],
-          "a": 0,
-          "e": "Nach der VN-Kinderrechtskonvention ist das Wohl des Kindes bei allen es betreffenden Maßnahmen vorrangig zu berücksichtigen – ein Grundsatz, der auch das Asylverfahren unbegleiteter minderjähriger Antragsteller prägt, etwa bei der Bestellung eines Vormunds und der Verfahrensgestaltung.",
+          "a": 1,
+          "e": "Art. 3 Abs. 1 der VN-Kinderrechtskonvention bestimmt, dass bei allen Maßnahmen, die Kinder betreffen, das Wohl des Kindes vorrangig zu berücksichtigen ist; für unbegleitete Minderjährige im Asylverfahren folgen daraus Anforderungen an Anhörung, Vertretung, Alterseinschätzung und Unterbringung. Deutschland hatte bei der Ratifikation 1992 eine Vorbehaltserklärung mit ausländerrechtlichem Bezug abgegeben und 2010 zurückgenommen. Die Flüchtlingskonvention enthält keine eigene Kindeswohlklausel. Die Europäische Menschenrechtskonvention nennt das Kindeswohl nicht ausdrücklich; der Gerichtshof bezieht es über Art. 8 in die Abwägung ein. Der Zivilpakt schützt Kinder in Art. 24, ohne einen Vorrang anzuordnen.",
           "cat": "Flüchtlings- & Asylrecht"
         }
       ]
@@ -11100,15 +11100,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Für welche Amtszeit wird die Europäische Bürgerbeauftragte bzw. der Europäische Bürgerbeauftragte vom Europäischen Parlament gewählt?",
+          "q": "Für welche Amtszeit wählt das Europäische Parlament den Europäischen Bürgerbeauftragten?",
           "o": [
-            "Die Amtszeit richtet sich ausschließlich nach dem Ermessen der Kommission",
-            "Für eine Amtszeit von nur sechs Monaten ohne Wiederwahl",
-            "Für eine lebenslange, unbefristete Amtszeit ohne jede zeitliche Begrenzung",
-            "Für fünf Jahre entsprechend der Legislaturperiode, wiederwählbar"
+            "für fünf Jahre",
+            "für acht Jahre",
+            "für zweieinhalb Jahre",
+            "für sechs Jahre"
           ],
-          "a": 3,
-          "e": "Die Europäische Bürgerbeauftragte bzw. der Europäische Bürgerbeauftragte wird vom Europäischen Parlament für eine an dessen Legislaturperiode angelehnte Amtszeit von fünf Jahren gewählt, mit der Möglichkeit der Wiederwahl.",
+          "a": 0,
+          "e": "Der Bürgerbeauftragte wird nach Art. 228 AEUV nach jeder Wahl des Europäischen Parlaments für dessen Wahlperiode von fünf Jahren gewählt und ist wiederernennbar; abberufen werden kann er nur vom Gerichtshof auf Antrag des Parlaments. Zweieinhalb Jahre ist die Amtszeit des Präsidenten des Europäischen Parlaments und des Präsidenten des Europäischen Rates, jeweils einmal verlängerbar. Sechs Jahre gelten für die Mitglieder des Direktoriums der Europäischen Zentralbank und für die Richter am Gerichtshof, dort mit teilweiser Neubesetzung alle drei Jahre. Acht Jahre kommen in den Verträgen nicht vor.",
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
@@ -11244,15 +11244,15 @@
           "cat": "Flüchtlings- & Asylrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die Bergung von Kulturgütern und Schiffswracks auf dem Meeresboden besonderen völkerrechtlichen Regelungen unterliegen kann, die über die allgemeinen SRÜ-Bestimmungen hinausgehen?",
+          "q": "Welches Übereinkommen schützt eigens das Kulturerbe unter Wasser?",
           "o": [
-            "Schiffswracks unterliegen ausschließlich dem Recht des ursprünglichen Flaggenstaats, unabhängig vom Fundort",
-            "Neben den allgemeinen SRÜ-Bestimmungen besteht das UNESCO-Übereinkommen zum Schutz des Unterwasser-Kulturerbes",
-            "Es existiert keinerlei besonderes völkerrechtliches Regelwerk für unter Wasser befindliches Kulturerbe",
-            "Die Bergung von Kulturgütern ist völkerrechtlich vollständig unreguliert und jedem Staat freigestellt"
+            "das UNESCO-Welterbeübereinkommen von 1972",
+            "das Haager Abkommen von 1954",
+            "das UNESCO-Übereinkommen von 2001",
+            "das UNIDROIT-Übereinkommen von 1995"
           ],
-          "a": 1,
-          "e": "Neben den allgemeinen SRÜ-Bestimmungen zum Schutz archäologischer und historischer Gegenstände auf See existiert mit dem UNESCO-Übereinkommen zum Schutz des Unterwasser-Kulturerbes ein spezialisiertes Zusatzregelwerk, das allerdings nicht von allen SRÜ-Vertragsstaaten ratifiziert wurde und daher nicht universell gilt.",
+          "a": 2,
+          "e": "Das UNESCO-Übereinkommen über den Schutz des Unterwasser-Kulturerbes von 2001 ergänzt die knappen Art. 149 und 303 SRÜ: Es erfasst Spuren menschlicher Existenz, die mindestens hundert Jahre unter Wasser liegen, stellt die Erhaltung an Ort und Stelle voran und verbietet die kommerzielle Verwertung. Deutschland ist ihm nicht beigetreten. Das Haager Abkommen von 1954 schützt Kulturgut bei bewaffneten Konflikten. Das Welterbeübereinkommen von 1972 begründet die Welterbeliste für Stätten von außergewöhnlichem universellem Wert. Das UNIDROIT-Übereinkommen von 1995 regelt die Rückgabe gestohlener oder rechtswidrig ausgeführter Kulturgüter.",
           "cat": "Seerecht"
         },
         {
