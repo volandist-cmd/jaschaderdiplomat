@@ -1332,15 +1332,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Wie behandelt das AEUV staatliche Beihilfen an Unternehmen?",
+          "q": "Staatliche Beihilfen an Unternehmen sind nach Art. 107 Abs. 1 AEUV",
           "o": [
-            "Über Beihilfen entscheidet ausschließlich der jeweilige Mitgliedstaat",
-            "Beihilfen sind stets uneingeschränkt zulässig",
-            "Grundsätzlich verboten, von der Kommission aber genehmigungsfähig",
-            "Beihilfen sind ausnahmslos verboten, ohne Genehmigungsmöglichkeit"
+            "grundsätzlich mit dem Binnenmarkt unvereinbar, aber genehmigungsfähig.",
+            "der Zuständigkeit der nationalen Kartellbehörden zugewiesen.",
+            "an die vorherige Zustimmung des Europäischen Parlaments gebunden.",
+            "mit dem Binnenmarkt vereinbar, soweit sie förmlich angemeldet werden."
           ],
-          "a": 2,
-          "e": "Staatliche Beihilfen sind nach Art. 107 f. AEUV grundsätzlich mit dem Binnenmarkt unvereinbar, können aber von der Europäischen Kommission unter bestimmten Voraussetzungen genehmigt werden – etwa bei regionaler Entwicklung oder Krisenbewältigung.",
+          "a": 0,
+          "e": "Art. 107 Abs. 1 AEUV erklärt Beihilfen für grundsätzlich unvereinbar mit dem Binnenmarkt; die Absätze 2 und 3 nennen Ausnahmen, über die allein die Kommission entscheidet. Die Anmeldung nach Art. 108 Abs. 3 AEUV macht eine Beihilfe nicht schon zulässig, sondern eröffnet erst das Prüfverfahren. Die Kontrolle liegt bei der Kommission, nicht bei den nationalen Kartellbehörden, die für Art. 101 und 102 AEUV zuständig sind. Das Europäische Parlament wirkt am Beihilfeverfahren nicht mit.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -1698,15 +1698,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Wer ist im Organstreitverfahren vor dem Bundesverfassungsgericht antragsberechtigt?",
+          "q": "Im Organstreitverfahren vor dem Bundesverfassungsgericht sind antragsberechtigt",
           "o": [
-            "Nur die Bundesregierung als Kollegium",
-            "Nur der Bundespräsident persönlich",
-            "Oberste Bundesorgane und deren Teile, nicht der einzelne Bürger",
-            "Jeder Bürger, der sich in eigenen Rechten verletzt fühlt"
+            "oberste Bundesorgane und ihre im Grundgesetz genannten Teile.",
+            "natürliche Personen, die eine Verletzung eigener Rechte rügen.",
+            "Gerichte, die ein entscheidungserhebliches Gesetz für verfassungswidrig halten.",
+            "die obersten Landesbehörden und die kommunalen Spitzenverbände."
           ],
-          "a": 2,
-          "e": "Der Organstreit steht obersten Bundesorganen sowie Fraktionen und Abgeordneten offen, weil sie mit eigenen Rechten ausgestattet sind. Dem einzelnen Bürger steht dafür die Verfassungsbeschwerde offen, nicht der Organstreit.",
+          "a": 0,
+          "e": "Art. 93 Abs. 1 Nr. 1 GG eröffnet den Organstreit für oberste Bundesorgane und für andere Beteiligte, die durch das Grundgesetz oder eine Geschäftsordnung mit eigenen Rechten ausgestattet sind — dazu zählen Fraktionen und einzelne Abgeordnete. Gestritten wird über Rechte und Pflichten aus dem Verfassungsrechtsverhältnis, nicht über subjektive Rechte. Landesbehörden und kommunale Spitzenverbände sind keine Bundesorgane; für Streitigkeiten zwischen Bund und Ländern gilt Nr. 3. Wer eine Verletzung eigener Rechte rügt, ist auf die Verfassungsbeschwerde nach Nr. 4a verwiesen. Ein Gericht, das ein Gesetz für verfassungswidrig hält, legt nach Art. 100 GG im Wege der konkreten Normenkontrolle vor.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -2298,15 +2298,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Wer ist nach Art. 93 Abs. 1 Nr. 2 GG befugt, beim Bundesverfassungsgericht die abstrakte Normenkontrolle zu beantragen?",
+          "q": "Die abstrakte Normenkontrolle nach Art. 93 Abs. 1 Nr. 2 GG können beantragen",
           "o": [
-            "Jeder einzelne unmittelbar betroffene Bürger",
-            "Nur der Bundespräsident persönlich und allein",
-            "Nur der Bundesrat als Verfassungsorgan aller Länder",
-            "Regierung, Landesregierung oder Viertel des Bundestages"
+            "der Bundespräsident, der Bundesrat oder der Bundestagspräsident.",
+            "ein Gericht, das ein Gesetz für entscheidungserheblich und nichtig hält.",
+            "eine Fraktion des Bundestages oder ein Zehntel seiner Mitglieder.",
+            "die Bundesregierung, eine Landesregierung oder ein Viertel des Bundestages."
           ],
           "a": 3,
-          "e": "Antragsberechtigt für die abstrakte Normenkontrolle sind die Bundesregierung, eine Landesregierung oder ein Viertel der Mitglieder des Bundestages – anders als bei der konkreten Normenkontrolle ist keine Betroffenheit in einem konkreten Verfahren erforderlich.",
+          "e": "Antragsberechtigt sind allein die Bundesregierung, eine Landesregierung und ein Viertel der Mitglieder des Bundestages; das Quorum wurde 2009 von einem Drittel auf ein Viertel gesenkt, um der Opposition den Zugang zu erleichtern. Der Bundespräsident und der Bundestagspräsident sind nicht genannt; der Bundesrat ist es ebenfalls nicht, auch wenn Landesregierungen es einzeln sind. Ein Gericht, das ein Gesetz für entscheidungserheblich und verfassungswidrig hält, geht den Weg der konkreten Normenkontrolle nach Art. 100 GG. Eine Fraktion als solche und ein Zehntel der Mitglieder erreichen das Quorum nicht.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -2322,15 +2322,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Wie verteilt das Grundgesetz die Gesetzgebungskompetenz zwischen Bund und Ländern im Regelfall?",
+          "q": "Die Gesetzgebungskompetenz liegt nach dem Grundgesetz im Regelfall",
           "o": [
-            "Gesetzgebung ist ausschließlich Ländersache",
-            "Bund und Länder gesetzgeben stets gemeinsam in jedem Bereich",
-            "Der Bund hat stets Vorrang, unabhängig von einer ausdrücklichen Kompetenzzuweisung",
-            "Die Länder, soweit das Grundgesetz nichts dem Bund zuweist"
+            "bei der Ebene, die der Bundesrat im Einzelfall bestimmt.",
+            "beim Bund, soweit das Grundgesetz sie nicht den Ländern zuweist.",
+            "bei Bund und Ländern gemeinsam im Wege der Rahmengesetzgebung.",
+            "bei den Ländern, soweit das Grundgesetz sie nicht dem Bund zuweist."
           ],
           "a": 3,
-          "e": "Nach Art. 70 Abs. 1 GG haben die Länder das Recht der Gesetzgebung, soweit das Grundgesetz nicht dem Bund Gesetzgebungsbefugnisse verleiht – ein Regel-Ausnahme-Verhältnis, das durch die umfangreichen Kataloge der ausschließlichen und konkurrierenden Bundesgesetzgebung in der Praxis zugunsten des Bundes verschoben ist.",
+          "e": "Art. 70 Abs. 1 GG enthält die Regel-Ausnahme-Verteilung zugunsten der Länder: Sie haben das Recht der Gesetzgebung, soweit das Grundgesetz nicht dem Bund Gesetzgebungsbefugnisse verleiht. Tatsächlich hat der Bund über die ausschließliche und die konkurrierende Zuständigkeit den größeren Teil an sich gezogen, doch die Vermutungsregel selbst bleibt zugunsten der Länder. Die genau umgekehrte Formulierung verkennt diese Grundentscheidung des Bundesstaatsprinzips. Die Rahmengesetzgebung war eine eigene Kategorie des Art. 75 GG a. F. und wurde durch die Föderalismusreform 2006 abgeschafft. Der Bundesrat wirkt bei der Gesetzgebung mit, verteilt aber keine Zuständigkeiten.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -2544,15 +2544,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Rechtfertigungsgründe nennt Art. 36 AEUV ausdrücklich für Beschränkungen der Warenverkehrsfreiheit?",
+          "q": "Art. 36 AEUV rechtfertigt Beschränkungen des Warenverkehrs unter anderem aus Gründen",
           "o": [
-            "Ausschließlich fiskalische Interessen des beschränkenden Staates",
-            "Jede von einem Mitgliedstaat für sinnvoll erachtete Erwägung",
-            "Ausschließlich den Schutz nationaler Unternehmen vor ausländischer Konkurrenz",
-            "U. a. öffentliche Sittlichkeit, Ordnung, Sicherheit und Gesundheitsschutz"
+            "der öffentlichen Sittlichkeit, Ordnung, Sicherheit und Gesundheit.",
+            "der Sicherung des nationalen Steueraufkommens der Mitgliedstaaten.",
+            "des Umweltschutzes und der Erhaltung der kulturellen Vielfalt.",
+            "des Verbraucherschutzes und der Lauterkeit des Handelsverkehrs."
           ],
-          "a": 3,
-          "e": "Art. 36 AEUV zählt abschließend geschriebene Rechtfertigungsgründe auf – öffentliche Sittlichkeit, Ordnung, Sicherheit, Gesundheits- und Lebensschutz sowie gewerblicher Eigentumsschutz, jeweils begrenzt durch das Verhältnismäßigkeitsprinzip und das Verbot willkürlicher Diskriminierung oder verschleierter Handelsbeschränkung.",
+          "a": 0,
+          "e": "Art. 36 AEUV zählt die geschriebenen Rechtfertigungsgründe abschließend auf: öffentliche Sittlichkeit, Ordnung und Sicherheit, Schutz der Gesundheit und des Lebens, Schutz des nationalen Kulturguts sowie des gewerblichen und kommerziellen Eigentums. Verbraucherschutz und Lauterkeit des Handelsverkehrs stehen dort gerade nicht — sie gehören zu den ungeschriebenen zwingenden Erfordernissen, die der Gerichtshof seit Cassis de Dijon anerkennt und die nur bei unterschiedslos wirkenden Maßnahmen greifen. Der Umweltschutz ist ebenfalls ein ungeschriebener Grund, seit der Rechtssache Dänische Pfandflaschen. Rein fiskalische Interessen sind nach ständiger Rechtsprechung niemals ein tauglicher Rechtfertigungsgrund.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -2922,15 +2922,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Schranken setzt Art. 5 Abs. 2 GG der Meinungsfreiheit?",
+          "q": "Die Meinungsfreiheit findet ihre Schranken nach Art. 5 Abs. 2 GG in",
           "o": [
-            "Nur die vorherige ausdrückliche Zustimmung der Betroffenen",
-            "Allgemeine Gesetze, Jugendschutz und das Recht der persönlichen Ehre",
-            "Die Meinungsfreiheit steht unter überhaupt keinerlei Schranken",
-            "Ausschließlich das allgemeine Strafrecht"
+            "allgemeinen Gesetzen, Jugendschutz und persönlicher Ehre.",
+            "Grundrechten anderer und dem Verhältnismäßigkeitsgrundsatz.",
+            "dem Gesetzesvorbehalt der Art. 12 und Art. 14 GG.",
+            "Rechten Dritter, verfassungsmäßiger Ordnung und Sittengesetz."
           ],
-          "a": 1,
-          "e": "Art. 5 Abs. 2 GG nennt als Schranken-Trias die allgemeinen Gesetze, den gesetzlichen Jugendschutz und das Recht der persönlichen Ehre – wobei das Bundesverfassungsgericht diese Schranken ihrerseits im Licht der Bedeutung der Meinungsfreiheit auslegt (Wechselwirkungslehre).",
+          "a": 0,
+          "e": "Art. 5 Abs. 2 GG nennt drei Schranken: die allgemeinen Gesetze, die gesetzlichen Bestimmungen zum Schutz der Jugend und das Recht der persönlichen Ehre. Nach der Wechselwirkungslehre des Lüth-Urteils müssen diese Gesetze ihrerseits im Licht der Meinungsfreiheit ausgelegt werden. Rechte Dritter, verfassungsmäßige Ordnung und Sittengesetz sind die Schrankentrias des Art. 2 Abs. 1 GG für die allgemeine Handlungsfreiheit. Die Vorbehalte der Art. 12 und 14 GG betreffen Berufsfreiheit und Eigentum. Die Grundrechte anderer wirken bei vorbehaltlos gewährleisteten Grundrechten als verfassungsimmanente Schranke, nicht bei Art. 5 Abs. 1 GG.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -3522,15 +3522,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Was verlangt die vom Bundesverfassungsgericht entwickelte Wesentlichkeitstheorie?",
+          "q": "Nach der Wesentlichkeitstheorie muss der Gesetzgeber",
           "o": [
-            "Dass jedes Gesetz vor Verkündung durch Volksabstimmung bestätigt werden muss",
-            "Dass nur unwesentliche Fragen gesetzlich geregelt werden dürfen",
-            "Dass nur das Bundesverfassungsgericht wesentliche Entscheidungen treffen darf",
-            "Wesentliche Entscheidungen muss der Gesetzgeber selbst treffen"
+            "jede Einzelheit des Verwaltungsvollzugs im Gesetz festlegen.",
+            "wesentliche Fragen der Regelung durch Rechtsverordnung überlassen.",
+            "sich auf die Festlegung der Grundzüge einer Materie beschränken.",
+            "die für die Grundrechtsausübung wesentlichen Fragen selbst regeln."
           ],
           "a": 3,
-          "e": "Die Wesentlichkeitstheorie konkretisiert den Parlamentsvorbehalt: Je grundrechtsrelevanter und wesentlicher eine Regelung ist, desto mehr muss der parlamentarische Gesetzgeber selbst entscheiden, statt sie der Verwaltung zu überlassen.",
+          "e": "Die Wesentlichkeitstheorie konkretisiert Rechtsstaats- und Demokratieprinzip: Je stärker eine Regelung Grundrechte berührt, desto eher muss der parlamentarische Gesetzgeber sie selbst treffen und darf sie nicht der Verwaltung überlassen. Entwickelt wurde sie an Schulverhältnis und Strafvollzug. Eine Pflicht, jede Einzelheit des Vollzugs zu regeln, folgt daraus gerade nicht — für Details bleibt die Verordnungsermächtigung des Art. 80 GG. Eine Beschränkung auf Grundzüge kehrt die Aussage um. Die Delegation gerade der wesentlichen Fragen an den Verordnungsgeber ist das, was die Theorie untersagt.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -3792,15 +3792,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Was besagt die AETR-Rechtsprechung des EuGH zu impliziten Außenkompetenzen der Union?",
+          "q": "Nach der AETR-Rechtsprechung kann die Union eine Außenkompetenz",
           "o": [
-            "Die Union besitzt niemals Außenkompetenzen ohne ausdrückliche Vertragsgrundlage",
-            "Die AETR-Rechtsprechung betrifft ausschließlich das Seerecht",
-            "Aus einer ausgeübten Innenkompetenz kann eine Außenkompetenz folgen",
-            "Nur die Mitgliedstaaten dürfen völkerrechtliche Verträge in unionsrechtlich geregelten Bereichen schließen"
+            "bei ausdrücklicher Nennung im Vertrag beanspruchen.",
+            "aus einer im Vertrag genannten Innenkompetenz ableiten, auch wenn sie ruht.",
+            "aus einer bereits ausgeübten Innenkompetenz ableiten.",
+            "erst nach einstimmigem Beschluss des Rates beanspruchen."
           ],
           "a": 2,
-          "e": "Nach der AETR-Rechtsprechung kann die Ausübung interner Zuständigkeiten implizite Außenkompetenzen der Union begründen – kodifiziert in Art. 3 Abs. 2 AEUV für bestimmte Fallgruppen.",
+          "e": "Im AETR-Urteil von 1971 entschied der Gerichtshof, dass die Union in dem Maße Außenkompetenz erlangt, in dem sie ihre Innenkompetenz durch gemeinsame Rechtsvorschriften bereits ausgeübt hat; heute ist der Gedanke in Art. 3 Abs. 2 AEUV kodifiziert. Die bloße Existenz einer ruhenden Innenkompetenz genügt gerade nicht — genau das war der Streitpunkt und ist der schwierigste der drei Ausschlussgründe. Ein einstimmiger Ratsbeschluss ist keine Entstehungsvoraussetzung; er betrifft das Verfahren des Vertragsschlusses. Auf eine ausdrückliche Nennung kommt es ebenfalls nicht an — sonst wäre die Rechtsprechung überflüssig.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -4122,15 +4122,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Was kennzeichnet den deutschen „Verbundföderalismus\"?",
+          "q": "Kennzeichnend für den deutschen Verbundföderalismus ist",
           "o": [
-            "Bundesgesetzgebung, Landesvollzug, Mitwirkung über den Bundesrat",
-            "Die Länder erlassen alle Gesetze, der Bund vollzieht sie nur",
-            "Nur der Bund darf sowohl Gesetze erlassen als auch vollziehen",
-            "Bund und Länder handeln in völlig getrennten, sich nie berührenden Zuständigkeitssphären"
+            "die Finanzierung sämtlicher Landesaufgaben aus dem Bundeshaushalt.",
+            "die Zuweisung von Gesetzgebung und Vollzug an dieselbe Ebene.",
+            "eine strikte Trennung der Aufgaben von Bund und Ländern.",
+            "Bundesgesetzgebung, Landesvollzug und Mitwirkung über den Bundesrat."
           ],
-          "a": 0,
-          "e": "Im Verbundföderalismus liegt die Gesetzgebung überwiegend beim Bund, der Vollzug dagegen bei den Ländern – diese Verschränkung begründet die Mitwirkungsrechte der Länder über den Bundesrat gerade dort, wo sie das Bundesrecht anschließend ausführen müssen.",
+          "a": 3,
+          "e": "Der deutsche Bundesstaat verschränkt die Ebenen: Der Bund setzt weitgehend das Recht, die Länder führen es nach Art. 83 GG als eigene Angelegenheit aus, und über den Bundesrat wirken sie an der Bundesgesetzgebung mit. Diese Verschränkung ist der Grund für die hohe Zahl zustimmungsbedürftiger Gesetze und für die Föderalismusreform 2006. Die strikte Aufgabentrennung kennzeichnet demgegenüber den Trennföderalismus, wie er etwa den Vereinigten Staaten zugeschrieben wird. Die Zuweisung von Gesetzgebung und Vollzug an dieselbe Ebene ist gerade das Gegenmodell zu Art. 83 GG. Eine vollständige Finanzierung der Landesaufgaben aus dem Bundeshaushalt widerspräche der Finanzverfassung der Art. 104a ff. GG.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -4782,27 +4782,27 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welchen Grundsatz begründete die Rechtssache Keck (1993) für die Warenverkehrsfreiheit?",
+          "q": "Nach der Rechtssache Keck fallen bloße Verkaufsmodalitäten",
           "o": [
-            "Dass Verkaufsmodalitäten immer verboten sind, unabhängig von ihrer Wirkung",
-            "Dass jede nationale Handelsregelung automatisch gegen Art. 34 AEUV verstößt",
-            "Bloße Verkaufsmodalitäten fallen nicht unter Art. 34 AEUV",
-            "Dass Art. 34 AEUV nur für Dienstleistungen gilt"
+            "in die Zuständigkeit der nationalen Kartellbehörden.",
+            "unter Art. 36 AEUV als geschriebener Rechtfertigungsgrund.",
+            "unter Art. 34 AEUV, sobald sie den Absatz messbar mindern.",
+            "nicht unter Art. 34 AEUV, sofern sie unterschiedslos wirken."
           ],
-          "a": 2,
-          "e": "Keck nahm die durch Dassonville ausgelöste Überdehnung des Art. 34 AEUV zurück: Bloße Verkaufsmodalitäten fallen nicht unter das Verbot, solange sie rechtlich wie tatsächlich alle Marktteilnehmer und Erzeugnisse gleichermaßen treffen.",
+          "a": 3,
+          "e": "Mit dem Urteil Keck von 1993 begrenzte der Gerichtshof die weite Dassonville-Formel: Bestimmungen, die bloße Verkaufsmodalitäten betreffen — Ladenöffnungszeiten, Vertriebswege, Werbeverbote —, fallen nicht in den Anwendungsbereich des Art. 34 AEUV, sofern sie für alle Wirtschaftsteilnehmer gelten und in- wie ausländische Erzeugnisse rechtlich und tatsächlich gleich berühren. Auf einen messbaren Absatzrückgang kommt es gerade nicht an; das war die Rechtslage vor Keck. Art. 36 AEUV ist eine Rechtfertigungsvorschrift und setzt voraus, dass der Anwendungsbereich des Art. 34 eröffnet ist. Mit dem Kartellrecht hat die Frage nichts zu tun.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was regelt die Beihilfenkontrolle nach Art. 107 f. AEUV, wenn ein Mitgliedstaat ein Unternehmen finanziell begünstigt?",
+          "q": "Zahlt ein Mitgliedstaat eine Beihilfe aus, bevor die Kommission entschieden hat, so",
           "o": [
-            "Die Beihilfenkontrolle betrifft nur Beihilfen an ausländische Unternehmen",
-            "Grundsätzlich unvereinbar mit dem Binnenmarkt, von der Kommission genehmigungsfähig",
-            "Über die Zulässigkeit entscheidet ausschließlich der jeweilige Mitgliedstaat selbst",
-            "Jede staatliche Begünstigung eines Unternehmens ist automatisch verboten, ohne Ausnahme"
+            "gilt die Beihilfe nach Ablauf von sechs Monaten als genehmigt.",
+            "kann die Kommission nur noch ein Bußgeld gegen den Staat verhängen.",
+            "bleibt die Auszahlung wirksam, wenn sie zuvor angemeldet worden war.",
+            "ist die Beihilfe rechtswidrig und vom Empfänger zurückzufordern."
           ],
-          "a": 1,
-          "e": "Beihilfen sind grundsätzlich verboten, weil sie den Wettbewerb im Binnenmarkt verzerren können, doch erlaubt Art. 107 Abs. 2 und 3 AEUV der Kommission, bestimmte Beihilfen – etwa zur regionalen Entwicklung – zu genehmigen.",
+          "a": 3,
+          "e": "Art. 108 Abs. 3 Satz 3 AEUV enthält das Durchführungsverbot: Vor der abschließenden Entscheidung der Kommission darf die Beihilfe nicht gewährt werden. Ein Verstoß macht sie formell rechtswidrig; nationale Gerichte müssen die Rückforderung nebst Zinsen anordnen, auch wenn die Beihilfe materiell genehmigungsfähig gewesen wäre. Eine Genehmigungsfiktion nach sechs Monaten besteht nicht — die Zweimonatsfrist des Verfahrensrechts betrifft nur den Beginn des förmlichen Prüfverfahrens. Ein Bußgeld gegen den Mitgliedstaat sieht das Beihilferecht nicht vor; das Druckmittel ist das Vertragsverletzungsverfahren. Die vorherige Anmeldung heilt die verfrühte Auszahlung gerade nicht.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -4980,15 +4980,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Rechte vermittelt die Unionsbürgerschaft nach Art. 20 f. AEUV zusätzlich zur nationalen Staatsangehörigkeit?",
+          "q": "Die Unionsbürgerschaft nach Art. 20 AEUV vermittelt zusätzlich",
           "o": [
-            "Freizügigkeit sowie Kommunal- und Europawahlrecht am Wohnort",
-            "Sie vermittelt keinerlei eigenständige Rechte, sondern ist rein symbolisch",
-            "Sie ersetzt die nationale Staatsangehörigkeit vollständig",
-            "Ausschließlich das Recht auf eine EU-einheitliche Sozialversicherung"
+            "Freizügigkeit sowie das Kommunal- und Europawahlrecht am Wohnort.",
+            "einen Unionspass, der an die Stelle des nationalen Passes tritt.",
+            "das Wahlrecht zu den nationalen Parlamenten am jeweiligen Wohnort.",
+            "einen Anspruch auf eine einheitliche europäische Sozialversicherung."
           ],
           "a": 0,
-          "e": "Die Unionsbürgerschaft „tritt zur nationalen Staatsangehörigkeit hinzu, ersetzt sie aber nicht\" und vermittelt insbesondere Freizügigkeit, Aufenthaltsrecht sowie das Kommunal- und Europawahlrecht am jeweiligen Wohnort innerhalb der Union.",
+          "e": "Art. 20 Abs. 2 AEUV zählt die Unionsbürgerrechte auf: Freizügigkeit und Aufenthaltsrecht, aktives und passives Wahlrecht bei Kommunal- und Europawahlen im Wohnsitzstaat, diplomatischer und konsularischer Schutz durch jeden Mitgliedstaat in Drittstaaten sowie Petitionsrecht und Zugang zum Bürgerbeauftragten. Eine einheitliche Sozialversicherung besteht nicht; koordiniert werden die nationalen Systeme lediglich durch die Verordnung 883/2004. Das Wahlrecht zu den nationalen Parlamenten bleibt ausdrücklich den eigenen Staatsangehörigen vorbehalten. Einen Unionspass gibt es nicht; die Pässe sind lediglich einheitlich gestaltet und bleiben nationale Dokumente.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -5322,15 +5322,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche „zwingenden Erfordernisse\" erkennt die Rechtsprechung des EuGH seit Cassis de Dijon als ungeschriebene Rechtfertigungsgründe für Handelsbeschränkungen an?",
+          "q": "Welche Rechtssache begründete die ungeschriebenen zwingenden Erfordernisse als Rechtfertigung im freien Warenverkehr?",
           "o": [
-            "Ausschließlich rein wirtschaftliche Erwägungen des beschränkenden Staates",
-            "Nur Erwägungen der nationalen Sicherheit",
-            "Jede von einem Mitgliedstaat frei gewählte Erwägung ohne weitere Voraussetzung",
-            "U. a. Steuerkontrolle, Gesundheitsschutz, Lauterkeit und Verbraucherschutz"
+            "Dassonville",
+            "Van Gend en Loos",
+            "Costa/ENEL",
+            "Cassis de Dijon"
           ],
           "a": 3,
-          "e": "Die zwingenden Erfordernisse ergänzen die geschriebenen Rechtfertigungsgründe des Art. 36 AEUV um ungeschriebene, aber anerkannte Belange wie steuerliche Kontrolle, Gesundheitsschutz, Lauterkeit des Handels und Verbraucherschutz – stets unter Verhältnismäßigkeitsvorbehalt.",
+          "e": "Im Urteil Cassis de Dijon von 1979 erkannte der Gerichtshof an, dass unterschiedslos wirkende nationale Regelungen durch zwingende Erfordernisse gerechtfertigt sein können — genannt wurden wirksame steuerliche Kontrolle, Schutz der öffentlichen Gesundheit, Lauterkeit des Handelsverkehrs und Verbraucherschutz. Aus derselben Entscheidung stammt der Grundsatz der gegenseitigen Anerkennung. Dassonville von 1974 definierte zuvor die Maßnahme gleicher Wirkung sehr weit als jede Handelsregelung, die den innergemeinschaftlichen Handel unmittelbar oder mittelbar behindern kann. Costa/ENEL von 1964 begründete den Anwendungsvorrang des Gemeinschaftsrechts. Van Gend en Loos von 1963 begründete dessen unmittelbare Wirkung.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -5616,15 +5616,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welchen Grundsatz begründete die Rechtssache Bosman (1995) für die Arbeitnehmerfreizügigkeit im Profisport?",
+          "q": "Nach der Rechtssache Bosman bindet die Arbeitnehmerfreizügigkeit",
           "o": [
-            "Dass die Arbeitnehmerfreizügigkeit ausschließlich gegenüber staatlichen Stellen wirkt, niemals gegenüber privaten Sportverbänden",
-            "Dass der Profisport vollständig vom Anwendungsbereich des Unionsrechts ausgenommen ist",
-            "Dass nur Vereine, niemals einzelne Spieler, Rechte aus der Arbeitnehmerfreizügigkeit ableiten können",
-            "Auch private Verbandsregeln sind an der Arbeitnehmerfreizügigkeit zu messen"
+            "die Union selbst bei der Einstellung ihrer eigenen Bediensteten.",
+            "auch private Arbeitgeber bei einzelnen Einstellungsentscheidungen.",
+            "auch private Verbände, die Erwerbstätigkeit kollektiv regeln.",
+            "die Mitgliedstaaten und ihre Behörden, nicht jedoch Private."
           ],
-          "a": 3,
-          "e": "Bosman zeigte, dass die Grundfreiheiten – anders als Richtlinien – auch unmittelbare horizontale Wirkung gegenüber mächtigen privaten Regelwerken wie Verbandsstatuten entfalten können: Ablösesummen nach Vertragsende und Ausländerklauseln gegenüber EU-Bürgern verstießen gegen die Arbeitnehmerfreizügigkeit.",
+          "a": 2,
+          "e": "Im Bosman-Urteil von 1995 entschied der Gerichtshof, dass Art. 45 AEUV auch für Regelwerke privater Verbände gilt, die Erwerbstätigkeit kollektiv regeln — andernfalls könnten die Grundfreiheiten durch die Verlagerung auf private Regelsetzer ausgehöhlt werden. Betroffen waren die Transferregeln und die Ausländerklauseln des Fußballverbands. Eine Beschränkung auf staatliche Adressaten trifft deshalb nicht zu. Auf einzelne private Arbeitgeber erstreckte der Gerichtshof die unmittelbare Drittwirkung erst später und nur für Diskriminierungen, nicht allgemein für Beschränkungen. Für die Einstellung von Unionsbediensteten gilt das Beamtenstatut der Union, nicht Art. 45 AEUV.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -5640,15 +5640,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was verbietet Art. 34 AEUV zwischen den Mitgliedstaaten?",
+          "q": "Art. 34 AEUV verbietet zwischen den Mitgliedstaaten",
           "o": [
-            "Mengenmäßige Einfuhrbeschränkungen sowie Maßnahmen gleicher Wirkung",
-            "Nur Beschränkungen des Dienstleistungsverkehrs",
-            "Der Artikel betrifft ausschließlich Zölle, nicht mengenmäßige Beschränkungen",
-            "Ausschließlich Ausfuhrbeschränkungen, nicht Einfuhrbeschränkungen"
+            "mengenmäßige Einfuhrbeschränkungen und Maßnahmen gleicher Wirkung.",
+            "diskriminierende inländische Abgaben auf eingeführte Waren.",
+            "Zölle sowie Abgaben zollgleicher Wirkung auf eingeführte Waren.",
+            "mengenmäßige Ausfuhrbeschränkungen und Maßnahmen gleicher Wirkung."
           ],
           "a": 0,
-          "e": "Art. 34 AEUV verbietet mengenmäßige Einfuhrbeschränkungen und Maßnahmen gleicher Wirkung zwischen den Mitgliedstaaten – die durch Dassonville und Cassis de Dijon konkretisierte Grundnorm der Warenverkehrsfreiheit.",
+          "e": "Art. 34 AEUV betrifft die Einfuhrseite und erfasst neben Kontingenten auch alle Maßnahmen gleicher Wirkung, die der Gerichtshof in Dassonville sehr weit definiert hat. Die drei anderen Verbote existieren ebenfalls, stehen aber in anderen Vorschriften: Zölle und zollgleiche Abgaben verbietet Art. 30 AEUV, Ausfuhrbeschränkungen Art. 35 AEUV und diskriminierende inländische Abgaben Art. 110 AEUV. Die Abgrenzung ist prüfungsrelevant, weil Art. 30 und Art. 110 einander ausschließen und für Art. 34 die Rechtfertigung nach Art. 36 offensteht.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -5676,27 +5676,27 @@
           "cat": "EMRK & Europäischer Gerichtshof für Menschenrechte"
         },
         {
-          "q": "Welche Entscheidungsformen kennt das Bundesverfassungsgericht für seine Sachentscheidungen?",
+          "q": "Das Bundesverfassungsgericht entscheidet in der Sache",
           "o": [
-            "Ausschließlich Beschlüsse, niemals aber Urteile",
-            "Urteile nach mündlicher Verhandlung, sonst Beschlüsse",
-            "Nur Empfehlungen ohne jede rechtliche Bindungswirkung",
-            "Ausschließlich Urteile, niemals aber Beschlüsse"
+            "durch Gutachten, soweit ein Verfassungsorgan darum ersucht.",
+            "durch Urteil, wenn ein Senat entscheidet, sonst durch Beschluss.",
+            "durch Urteil nach mündlicher Verhandlung, sonst durch Beschluss.",
+            "durch Beschluss nach mündlicher Verhandlung, sonst durch Urteil."
           ],
-          "a": 1,
-          "e": "Das Bundesverfassungsgericht entscheidet durch Urteil, wenn eine mündliche Verhandlung stattgefunden hat, und durch Beschluss in den – praktisch weit überwiegenden – Fällen ohne mündliche Verhandlung; beide Entscheidungsformen sind rechtlich verbindlich.",
+          "a": 2,
+          "e": "§ 25 Abs. 2 BVerfGG knüpft die Entscheidungsform an das Verfahren: Aufgrund mündlicher Verhandlung ergeht ein Urteil, ohne mündliche Verhandlung ein Beschluss. Die Umkehrung dieser Zuordnung trifft nicht zu. Auch an der Besetzung hängt die Form nicht: Senate entscheiden ganz überwiegend durch Beschluss, weil mündliche Verhandlungen selten sind. Die Erstattung von Rechtsgutachten war in § 97 BVerfGG a. F. vorgesehen, wurde aber 1956 gestrichen, nachdem sich das Gericht dadurch in politische Streitfragen gezogen sah.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "In welchen Jahren führte eine Vertrauensfrage nach Art. 68 GG zur Auflösung des Bundestages und zu vorgezogenen Neuwahlen?",
+          "q": "Wie oft führte eine Vertrauensfrage nach Art. 68 GG zur Auflösung des Bundestages?",
           "o": [
-            "Ausschließlich 1949 und 1953",
-            "Vertrauensfragen haben in der Geschichte der Bundesrepublik nie zu Neuwahlen geführt",
-            "Nur einmal, im Jahr 2005",
-            "Unter anderem 1972, 1982/83 und 2005"
+            "viermal",
+            "zweimal",
+            "einmal",
+            "dreimal"
           ],
           "a": 3,
-          "e": "Vorgezogene Neuwahlen über die Vertrauensfrage nach Art. 68 GG erfolgten unter anderem 1972 (Brandt), 1982/83 (Kohl, im Anschluss an das konstruktive Misstrauensvotum) und 2005 (Schröder) – ein in der Verfassungspraxis seltener, aber wiederkehrender Weg zur Auflösung des Bundestages.",
+          "e": "Dreimal: 1972 unter Willy Brandt, 1982 unter Helmut Kohl und 2005 unter Gerhard Schröder. In allen drei Fällen war die Vertrauensfrage darauf angelegt, verloren zu werden, um Neuwahlen zu ermöglichen — das Bundesverfassungsgericht hat diese sogenannte unechte Vertrauensfrage 1983 und 2005 unter engen Voraussetzungen gebilligt. Nicht mitzuzählen sind die gewonnenen Vertrauensfragen, etwa die von Helmut Schmidt im Februar 1982 und die von Gerhard Schröder im November 2001 zum Afghanistan-Einsatz; sie führten zu keiner Auflösung.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -6288,15 +6288,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was verlangt das Bundesverfassungsgericht als „ständige Rechtsprechung\" von der Auslegung einfachen Rechts im Licht der Grundrechte?",
+          "q": "In welcher Entscheidung entwickelte das Bundesverfassungsgericht die Ausstrahlungswirkung der Grundrechte auf das einfache Recht?",
           "o": [
-            "Nur das Bundesverfassungsgericht selbst, niemals die Fachgerichte, darf Grundrechte bei der Rechtsanwendung berücksichtigen",
-            "Grundrechte sind bei der Auslegung einfachen Rechts vollständig irrelevant",
-            "Fachgerichte müssen einfaches Recht im Licht der Grundrechte auslegen",
-            "Einfaches Recht muss stets wortwörtlich angewendet werden, unabhängig von grundrechtlichen Wertungen"
+            "Lüth-Urteil",
+            "Solange-Beschluss",
+            "Apotheken-Urteil",
+            "Elfes-Urteil"
           ],
-          "a": 2,
-          "e": "Seit dem Lüth-Urteil verlangt das Bundesverfassungsgericht eine „Ausstrahlungswirkung\" der Grundrechte auch auf die Auslegung einfachen Rechts, insbesondere zivilrechtlicher Generalklauseln – Grundrechte wirken so mittelbar auch im Verhältnis zwischen Privaten.",
+          "a": 0,
+          "e": "Im Lüth-Urteil von 1958 bezeichnete das Bundesverfassungsgericht die Grundrechte als objektive Wertordnung, die auf das gesamte einfache Recht ausstrahlt; die Fachgerichte müssen deshalb die Generalklauseln des Zivilrechts im Licht der Grundrechte auslegen. Aus demselben Urteil stammt die Wechselwirkungslehre zu Art. 5 Abs. 2 GG. Das Elfes-Urteil von 1957 dehnte Art. 2 Abs. 1 GG zur allgemeinen Handlungsfreiheit aus und eröffnete damit die Verfassungsbeschwerde gegen nahezu jeden Hoheitsakt. Das Apotheken-Urteil von 1958 entwickelte die Drei-Stufen-Lehre zur Berufsfreiheit. Die Solange-Beschlüsse von 1974 und 1986 betreffen das Verhältnis zum Unionsrecht.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -6420,15 +6420,15 @@
           "cat": "Staatenverantwortlichkeit, internationale Gerichte & Völkerstrafrecht"
         },
         {
-          "q": "Was regelt der Grundsatz der Verfahrensautonomie der Mitgliedstaaten im Unionsrecht?",
+          "q": "Der Grundsatz der Verfahrensautonomie überlässt den Mitgliedstaaten",
           "o": [
-            "Der Grundsatz wurde durch den Vertrag von Lissabon vollständig abgeschafft",
-            "Nur der EuGH selbst darf über nationales Verfahrensrecht entscheiden",
-            "Die Verfahrensautonomie schließt jede unionsrechtliche Einwirkung auf nationales Verfahrensrecht vollständig aus",
-            "Die Mitgliedstaaten regeln das Verfahren selbst, begrenzt durch Äquivalenz und Effektivität"
+            "die Entscheidung, ob Unionsrecht innerstaatlich angewendet wird.",
+            "die Ausgestaltung des Verfahrens ohne unionsrechtliche Bindung.",
+            "die Ausgestaltung des Verfahrens in den Grenzen von Äquivalenz und Effektivität.",
+            "die letztverbindliche Auslegung des Unionsrechts im eigenen Hoheitsgebiet."
           ],
-          "a": 3,
-          "e": "Mangels einheitlicher unionsrechtlicher Verfahrensregeln bestimmen die Mitgliedstaaten grundsätzlich selbst, wie sie Unionsrecht durchsetzen – begrenzt durch die Äquivalenz (keine Schlechterstellung unionsrechtlicher gegenüber vergleichbaren innerstaatlichen Ansprüchen) und die Effektivität (keine praktische Vereitelung der Unionsrechtsdurchsetzung).",
+          "a": 2,
+          "e": "Mangels unionsrechtlicher Verfahrensvorschriften bestimmen die Mitgliedstaaten die zuständigen Gerichte und die Verfahrensmodalitäten selbst. Der Gerichtshof begrenzt diese Autonomie seit Rewe und Comet doppelt: Die Modalitäten dürfen nicht ungünstiger sein als bei vergleichbaren innerstaatlichen Klagen und die Ausübung der Unionsrechte nicht praktisch unmöglich machen oder übermäßig erschweren. Eine Bindungsfreiheit besteht deshalb nicht. Ob Unionsrecht angewendet wird, steht nicht zur Disposition — das folgt aus Anwendungsvorrang und Loyalitätspflicht. Die letztverbindliche Auslegung liegt nach Art. 267 AEUV beim Gerichtshof.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         }
       ]
@@ -6570,39 +6570,39 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was regelt der unionsrechtliche Grundsatz der Effektivität im Verhältnis zum nationalen Verfahrensrecht?",
+          "q": "Eine Richtlinie kann nach der Rechtsprechung unmittelbare Wirkung entfalten,",
           "o": [
-            "Nationales Verfahrensrecht darf die Rechtsausübung nicht übermäßig erschweren",
-            "Der Grundsatz gilt nur für Verfahren vor dem EuGH selbst, nicht vor nationalen Gerichten",
-            "Effektivität betrifft ausschließlich die Dauer von Gerichtsverfahren, keine sonstigen Verfahrensfragen",
-            "Der Grundsatz verpflichtet die Mitgliedstaaten, ihr gesamtes Verfahrensrecht vollständig zu vereinheitlichen"
+            "auch zulasten Einzelner im Verhältnis zwischen Privatpersonen.",
+            "wenn der Mitgliedstaat sie fristgerecht in nationales Recht umgesetzt hat.",
+            "wenn sie unbedingt und hinreichend genau ist und die Frist abgelaufen ist.",
+            "sobald sie im Amtsblatt der Europäischen Union veröffentlicht ist."
           ],
-          "a": 0,
-          "e": "Der Effektivitätsgrundsatz verlangt, dass nationales Verfahrensrecht die praktische Durchsetzung unionsrechtlich verliehener Rechte nicht unmöglich macht oder übermäßig erschwert – ein wichtiges Korrektiv zur grundsätzlichen Verfahrensautonomie der Mitgliedstaaten.",
+          "a": 2,
+          "e": "Seit Van Duyn und Ratti gilt: Eine Richtlinienbestimmung wirkt unmittelbar, wenn sie inhaltlich unbedingt und hinreichend genau ist und die Umsetzungsfrist fruchtlos verstrichen ist. Bei fristgerechter Umsetzung stellt sich die Frage gerade nicht, weil dann das nationale Umsetzungsrecht gilt. Eine horizontale Wirkung zwischen Privaten lehnt der Gerichtshof seit Marshall und Faccini Dori ab; dort helfen nur richtlinienkonforme Auslegung und Staatshaftung. Die Veröffentlichung im Amtsblatt setzt lediglich die Frist in Gang und begründet für sich keine unmittelbare Wirkung.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was regelt Art. 33 GG zum Zugang zu öffentlichen Ämtern?",
+          "q": "Der Zugang zu öffentlichen Ämtern richtet sich nach Art. 33 Abs. 2 GG nach",
           "o": [
-            "Art. 33 GG regelt ausschließlich das allgemeine Wahlrecht",
-            "Der Zugang zu öffentlichen Ämtern richtet sich ausschließlich nach der Parteizugehörigkeit",
-            "Gleicher Zugang nach Eignung, Befähigung und fachlicher Leistung",
-            "Nur Angehörige bestimmter gesellschaftlicher Gruppen haben Zugang zum öffentlichen Dienst"
+            "Eignung, Befähigung und fachlicher Leistung.",
+            "Bedarf der Behörde und Vorschlag des Dienstvorgesetzten.",
+            "Dienstalter, Vorbildung und sozialer Herkunft.",
+            "Staatsangehörigkeit, Wohnsitz und Lebensalter."
           ],
-          "a": 2,
-          "e": "Art. 33 Abs. 2 GG garantiert den gleichen Zugang zu öffentlichen Ämtern nach Eignung, Befähigung und fachlicher Leistung – das Leistungsprinzip als tragender Grundsatz des öffentlichen Dienstrechts.",
+          "a": 0,
+          "e": "Art. 33 Abs. 2 GG gewährt jedem Deutschen nach Eignung, Befähigung und fachlicher Leistung gleichen Zugang zu jedem öffentlichen Amt; dieser Grundsatz der Bestenauslese ist ein grundrechtsgleiches Recht und im Konkurrentenstreitverfahren einklagbar. Dienstalter und soziale Herkunft sind gerade keine zulässigen Kriterien; das Dienstalter darf allenfalls als Hilfskriterium bei gleicher Qualifikation herangezogen werden. Die Staatsangehörigkeit betrifft den persönlichen Anwendungsbereich der Norm, nicht die Auswahlkriterien; Wohnsitz und Lebensalter sind unzulässig. Bedarf und Vorschlag des Vorgesetzten sind organisatorische Vorfragen, keine Auswahlmaßstäbe.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche hergebrachten Grundsätze des Berufsbeamtentums schützt Art. 33 Abs. 5 GG?",
+          "q": "Zu den hergebrachten Grundsätzen des Berufsbeamtentums nach Art. 33 Abs. 5 GG zählen",
           "o": [
-            "Lebenszeitprinzip, Alimentationsprinzip und Treuepflicht",
-            "Ausschließlich das Streikrecht der deutschen Beamten",
-            "Art. 33 Abs. 5 GG betrifft ausschließlich Richter, niemals Verwaltungsbeamte",
-            "Die Vorschrift wurde durch den Vertrag von Lissabon vollständig außer Kraft gesetzt"
+            "Kündigungsschutz, Mitbestimmung und Betriebsverfassung.",
+            "Streikrecht, Tarifautonomie und Koalitionsfreiheit.",
+            "Lebenszeitprinzip, Alimentationsprinzip und Treuepflicht.",
+            "Amtszeitbegrenzung, Rotationspflicht und Wählbarkeit."
           ],
-          "a": 0,
-          "e": "Art. 33 Abs. 5 GG verpflichtet den Gesetzgeber, das Recht des öffentlichen Dienstes unter Berücksichtigung der hergebrachten Grundsätze des Berufsbeamtentums zu regeln und fortzuentwickeln – etwa Lebenszeitprinzip, Alimentation und beamtenrechtliche Treuepflicht.",
+          "a": 2,
+          "e": "Die hergebrachten Grundsätze sind der über Weimar hinaus überlieferte Kernbestand des Berufsbeamtentums: Ernennung auf Lebenszeit, amtsangemessene Alimentation, Treuepflicht, Neutralität und Fürsorgepflicht des Dienstherrn. Das Streikverbot ist die Kehrseite dieser Grundsätze; das Bundesverfassungsgericht hat es 2018 ausdrücklich bestätigt — Streikrecht und Tarifautonomie zählen deshalb gerade nicht dazu. Kündigungsschutz, Mitbestimmung und Betriebsverfassung sind Institute des Arbeitsrechts und passen nicht auf das öffentlich-rechtliche Dienstverhältnis. Amtszeitbegrenzung und Rotation widersprächen dem Lebenszeitprinzip.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -6888,15 +6888,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Können auch Minderjährige bereits eigenständig bestimmte Grundrechte ausüben?",
+          "q": "Die Grundrechtsmündigkeit Minderjähriger",
           "o": [
-            "Ja; einzelne Grundrechte kennen eigene Mündigkeitsaltersgrenzen",
-            "Nein, Grundrechte können ausnahmslos erst ab Erreichen der Volljährigkeit ausgeübt werden",
-            "Minderjährige besitzen überhaupt keine eigenen Grundrechte, nur ihre Erziehungsberechtigten",
-            "Die Frage der Grundrechtsmündigkeit ist im deutschen Recht vollständig ungeregelt"
+            "geht bis zur Volljährigkeit auf die Erziehungsberechtigten über.",
+            "beginnt einheitlich mit der Vollendung des achtzehnten Lebensjahres.",
+            "richtet sich nach der Einsichtsfähigkeit im jeweiligen Grundrecht.",
+            "folgt der Geschäftsfähigkeit des Bürgerlichen Gesetzbuchs."
           ],
-          "a": 0,
-          "e": "Für einzelne Grundrechte bestehen besondere, unterhalb der allgemeinen Volljährigkeit liegende Mündigkeitsgrenzen – etwa die Religionsmündigkeit ab vierzehn Jahren nach dem Gesetz über die religiöse Kindererziehung.",
+          "a": 2,
+          "e": "Grundrechtsfähig ist jeder Mensch von Geburt an; die Grundrechtsmündigkeit — die Fähigkeit, ein Grundrecht selbst auszuüben — richtet sich demgegenüber nach der Einsichts- und Urteilsfähigkeit für das jeweilige Grundrecht. Teilweise hat der Gesetzgeber feste Grenzen gesetzt, etwa die Religionsmündigkeit mit vierzehn Jahren nach dem Gesetz über die religiöse Kindererziehung. Eine einheitliche Grenze bei achtzehn Jahren besteht deshalb nicht. Ein Übergang der Grundrechte auf die Eltern findet nicht statt; das Elternrecht des Art. 6 Abs. 2 GG ist ein eigenes Recht und zugleich Pflicht. Die zivilrechtliche Geschäftsfähigkeit betrifft Willenserklärungen im Rechtsverkehr und ist kein Maßstab für die Grundrechtsausübung.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -7134,27 +7134,27 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche drei Voraussetzungen müssen nach der Rechtsprechung des EuGH seit Francovich und Brasserie du Pêcheur für einen unionsrechtlichen Staatshaftungsanspruch kumulativ vorliegen?",
+          "q": "Ein unionsrechtlicher Staatshaftungsanspruch setzt voraus:",
           "o": [
-            "Die Staatshaftung setzt stets ein vorheriges Vertragsverletzungsverfahren der Kommission voraus",
-            "Nur vorsätzliche, niemals fahrlässige Verstöße begründen eine Staatshaftung",
-            "Rechtsverleihende Norm, hinreichend qualifizierter Verstoß, Kausalzusammenhang",
-            "Es genügt bereits jede noch so geringfügige Abweichung vom Unionsrecht"
+            "Erschöpfung des nationalen Rechtswegs und Vorlage an den Gerichtshof.",
+            "rechtsverleihende Norm, Verschulden und bezifferbarer Vermögensschaden.",
+            "vorheriges Vertragsverletzungsverfahren und Feststellung des Verstoßes.",
+            "rechtsverleihende Norm, qualifizierter Verstoß und Kausalzusammenhang."
           ],
-          "a": 2,
-          "e": "Die drei kumulativen Voraussetzungen – bezweckter Rechtsschutz des Einzelnen, hinreichend qualifizierter Verstoß, unmittelbarer Kausalzusammenhang – bilden das feste Prüfschema jedes unionsrechtlichen Staatshaftungsanspruchs, unabhängig davon, welches Staatsorgan den Verstoß begangen hat.",
+          "a": 3,
+          "e": "Seit Francovich (1991) und Brasserie du Pêcheur (1996) gelten drei kumulative Voraussetzungen: Die verletzte Norm muss dem Einzelnen Rechte verleihen, der Verstoß muss hinreichend qualifiziert sein, und zwischen Verstoß und Schaden muss ein unmittelbarer Kausalzusammenhang bestehen. Ein Verschulden verlangt der Gerichtshof ausdrücklich nicht — ein nationales Recht, das darauf abstellt, verstößt gegen den Effektivitätsgrundsatz; das ist die häufigste Verwechslung. Ein vorheriges Vertragsverletzungsverfahren ist ebenfalls nicht erforderlich, erleichtert aber den Nachweis. Eine Vorlage an den Gerichtshof ist kein Anspruchsmerkmal; über die Haftung entscheiden die nationalen Gerichte.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Voraussetzungen muss eine vorlegende Stelle erfüllen, um „Gericht\" im Sinne des Art. 267 AEUV zu sein und damit vorlageberechtigt zu sein?",
+          "q": "Als Gericht im Sinne des Art. 267 AEUV gilt eine Stelle, die",
           "o": [
-            "Nur ordentliche Gerichte im engeren nationalen Sinne, niemals andere Spruchkörper, können jemals vorlageberechtigt sein",
-            "Die Vorlageberechtigung richtet sich ausschließlich nach dem jeweiligen nationalen Verfassungsrecht",
-            "Funktionale Kriterien wie gesetzliche Grundlage, Unabhängigkeit, streitiges Verfahren",
-            "Jede Behörde, die irgendeine Entscheidung trifft, ist automatisch vorlageberechtigtes Gericht"
+            "nach nationalem Recht ausdrücklich als Gericht bezeichnet ist.",
+            "im Auftrag der Kommission Unionsrecht im Mitgliedstaat vollzieht.",
+            "unabhängig und auf gesetzlicher Grundlage streitig entscheidet.",
+            "über die Auslegung des Unionsrechts letztverbindlich entscheidet."
           ],
           "a": 2,
-          "e": "Der EuGH prüft die Gerichtseigenschaft funktional anhand von Kriterien wie gesetzlicher Grundlage, ständiger Einrichtung, obligatorischer Zuständigkeit, streitigem Verfahren, Rechtsanwendung und Unabhängigkeit – unabhängig davon, ob die Stelle nach nationalem Recht formal als „Gericht\" bezeichnet wird.",
+          "e": "Der Gerichtshof bestimmt den Gerichtsbegriff autonom und funktional: gesetzliche Grundlage, ständiger Charakter, obligatorische Gerichtsbarkeit, streitiges Verfahren, Rechtsanwendung und Unabhängigkeit. Deshalb können auch Berufungsausschüsse und Schiedsstellen vorlageberechtigt sein, während die nationale Bezeichnung allein nichts entscheidet — sonst hinge der Zugang zum Gerichtshof vom jeweiligen nationalen Recht ab. Die letztverbindliche Auslegung des Unionsrechts liegt beim Gerichtshof selbst und ist gerade kein Merkmal der vorlegenden Stelle. Verwaltungsstellen, die Unionsrecht vollziehen, entscheiden nicht in streitigem Verfahren.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -7452,27 +7452,27 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Schützt die unionsrechtliche Dienstleistungsfreiheit sowohl den Erbringer als auch den Empfänger einer grenzüberschreitenden Dienstleistung?",
+          "q": "Die Dienstleistungsfreiheit des Art. 56 AEUV schützt",
           "o": [
-            "Ja; Art. 56 AEUV schützt aktive wie passive Dienstleistungsfreiheit",
-            "Nein, geschützt ist ausschließlich der Erbringer der Dienstleistung",
-            "Nein, geschützt ist ausschließlich der Empfänger, niemals der Erbringer",
-            "Die Dienstleistungsfreiheit schützt ausschließlich juristische, niemals natürliche Personen"
+            "sowohl den Erbringer als auch den Empfänger der Dienstleistung.",
+            "die Erbringung von Dienstleistungen aus einer festen Niederlassung.",
+            "den Erbringer der Dienstleistung sowie dessen Beschäftigte.",
+            "den Empfänger der Dienstleistung und dessen Wohnsitzstaat."
           ],
           "a": 0,
-          "e": "Der EuGH erkennt neben der aktiven auch die passive Dienstleistungsfreiheit an: Auch wer sich zur Inanspruchnahme einer Dienstleistung – etwa medizinischer Behandlung oder touristischer Angebote – in einen anderen Mitgliedstaat begibt, ist durch Art. 56 AEUV geschützt.",
+          "e": "Der Gerichtshof erkennt seit Luisi und Carbone (1984) neben der aktiven auch die passive Dienstleistungsfreiheit an: Geschützt ist ebenso, wer sich zur Entgegennahme einer Leistung in einen anderen Mitgliedstaat begibt, etwa als Tourist oder Patient. Eine Beschränkung auf eine der beiden Seiten trifft deshalb nicht zu. Beschäftigte des Erbringers werden über die Arbeitnehmerfreizügigkeit und die Entsenderichtlinie erfasst, nicht über Art. 56 AEUV. Der Wohnsitzstaat ist kein Grundrechtsträger. Die dauerhafte Tätigkeit aus einer festen Niederlassung fällt in den Anwendungsbereich der Niederlassungsfreiheit nach Art. 49 AEUV — die Abgrenzung erfolgt über die Dauerhaftigkeit.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Stehen Gesellschaften nach Art. 54 AEUV natürlichen Personen bei der Ausübung der Niederlassungsfreiheit gleich?",
+          "q": "Gesellschaften stehen nach Art. 54 AEUV natürlichen Personen gleich, wenn sie",
           "o": [
-            "Gesellschaften können sich nur auf die Warenverkehrsfreiheit, niemals auf die Niederlassungsfreiheit berufen",
-            "Nein, die Niederlassungsfreiheit steht ausschließlich natürlichen Personen zu",
-            "Die Gleichstellung gilt nur für Gesellschaften mit mindestens hundert Beschäftigten",
-            "Ja; Gesellschaften mit Sitz in der Union stehen natürlichen Personen gleich"
+            "überwiegend Anteilseigner aus Mitgliedstaaten haben.",
+            "in einem Mitgliedstaat eine Zweigniederlassung unterhalten.",
+            "einen Erwerbszweck verfolgen und mindestens fünf Beschäftigte haben.",
+            "in einem Mitgliedstaat gegründet worden sind und dort ihren Sitz haben."
           ],
           "a": 3,
-          "e": "Art. 54 AEUV stellt Gesellschaften mit hinreichendem Unionsbezug natürlichen Personen bei der Niederlassungsfreiheit gleich – eine Vorschrift von erheblicher praktischer Bedeutung für die grenzüberschreitende unternehmerische Tätigkeit im Binnenmarkt.",
+          "e": "Art. 54 AEUV stellt Gesellschaften natürlichen Personen gleich, wenn sie nach den Rechtsvorschriften eines Mitgliedstaats gegründet wurden und ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung in der Union haben. Eine bloße Zweigniederlassung genügt nicht — sie ist gerade das Mittel, mit dem die Niederlassungsfreiheit ausgeübt wird, wie die Rechtssachen Centros und Überseering zeigen. Auf die Staatsangehörigkeit der Anteilseigner kommt es nicht an; eine solche Kontrollklausel wäre mit dem Gründungsprinzip unvereinbar. Der Erwerbszweck ist zwar Voraussetzung, eine Mindestzahl von Beschäftigten aber nicht.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -7632,15 +7632,15 @@
           "cat": "Völkerrecht – Grundlagen & Rechtsquellen"
         },
         {
-          "q": "Was regelt der Parlamentsvorbehalt bei bewaffneten Auslandseinsätzen der Bundeswehr, wie er vom Bundesverfassungsgericht entwickelt wurde?",
+          "q": "In welchem Gesetz ist das Verfahren der Bundestagszustimmung zu bewaffneten Auslandseinsätzen geregelt?",
           "o": [
-            "Nur der Bundespräsident, niemals der Bundestag, entscheidet über bewaffnete Auslandseinsätze",
-            "Der Bundestag muss vorab konstitutiv zustimmen, außer bei Gefahr im Verzug",
-            "Der Parlamentsvorbehalt gilt ausschließlich für Einsätze außerhalb des NATO-Bündnisgebiets",
-            "Auslandseinsätze der Bundeswehr bedürfen keinerlei parlamentarischer Beteiligung"
+            "im Wehrdisziplinargesetz",
+            "im Wehrbeauftragtengesetz",
+            "im Bundespolizeigesetz",
+            "im Parlamentsbeteiligungsgesetz"
           ],
-          "a": 1,
-          "e": "Das Bundesverfassungsgericht entwickelte aus dem Grundgesetz einen konstitutiven Parlamentsvorbehalt: Der Einsatz bewaffneter Streitkräfte bedarf grundsätzlich der vorherigen konstitutiven Zustimmung des Bundestages, mit eng begrenzten Ausnahmen bei Gefahr im Verzug und nachträglicher Billigungspflicht.",
+          "a": 3,
+          "e": "Das Parlamentsbeteiligungsgesetz von 2005 setzt die Rechtsprechung des Bundesverfassungsgerichts zum wehrverfassungsrechtlichen Parlamentsvorbehalt um: Es regelt den Antrag der Bundesregierung, das vereinfachte Zustimmungsverfahren bei Einsätzen geringer Intensität, die nachträgliche Befassung bei Gefahr im Verzug und das Rückholrecht des Bundestages. Das Soldatengesetz regelt die Rechtsstellung der Soldatinnen und Soldaten, also Dienstpflichten und Rechte im Dienstverhältnis. Das Wehrstrafgesetz enthält die militärischen Straftatbestände. Das Bundespolizeigesetz betrifft die Bundespolizei und hat mit Auslandseinsätzen der Streitkräfte nichts zu tun.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -7746,15 +7746,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Fallen wettbewerbsbeschränkende Vereinbarungen zwischen Unternehmen mit nur geringfügigen Marktanteilen stets unter das strikte Kartellverbot des Art. 101 AEUV?",
+          "q": "Wettbewerbsbeschränkende Vereinbarungen mit geringem Marktanteil fallen",
           "o": [
-            "Spürbarkeit ist ausschließlich im nationalen deutschen Kartellrecht relevant, nicht im Unionsrecht",
-            "Der Grundsatz der Spürbarkeit wurde durch den Vertrag von Lissabon vollständig abgeschafft",
-            "Nein; nach dem de-minimis-Grundsatz fehlt es an der Spürbarkeit",
-            "Ja, jede noch so geringfügige Vereinbarung unterliegt ausnahmslos dem Kartellverbot"
+            "unter das Kartellverbot, sind aber nach Art. 101 Abs. 3 AEUV freigestellt.",
+            "unter das Missbrauchsverbot marktbeherrschender Stellungen.",
+            "mangels Spürbarkeit nicht unter das Kartellverbot des Art. 101 AEUV.",
+            "in die alleinige Zuständigkeit der nationalen Kartellbehörden."
           ],
           "a": 2,
-          "e": "Nach dem Spürbarkeitsgrundsatz (de-minimis) erfasst das Kartellverbot in der Praxis nur Vereinbarungen, die eine spürbare Auswirkung auf Wettbewerb und zwischenstaatlichen Handel haben – geringfügige Vereinbarungen unterhalb bestimmter Marktanteilsschwellen bleiben regelmäßig unbeanstandet.",
+          "e": "Seit der Rechtssache Völk/Vervaecke setzt Art. 101 AEUV eine spürbare Wettbewerbsbeschränkung voraus; die Bagatellbekanntmachung der Kommission nennt Marktanteilsschwellen von zehn Prozent bei Wettbewerbern und fünfzehn Prozent bei Nichtwettbewerbern. Fehlt die Spürbarkeit, ist bereits der Tatbestand nicht erfüllt — das unterscheidet sich grundlegend von der Freistellung nach Absatz 3, die den Tatbestand voraussetzt und Effizienzgewinne verlangt. Kernbeschränkungen wie Preisabsprachen sind allerdings stets spürbar. Die nationalen Kartellbehörden wenden Art. 101 AEUV parallel an, sind aber nicht allein zuständig. Das Missbrauchsverbot des Art. 102 AEUV setzt eine marktbeherrschende Stellung voraus.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -7782,15 +7782,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Wer ist nach Art. 93 Abs. 1 Nr. 2 GG antragsberechtigt für die abstrakte Normenkontrolle vor dem Bundesverfassungsgericht?",
+          "q": "Legt ein Gericht dem Bundesverfassungsgericht ein Gesetz nach Art. 100 GG vor, so",
           "o": [
-            "Jeder einzelne Bürger, der sich durch ein Gesetz beeinträchtigt fühlt",
-            "Nur der Bundesrat als Ganzes, mit Zustimmung aller sechzehn Länder",
-            "Ausschließlich der Bundespräsident persönlich",
-            "Bundesregierung, Landesregierung oder ein Viertel des Bundestages"
+            "genügt es, dass es Zweifel an der Verfassungsmäßigkeit des Gesetzes hat.",
+            "muss eine Partei des Ausgangsverfahrens die Vorlage beantragt haben.",
+            "muss es das Gesetz für verfassungswidrig halten und das Verfahren aussetzen.",
+            "darf es das Gesetz zugleich selbst unangewendet lassen."
           ],
-          "a": 3,
-          "e": "Antragsberechtigt für die abstrakte Normenkontrolle sind Bundesregierung, eine Landesregierung oder ein Viertel der Bundestagsmitglieder – anders als bei der konkreten Normenkontrolle ist keine Betroffenheit in einem konkreten Ausgangsverfahren erforderlich, sondern eine bloß abstrakte Prüfung der Vereinbarkeit mit dem Grundgesetz genügt.",
+          "a": 2,
+          "e": "Die konkrete Normenkontrolle nach Art. 100 Abs. 1 GG setzt voraus, dass das Gericht von der Verfassungswidrigkeit eines entscheidungserheblichen nachkonstitutionellen Gesetzes überzeugt ist; es muss das Verfahren aussetzen und die Entscheidung des Bundesverfassungsgerichts einholen. Bloße Zweifel genügen nicht — sie würden das Verwerfungsmonopol des Bundesverfassungsgerichts aushöhlen. Genau dieses Monopol verbietet es dem Fachgericht auch, ein nachkonstitutionelles Gesetz eigenmächtig unangewendet zu lassen; anders liegt es nur bei vorkonstitutionellem Recht und bei Verstößen gegen Unionsrecht. Ein Antrag der Parteien ist nicht erforderlich; das Gericht legt von Amts wegen vor.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -7914,27 +7914,27 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Voraussetzung muss eine staatliche Maßnahme erfüllen, damit sie überhaupt als „Beihilfe\" im Sinne des Art. 107 Abs. 1 AEUV einzuordnen ist?",
+          "q": "Als Beihilfe im Sinne des Art. 107 Abs. 1 AEUV gilt eine Maßnahme, die",
           "o": [
-            "Staatliche Mittel, selektiver Vorteil, Wettbewerbs- und Handelsbeeinträchtigung",
-            "Nur Zahlungen an ausländische, niemals an inländische Unternehmen, können Beihilfen darstellen",
-            "Beihilfen setzen stets eine förmliche Genehmigung durch den Bundestag voraus",
-            "Jede staatliche Ausgabe, unabhängig von ihrem Empfänger, gilt automatisch als Beihilfe"
+            "der Kommission vor ihrer Gewährung förmlich angezeigt worden ist.",
+            "aus staatlichen Mitteln allen Unternehmen einer Branche zugutekommt.",
+            "von einem öffentlichen Unternehmen zu Marktbedingungen gewährt wird.",
+            "aus staatlichen Mitteln selektiv begünstigt und den Handel beeinträchtigt."
           ],
-          "a": 0,
-          "e": "Der Beihilfebegriff des Art. 107 Abs. 1 AEUV setzt kumulativ voraus: staatliche oder aus staatlichen Mitteln gewährte Zuwendung, selektiver wirtschaftlicher Vorteil für ein Unternehmen, Eignung zur Wettbewerbsverfälschung und Beeinträchtigung des zwischenstaatlichen Handels – erst wenn alle Elemente vorliegen, greift die beihilferechtliche Kontrolle.",
+          "a": 3,
+          "e": "Der Beihilfebegriff hat vier kumulative Merkmale: Gewährung aus staatlichen Mitteln, begünstigende Wirkung, Selektivität und Eignung, Wettbewerb und zwischenstaatlichen Handel zu beeinträchtigen. Eine Maßnahme, die allen Unternehmen einer Branche gleichermaßen zugutekommt, ist eine allgemeine wirtschaftspolitische Maßnahme und gerade nicht selektiv. Handelt ein öffentliches Unternehmen zu Marktbedingungen, fehlt der Vorteil — das ist der Grundsatz des marktwirtschaftlich handelnden Kapitalgebers. Die Anmeldung ist eine Verfahrenspflicht und kein Tatbestandsmerkmal; sie setzt den Beihilfecharakter voraus.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was regelt Art. 79 GG zum Verfahren einer Grundgesetzänderung?",
+          "q": "Eine Änderung des Grundgesetzes bedarf nach Art. 79 GG",
           "o": [
-            "Das Grundgesetz kann nur durch ein neues, vollständig eigenständiges Verfassungsdokument geändert werden",
-            "Eine einfache Mehrheit in Bundestag und Bundesrat genügt für jede Verfassungsänderung",
-            "Verfassungsänderungen bedürfen stets einer Volksabstimmung",
-            "Zweidrittelmehrheit in Bundestag und Bundesrat sowie Textänderung"
+            "der Zustimmung von zwei Dritteln in Bundestag und Bundesrat.",
+            "einer Volksabstimmung nach Art. 146 GG.",
+            "der Zustimmung von zwei Dritteln der Mitglieder des Bundestages.",
+            "der absoluten Mehrheit in Bundestag und Bundesrat."
           ],
-          "a": 3,
-          "e": "Art. 79 GG verlangt für eine Verfassungsänderung die Zweidrittelmehrheit in Bundestag und Bundesrat sowie eine ausdrückliche Änderung des Grundgesetztextes selbst – stillschweigende oder durch bloße Auslegung erfolgende Verfassungsänderungen sind ausgeschlossen (Grundsatz der Textänderung).",
+          "a": 0,
+          "e": "Art. 79 Abs. 2 GG verlangt für jede Verfassungsänderung die Zustimmung von zwei Dritteln der Mitglieder des Bundestages und von zwei Dritteln der Stimmen des Bundesrates; nach Abs. 1 muss der Wortlaut des Grundgesetzes ausdrücklich geändert oder ergänzt werden, eine bloße Durchbrechung genügt nicht. Die Zustimmung des Bundestages allein reicht deshalb nicht aus — die Mitwirkung der Länderkammer ist Ausdruck des Bundesstaatsprinzips. Die absolute Mehrheit ist das Quorum der Kanzlerwahl nach Art. 63 GG, nicht das der Verfassungsänderung. Art. 146 GG betrifft die Ablösung des Grundgesetzes durch eine vom Volk beschlossene Verfassung, nicht seine Änderung.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -8064,15 +8064,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Wonach richtet sich bei der Einfuhr einer Ware aus einem Drittstaat in die Europäische Union grundsätzlich der anzuwendende Zollsatz?",
+          "q": "Der bei der Einfuhr aus einem Drittstaat anzuwendende Zollsatz richtet sich nach",
           "o": [
-            "Nach dem präferenziellen oder nichtpräferenziellen Warenursprung der Ware gemäß den Ursprungsregeln des Unionszollrechts",
-            "Ausschließlich nach dem Reisedatum des einführenden Unternehmens",
-            "Ausschließlich nach dem Gewicht der Ware, unabhängig von ihrer Herkunft",
-            "Der Zollsatz richtet sich ausschließlich nach dem Bestimmungsland innerhalb der Union, nicht nach dem Ursprungsland"
+            "dem Zeitpunkt der Anmeldung bei der zuständigen Zollstelle.",
+            "dem Ursprung der Ware nach den Ursprungsregeln des Zollkodex.",
+            "dem Bestimmungsmitgliedstaat innerhalb des Zollgebiets der Union.",
+            "dem Sitz des einführenden Unternehmens innerhalb der Union."
           ],
-          "a": 0,
-          "e": "Der anwendbare Zollsatz richtet sich maßgeblich nach dem gemäß den unionsrechtlichen Ursprungsregeln bestimmten Warenursprung – präferenzielle Ursprungsregeln (etwa im Rahmen von Freihandelsabkommen) können dabei zu vergünstigten Zollsätzen führen.",
+          "a": 1,
+          "e": "Der Zollsatz ergibt sich aus der Kombination von Warentarifnummer und Ursprung. Der Unionszollkodex unterscheidet den nichtpräferenziellen Ursprung, der über die vollständige Gewinnung oder die letzte wesentliche Be- oder Verarbeitung bestimmt wird, vom präferenziellen Ursprung nach Freihandelsabkommen, der ermäßigte Sätze eröffnet. Auf den Bestimmungsmitgliedstaat kommt es nicht an: Die Zollunion kennt einen einheitlichen Außenzolltarif, weshalb der Zollsatz überall gleich ist. Der Sitz des Einführers ist ohne Belang. Der Anmeldezeitpunkt bestimmt lediglich, welche Fassung des Tarifs anzuwenden ist, nicht die Höhe als solche.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -8088,15 +8088,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Grundsätze schützt Art. 79 Abs. 3 GG (Ewigkeitsgarantie) ausdrücklich vor jeder Verfassungsänderung?",
+          "q": "Welche Artikel des Grundgesetzes schützt die Ewigkeitsgarantie des Art. 79 Abs. 3 GG vor Änderung?",
           "o": [
-            "Gliederung in Länder, deren Mitwirkung sowie Art. 1 und Art. 20 GG",
-            "Die Ewigkeitsgarantie schützt sämtliche Artikel des Grundgesetzes gleichermaßen, ohne jede inhaltliche Beschränkung",
-            "Ausschließlich das Wahlrecht zum Bundestag",
-            "Ausschließlich die Wehrverfassung und das Bundeswehrrecht"
+            "Art. 20 und Art. 28 GG",
+            "Art. 1 und Art. 19 GG",
+            "Art. 1 bis Art. 19 GG",
+            "Art. 1 und Art. 20 GG"
           ],
-          "a": 0,
-          "e": "Art. 79 Abs. 3 GG entzieht die föderale Gliederung, die grundsätzliche Länderbeteiligung an der Gesetzgebung sowie die in Art. 1 (Menschenwürde) und Art. 20 GG (Staatsstrukturprinzipien) niedergelegten Grundsätze jeder – auch mit verfassungsändernder Mehrheit vorgenommenen – Änderung.",
+          "a": 3,
+          "e": "Art. 79 Abs. 3 GG erklärt eine Änderung für unzulässig, die die Gliederung des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten Grundsätze berührt. Geschützt sind damit die Menschenwürde und die Staatsstrukturprinzipien Demokratie, Rechtsstaat, Sozialstaat, Bundesstaat und Republik. Art. 19 GG enthält die Schranken-Schranken einschließlich der Wesensgehaltsgarantie, ist aber selbst nicht von der Ewigkeitsgarantie erfasst. Art. 28 GG überträgt die Prinzipien auf die Länder und wird über das Bundesstaatsprinzip mittelbar geschützt, ist aber nicht ausdrücklich genannt. Der gesamte Grundrechtsteil steht ebenfalls nicht unter der Garantie — änderbar bleibt er in den Grenzen des Art. 1 GG.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -8664,15 +8664,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Was regelt die EU-Dienstleistungsrichtlinie von 2006 im Kern?",
+          "q": "Die Dienstleistungsrichtlinie von 2006 verpflichtet die Mitgliedstaaten vor allem",
           "o": [
-            "Sie regelt ausschließlich die Anerkennung akademischer Abschlüsse",
-            "Sie wurde nie tatsächlich in nationales Recht umgesetzt",
-            "Sie erleichtert die grenzüberschreitende Erbringung von Dienstleistungen",
-            "Sie vereinheitlicht ausschließlich den Warenhandel innerhalb der Union"
+            "zur Vereinheitlichung der Umsatzsteuersätze auf Dienstleistungen.",
+            "zum Abbau von Genehmigungserfordernissen für Dienstleister.",
+            "zur Einführung eines einheitlichen europäischen Arbeitsvertrags.",
+            "zur gegenseitigen Anerkennung akademischer Abschlüsse."
           ],
-          "a": 2,
-          "e": "Die Dienstleistungsrichtlinie sollte den Binnenmarkt für Dienstleistungen vertiefen; das ursprünglich diskutierte, politisch umstrittene reine Herkunftslandprinzip – nach dem allein das Recht des Herkunftsstaats des Dienstleisters gälte – wurde im Gesetzgebungsverfahren zugunsten differenzierterer Regelungen deutlich abgeschwächt.",
+          "a": 1,
+          "e": "Die Richtlinie 2006/123/EG verlangt, Genehmigungserfordernisse zu überprüfen und abzubauen, einheitliche Ansprechpartner einzurichten und Verfahren elektronisch zu ermöglichen; das ursprünglich vorgesehene Herkunftslandprinzip wurde im Gesetzgebungsverfahren gestrichen. Die Anerkennung von Berufsqualifikationen regelt die eigene Richtlinie 2005/36/EG. Die Umsatzsteuersätze sind nicht vereinheitlicht, sondern durch die Mehrwertsteuersystemrichtlinie lediglich in Bandbreiten harmonisiert. Einen einheitlichen europäischen Arbeitsvertrag gibt es nicht; das Arbeitsvertragsrecht bleibt nationale Zuständigkeit.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -8688,15 +8688,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welches Minderheitenrecht sieht Art. 44 GG für die Einsetzung eines parlamentarischen Untersuchungsausschusses vor?",
+          "q": "Auf Antrag welchen Anteils seiner Mitglieder muss der Bundestag einen Untersuchungsausschuss einsetzen?",
           "o": [
-            "Nur die Bundesregierung selbst kann einen Untersuchungsausschuss einsetzen",
-            "Die Einsetzung bedarf stets der Zustimmung des Bundesrates",
-            "Ein Untersuchungsausschuss kann nur mit Zustimmung der Bundesregierung eingesetzt werden",
-            "Ein Viertel der Mitglieder kann die Einsetzung erzwingen"
+            "ein Fünftel",
+            "ein Drittel",
+            "ein Zehntel",
+            "ein Viertel"
           ],
           "a": 3,
-          "e": "Art. 44 GG gewährt der parlamentarischen Minderheit ein starkes Kontrollrecht: Bereits ein Viertel der Bundestagsmitglieder kann die Einsetzung eines Untersuchungsausschusses erzwingen – ein wichtiges Instrument der Opposition zur Kontrolle der Regierungsmehrheit.",
+          "e": "Art. 44 Abs. 1 GG verpflichtet den Bundestag, auf Antrag eines Viertels seiner Mitglieder einen Untersuchungsausschuss einzusetzen. Das Untersuchungsrecht ist damit ein Minderheitenrecht und das schärfste Instrument parlamentarischer Kontrolle: Die Mehrheit kann die Einsetzung nicht verhindern. Dasselbe Quorum gilt seit 2009 für die abstrakte Normenkontrolle. Ein Zehntel und ein Fünftel sind im Grundgesetz keine Quoren des Bundestages; ein Drittel war bis 2009 das Quorum der abstrakten Normenkontrolle, betrifft aber den Untersuchungsausschuss nicht.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -8994,15 +8994,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was regelt das deutsche „Karenzzeitgesetz\" für ausgeschiedene Mitglieder der Bundesregierung?",
+          "q": "Für ausgeschiedene Mitglieder der Bundesregierung gilt nach dem Bundesministergesetz",
           "o": [
-            "Anzeigepflicht und befristete Karenzzeit bei Ressortbezug",
-            "Das Gesetz wurde niemals tatsächlich förmlich verabschiedet",
-            "Es betrifft ausschließlich amtierende, nicht ausgeschiedene Regierungsmitglieder",
-            "Es verbietet ausgeschiedenen Regierungsmitgliedern jede spätere berufliche Tätigkeit lebenslang"
+            "eine Wartefrist von fünf Jahren für sämtliche Erwerbstätigkeiten.",
+            "eine Anzeigepflicht und eine befristete Karenzzeit bei Ressortbezug.",
+            "ein lebenslanges Verbot der Tätigkeit in der Privatwirtschaft.",
+            "eine Genehmigungspflicht durch den Präsidenten des Bundestages."
           ],
-          "a": 0,
-          "e": "Das 2015 eingeführte Karenzzeitgesetz verpflichtet ausgeschiedene Regierungsmitglieder zur Anzeige geplanter Tätigkeiten mit Bezug zu ihrem früheren Amt und erlaubt in bestimmten Fällen die Anordnung einer befristeten Karenzzeit, um den Anschein unlauterer Interessenverflechtung zu vermeiden.",
+          "a": 1,
+          "e": "Seit der Änderung des Bundesministergesetzes 2015 müssen ausgeschiedene Regierungsmitglieder eine beabsichtigte Erwerbstätigkeit anzeigen, wenn sie innerhalb von achtzehn Monaten nach dem Ausscheiden aufgenommen wird; die Bundesregierung kann sie für längstens achtzehn Monate untersagen, wenn ein Bezug zur früheren Amtstätigkeit öffentliche Interessen beeinträchtigt. Ein lebenslanges Tätigkeitsverbot wäre mit der Berufsfreiheit unvereinbar. Zuständig ist die Bundesregierung auf Empfehlung eines beratenden Gremiums, nicht der Bundestagspräsident. Eine pauschale Fünfjahresfrist für jede Erwerbstätigkeit sieht das Gesetz nicht vor; maßgeblich ist der sachliche Zusammenhang mit dem früheren Amt.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -9264,15 +9264,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Bedeutung hat der „Marktzugangstest\" (market access test) als ergänzendes Prüfkriterium in neuerer Rechtsprechung zu den Grundfreiheiten?",
+          "q": "Der Marktzugangstest prüft bei den Grundfreiheiten,",
           "o": [
-            "Der Marktzugangstest betrifft ausschließlich Fragen des Wettbewerbsrechts, nicht der Grundfreiheiten",
-            "Er ersetzt vollständig die klassische Prüfung von Diskriminierung und Beschränkung",
-            "Der Test wurde vom EuGH ausdrücklich und vollständig verworfen",
-            "Ob eine Maßnahme den Marktzugang erschwert, auch ohne Diskriminierung"
+            "ob eine Maßnahme den Wettbewerb zwischen Unternehmen verfälscht.",
+            "ob eine Maßnahme den Zugang zum Markt erschwert, auch ohne Diskriminierung.",
+            "ob eine Maßnahme dem Grundsatz der Verhältnismäßigkeit entspricht.",
+            "ob eine Maßnahme inländische und ausländische Anbieter ungleich behandelt."
           ],
-          "a": 3,
-          "e": "Der Marktzugangstest ergänzt die klassische Diskriminierungs- und Beschränkungsprüfung um die Frage, ob eine Maßnahme den tatsächlichen Zugang zum Markt eines anderen Mitgliedstaats in relevanter Weise erschwert – ein in Teilen der neueren Rechtsprechung und Literatur diskutierter zusätzlicher Prüfansatz.",
+          "a": 1,
+          "e": "Der Marktzugangstest löst die Prüfung von der Diskriminierung: Erfasst wird jede Maßnahme, die den Zugang zum Markt eines Mitgliedstaats erschwert, auch wenn sie In- und Ausländer formal gleich behandelt. Der Gerichtshof wandte ihn etwa in den Rechtssachen Kommission/Italien zu Motorradanhängern und Mickelsson an. Die Prüfung ungleicher Behandlung ist demgegenüber der klassische Diskriminierungsansatz, den der Test gerade ergänzt statt ihn zu wiederholen. Die Verfälschung des Wettbewerbs zwischen Unternehmen ist Maßstab des Kartellrechts. Die Verhältnismäßigkeit wird erst auf der Rechtfertigungsebene geprüft, nachdem der Anwendungsbereich bejaht wurde.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -9312,15 +9312,15 @@
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat das Rederecht der Mitglieder der Bundesregierung im Bundestag und im Bundesrat nach Art. 43 Abs. 2 GG?",
+          "q": "Nach Art. 43 Abs. 2 GG haben die Mitglieder der Bundesregierung",
           "o": [
-            "Regierungsmitglieder dürfen den Bundestag überhaupt nicht betreten",
-            "Sie sind jederzeit in beiden Häusern und deren Ausschüssen zu hören",
-            "Nur die Bundeskanzlerin bzw. der Bundeskanzler persönlich besitzt dieses Rederecht, nicht die übrigen Regierungsmitglieder",
-            "Das Rederecht gilt ausschließlich gegenüber dem Bundesrat, nicht gegenüber dem Bundestag"
+            "ein Rederecht erst nach Beschluss des jeweiligen Präsidiums.",
+            "Zutritt zu beiden Häusern und ein jederzeitiges Rederecht.",
+            "ein Stimmrecht in den Ausschüssen von Bundestag und Bundesrat.",
+            "Zutritt zum Bundestag, nicht jedoch zum Bundesrat."
           ],
           "a": 1,
-          "e": "Art. 43 Abs. 2 GG gewährt den Mitgliedern der Bundesregierung ein Zutritts- und Rederecht zu Bundestag, Bundesrat und deren Ausschüssen – ein wichtiges institutionelles Recht zur Sicherung des Zusammenspiels zwischen Exekutive und Legislative.",
+          "e": "Art. 43 Abs. 2 GG gibt den Mitgliedern der Bundesregierung und des Bundesrates sowie ihren Beauftragten Zutritt zu allen Sitzungen des Bundestages und seiner Ausschüsse; sie müssen jederzeit gehört werden. Das Recht besteht in beiden Häusern und ist das Gegenstück zum Zitierrecht des Art. 43 Abs. 1 GG, mit dem das Parlament die Anwesenheit erzwingen kann. Eine Beschränkung auf den Bundestag besteht nicht. Ein Beschluss des Präsidiums ist nicht erforderlich — gerade die Unbedingtheit des Rederechts macht seinen Wert aus. Ein Stimmrecht folgt daraus nicht; abgestimmt wird allein von den Mitgliedern des jeweiligen Organs.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -9582,15 +9582,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche zusätzliche Zuständigkeit erhielten die nationalen Wettbewerbsbehörden durch die Modernisierung des EU-Kartellverfahrensrechts?",
+          "q": "Durch die Verordnung 1/2003 erhielten die nationalen Wettbewerbsbehörden",
           "o": [
-            "Ihre Zuständigkeit beschränkte sich seither ausschließlich auf rein nationales Wettbewerbsrecht ohne jeden Unionsrechtsbezug",
-            "Nationale Wettbewerbsbehörden dürfen seither nur noch beratend, niemals entscheidend, tätig werden",
-            "Sie dürfen Art. 101 und 102 AEUV parallel zur Kommission selbst anwenden",
-            "Sie verloren durch die Reform jede Zuständigkeit im Kartellrecht vollständig an die Kommission"
+            "die Zuständigkeit für Beihilfeverfahren nach Art. 108 AEUV.",
+            "ein Vorschlagsrecht für Geldbußen der Europäischen Kommission.",
+            "die Befugnis, Zusammenschlüsse mit Unionsbezug selbst zu kontrollieren.",
+            "die Befugnis, Art. 101 und 102 AEUV unmittelbar selbst anzuwenden."
           ],
-          "a": 2,
-          "e": "Die Modernisierung des Kartellverfahrensrechts stärkte die dezentrale Durchsetzung: Nationale Wettbewerbsbehörden wie das Bundeskartellamt wenden seither die unionsrechtlichen Wettbewerbsregeln parallel zur Kommission unmittelbar selbst an, koordiniert über das Europäische Wettbewerbsnetzwerk.",
+          "a": 3,
+          "e": "Die Verordnung 1/2003 ersetzte zum 1. Mai 2004 das Anmelde- und Genehmigungssystem durch ein System der Legalausnahme: Nationale Behörden und Gerichte wenden Art. 101 und 102 AEUV unmittelbar an und arbeiten im Europäischen Wettbewerbsnetz mit der Kommission zusammen. Die Fusionskontrolle blieb davon unberührt; sie folgt der eigenen Verordnung 139/2004 und liegt bei unionsweiter Bedeutung bei der Kommission. Ein Vorschlagsrecht für deren Geldbußen besteht nicht — jede Behörde verhängt eigene Sanktionen. Beihilfeverfahren blieben ausschließlich bei der Kommission.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -9864,15 +9864,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Was regeln die Gemeinschaftsaufgaben nach Art. 91a und 91b GG?",
+          "q": "Die Gemeinschaftsaufgaben nach Art. 91a und 91b GG betreffen Bereiche,",
           "o": [
-            "Ausschließlich Aufgaben, die allein von den Ländern ohne jede Bundesbeteiligung wahrgenommen werden",
-            "Bereiche, in denen Bund und Länder zusammenwirken und gemeinsam finanzieren",
-            "Gemeinschaftsaufgaben wurden durch die Föderalismusreform vollständig abgeschafft",
-            "Ausschließlich Aufgaben, die allein vom Bund ohne jede Länderbeteiligung wahrgenommen werden"
+            "die den Ländern übertragen sind und vom Bund erstattet werden.",
+            "in denen Bund und Länder zusammenwirken und gemeinsam finanzieren.",
+            "die durch Staatsvertrag zwischen den Ländern geregelt werden.",
+            "die der Bund allein wahrnimmt und aus seinem Haushalt trägt."
           ],
           "a": 1,
-          "e": "Die Gemeinschaftsaufgaben nach Art. 91a und 91b GG erlauben ein Zusammenwirken von Bund und Ländern bei bestimmten, im Grundgesetz benannten Aufgaben von gesamtstaatlicher Bedeutung, einschließlich gemeinsamer Finanzierung – ein Instrument des kooperativen Föderalismus, das nach der Föderalismusreform 2006 eingeschränkt, aber nicht vollständig abgeschafft wurde.",
+          "e": "Art. 91a GG nennt die Verbesserung der regionalen Wirtschaftsstruktur sowie der Agrarstruktur und des Küstenschutzes; Art. 91b erlaubt das Zusammenwirken bei Wissenschaft, Forschung und Bildung. Kennzeichnend ist die gemeinsame Aufgabenwahrnehmung samt Mitfinanzierung des Bundes, die vom Grundsatz der getrennten Aufgaben- und Finanzverantwortung des Art. 104a GG abweicht. Aufgaben, die der Bund allein trägt, sind Bundesaufgaben in eigener Verwaltung nach Art. 86 ff. GG. Die Erstattung von Ausgaben bei Bundesauftragsverwaltung regelt Art. 104a Abs. 2 GG. Staatsverträge zwischen den Ländern, etwa zum Rundfunk, stehen außerhalb der Gemeinschaftsaufgaben.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -9996,15 +9996,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Bedeutung hat das Zustimmungsgesetz nach Art. 59 Abs. 2 GG für völkerrechtliche Verträge, die sich auf Gegenstände der Bundesgesetzgebung beziehen?",
+          "q": "Völkerrechtliche Verträge über Gegenstände der Bundesgesetzgebung bedürfen nach Art. 59 Abs. 2 GG",
           "o": [
-            "Sie bedürfen der Zustimmung der Gesetzgebungskörperschaften durch Gesetz",
-            "Ein Zustimmungsgesetz ist für völkerrechtliche Verträge grundsätzlich nie erforderlich",
-            "Das Zustimmungsgesetz betrifft ausschließlich Verträge mit EU-Mitgliedstaaten",
-            "Nur der Bundespräsident allein kann über den Abschluss solcher Verträge entscheiden, ohne jede parlamentarische Beteiligung"
+            "der Ausfertigung durch den Bundespräsidenten ohne weitere Mitwirkung.",
+            "einer Rechtsverordnung der fachlich zuständigen Bundesregierung.",
+            "der Zustimmung des Bundesrates durch schlichten Parlamentsbeschluss.",
+            "der Zustimmung der gesetzgebenden Körperschaften in Form eines Gesetzes."
           ],
-          "a": 0,
-          "e": "Art. 59 Abs. 2 GG verlangt für völkerrechtliche Verträge, die Gegenstände der Bundesgesetzgebung regeln oder politischen Charakter haben, die Zustimmung oder Mitwirkung der gesetzgebenden Körperschaften in Form eines Bundesgesetzes – ein zentrales parlamentarisches Mitwirkungsrecht bei der deutschen Außenvertragspraxis.",
+          "a": 3,
+          "e": "Art. 59 Abs. 2 Satz 1 GG verlangt für Verträge, die die politischen Beziehungen des Bundes regeln oder sich auf Gegenstände der Bundesgesetzgebung beziehen, ein förmliches Vertragsgesetz; erst danach kann der Bundespräsident ratifizieren. Ein schlichter Parlamentsbeschluss genügt nicht — die Gesetzesform sichert die parlamentarische Verantwortung und schafft zugleich den innerstaatlichen Anwendungsbefehl. Eine Rechtsverordnung scheidet aus, weil sie gerade keine parlamentarische Mitwirkung enthält; sie kommt nur bei Verwaltungsabkommen nach Abs. 2 Satz 2 in Betracht. Die Ausfertigung durch den Bundespräsidenten ist der letzte Schritt, ersetzt aber die Zustimmung nicht.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -10206,15 +10206,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Besonderheit weist das deutsche Asylgrundrecht des Art. 16a GG im Vergleich zu vielen anderen Rechtsordnungen auf?",
+          "q": "Das Asylrecht des Art. 16a GG",
           "o": [
-            "Art. 16a GG gilt ausschließlich für EU-Bürger, nicht für Drittstaatsangehörige",
-            "Es steht ausschließlich im Rang eines einfachen Bundesgesetzes, nicht im Verfassungsrang",
-            "Es ist ein eigenständiges Grundrecht im Verfassungsrang",
-            "Es wurde im Jahr 1993 vollständig aus dem Grundgesetz gestrichen"
+            "steht im Rang eines einfachen Bundesgesetzes.",
+            "ist ein subjektives Grundrecht mit Verfassungsrang.",
+            "gilt seit 1993 ausschließlich für Angehörige von EU-Staaten.",
+            "wurde 1993 durch eine bloße Staatszielbestimmung ersetzt."
           ],
-          "a": 2,
-          "e": "Das deutsche Asylgrundrecht ist – anders als in vielen anderen Rechtsordnungen, die Asyl eher als politisches Ermessen oder einfachgesetzliche Regelung ausgestalten – als eigenständiges, im Verfassungsrang stehendes Individualgrundrecht verankert, wenngleich seit dem Asylkompromiss von 1993 mit erheblichen Einschränkungen wie der Drittstaatenregelung.",
+          "a": 1,
+          "e": "Deutschland ist eines der wenigen Länder, das ein individuell einklagbares Asylrecht im Verfassungsrang kennt; es geht auf die Erfahrung der Emigration nach 1933 zurück und stand bis 1993 als Art. 16 Abs. 2 Satz 2 GG im Grundgesetz. Der Asylkompromiss von 1993 verlagerte es in den neuen Art. 16a GG und schränkte es durch die Drittstaaten- und die Flughafenregelung erheblich ein, hob es aber weder auf noch stufte es ihn herab. Ein einfachgesetzlicher Rang besteht deshalb nicht; das Asylgesetz konkretisiert das Grundrecht lediglich. Eine Beschränkung auf Unionsbürger wäre sinnwidrig, da diese in der Regel aus sicheren Herkunftsstaaten kommen. Eine Staatszielbestimmung wäre nicht einklagbar.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -10500,15 +10500,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Ist das Bundesverfassungsgericht rechtlich formal an seine eigene frühere Rechtsprechung gebunden, vergleichbar einem strikten Präzedenzsystem?",
+          "q": "An seine eigene frühere Rechtsprechung ist das Bundesverfassungsgericht",
           "o": [
-            "Nur der Große Senat, niemals ein einzelner Senat, darf jemals von früherer Rechtsprechung abweichen",
-            "Ja, das Gericht ist formal-rechtlich strikt und unwiderruflich an jede frühere eigene Entscheidung gebunden",
-            "Nein; formal nicht gebunden, faktisch aber hohe Kontinuität",
-            "Frühere Entscheidungen verlieren automatisch nach zehn Jahren jede Bedeutung"
+            "gebunden, bis der Gesetzgeber eine abweichende Regelung trifft.",
+            "über § 31 BVerfGG ebenso gebunden wie die übrigen Gerichte.",
+            "bei Senatsentscheidungen gebunden, bei Kammerbeschlüssen dagegen frei.",
+            "rechtlich nicht gebunden, hält tatsächlich aber hohe Kontinuität."
           ],
-          "a": 2,
-          "e": "Formal-rechtlich ist das Bundesverfassungsgericht nicht im engeren Sinne an seine eigene frühere Rechtsprechung gebunden und kann sie – etwa bei geänderten Verhältnissen oder besseren Erkenntnissen – ändern; aus Gründen der Rechtssicherheit, Konsistenz und Vorhersehbarkeit pflegt es in der Praxis aber eine hohe Kontinuität und begründet Abweichungen besonders sorgfältig.",
+          "a": 3,
+          "e": "Das deutsche Recht kennt keine strikte Präzedenzbindung; das Bundesverfassungsgericht kann seine Rechtsprechung ändern und hat das mehrfach getan, etwa beim Kopftuch und bei der Vermögensteuer. Tatsächlich weicht es nur selten und mit ausführlicher Begründung ab. § 31 Abs. 1 BVerfGG bindet die übrigen Verfassungsorgane, Gerichte und Behörden an seine Entscheidungen — das Gericht selbst ist davon nicht erfasst. Eine Bindung nach Spruchkörpern besteht ebenfalls nicht; will ein Senat von der Rechtsauffassung des anderen abweichen, entscheidet nach § 16 BVerfGG das Plenum. Der einfache Gesetzgeber kann eine verfassungsgerichtliche Auslegung des Grundgesetzes nicht aufheben.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -10806,39 +10806,39 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass der EuGH bei der Kontrolle nationaler Maßnahmen auch deren tatsächliche, nicht nur rechtliche Wirkung auf den Binnenmarkt berücksichtigt?",
+          "q": "Bei der Prüfung nationaler Maßnahmen an den Grundfreiheiten berücksichtigt der Gerichtshof",
           "o": [
-            "Der EuGH verzichtet grundsätzlich auf jede empirische Tatsachenwürdigung",
-            "Die tatsächliche Wirkung einer Maßnahme ist für die unionsrechtliche Prüfung vollständig irrelevant",
-            "Auch die faktische Wirkung einer Maßnahme auf den Handel zählt",
-            "Der EuGH prüft ausschließlich den Wortlaut einer nationalen Regelung, niemals ihre tatsächliche praktische Wirkung"
+            "den Wortlaut der beanstandeten Regelung ohne deren Wirkung.",
+            "auch die tatsächliche Wirkung einer Maßnahme auf den Handel.",
+            "die Absicht des nationalen Gesetzgebers bei ihrem Erlass.",
+            "die Rechtsprechung der nationalen Verfassungsgerichte dazu."
           ],
-          "a": 2,
-          "e": "Der EuGH prüft bei der Kontrolle nationaler Maßnahmen regelmäßig auch deren tatsächliche, faktische Wirkung auf den grenzüberschreitenden Handel – unabhängig von der formalen rechtlichen Einordnung im nationalen Recht, um eine Umgehung des Unionsrechts durch bloße Umetikettierung zu verhindern.",
+          "a": 1,
+          "e": "Seit Dassonville stellt der Gerichtshof auf die Wirkung ab: Erfasst ist jede Regelung, die den Handel unmittelbar oder mittelbar, tatsächlich oder potenziell behindern kann. Deshalb können auch formal neutrale Vorschriften an den Grundfreiheiten scheitern, wenn sie sich faktisch stärker auf eingeführte Erzeugnisse auswirken. Eine bloße Wortlautprüfung würde diesen Ansatz aufgeben. Auf eine Behinderungsabsicht kommt es nicht an — sie ist weder erforderlich noch ausreichend. Die Rechtsprechung nationaler Verfassungsgerichte bindet den Gerichtshof bei der Auslegung des Unionsrechts nicht.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Bedeutung hatte die Wahlrechtsreform von 2013 im Zusammenhang mit Überhang- und Ausgleichsmandaten?",
+          "q": "Die Wahlrechtsreform von 2013 reagierte auf",
           "o": [
-            "Die Reform betraf ausschließlich das Europawahlrecht, nicht die Bundestagswahl",
-            "Sie schaffte Überhangmandate vollständig ersatzlos ab, ohne jeden Ausgleich",
-            "Es gab niemals eine Wahlrechtsreform in diesem Zusammenhang",
-            "Sie reagierte auf das negative Stimmgewicht und schuf Ausgleichsmandate"
+            "die Briefwahl und band sie an einen besonderen Antragsgrund.",
+            "das negative Stimmgewicht und führte Ausgleichsmandate ein.",
+            "die Zahl der Wahlkreise und verringerte sie auf 250.",
+            "die Fünfprozenthürde und senkte sie auf drei Prozent ab."
           ],
-          "a": 3,
-          "e": "Die Wahlrechtsreform von 2013 reagierte auf verfassungsgerichtliche Beanstandungen des sogenannten negativen Stimmgewichts und führte umfassende Ausgleichsmandate für die übrigen Parteien ein, um die Verhältniswahlgrundsätze trotz auftretender Überhangmandate zu wahren – mit der Folge einer teils erheblich vergrößerten Bundestagsgröße in der Folgezeit.",
+          "a": 1,
+          "e": "Das Bundesverfassungsgericht hatte 2008 und erneut 2012 das Phänomen des negativen Stimmgewichts beanstandet, bei dem mehr Zweitstimmen für eine Partei zu weniger Mandaten führen konnten. Die Reform von 2013 beseitigte den Effekt, indem Überhangmandate durch Ausgleichsmandate für die übrigen Parteien kompensiert werden — mit der Folge stark wachsender Bundestage bis zur Reform von 2023. Die Fünfprozenthürde blieb unangetastet; gekippt wurde 2011 und 2014 lediglich die Sperrklausel bei Europawahlen. Die Zahl der Wahlkreise blieb bei 299 und wurde erst 2023 zum Gegenstand einer Reform. Der Antragsgrund für die Briefwahl war bereits 2008 entfallen.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz der Wahlrechtsgleichheit für die Größe der Wahlkreise bei der Bundestagswahl?",
+          "q": "Bei welcher Abweichung von der durchschnittlichen Bevölkerungszahl ist ein Bundestagswahlkreis zwingend neu abzugrenzen?",
           "o": [
-            "Die Wahlkreise müssen nach Wahlberechtigten annähernd gleich groß sein",
-            "Wahlkreisgrenzen werden ausschließlich von den Bundesländern ohne bundesgesetzliche Vorgaben festgelegt",
-            "Wahlkreise dürfen beliebig unterschiedlich groß sein, ohne jede rechtliche Begrenzung",
-            "Die Wahlkreisgröße richtet sich ausschließlich nach der geografischen Fläche, unabhängig von der Bevölkerungszahl"
+            "25 Prozent",
+            "15 Prozent",
+            "33 Prozent",
+            "5 Prozent"
           ],
           "a": 0,
-          "e": "Der Grundsatz der Wahlrechtsgleichheit verlangt annähernd gleich große Wahlkreise nach Zahl der Wahlberechtigten, mit gesetzlich festgelegten zulässigen Abweichungstoleranzen – eine regelmäßige Anpassung an Bevölkerungsverschiebungen ist erforderlich, um verfassungswidrige Ungleichgewichte zu vermeiden.",
+          "e": "§ 3 Abs. 1 des Bundeswahlgesetzes verlangt, dass die Bevölkerungszahl eines Wahlkreises vom Durchschnitt möglichst nicht um mehr als 15 Prozent abweicht; überschreitet die Abweichung 25 Prozent, ist eine Neuabgrenzung zwingend vorzunehmen. Die 15-Prozent-Marke ist damit eine Sollvorgabe, die 25-Prozent-Marke die verbindliche Grenze — nach ihr fragt die Aufgabe. Der Grundsatz der Wahlrechtsgleichheit aus Art. 38 Abs. 1 GG verlangt, dass jede Stimme möglichst gleiches Erfolgsgewicht hat; stark ungleich große Wahlkreise verletzten ihn. 5 und 33 Prozent kommen im Bundeswahlgesetz nicht vor.",
           "cat": "Deutsches Staats- und Verfassungsrecht"
         },
         {
@@ -10962,15 +10962,15 @@
           "cat": "Europäische Union – Verträge, Organe & Politiken"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass die Kommission bei der Verfolgung von Kartellverstößen empfindliche Geldbußen gegen beteiligte Unternehmen verhängen kann?",
+          "q": "Auf welchen Anteil des Gesamtumsatzes ist eine Kartellgeldbuße der Kommission höchstens begrenzt?",
           "o": [
-            "Geldbußen nach Art. 23 VO 1/2003, begrenzt auf einen Anteil des Jahresumsatzes",
-            "Geldbußen können ausschließlich von nationalen Gerichten, niemals von der Kommission selbst, verhängt werden",
-            "Die Höhe möglicher Geldbußen ist gesetzlich vollständig unbegrenzt",
-            "Die Kommission besitzt keinerlei eigene Sanktionsbefugnis im Kartellrecht"
+            "20 Prozent",
+            "5 Prozent",
+            "10 Prozent",
+            "1 Prozent"
           ],
-          "a": 0,
-          "e": "Die Kommission kann nach Art. 23 der Verfahrensverordnung 1/2003 empfindliche Geldbußen gegen Unternehmen verhängen, die vorsätzlich oder fahrlässig gegen die Wettbewerbsregeln verstoßen, begrenzt auf einen gesetzlich festgelegten Anteil des weltweiten Jahresumsatzes des betreffenden Unternehmens.",
+          "a": 2,
+          "e": "Art. 23 Abs. 2 der Verordnung 1/2003 begrenzt die Geldbuße auf zehn Prozent des im vorausgegangenen Geschäftsjahr erzielten Gesamtumsatzes des Unternehmens; maßgeblich ist der weltweite Konzernumsatz, nicht der Umsatz im betroffenen Markt. Die Obergrenze wirkt als Kappungsgrenze, nachdem der Grundbetrag nach den Bußgeldleitlinien errechnet wurde. Die anderen Werte kommen im Kartellverfahrensrecht der Union nicht vor; ein Prozent ist die Obergrenze für Geldbußen wegen Verfahrensverstößen nach Absatz 1, etwa bei unrichtigen Auskünften.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
@@ -11136,15 +11136,15 @@
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
-          "q": "Welche Bedeutung hat der Grundsatz, dass unionsrechtliche Antidumping- und Antisubventionsmaßnahmen strengen verfahrensrechtlichen Voraussetzungen unterliegen, bevor sie verhängt werden können?",
+          "q": "Vor der Verhängung unionsrechtlicher Antidumpingmaßnahmen ist nachzuweisen:",
           "o": [
-            "Antidumpingmaßnahmen bedürfen keinerlei Nachweis eines tatsächlichen Schadens",
-            "Solche Maßnahmen sind im Unionsrecht vollständig unbekannt",
-            "Solche Maßnahmen können ohne jede vorherige Untersuchung sofort verhängt werden",
-            "Erforderlich ist eine Untersuchung zu Dumping, Schädigung und Kausalität"
+            "eine Marktstörung sowie die Zustimmung des Europäischen Parlaments.",
+            "Dumping, eine Schädigung des Wirtschaftszweigs und die Kausalität.",
+            "eine Subvention des Ausfuhrstaats und deren Anfechtbarkeit.",
+            "Dumping, ein Verstoß gegen WTO-Recht und ein Beschluss des Rates."
           ],
-          "a": 3,
-          "e": "Vor der Verhängung von Antidumping- oder Antisubventionsmaßnahmen ist regelmäßig eine förmliche Untersuchung erforderlich, die kumulativ Dumping bzw. Subventionierung, eine tatsächliche Schädigung des betroffenen Wirtschaftszweigs der Union und einen ursächlichen Zusammenhang zwischen beiden Elementen feststellt.",
+          "a": 1,
+          "e": "Die Antidumpinggrundverordnung verlangt drei kumulative Nachweise: Dumping, also einen Ausfuhrpreis unterhalb des Normalwerts, eine bedeutende Schädigung des Wirtschaftszweigs der Union und einen ursächlichen Zusammenhang zwischen beidem; zusätzlich prüft die Kommission das Unionsinteresse. Ein gesonderter Verstoß gegen WTO-Recht ist nicht nachzuweisen — die Maßnahmen sind ihrerseits nach dem Antidumpingübereinkommen zulässig. Subvention und Anfechtbarkeit sind die Voraussetzungen der Antisubventionsmaßnahmen, also des parallelen zweiten Instruments. Eine Zustimmung des Europäischen Parlaments ist nicht vorgesehen; die Maßnahmen ergehen als Durchführungsverordnung der Kommission.",
           "cat": "Unionsrecht – Rechtsschutz, Grundfreiheiten & Leitfälle"
         },
         {
